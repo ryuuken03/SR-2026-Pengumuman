@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007637",
+      "nama": "NOVA ANGGRAINI",
+      "teknis": 230,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005121",
+      "nama": "NANDA LORENZA",
+      "teknis": 170,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003988",
+      "nama": "Inayati",
+      "teknis": 165,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 364,
+      "status": "P/L"
+    }
+  ]
+}

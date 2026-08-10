@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005000",
+      "nama": "ALMA TASYA YUANISA",
+      "teknis": 225,
+      "manajerial": 90,
+      "sosial_kultural": 80,
+      "wawancara": 38,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000410",
+      "nama": "TIFFANY AURELIA SANTOSO PUTRI",
+      "teknis": 230,
+      "manajerial": 80,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006314",
+      "nama": "SAYYIDAH SHOFURA",
+      "teknis": 195,
+      "manajerial": 97,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003791",
+      "nama": "VIOLA FITRI MAHARANI",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 388,
+      "status": "P"
+    }
+  ]
+}

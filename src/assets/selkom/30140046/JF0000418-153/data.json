@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003119",
+      "nama": "DEVI AYU FITRIANI",
+      "teknis": 320,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 515,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000088",
+      "nama": "CHANDRA LUNGIT PUTRA PATRIA",
+      "teknis": 265,
+      "manajerial": 97,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 479,
+      "status": "P/L"
+    }
+  ]
+}

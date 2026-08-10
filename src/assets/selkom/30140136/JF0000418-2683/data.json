@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006760",
+      "nama": "NOVITA ANGGRAINI",
+      "teknis": 270,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 473,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007572",
+      "nama": "LIBRINA KLAUDIA KEZIA PALAAPI",
+      "teknis": 255,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006432",
+      "nama": "LUPITA PIRSOUW",
+      "teknis": 200,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 394,
+      "status": "P/L"
+    }
+  ]
+}

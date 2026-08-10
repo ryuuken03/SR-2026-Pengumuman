@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006565",
+      "nama": "KHUSNUL AINUN NAFIS",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total": 442,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002676",
+      "nama": "KHOERUN NIAM",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 402,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000664",
+      "nama": "ULVA ANGGRAENI",
+      "teknis": 185,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001289",
+      "nama": "PUTRI RAHMAWATI",
+      "teknis": 150,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 354,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000318",
+      "nama": "SALAFUDIN",
+      "teknis": 130,
+      "manajerial": 84,
+      "sosial_kultural": 65,
+      "wawancara": 37,
+      "total": 316,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120008143",
+      "nama": "ANIK MAGHFIROH",
+      "teknis": 235,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 38,
+      "total": 273,
+      "status": "P"
+    }
+  ]
+}

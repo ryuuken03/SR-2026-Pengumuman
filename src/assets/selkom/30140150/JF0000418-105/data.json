@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000236",
+      "nama": "YULIANA RASYID",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 410,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001365",
+      "nama": "FANDI ARMAWAN",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 410,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000457",
+      "nama": "DIMAS MAULANA HIDAYAT",
+      "teknis": 160,
+      "manajerial": 74,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 338,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009096",
+      "nama": "GIANTI WULANDARI",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001070",
+      "nama": "REBIKA AFRINA BR SIMANJUNTAK",
+      "teknis": 195,
+      "manajerial": 78,
+      "sosial_kultural": 72,
+      "wawancara": 30,
+      "total": 375,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008414",
+      "nama": "ADELIA MUHARPRILIANA",
+      "teknis": 150,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 346,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008069",
+      "nama": "SARI SITANGGANG",
+      "teknis": 135,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 332,
+      "status": "P"
+    }
+  ]
+}

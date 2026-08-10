@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006755",
+      "nama": "NABILLA DIHNI AMILIA",
+      "teknis": 280,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 481,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006318",
+      "nama": "CAHYANI FITRIYAH NINGTYAS",
+      "teknis": 275,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 478,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005372",
+      "nama": "SHOLEKHAH NUR INDAH WAHYUNI",
+      "teknis": 260,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 465,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004979",
+      "nama": "LULUK MAHMUDAH",
+      "teknis": 260,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 464,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007436",
+      "nama": "PUTRI GUSANTI BERLIANTIKA",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 432,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120004241",
+      "nama": "AISYAH NABILAH RUSVI",
+      "teknis": 215,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 420,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000968",
+      "nama": "ERNI AGUSTINA SARI",
+      "teknis": 225,
+      "manajerial": 94,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total": 419,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120005793",
+      "nama": "MIFTAHUL SUGIHARNIK",
+      "teknis": 150,
+      "manajerial": 90,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total": 352,
+      "status": "P"
+    }
+  ]
+}

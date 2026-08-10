@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006065",
+      "nama": "RISKA MULIANI",
+      "teknis": 215,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006740",
+      "nama": "PUTRI DWI RIFANI",
+      "teknis": 215,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 417,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006930",
+      "nama": "HIDAYATUL HAYAH",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 403,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006275",
+      "nama": "SRI REVI WINDAYANI",
+      "teknis": 200,
+      "manajerial": 86,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 396,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003087",
+      "nama": "RATUNOOR ALIYA",
+      "teknis": 195,
+      "manajerial": 86,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 391,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000285",
+      "nama": "SYIFA SHAFIRA",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 378,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003908",
+      "nama": "LISA ARIF NAYANTI",
+      "teknis": 175,
+      "manajerial": 75,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 354,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120006693",
+      "nama": "KINTANA",
+      "teknis": 160,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 352,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002848",
+      "nama": "NURJANNAH",
+      "teknis": 160,
+      "manajerial": 82,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 351,
+      "status": "P"
+    }
+  ]
+}

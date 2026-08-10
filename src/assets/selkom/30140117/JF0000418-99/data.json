@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001093",
+      "nama": "WAHYU SASTRAWAN. A",
+      "teknis": 245,
+      "manajerial": 81,
+      "sosial_kultural": 61,
+      "wawancara": 36,
+      "total": 423,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000569",
+      "nama": "ADITIA MUHAMMAD IHSAN",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 386,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008044",
+      "nama": "RAODATUL JANNAH",
+      "teknis": 175,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 372,
+      "status": "P/L"
+    }
+  ]
+}

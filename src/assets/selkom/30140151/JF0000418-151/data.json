@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007246",
+      "nama": "UNSIA SURYA NINGRUM",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total": 425,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000111",
+      "nama": "ARHAM. B",
+      "teknis": 170,
+      "manajerial": 81,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 360,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000251",
+      "nama": "SANDI MUHIDDIN",
+      "teknis": 160,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 355,
+      "status": "P"
+    }
+  ]
+}

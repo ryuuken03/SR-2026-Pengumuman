@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005567",
+      "nama": "TANTIN NURHIDAYAH",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 387,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002466",
+      "nama": "MUHAMMAD ZAINU FUADIN",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 31,
+      "total": 384,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000206",
+      "nama": "ULFA NUR HAMIDAH",
+      "teknis": 160,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 358,
+      "status": "P"
+    }
+  ]
+}

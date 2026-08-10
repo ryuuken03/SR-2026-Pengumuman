@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009135",
+      "nama": "HALIDA EKA NURMUTIA",
+      "teknis": 310,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 521,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001278",
+      "nama": "SONIA DEWI FITRIANI",
+      "teknis": 230,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008365",
+      "nama": "ANA RAJIYATUL MUNA",
+      "teknis": 200,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 403,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002318",
+      "nama": "DIKY KURNIAWAN ARVIANTO",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 31,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006181",
+      "nama": "QOTRUN NADA",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006995",
+      "nama": "FREBRIANI ADIANEGARA KUSUMA",
+      "teknis": 190,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120009144",
+      "nama": "YULIA IKA TRISNAWATI",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120007178",
+      "nama": "AULIA NAMIRA RAMADHANI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

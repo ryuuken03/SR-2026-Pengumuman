@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005884",
+      "nama": "ALIYAH ARMILA",
+      "teknis": 225,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000307",
+      "nama": "MUHAMMAD AL FAIDHY",
+      "teknis": 160,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 354,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005910",
+      "nama": "NURMADINAH",
+      "teknis": 160,
+      "manajerial": 81,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 348,
+      "status": "P"
+    }
+  ]
+}

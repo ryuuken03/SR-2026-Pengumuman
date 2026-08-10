@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005336",
+      "nama": "FAIRUZ RIZQIYA SALSABILA",
+      "teknis": 330,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 538,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000774",
+      "nama": "KHOLIFATUS SAADAH",
+      "teknis": 305,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 510,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002805",
+      "nama": "QURROTUL AYUNI",
+      "teknis": 310,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 509,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001824",
+      "nama": "AFUWAN ALBAR",
+      "teknis": 300,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 507,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120008274",
+      "nama": "AISYAH MAGHFIRAH",
+      "teknis": 280,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 471,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002834",
+      "nama": "ABDULLAH RASYID",
+      "teknis": 275,
+      "manajerial": 92,
+      "sosial_kultural": 53,
+      "wawancara": 36,
+      "total": 456,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003021",
+      "nama": "QONITA ZAKIYAH",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120008243",
+      "nama": "YANUAR PUSPA RAMADHANTI",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 434,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120004397",
+      "nama": "INDAH ROCHMATUZZAHROH",
+      "teknis": 245,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 31,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120004400",
+      "nama": "SERDANI MILANA SARI",
+      "teknis": 200,
+      "manajerial": 82,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 387,
+      "status": "P/L"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120001926",
+      "nama": "VIONA RACHMADHANI",
+      "teknis": 190,
+      "manajerial": 83,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 369,
+      "status": "P/L"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120001514",
+      "nama": "RULY NOVITASARI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

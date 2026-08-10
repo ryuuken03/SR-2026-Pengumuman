@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003778",
+      "nama": "WAQINA NATA",
+      "teknis": 245,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001174",
+      "nama": "YOSI PUTRI WERIANTI",
+      "teknis": 235,
+      "manajerial": 98,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 445,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003166",
+      "nama": "RIA TRI PUJI LESTARI",
+      "teknis": 230,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001928",
+      "nama": "BUSTANUL ARIFIN",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003820",
+      "nama": "PURNIA DILA",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 401,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005251",
+      "nama": "PUTRI AYU",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 38,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110002139",
+      "nama": "DANU RAHMAT FAJARI",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000054",
+      "nama": "VINI AGIL VIRGIANI",
+      "teknis": 195,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 31,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110001124",
+      "nama": "RIYAN CASANOVA",
+      "teknis": 180,
+      "manajerial": 84,
+      "sosial_kultural": 63,
+      "wawancara": 38,
+      "total": 365,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110001854",
+      "nama": "AGUNG RAHMAT",
+      "teknis": 185,
+      "manajerial": 79,
+      "sosial_kultural": 64,
+      "wawancara": 33,
+      "total": 361,
+      "status": "P"
+    }
+  ]
+}

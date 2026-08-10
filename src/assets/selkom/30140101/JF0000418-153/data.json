@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002419",
+      "nama": "MUHAMMAD NASRUL ROJAB",
+      "teknis": 355,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 551,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000332",
+      "nama": "FATHUR RAHMAN",
+      "teknis": 320,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 524,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002342",
+      "nama": "TAUFIQ RAHMAN WAHYU NUGROHO",
+      "teknis": 320,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 30,
+      "total": 510,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000985",
+      "nama": "DYAH AYU ATIQA",
+      "teknis": 290,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 490,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006686",
+      "nama": "NAHDATUL NUR",
+      "teknis": 255,
+      "manajerial": 89,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002612",
+      "nama": "ABDULLAH AHMAD SYAFE'I",
+      "teknis": 220,
+      "manajerial": 79,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 401,
+      "status": "P/L"
+    }
+  ]
+}

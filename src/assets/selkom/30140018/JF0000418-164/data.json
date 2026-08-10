@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008112",
+      "nama": "FIRDHA ANNISA",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 476,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006269",
+      "nama": "MEIGAWATI",
+      "teknis": 285,
+      "manajerial": 83,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 475,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000769",
+      "nama": "WELLY INDRAWATI",
+      "teknis": 255,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 458,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000795",
+      "nama": "Atqo Khoirul Imdad",
+      "teknis": 255,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 454,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110003257",
+      "nama": "ARIF NUR HIDAYAT",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 446,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002340",
+      "nama": "RAGIL SUJIYANTO",
+      "teknis": 190,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 31,
+      "total": 378,
+      "status": "P"
+    }
+  ]
+}

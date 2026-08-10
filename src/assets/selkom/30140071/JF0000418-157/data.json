@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005599",
+      "nama": "EMA SRY LESTARI BR NAHAMPUN",
+      "teknis": 290,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 493,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001192",
+      "nama": "WURI AMBARWANGI",
+      "teknis": 250,
+      "manajerial": 84,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 443,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005280",
+      "nama": "ANIK DWIKA LESTARI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

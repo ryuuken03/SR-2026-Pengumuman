@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004220",
+      "nama": "ANJANI NURFITRIANA",
+      "teknis": 260,
+      "manajerial": 75,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000475",
+      "nama": "YOHANNA LUBIS",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 32,
+      "total": 384,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003063",
+      "nama": "SUCI CITRA INTAN PERTIWI",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 367,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005750",
+      "nama": "SITI KRISTIYANTI RAHAYU",
+      "teknis": 130,
+      "manajerial": 96,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total": 338,
+      "status": "P"
+    }
+  ]
+}

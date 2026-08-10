@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002955",
+      "nama": "TAUFIQ ANSHARI",
+      "teknis": 240,
+      "manajerial": 94,
+      "sosial_kultural": 60,
+      "wawancara": 37,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001558",
+      "nama": "AHMAD JUBEIR HASIBUAN",
+      "teknis": 200,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 403,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003052",
+      "nama": "TAUFIKURRAHMAN HSB",
+      "teknis": 190,
+      "manajerial": 66,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 363,
+      "status": "P"
+    }
+  ]
+}

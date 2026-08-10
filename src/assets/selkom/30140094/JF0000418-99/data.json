@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001958",
+      "nama": "ALDY EDELWIS SIMANJUNTAK",
+      "teknis": 270,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000278",
+      "nama": "YUNIKE",
+      "teknis": 265,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 467,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120009042",
+      "nama": "ADELIA SATYA ZANORA",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006558",
+      "nama": "IIN AGUSTINA",
+      "teknis": 240,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000098",
+      "nama": "MUSLIM DARMAWAN",
+      "teknis": 225,
+      "manajerial": 96,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 427,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005273",
+      "nama": "VITCHA SARI",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 411,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120001893",
+      "nama": "FARADILA MESFER",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 405,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120005563",
+      "nama": "RESINIA KISI WARDANI",
+      "teknis": 215,
+      "manajerial": 84,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110001722",
+      "nama": "SYARIF FALDY SYAHPUTRA",
+      "teknis": 205,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 400,
+      "status": "P/L"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120006268",
+      "nama": "NIDA NURALAMI ZAHRA",
+      "teknis": 195,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 399,
+      "status": "P/L"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110001604",
+      "nama": "VICKY PETRA KURNIA SABUNA",
+      "teknis": 190,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total": 397,
+      "status": "P/L"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120008690",
+      "nama": "WIDYA VITA SARI",
+      "teknis": 195,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 393,
+      "status": "P/L"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110002069",
+      "nama": "MUHAMMAD RIZKY",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 383,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410110000237",
+      "nama": "ADEI WAHYU SAPUTRA",
+      "teknis": 210,
+      "manajerial": 78,
+      "sosial_kultural": 57,
+      "wawancara": 37,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410110001631",
+      "nama": "BILQISTY ALGHIFARI",
+      "teknis": 175,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410110002909",
+      "nama": "MOHAMAD SYAMSUL NUKUHALY",
+      "teknis": 155,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 346,
+      "status": "P"
+    }
+  ]
+}

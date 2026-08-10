@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005088",
+      "nama": "VILDA ROUDHA NINGRUM",
+      "teknis": 215,
+      "manajerial": 96,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008947",
+      "nama": "RISA RAMADHANI",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005682",
+      "nama": "SRIWAHYUNI OKTAVIA",
+      "teknis": 180,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 383,
+      "status": "P"
+    }
+  ]
+}

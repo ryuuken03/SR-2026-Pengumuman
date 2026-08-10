@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001405",
+      "nama": "EFRIN ARYSURYA PRASETYA",
+      "teknis": 240,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 443,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002412",
+      "nama": "BAHRUL 'ILMI",
+      "teknis": 215,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 411,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004814",
+      "nama": "YOLAVI LISTIONO PUTRI",
+      "teknis": 215,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 406,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001050",
+      "nama": "BAGUS SATYA PRABAWA",
+      "teknis": 175,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 372,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002802",
+      "nama": "BIMO RUDY SUSENO",
+      "teknis": 170,
+      "manajerial": 80,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 360,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001146",
+      "nama": "MUHAMMAD KHISBULLOH",
+      "teknis": 175,
+      "manajerial": 78,
+      "sosial_kultural": 64,
+      "wawancara": 32,
+      "total": 349,
+      "status": "P/L"
+    }
+  ]
+}

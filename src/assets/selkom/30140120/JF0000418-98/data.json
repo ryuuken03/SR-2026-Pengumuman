@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004267",
+      "nama": "IRMAYANI SUBAERA",
+      "teknis": 255,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002943",
+      "nama": "WIDY ASTINI RAHMA NURHI",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 28,
+      "total": 419,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006703",
+      "nama": "YULIATI",
+      "teknis": 220,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 416,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002352",
+      "nama": "NURSIA. M",
+      "teknis": 220,
+      "manajerial": 83,
+      "sosial_kultural": 64,
+      "wawancara": 37,
+      "total": 404,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002910",
+      "nama": "L. AKBAR HARDIN",
+      "teknis": 195,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006147",
+      "nama": "AYU LESTARI",
+      "teknis": 200,
+      "manajerial": 85,
+      "sosial_kultural": 62,
+      "wawancara": 33,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120004494",
+      "nama": "RAPSA",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 33,
+      "total": 374,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000316",
+      "nama": "HAZAL",
+      "teknis": 185,
+      "manajerial": 84,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120008047",
+      "nama": "FITA WARDANI",
+      "teknis": 165,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 359,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120004613",
+      "nama": "WA ODE VIKAH AFIFA NUARNI",
+      "teknis": 165,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 352,
+      "status": "P"
+    }
+  ]
+}

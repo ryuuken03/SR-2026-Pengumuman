@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003232",
+      "nama": "NIKA CAHYA AWANI",
+      "teknis": 285,
+      "manajerial": 81,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 471,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007324",
+      "nama": "ANNAS KHOIRUM UMMAH",
+      "teknis": 250,
+      "manajerial": 94,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 448,
+      "status": "P/L"
+    }
+  ]
+}

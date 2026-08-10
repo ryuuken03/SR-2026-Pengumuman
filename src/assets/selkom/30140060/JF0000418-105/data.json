@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005149",
+      "nama": "ELSA WULANDARI",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total": 443,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008859",
+      "nama": "FIRA FIKTUSIA",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 443,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002517",
+      "nama": "ELINA AYU PUSPITA",
+      "teknis": 215,
+      "manajerial": 79,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003154",
+      "nama": "ALIA AMIRA MAHMUD",
+      "teknis": 180,
+      "manajerial": 97,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 381,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002408",
+      "nama": "ISMAIL HASAN NASUTION",
+      "teknis": 210,
+      "manajerial": 83,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 406,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002806",
+      "nama": "REYFALDY ALPIAN ZULFIKAR",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 405,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001223",
+      "nama": "HAFIDZ IKHSAN KAMIL",
+      "teknis": 190,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 388,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004588",
+      "nama": "DALFAH NURWALIYAH",
+      "teknis": 200,
+      "manajerial": 81,
+      "sosial_kultural": 63,
+      "wawancara": 29,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002455",
+      "nama": "MUHAMMAD SYAHRUL SYA'BANI",
+      "teknis": 165,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 367,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000735",
+      "nama": "Muhamad Azis Maulana",
+      "teknis": 160,
+      "manajerial": 80,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total": 340,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110003171",
+      "nama": "RANDI",
+      "teknis": 160,
+      "manajerial": 74,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 339,
+      "status": "P/L"
+    }
+  ]
+}

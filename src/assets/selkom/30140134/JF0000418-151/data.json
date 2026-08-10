@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002547",
+      "nama": "SELVI DWI YANTI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 445,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007810",
+      "nama": "WAHYU ANISAH",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 437,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001821",
+      "nama": "ILZA MAHENDRA",
+      "teknis": 240,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110003300",
+      "nama": "FIKRI RIZQI ILAHI",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000202",
+      "nama": "M. RADIKO ADNIN ADITYA",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 64,
+      "wawancara": 33,
+      "total": 404,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002965",
+      "nama": "IVO SETIAWAN AFRIANSYAH",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 62,
+      "wawancara": 36,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110003220",
+      "nama": "EDO SAPUTRA",
+      "teknis": 185,
+      "manajerial": 77,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120005469",
+      "nama": "MEIZHARIA PUTRI PRAMESTI",
+      "teknis": 175,
+      "manajerial": 86,
+      "sosial_kultural": 77,
+      "wawancara": 32,
+      "total": 370,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110001880",
+      "nama": "SALAM",
+      "teknis": 170,
+      "manajerial": 82,
+      "sosial_kultural": 65,
+      "wawancara": 33,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120007254",
+      "nama": "HUZAIMAH",
+      "teknis": 170,
+      "manajerial": 81,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110002461",
+      "nama": "FRENGKY HARDIANSAH",
+      "teknis": 170,
+      "manajerial": 74,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110002542",
+      "nama": "EWA PRASTIAWAN NUGRAHA",
+      "teknis": 180,
+      "manajerial": 76,
+      "sosial_kultural": 57,
+      "wawancara": 32,
+      "total": 345,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110001059",
+      "nama": "PRANATA DIRGANTORO",
+      "teknis": 150,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 338,
+      "status": "P"
+    }
+  ]
+}

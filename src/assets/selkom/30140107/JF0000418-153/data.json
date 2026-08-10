@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002796",
+      "nama": "PRATIWI",
+      "teknis": 255,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006734",
+      "nama": "RASYIDA BULQIS",
+      "teknis": 180,
+      "manajerial": 86,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 367,
+      "status": "P/L"
+    }
+  ]
+}

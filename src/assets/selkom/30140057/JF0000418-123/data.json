@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005477",
+      "nama": "Putri Wahyu Ramadhani",
+      "teknis": 305,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 501,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000758",
+      "nama": "WANDA DEVIANTI",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007783",
+      "nama": "KHAIRINA NOVI AMALIA",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 417,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003737",
+      "nama": "IRMA TRI DIANA WILUJENG",
+      "teknis": 220,
+      "manajerial": 81,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 413,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120001477",
+      "nama": "VYRA GARMYTA UTAMY",
+      "teknis": 215,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005177",
+      "nama": "DEVA KURNIAWATI",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120006067",
+      "nama": "HIKMAH YAUMIL FITRIANI",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120002790",
+      "nama": "MUKRIMAH RUFAIDA ROCHMAN",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120004756",
+      "nama": "RAFIKA SEKAR NUR ISLAMI",
+      "teknis": 185,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 31,
+      "total": 383,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120003654",
+      "nama": "SOFIA MEGA SEFTRIANA",
+      "teknis": 180,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 376,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120009016",
+      "nama": "DEWI ANGGRAINI SUDARTO",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110000288",
+      "nama": "AQSYA AHMAD",
+      "teknis": 155,
+      "manajerial": 94,
+      "sosial_kultural": 78,
+      "wawancara": 38,
+      "total": 365,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120001013",
+      "nama": "ARIKA",
+      "teknis": 160,
+      "manajerial": 84,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 348,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120008246",
+      "nama": "KHUSNUL KHOTIMAH",
+      "teknis": 140,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 340,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120005345",
+      "nama": "RIVALDA FIRSOPHI TRIXIE",
+      "teknis": 125,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total": 319,
+      "status": "P"
+    }
+  ]
+}

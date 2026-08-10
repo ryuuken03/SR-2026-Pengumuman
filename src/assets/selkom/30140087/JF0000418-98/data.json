@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005153",
+      "nama": "AISYAH KHAIRUN NISAK",
+      "teknis": 235,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 440,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006000",
+      "nama": "JENNI MARLINA SITANGGANG",
+      "teknis": 225,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 429,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002071",
+      "nama": "HUDA KURNIAWAN",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 420,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002860",
+      "nama": "DEBBY WIRA NATA",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 408,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001320",
+      "nama": "M. AGUNG MAULANA",
+      "teknis": 210,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 405,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006858",
+      "nama": "RENI ANGGRAINI",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003813",
+      "nama": "SELVA ISTIQOMAH",
+      "teknis": 195,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120005944",
+      "nama": "DEBY MOLYDA PITHRI",
+      "teknis": 200,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120008747",
+      "nama": "KIKI LESTARI",
+      "teknis": 145,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 346,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120006834",
+      "nama": "YESI MARDIANTI",
+      "teknis": 145,
+      "manajerial": 89,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 345,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120006647",
+      "nama": "AFIATUL FATIMAH",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120008853",
+      "nama": "SEPRIANI A. P. TUTU",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

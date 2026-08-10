@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001163",
+      "nama": "HENDRIAN FANY KUSUMA",
+      "teknis": 285,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 478,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000179",
+      "nama": "SITI FADHILAH",
+      "teknis": 255,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001023",
+      "nama": "EDO SAPUTRA",
+      "teknis": 230,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 429,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006809",
+      "nama": "GURUH DWI TRI LESTARI",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120009122",
+      "nama": "KRISNAWATI",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 385,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001653",
+      "nama": "RISAL SIDIK",
+      "teknis": 155,
+      "manajerial": 83,
+      "sosial_kultural": 54,
+      "wawancara": 35,
+      "total": 327,
+      "status": "P/L"
+    }
+  ]
+}

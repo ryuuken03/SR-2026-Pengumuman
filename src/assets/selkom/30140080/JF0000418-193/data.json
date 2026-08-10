@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000175",
+      "nama": "ILHAM HARDIYANTO",
+      "teknis": 245,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005453",
+      "nama": "ARIFAH SULVIANTI",
+      "teknis": 230,
+      "manajerial": 96,
+      "sosial_kultural": 78,
+      "wawancara": 40,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008076",
+      "nama": "VITRI YANTI",
+      "teknis": 230,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000931",
+      "nama": "WANDA",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 427,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110003321",
+      "nama": "HAFIZH AL AMIN",
+      "teknis": 220,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120008434",
+      "nama": "DINDA PARADILA",
+      "teknis": 225,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 33,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007676",
+      "nama": "FITRIANI YUNITA",
+      "teknis": 205,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 410,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120006900",
+      "nama": "LIDYA TRISNA AYU",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 406,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120008036",
+      "nama": "AULIA ANGGRAINI",
+      "teknis": 205,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 405,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120006606",
+      "nama": "AULIA VARATIWI",
+      "teknis": 195,
+      "manajerial": 98,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 404,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120007201",
+      "nama": "ALIYA AH'SANU NADIYA",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 403,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120000391",
+      "nama": "NUR RAMADANI FITRI",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 396,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120000325",
+      "nama": "REVINA SALNY",
+      "teknis": 205,
+      "manajerial": 81,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410110002484",
+      "nama": "ADE KURNIAWAN",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120009127",
+      "nama": "KHAIRANI",
+      "teknis": 185,
+      "manajerial": 91,
+      "sosial_kultural": 66,
+      "wawancara": 33,
+      "total": 375,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120004419",
+      "nama": "SISKA PUTRI",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120002728",
+      "nama": "PURRI MARDINI",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 31,
+      "total": 367,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410120000364",
+      "nama": "JOYA ANATASYA",
+      "teknis": 170,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 365,
+      "status": "P"
+    },
+    {
+      "no": 19,
+      "nomor_peserta": "26301410120008547",
+      "nama": "FAHMI LATIFAH",
+      "teknis": 175,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 364,
+      "status": "P"
+    },
+    {
+      "no": 20,
+      "nomor_peserta": "26301410120005339",
+      "nama": "ENGLA KACIKA RAHMI",
+      "teknis": 165,
+      "manajerial": 80,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 348,
+      "status": "P"
+    }
+  ]
+}

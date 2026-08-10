@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002233",
+      "nama": "NURUL MUSTIKA DEWI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 443,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001317",
+      "nama": "GESANG SURYA KUSUMA",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006571",
+      "nama": "ANA SETIANA",
+      "teknis": 190,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005587",
+      "nama": "FATIHATUL MUFARROHAH",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002135",
+      "nama": "WINDI APRILIANI",
+      "teknis": 175,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120002369",
+      "nama": "FADIA NOVAL NUR",
+      "teknis": 175,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 377,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120002338",
+      "nama": "AI SITI RABIAH ADAWIYAH",
+      "teknis": 160,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000485",
+      "nama": "MOH. ZIDNY HILMA HAZMY",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 50,
+      "wawancara": 33,
+      "total": 353,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120005832",
+      "nama": "HESTININGSIH",
+      "teknis": 145,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 344,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000892",
+      "nama": "MUHAMMAD AHLAN SYAH",
+      "teknis": 285,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total": 482,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001642",
+      "nama": "Aspar Lindo Uri",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 425,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000851",
+      "nama": "WA ODE SITTI MARDHIYAH",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 63,
+      "wawancara": 34,
+      "total": 419,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007435",
+      "nama": "NURUL MAISAR JALIL",
+      "teknis": 190,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001718",
+      "nama": "ERICK DWI PRAWIDYA",
+      "teknis": 120,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 325,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003482",
+      "nama": "RIDHAYANTI",
+      "teknis": 120,
+      "manajerial": 85,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 309,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002430",
+      "nama": "DENI SEPTRIADI",
+      "teknis": 290,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 493,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007616",
+      "nama": "HARI DARMANSYAH",
+      "teknis": 285,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 484,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001135",
+      "nama": "ADIVA SEPTIARA",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total": 452,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001703",
+      "nama": "M.RIDWAN",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 439,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006100",
+      "nama": "BUNGA BERLIANA SARI",
+      "teknis": 225,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total": 417,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120007221",
+      "nama": "VIVI NURSOVIYANTI",
+      "teknis": 230,
+      "manajerial": 83,
+      "sosial_kultural": 63,
+      "wawancara": 32,
+      "total": 408,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003698",
+      "nama": "CAMILA LOVENDRA",
+      "teknis": 215,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 403,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110001301",
+      "nama": "MUHAMMAD FAJRI",
+      "teknis": 220,
+      "manajerial": 74,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 401,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120007014",
+      "nama": "WIDIA FIRMAN",
+      "teknis": 190,
+      "manajerial": 94,
+      "sosial_kultural": 61,
+      "wawancara": 36,
+      "total": 381,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000500",
+      "nama": "AYU AFRIYANI",
+      "teknis": 265,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 466,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005811",
+      "nama": "PUTRI KHUSNUL KHOTIMAH",
+      "teknis": 265,
+      "manajerial": 95,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total": 465,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002578",
+      "nama": "SENDI PEBRI ALPAYED",
+      "teknis": 255,
+      "manajerial": 98,
+      "sosial_kultural": 66,
+      "wawancara": 40,
+      "total": 459,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002217",
+      "nama": "AGISTA RESTIANINGSIH",
+      "teknis": 255,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000089",
+      "nama": "SYAHALA FIZKY ALRHYCHARD",
+      "teknis": 230,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 427,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001257",
+      "nama": "FAJAR KURNIAWAN",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 422,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120004889",
+      "nama": "CAHYA NUR ANNISA",
+      "teknis": 225,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 421,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120005018",
+      "nama": "ASNI SETIYAWATI",
+      "teknis": 220,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120006627",
+      "nama": "SAVIRA DYAH UTARI",
+      "teknis": 215,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 411,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120005104",
+      "nama": "FURI DYAH WAHYUNINGTYAS",
+      "teknis": 215,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 404,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120008483",
+      "nama": "ERMA ERYIANA",
+      "teknis": 205,
+      "manajerial": 86,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 404,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120004685",
+      "nama": "Sekar Winahyu",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120009085",
+      "nama": "ALMIRA WULAN SARI",
+      "teknis": 225,
+      "manajerial": 74,
+      "sosial_kultural": 61,
+      "wawancara": 30,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120008024",
+      "nama": "LINDA WAHYU WULANDARI",
+      "teknis": 215,
+      "manajerial": 83,
+      "sosial_kultural": 63,
+      "wawancara": 29,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410110003333",
+      "nama": "IQBALVA DEMAS WIBOWO",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410110001298",
+      "nama": "FAUZI ADI WIJAYA",
+      "teknis": 215,
+      "manajerial": 85,
+      "sosial_kultural": 27,
+      "wawancara": 33,
+      "total": 360,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120000969",
+      "nama": "ERIKA AYU SEFIYANTI",
+      "teknis": 145,
+      "manajerial": 93,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 355,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410120002576",
+      "nama": "ELLA SUBEKTI",
+      "teknis": 160,
+      "manajerial": 87,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 19,
+      "nomor_peserta": "26301410110001596",
+      "nama": "AGUNG SETIAWAN",
+      "teknis": 170,
+      "manajerial": 81,
+      "sosial_kultural": 63,
+      "wawancara": 32,
+      "total": 346,
+      "status": "P"
+    }
+  ]
+}

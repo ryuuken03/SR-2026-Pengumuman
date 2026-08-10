@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003153",
+      "nama": "USMAN ADI PRABOWO",
+      "teknis": 275,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 479,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001980",
+      "nama": "SETYO PUTRA WIDIYANTORO",
+      "teknis": 225,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 423,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000224",
+      "nama": "RONI APRIANDI",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002786",
+      "nama": "L MOH IHWAN FATONI",
+      "teknis": 215,
+      "manajerial": 78,
+      "sosial_kultural": 69,
+      "wawancara": 29,
+      "total": 391,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002963",
+      "nama": "ALIF KHOROUMAN ABIDIN",
+      "teknis": 190,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 382,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000240",
+      "nama": "PUTRI AULIA RIFLI",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 31,
+      "total": 380,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000959",
+      "nama": "FAHMI RAZID",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 372,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000139",
+      "nama": "ALFIN NUR APRIANSAH",
+      "teknis": 170,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002587",
+      "nama": "BAIQ MEGA MENTARI INDRARNI",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 61,
+      "wawancara": 37,
+      "total": 356,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110001255",
+      "nama": "AHMAD ROZALI",
+      "teknis": 170,
+      "manajerial": 70,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 347,
+      "status": "P"
+    }
+  ]
+}

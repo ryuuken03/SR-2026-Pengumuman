@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003009",
+      "nama": "NOVRIYANI ALLO LINGGI",
+      "teknis": 225,
+      "manajerial": 97,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 429,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002654",
+      "nama": "I PUTU RONI KUNTARA",
+      "teknis": 185,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 379,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006433",
+      "nama": "WIDI ASTUTI SULEMAN",
+      "teknis": 80,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 277,
+      "status": "P/L"
+    }
+  ]
+}

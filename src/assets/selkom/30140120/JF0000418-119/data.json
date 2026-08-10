@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003412",
+      "nama": "Sari Reskian",
+      "teknis": 165,
+      "manajerial": 81,
+      "sosial_kultural": 63,
+      "wawancara": 33,
+      "total": 342,
+      "status": "P/L"
+    }
+  ]
+}

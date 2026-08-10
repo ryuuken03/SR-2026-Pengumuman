@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002150",
+      "nama": "MOH. UMAR ABDUL AZIZ",
+      "teknis": 190,
+      "manajerial": 91,
+      "sosial_kultural": 78,
+      "wawancara": 36,
+      "total": 395,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000535",
+      "nama": "MOH. RIZKI AL AZIZI",
+      "teknis": 190,
+      "manajerial": 82,
+      "sosial_kultural": 65,
+      "wawancara": 32,
+      "total": 369,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001359",
+      "nama": "ALFIAN HIZBUL HAQIM",
+      "teknis": 150,
+      "manajerial": 80,
+      "sosial_kultural": 73,
+      "wawancara": 31,
+      "total": 334,
+      "status": "P"
+    }
+  ]
+}

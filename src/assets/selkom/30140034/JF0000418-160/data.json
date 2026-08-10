@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001106",
+      "nama": "SHINTA PUTRA TRISNIANTARA",
+      "teknis": 235,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total": 434,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001662",
+      "nama": "PUTRI CAHYAWATI SULISTYANINGRUM",
+      "teknis": 230,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002816",
+      "nama": "GARDHIKA ADRIAN EKA LAKSA",
+      "teknis": 240,
+      "manajerial": 89,
+      "sosial_kultural": 63,
+      "wawancara": 37,
+      "total": 429,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001526",
+      "nama": "MULADI YUSUP JAMIL",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003289",
+      "nama": "GITA INDAH SARI",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 422,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001465",
+      "nama": "NAUFAL NUUR 'AZMII",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 404,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120004010",
+      "nama": "ASRI RACHMADANI",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120008515",
+      "nama": "SINTA HESTU RATNASARI",
+      "teknis": 195,
+      "manajerial": 96,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120005904",
+      "nama": "ANGGI CHINTIYA DEWI",
+      "teknis": 190,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 387,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110003126",
+      "nama": "LINGGA NUSANTARA PUTRA",
+      "teknis": 190,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120001069",
+      "nama": "VINA ANINDYA",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 33,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110000913",
+      "nama": "MUHAMMAD LATIF AHSAN",
+      "teknis": 170,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 368,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110003261",
+      "nama": "ANDRI AULIA RAHMAN",
+      "teknis": 165,
+      "manajerial": 87,
+      "sosial_kultural": 76,
+      "wawancara": 27,
+      "total": 355,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120004385",
+      "nama": "FITRIOKTAMIA",
+      "teknis": 150,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total": 354,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120006753",
+      "nama": "ULI AMSARI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

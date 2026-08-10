@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003238",
+      "nama": "RISKY ISWANDI",
+      "teknis": 260,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006772",
+      "nama": "ANISYA MUKHLISYA",
+      "teknis": 205,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 395,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002222",
+      "nama": "ALYA SALSA RAMADHANI",
+      "teknis": 165,
+      "manajerial": 94,
+      "sosial_kultural": 65,
+      "wawancara": 30,
+      "total": 354,
+      "status": "P"
+    }
+  ]
+}

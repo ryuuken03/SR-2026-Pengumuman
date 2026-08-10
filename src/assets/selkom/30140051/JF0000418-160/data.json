@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003335",
+      "nama": "AGUSTIN",
+      "teknis": 255,
+      "manajerial": 86,
+      "sosial_kultural": 63,
+      "wawancara": 36,
+      "total": 440,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002066",
+      "nama": "HOLISATUS SADIDAH",
+      "teknis": 180,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 40,
+      "total": 377,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001689",
+      "nama": "MUHAMAD DAFA",
+      "teknis": 155,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 29,
+      "total": 336,
+      "status": "P"
+    }
+  ]
+}

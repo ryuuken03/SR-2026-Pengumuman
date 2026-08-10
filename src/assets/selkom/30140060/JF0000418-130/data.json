@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003000",
+      "nama": "ABDUR RAHMAN RIZQI",
+      "teknis": 295,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total": 499,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002326",
+      "nama": "YUSUF WAHYU ADI",
+      "teknis": 230,
+      "manajerial": 97,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total": 440,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005279",
+      "nama": "MAULIDIA USWATUN KHASANAH",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 437,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003946",
+      "nama": "SHEILA AULIA NADHIFA",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 426,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120004258",
+      "nama": "RIMA AULIYA",
+      "teknis": 225,
+      "manajerial": 90,
+      "sosial_kultural": 62,
+      "wawancara": 38,
+      "total": 415,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120008987",
+      "nama": "ALFIAH ASSYA'ADHA DJEAN",
+      "teknis": 195,
+      "manajerial": 81,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003689",
+      "nama": "ISNANI IMROATUN NABILA",
+      "teknis": 155,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 359,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120005544",
+      "nama": "DEWI AYU MULYANI",
+      "teknis": 125,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 323,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120004639",
+      "nama": "DWI ARIFIANTI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120006203",
+      "nama": "AGUSTIN WULANDARI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

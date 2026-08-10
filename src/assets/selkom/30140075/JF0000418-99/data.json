@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001279",
+      "nama": "DEVI MAKHRANI",
+      "teknis": 285,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003541",
+      "nama": "FITRI ORLINCE SIBURIAN",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 32,
+      "total": 471,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001845",
+      "nama": "AIDA SUKMA SIMBOLON",
+      "teknis": 245,
+      "manajerial": 95,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 453,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003229",
+      "nama": "FERDIKA RAHMAWATI BORU RAMBE",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002947",
+      "nama": "FITRAH MAULIDIA",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 416,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003708",
+      "nama": "IHDINI SABILA HARAHAP",
+      "teknis": 195,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 400,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003941",
+      "nama": "AMINAH WULAN SARI LUBIS",
+      "teknis": 175,
+      "manajerial": 82,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 367,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120008232",
+      "nama": "ISMA BRENAITA BR GINTING",
+      "teknis": 170,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total": 364,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003851",
+      "nama": "ADZA NOOR LAILA",
+      "teknis": 270,
+      "manajerial": 84,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 466,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007761",
+      "nama": "NURUL FITRIAH",
+      "teknis": 255,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003977",
+      "nama": "ANNISA CAHYANING WIDHI",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 406,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000159",
+      "nama": "MAULIRA YUNIKA",
+      "teknis": 190,
+      "manajerial": 86,
+      "sosial_kultural": 78,
+      "wawancara": 40,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000015",
+      "nama": "MUNIRA ULFA",
+      "teknis": 145,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 347,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006526",
+      "nama": "RIKA HARTINA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004846",
+      "nama": "DESSY AUGUSTINAH",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001768",
+      "nama": "HAFIS IBNU HAJAR",
+      "teknis": 190,
+      "manajerial": 82,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 380,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000589",
+      "nama": "DANDY SAPUTRA PRATAMA",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 32,
+      "total": 365,
+      "status": "P/L"
+    }
+  ]
+}

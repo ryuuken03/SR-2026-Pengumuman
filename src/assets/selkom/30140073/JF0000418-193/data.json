@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008812",
+      "nama": "HAFNI HUTABARAT",
+      "teknis": 260,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 458,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004006",
+      "nama": "RENNA LANIA",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 408,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005693",
+      "nama": "DINI AYU FAZIRA",
+      "teknis": 215,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 32,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007259",
+      "nama": "PRETTY VIORELLA BR GINTING",
+      "teknis": 205,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 29,
+      "total": 390,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002206",
+      "nama": "TRISONIA FITRIA",
+      "teknis": 195,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 390,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000489",
+      "nama": "ANESTASYA SIRAIT",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 31,
+      "total": 388,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000643",
+      "nama": "MIFTAH ARINA HARAHAP",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 376,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120008142",
+      "nama": "HERTATI SILABAN",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total": 371,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007427",
+      "nama": "WINDA SARI SINAMBELA",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007626",
+      "nama": "RAVIKA LISA INDRA",
+      "teknis": 185,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 386,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001940",
+      "nama": "MAYA SARI",
+      "teknis": 160,
+      "manajerial": 95,
+      "sosial_kultural": 63,
+      "wawancara": 35,
+      "total": 353,
+      "status": "P"
+    }
+  ]
+}

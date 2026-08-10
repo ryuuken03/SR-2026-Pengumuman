@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006643",
+      "nama": "NI LUH PUTU TINA ANTARI",
+      "teknis": 275,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 475,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002518",
+      "nama": "AGIL PRAKASA",
+      "teknis": 280,
+      "manajerial": 90,
+      "sosial_kultural": 66,
+      "wawancara": 31,
+      "total": 467,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000937",
+      "nama": "WAHYUNINGSIH",
+      "teknis": 265,
+      "manajerial": 94,
+      "sosial_kultural": 64,
+      "wawancara": 32,
+      "total": 455,
+      "status": "P/L"
+    }
+  ]
+}

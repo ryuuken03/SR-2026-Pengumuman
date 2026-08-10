@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002790",
+      "nama": "AHMAD JUANDA",
+      "teknis": 305,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 506,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000051",
+      "nama": "RIZKI NOVFREDY PRADANA",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004335",
+      "nama": "VIDIYA HERA PUSPITASARI",
+      "teknis": 230,
+      "manajerial": 99,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 433,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110003157",
+      "nama": "NOVAL TANJUNG ARDHA PUTRA",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 403,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120001696",
+      "nama": "DWI HANDAYANI",
+      "teknis": 170,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120002496",
+      "nama": "VIRA MAULISA DEWI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

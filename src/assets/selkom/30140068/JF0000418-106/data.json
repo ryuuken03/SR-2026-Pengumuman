@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000095",
+      "nama": "ALDY TRIANDA",
+      "teknis": 195,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 387,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008275",
+      "nama": "MAULINDA YANI",
+      "teknis": 105,
+      "manajerial": 84,
+      "sosial_kultural": 64,
+      "wawancara": 38,
+      "total": 291,
+      "status": "P/L"
+    }
+  ]
+}

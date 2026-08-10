@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006962",
+      "nama": "RIKA ANGGARI",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008745",
+      "nama": "Strahayu Fadillah",
+      "teknis": 210,
+      "manajerial": 82,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000870",
+      "nama": "MUHAMMAD AGUNG",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 40,
+      "total": 400,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008324",
+      "nama": "ANDI FAUSIA ANHAR",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 387,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003924",
+      "nama": "ANDI WIWI PRATIWI",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 376,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005192",
+      "nama": "AYU PURNAMASARI",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120001855",
+      "nama": "A. ANNISA RAHMAH",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total": 361,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110001677",
+      "nama": "AKHMAD HIDAYAT",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

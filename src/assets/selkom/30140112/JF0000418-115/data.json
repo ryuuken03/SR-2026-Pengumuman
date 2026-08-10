@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002071",
+      "nama": "FILDZA ANISYA RAMADHANI",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 372,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000209",
+      "nama": "ALIF TUBAGUS SUSPI",
+      "teknis": 155,
+      "manajerial": 85,
+      "sosial_kultural": 64,
+      "wawancara": 33,
+      "total": 337,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001392",
+      "nama": "ACHMAD HERIYANTO",
+      "teknis": 320,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total": 513,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001372",
+      "nama": "SIWI PUTRI ANDINI",
+      "teknis": 240,
+      "manajerial": 82,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008625",
+      "nama": "NABILA SYAHIRA",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 422,
+      "status": "P/L"
+    }
+  ]
+}

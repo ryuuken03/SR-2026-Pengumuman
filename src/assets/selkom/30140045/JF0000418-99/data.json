@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003601",
+      "nama": "DIANA NURIA PUTRI",
+      "teknis": 280,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 489,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001693",
+      "nama": "AFRIDA ARYANA AZAHRO",
+      "teknis": 250,
+      "manajerial": 98,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 458,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001216",
+      "nama": "ASMA'UL KHUSNAH",
+      "teknis": 240,
+      "manajerial": 84,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total": 434,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002957",
+      "nama": "BERTHA YUWANDA RAHMANDANI",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003649",
+      "nama": "SITI AL WASI'U KUMALA",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000477",
+      "nama": "RAMADHANI TRIO GUSSHOLIK",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 392,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120006604",
+      "nama": "PUTRI IKA AYUNDHA NINGTYAS",
+      "teknis": 155,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 351,
+      "status": "P"
+    }
+  ]
+}

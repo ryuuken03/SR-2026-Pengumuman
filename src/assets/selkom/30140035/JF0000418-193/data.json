@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002732",
+      "nama": "MUHAMMAD HANIF BAIDHOWI",
+      "teknis": 240,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002181",
+      "nama": "MAULANA SULTHONI",
+      "teknis": 230,
+      "manajerial": 79,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total": 410,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001227",
+      "nama": "MOCHAMAD SALIM UBAIDILLAH",
+      "teknis": 200,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 403,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001843",
+      "nama": "MAZRO'ATUL AKHIROH",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 378,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007485",
+      "nama": "ARFI SALSAFIRA AYU HANDIYARTI",
+      "teknis": 135,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 339,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120002945",
+      "nama": "RABILLA RIZKI CAHYANI",
+      "teknis": 145,
+      "manajerial": 88,
+      "sosial_kultural": 66,
+      "wawancara": 33,
+      "total": 332,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001901",
+      "nama": "MOHAMMAD ZABARZAT",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

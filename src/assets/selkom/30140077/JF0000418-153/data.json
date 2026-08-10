@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007838",
+      "nama": "PUPUT MIA ANJELA",
+      "teknis": 305,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 505,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002669",
+      "nama": "DZYKRA SALSABILA",
+      "teknis": 310,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 502,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006130",
+      "nama": "Rika Rahmi",
+      "teknis": 285,
+      "manajerial": 91,
+      "sosial_kultural": 62,
+      "wawancara": 38,
+      "total": 476,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003606",
+      "nama": "BRILLIANY DWI MITRY",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 461,
+      "status": "P/L"
+    }
+  ]
+}

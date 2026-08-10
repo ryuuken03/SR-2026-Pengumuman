@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006722",
+      "nama": "DESY RATNA SUGIARTI",
+      "teknis": 285,
+      "manajerial": 97,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 490,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001111",
+      "nama": "DINDA AYU PITALOKA",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 415,
+      "status": "P/L"
+    }
+  ]
+}

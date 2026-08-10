@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004217",
+      "nama": "NOVA TANIA",
+      "teknis": 320,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 524,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001551",
+      "nama": "RIPALDO PANDIANGAN",
+      "teknis": 295,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001416",
+      "nama": "TOHATI LAMBADYA MALAU",
+      "teknis": 270,
+      "manajerial": 98,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 482,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000292",
+      "nama": "T. ASIMA SULYS SIMANJUNTAK",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006752",
+      "nama": "AULIA TARA SYAHFITRI NAIPOSPOS",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 450,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006637",
+      "nama": "PUTRI READORA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 426,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001513",
+      "nama": "RICO NOVRI SANDRA",
+      "teknis": 190,
+      "manajerial": 98,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000855",
+      "nama": "CHRISTINA HASIBUAN",
+      "teknis": 185,
+      "manajerial": 90,
+      "sosial_kultural": 77,
+      "wawancara": 32,
+      "total": 384,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120001391",
+      "nama": "MASNIAWITA GLORIA SINAGA",
+      "teknis": 185,
+      "manajerial": 83,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total": 372,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120001169",
+      "nama": "RIZKY FEBY SALZA BILLA",
+      "teknis": 180,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120001500",
+      "nama": "SILVIRA ANISA RAY",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 20,
+      "wawancara": 38,
+      "total": 349,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120000544",
+      "nama": "GRACE STELLA LELY HASUGIAN",
+      "teknis": 140,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 340,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120004309",
+      "nama": "THERESIA PANGGABEAN",
+      "teknis": 130,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 326,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002298",
+      "nama": "ARIFALDI KURNIAWAN",
+      "teknis": 275,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 464,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001444",
+      "nama": "ARIZAL",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008759",
+      "nama": "SESY MASESA",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 450,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006217",
+      "nama": "PRIMADONA",
+      "teknis": 220,
+      "manajerial": 79,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 408,
+      "status": "P"
+    }
+  ]
+}

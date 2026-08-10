@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003335",
+      "nama": "MARIO JAYA M. JUSMAN",
+      "teknis": 280,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 480,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001096",
+      "nama": "FITRIANI DEWI",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001052",
+      "nama": "ANDI NELA LATIFAH",
+      "teknis": 210,
+      "manajerial": 83,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 404,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002451",
+      "nama": "NUR DARMAWANSYAH",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003186",
+      "nama": "Wa Ode Aulia Maharani",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 391,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005534",
+      "nama": "ROSMAWATI",
+      "teknis": 190,
+      "manajerial": 77,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 375,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007943",
+      "nama": "NURAISYA. N",
+      "teknis": 165,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 358,
+      "status": "P/L"
+    }
+  ]
+}

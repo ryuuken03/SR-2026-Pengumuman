@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001114",
+      "nama": "RISNA ARIANTI",
+      "teknis": 300,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 500,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002258",
+      "nama": "MUH. ERWIN",
+      "teknis": 230,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000337",
+      "nama": "SRI DEVI. S",
+      "teknis": 230,
+      "manajerial": 84,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008507",
+      "nama": "NANNI NURFAIZAH",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 419,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003783",
+      "nama": "NURUL FADHILA ANSAR",
+      "teknis": 205,
+      "manajerial": 88,
+      "sosial_kultural": 61,
+      "wawancara": 35,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003728",
+      "nama": "SATRIANI",
+      "teknis": 185,
+      "manajerial": 81,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000834",
+      "nama": "ARDO FEBRIANSYAH",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120003259",
+      "nama": "RAHMADIAH",
+      "teknis": 150,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 349,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120007250",
+      "nama": "NURWAHYUNI",
+      "teknis": 150,
+      "manajerial": 79,
+      "sosial_kultural": 64,
+      "wawancara": 31,
+      "total": 324,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120008851",
+      "nama": "ANGGRAINI SUKMA ARIMURTI",
+      "teknis": 100,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 305,
+      "status": "P"
+    }
+  ]
+}

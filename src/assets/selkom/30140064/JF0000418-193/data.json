@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002861",
+      "nama": "SUBHAN MAULANA AMRI",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 40,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000251",
+      "nama": "NONA FARAHDIBA",
+      "teknis": 210,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003235",
+      "nama": "NANDA NOVERA",
+      "teknis": 170,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 372,
+      "status": "P/L"
+    }
+  ]
+}

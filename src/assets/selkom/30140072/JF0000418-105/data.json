@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007174",
+      "nama": "MUTIARA",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004101",
+      "nama": "WULAN FITRIANA TARIGAN",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002226",
+      "nama": "WINDA SANTIKA",
+      "teknis": 225,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 427,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003536",
+      "nama": "SEKAR AULIA PRAMESWARI",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 420,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120004484",
+      "nama": "EGA PUTRI ANDIRA NASUTION",
+      "teknis": 220,
+      "manajerial": 86,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 417,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120002505",
+      "nama": "RIRIN DESSY UTAMI",
+      "teknis": 195,
+      "manajerial": 86,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120005037",
+      "nama": "SANNY GREACE SINAMBELA",
+      "teknis": 185,
+      "manajerial": 86,
+      "sosial_kultural": 74,
+      "wawancara": 31,
+      "total": 376,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120009219",
+      "nama": "SENIA PRADIRGA LASAMBOUW",
+      "teknis": 185,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110000446",
+      "nama": "ROBBY ADE SYAHPUTRA PASARIBU",
+      "teknis": 160,
+      "manajerial": 86,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 348,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120002121",
+      "nama": "CITARA KASAYASHI",
+      "teknis": 150,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 340,
+      "status": "P"
+    }
+  ]
+}

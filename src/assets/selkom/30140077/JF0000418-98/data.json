@@ -1,0 +1,323 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007640",
+      "nama": "RIESHA VYO AMOLA",
+      "teknis": 295,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 493,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003420",
+      "nama": "INTAN YUWITA",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total": 464,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001704",
+      "nama": "SERI MELANI",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 460,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001318",
+      "nama": "Ulfa Fauziyah. M",
+      "teknis": 255,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120005856",
+      "nama": "AMELIA PUTRI",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 444,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120009213",
+      "nama": "YESICA AVILA",
+      "teknis": 240,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 444,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003752",
+      "nama": "NURUL BAHRI",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 440,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120001257",
+      "nama": "Novia Syahri",
+      "teknis": 225,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 432,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120008645",
+      "nama": "HAYATUN NISA",
+      "teknis": 230,
+      "manajerial": 87,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 431,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120002034",
+      "nama": "ONA NOVIANI",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 428,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120001830",
+      "nama": "DWIYAN RAHMA PUTRI",
+      "teknis": 230,
+      "manajerial": 96,
+      "sosial_kultural": 63,
+      "wawancara": 32,
+      "total": 421,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120001358",
+      "nama": "VIRA AGUSTIN",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 420,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120007287",
+      "nama": "MARDHATILLAH",
+      "teknis": 230,
+      "manajerial": 83,
+      "sosial_kultural": 66,
+      "wawancara": 33,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120007368",
+      "nama": "HESTI ENDRIANI",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120003462",
+      "nama": "INTAN MUTHIA RANI",
+      "teknis": 200,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 399,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410110000680",
+      "nama": "FEBRY IQBAL SUHARNO",
+      "teknis": 210,
+      "manajerial": 82,
+      "sosial_kultural": 66,
+      "wawancara": 40,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120006458",
+      "nama": "MARZULIANIS",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410120000319",
+      "nama": "WENNI ELFIANITA",
+      "teknis": 175,
+      "manajerial": 95,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 384,
+      "status": "P"
+    },
+    {
+      "no": 19,
+      "nomor_peserta": "26301410120008880",
+      "nama": "OCTA STAFIA PUTRI",
+      "teknis": 195,
+      "manajerial": 81,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 379,
+      "status": "P"
+    },
+    {
+      "no": 20,
+      "nomor_peserta": "26301410120009198",
+      "nama": "INTAN RAHMA DONA",
+      "teknis": 180,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 379,
+      "status": "P"
+    },
+    {
+      "no": 21,
+      "nomor_peserta": "26301410120002256",
+      "nama": "GUSTI RAHAYU",
+      "teknis": 185,
+      "manajerial": 84,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 378,
+      "status": "P"
+    },
+    {
+      "no": 22,
+      "nomor_peserta": "26301410120003358",
+      "nama": "HUSNI DIANA SANGRAINI",
+      "teknis": 195,
+      "manajerial": 85,
+      "sosial_kultural": 60,
+      "wawancara": 35,
+      "total": 375,
+      "status": "P"
+    },
+    {
+      "no": 23,
+      "nomor_peserta": "26301410110000384",
+      "nama": "YORI LEO SAPUTRA",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total": 372,
+      "status": "P"
+    },
+    {
+      "no": 24,
+      "nomor_peserta": "26301410110002315",
+      "nama": "JEKI EMRIZON",
+      "teknis": 165,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 358,
+      "status": "P"
+    },
+    {
+      "no": 25,
+      "nomor_peserta": "26301410120002234",
+      "nama": "SALSA RAHMAWATI OKTA",
+      "teknis": 180,
+      "manajerial": 74,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 354,
+      "status": "P"
+    },
+    {
+      "no": 26,
+      "nomor_peserta": "26301410120003020",
+      "nama": "TETRIKA TRIANI",
+      "teknis": 140,
+      "manajerial": 81,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 322,
+      "status": "P"
+    },
+    {
+      "no": 27,
+      "nomor_peserta": "26301410120001764",
+      "nama": "SILVIA YATRIANTI",
+      "teknis": 115,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 314,
+      "status": "P"
+    },
+    {
+      "no": 28,
+      "nomor_peserta": "26301410120000675",
+      "nama": "MUTIARA DINDA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    },
+    {
+      "no": 29,
+      "nomor_peserta": "26301410120007482",
+      "nama": "NINDIA OKTA VIOLA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

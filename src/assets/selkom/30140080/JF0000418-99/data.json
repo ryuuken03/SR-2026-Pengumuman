@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004969",
+      "nama": "FIA AULIA PUTRI",
+      "teknis": 270,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 472,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008774",
+      "nama": "SITI SAIDAH SIREGAR",
+      "teknis": 185,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 376,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005419",
+      "nama": "SAFFANA TUZZAKIROH",
+      "teknis": 175,
+      "manajerial": 85,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total": 358,
+      "status": "P/L"
+    }
+  ]
+}

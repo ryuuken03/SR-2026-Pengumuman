@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001742",
+      "nama": "AHMAD SYAIHUDDIN TRI HARJONO",
+      "teknis": 280,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 486,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002397",
+      "nama": "RAMADHAN VERY KURNIAWAN",
+      "teknis": 260,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 465,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006305",
+      "nama": "MELYANA DYAH ANGGRAENI",
+      "teknis": 190,
+      "manajerial": 88,
+      "sosial_kultural": 64,
+      "wawancara": 37,
+      "total": 379,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008081",
+      "nama": "SURYA WIJAYANTI",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 375,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002125",
+      "nama": "HELTIK ZAHROTUL WAKHIDA",
+      "teknis": 125,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 324,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001357",
+      "nama": "M. FARIS BINAWAN",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

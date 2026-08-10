@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005603",
+      "nama": "ENDANG SRI AGUSTINI",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001545",
+      "nama": "Ersa Agusti Nengsih",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 384,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002073",
+      "nama": "M. WAHYU PRATAMA",
+      "teknis": 180,
+      "manajerial": 83,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 371,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008289",
+      "nama": "SETILAWATI",
+      "teknis": 150,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 349,
+      "status": "P/L"
+    }
+  ]
+}

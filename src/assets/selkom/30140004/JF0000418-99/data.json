@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008753",
+      "nama": "Anggi Setia Andini",
+      "teknis": 235,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 437,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005966",
+      "nama": "MARIA FERY ARISKA",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 406,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005091",
+      "nama": "EMALISA SRI BEGAWAN",
+      "teknis": 205,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007950",
+      "nama": "DENIS YULIANI",
+      "teknis": 205,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002387",
+      "nama": "Ai Siti Anida",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 374,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001607",
+      "nama": "BERTA FEBRIANI",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 372,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120002270",
+      "nama": "MEYLLA YUNI FAHIRRA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

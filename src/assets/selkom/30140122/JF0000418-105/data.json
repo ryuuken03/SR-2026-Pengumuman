@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002543",
+      "nama": "GLEN ASIASON SALMAOR",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002536",
+      "nama": "ANGRI YANTI ANANDA",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 364,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000916",
+      "nama": "INDRIYANI MUHAMMAD",
+      "teknis": 140,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 328,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001514",
+      "nama": "SYAHRUN MUBARAK",
+      "teknis": 275,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 476,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001373",
+      "nama": "HENDRA",
+      "teknis": 230,
+      "manajerial": 80,
+      "sosial_kultural": 67,
+      "wawancara": 32,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001488",
+      "nama": "NIA MURLINA",
+      "teknis": 170,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 371,
+      "status": "P"
+    }
+  ]
+}

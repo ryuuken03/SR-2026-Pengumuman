@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000117",
+      "nama": "M. ALFA CHAIR",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 400,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007553",
+      "nama": "HAFIDHA MAIWA",
+      "teknis": 185,
+      "manajerial": 96,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 380,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002550",
+      "nama": "SUHENDAR",
+      "teknis": 175,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 372,
+      "status": "P"
+    }
+  ]
+}

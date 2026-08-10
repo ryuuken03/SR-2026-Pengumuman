@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006047",
+      "nama": "RIZQI NUR FITRIANI",
+      "teknis": 225,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002515",
+      "nama": "AHMAD LUKITO",
+      "teknis": 210,
+      "manajerial": 93,
+      "sosial_kultural": 78,
+      "wawancara": 34,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006118",
+      "nama": "PUTRIA FATMAWATI",
+      "teknis": 180,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 384,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003523",
+      "nama": "INDAH LESTARININGSIH",
+      "teknis": 155,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 348,
+      "status": "P"
+    }
+  ]
+}

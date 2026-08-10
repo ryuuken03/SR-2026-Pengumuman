@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008387",
+      "nama": "YULIA CHUSNAYANI",
+      "teknis": 225,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004832",
+      "nama": "ISMY YAHDILLAH FITROTY",
+      "teknis": 185,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 377,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005860",
+      "nama": "YUSEVA TRI AKWANTIN",
+      "teknis": 125,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 329,
+      "status": "P"
+    }
+  ]
+}

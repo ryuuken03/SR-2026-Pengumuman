@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000544",
+      "nama": "ARZA RIZKY SEPTI ANSYACH",
+      "teknis": 260,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000773",
+      "nama": "TARISA AYU RAHMADANI",
+      "teknis": 250,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 29,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000239",
+      "nama": "SRI MULYANI",
+      "teknis": 225,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 431,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008998",
+      "nama": "AYU YANUARDANI",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 428,
+      "status": "P"
+    }
+  ]
+}

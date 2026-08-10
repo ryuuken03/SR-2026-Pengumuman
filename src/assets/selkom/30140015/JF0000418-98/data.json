@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008303",
+      "nama": "MILKA RIA DAELI",
+      "teknis": 315,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total": 519,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002750",
+      "nama": "HANI WANGSA PUTRI",
+      "teknis": 230,
+      "manajerial": 77,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008031",
+      "nama": "RAINDINI CITRA HANDAYANI",
+      "teknis": 245,
+      "manajerial": 64,
+      "sosial_kultural": 61,
+      "wawancara": 40,
+      "total": 410,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000835",
+      "nama": "SULISTIA",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 410,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001360",
+      "nama": "Helmi Nitimiharjo",
+      "teknis": 190,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006053",
+      "nama": "BESINARIA GEA",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 66,
+      "wawancara": 40,
+      "total": 370,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120001094",
+      "nama": "VINANTHY HUMAERHATUL MUNAWARHAH",
+      "teknis": 165,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 367,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000494",
+      "nama": "SITI NOPIYANTI",
+      "teknis": 160,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 361,
+      "status": "P"
+    }
+  ]
+}

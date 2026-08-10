@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004032",
+      "nama": "ARINTA BRILIANA PRABAWANTI",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000286",
+      "nama": "SITI HAMIDAH ASSHOFFA",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 408,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004152",
+      "nama": "RODZIATUN YULIKHA",
+      "teknis": 190,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003857",
+      "nama": "TRI WIDIYANINGSIH",
+      "teknis": 175,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120005366",
+      "nama": "OKTAVIA YUDHI ASIH",
+      "teknis": 185,
+      "manajerial": 81,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 368,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120004743",
+      "nama": "SITI AMINAH",
+      "teknis": 165,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 356,
+      "status": "P"
+    }
+  ]
+}

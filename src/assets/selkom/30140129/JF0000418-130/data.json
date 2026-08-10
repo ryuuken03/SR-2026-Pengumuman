@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007090",
+      "nama": "MUSTAQIMATUL FITRIYAH",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 470,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002459",
+      "nama": "SITI MASRUROH",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 407,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003296",
+      "nama": "SITI HALIYATURRAHMAH",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 374,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002837",
+      "nama": "NAZHAA OCTAVIANI S.",
+      "teknis": 165,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 374,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007521",
+      "nama": "MARIANA FRIDOLIN WALOK",
+      "teknis": 160,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 360,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005519",
+      "nama": "ERNY ROHAYU",
+      "teknis": 160,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 358,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000411",
+      "nama": "EMA SULHAEDA",
+      "teknis": 125,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 330,
+      "status": "P"
+    }
+  ]
+}

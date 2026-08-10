@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003006",
+      "nama": "MUHAMMAD TEGUH",
+      "teknis": 185,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 381,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000889",
+      "nama": "MUHAMMAD FARIS FAWWAZI ASHSHIDDIEQY",
+      "teknis": 185,
+      "manajerial": 79,
+      "sosial_kultural": 69,
+      "wawancara": 31,
+      "total": 364,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000017",
+      "nama": "WIKY ILHAM SAPUTRA",
+      "teknis": 205,
+      "manajerial": 84,
+      "sosial_kultural": 36,
+      "wawancara": 33,
+      "total": 358,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001323",
+      "nama": "OKKY PUTRA ALWIN PRATAMA",
+      "teknis": 170,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 363,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000276",
+      "nama": "FEBRI ARIANSYAH",
+      "teknis": 170,
+      "manajerial": 81,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 351,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000085",
+      "nama": "M NOVEN RIZKI",
+      "teknis": 150,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 341,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003157",
+      "nama": "HENI LESTARI",
+      "teknis": 135,
+      "manajerial": 80,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 315,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006589",
+      "nama": "NURTILAWAH",
+      "teknis": 265,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 470,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001681",
+      "nama": "ANDI DHENI SETIAWAN",
+      "teknis": 265,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 469,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003553",
+      "nama": "NUR RAHMAWATI SUBUH",
+      "teknis": 250,
+      "manajerial": 94,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total": 460,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002839",
+      "nama": "ANDI TENRI AUNIA SABIR",
+      "teknis": 250,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 458,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002637",
+      "nama": "SIGIT PERDANA",
+      "teknis": 260,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 31,
+      "total": 454,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110003127",
+      "nama": "Permana Agung Herianto",
+      "teknis": 230,
+      "manajerial": 97,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 435,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000727",
+      "nama": "ALI YUSRAN",
+      "teknis": 225,
+      "manajerial": 89,
+      "sosial_kultural": 59,
+      "wawancara": 36,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120002991",
+      "nama": "SITI HARNIANI",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 78,
+      "wawancara": 40,
+      "total": 408,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002550",
+      "nama": "NUR AINNUL MARDIAH",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 399,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120009051",
+      "nama": "NOFYANTI",
+      "teknis": 200,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 395,
+      "status": "P"
+    }
+  ]
+}

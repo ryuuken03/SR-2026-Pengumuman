@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001029",
+      "nama": "CHICHIK TRY WIJAYANTI",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002253",
+      "nama": "NURIZAL YUDHISTIRA",
+      "teknis": 210,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 31,
+      "total": 397,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006966",
+      "nama": "BELLA FRANSISKA SARI",
+      "teknis": 190,
+      "manajerial": 83,
+      "sosial_kultural": 63,
+      "wawancara": 38,
+      "total": 374,
+      "status": "P/L"
+    }
+  ]
+}

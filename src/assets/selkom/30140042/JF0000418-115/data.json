@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000262",
+      "nama": "ASRI SUSANTI",
+      "teknis": 295,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 496,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006364",
+      "nama": "ALDONA SETYA MAYANG",
+      "teknis": 205,
+      "manajerial": 79,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 393,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002391",
+      "nama": "WIDAH FITRI WULANDARI",
+      "teknis": 165,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 363,
+      "status": "P"
+    }
+  ]
+}

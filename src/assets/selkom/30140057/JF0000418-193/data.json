@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002747",
+      "nama": "MOH. NAFIS HUSEN ROMADANI",
+      "teknis": 250,
+      "manajerial": 97,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 457,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003959",
+      "nama": "VIRNA DWI RISNAWANTI",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 453,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008114",
+      "nama": "INDRIANA RESTIANINGRUM",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total": 422,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003562",
+      "nama": "ATIKA NUR PRATIWI",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007128",
+      "nama": "ALVIN DWI NOVILA",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 368,
+      "status": "P/L"
+    }
+  ]
+}

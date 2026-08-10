@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003624",
+      "nama": "YUNI HUSEN",
+      "teknis": 200,
+      "manajerial": 83,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001476",
+      "nama": "SASTIYA DEVY NUR PRATIWI",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 78,
+      "wawancara": 37,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002890",
+      "nama": "FIRMAN SYAH RUMAKEY",
+      "teknis": 165,
+      "manajerial": 88,
+      "sosial_kultural": 58,
+      "wawancara": 37,
+      "total": 348,
+      "status": "P"
+    }
+  ]
+}

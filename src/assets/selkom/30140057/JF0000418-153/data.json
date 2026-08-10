@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002841",
+      "nama": "DIBA SOFINADYA",
+      "teknis": 285,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009124",
+      "nama": "ALVIONITA WAHYU DINDA LESTARI",
+      "teknis": 270,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 465,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007697",
+      "nama": "SONYA DEWI SAVITRI",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 416,
+      "status": "P"
+    }
+  ]
+}

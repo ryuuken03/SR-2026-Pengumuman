@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003147",
+      "nama": "NUR AZIZ HAMBALI",
+      "teknis": 265,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 463,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006725",
+      "nama": "NANDA PRATIWI",
+      "teknis": 235,
+      "manajerial": 78,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003010",
+      "nama": "MUHAMMAD BADRI ALWI",
+      "teknis": 205,
+      "manajerial": 75,
+      "sosial_kultural": 79,
+      "wawancara": 28,
+      "total": 387,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006814",
+      "nama": "NOVANDA RAMADHANI SABONE",
+      "teknis": 320,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 526,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002345",
+      "nama": "FATKUR MUJIB",
+      "teknis": 315,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 520,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001539",
+      "nama": "SUKMAWATI",
+      "teknis": 300,
+      "manajerial": 88,
+      "sosial_kultural": 59,
+      "wawancara": 36,
+      "total": 483,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000315",
+      "nama": "IRSA AYU VERONIKA",
+      "teknis": 280,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 475,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003703",
+      "nama": "SUHARYUN",
+      "teknis": 260,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 463,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120007068",
+      "nama": "SARAH NUR SUHAILA SIREGAR",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120008994",
+      "nama": "YULIANTI AKUMALI",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000624",
+      "nama": "SELNI BOKE",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 31,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110001549",
+      "nama": "ARI SERTAWI",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 28,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110002505",
+      "nama": "MARCEL AYUB TEMPESSY",
+      "teknis": 205,
+      "manajerial": 82,
+      "sosial_kultural": 62,
+      "wawancara": 31,
+      "total": 380,
+      "status": "P/L"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110000995",
+      "nama": "MUNAIM MAGU",
+      "teknis": 150,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 346,
+      "status": "P/L"
+    }
+  ]
+}

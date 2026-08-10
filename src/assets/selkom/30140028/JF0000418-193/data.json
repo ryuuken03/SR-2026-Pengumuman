@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001102",
+      "nama": "ROAINA ALFIYAN NAJA",
+      "teknis": 240,
+      "manajerial": 97,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002309",
+      "nama": "ANGGITIALINANTA ABDILLAH",
+      "teknis": 240,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002825",
+      "nama": "ARY FAJAR ISKANDAR",
+      "teknis": 245,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001107",
+      "nama": "MUHAMMAD ALFAN AFADA",
+      "teknis": 245,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001246",
+      "nama": "FADHLAN NOOR SHOFI",
+      "teknis": 220,
+      "manajerial": 97,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001769",
+      "nama": "FAHMA RASYIDA",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 56,
+      "wawancara": 36,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000901",
+      "nama": "ACHMAD SAHAL FIKRI",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110001804",
+      "nama": "Adjie Pangestu",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120003602",
+      "nama": "ELIFATUL ASIF KHOIRUN NISAK",
+      "teknis": 210,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 418,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120001536",
+      "nama": "AYU APRILIYANTI",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 407,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110001780",
+      "nama": "ODI ANGGREAWAN WIDODO",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 405,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110001251",
+      "nama": "ERKA ARI AL ANDIM",
+      "teknis": 210,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 404,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110001427",
+      "nama": "AKMAL AWALUDDIN",
+      "teknis": 210,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 400,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410110003203",
+      "nama": "Aditio Tri Nugroho",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410110002894",
+      "nama": "MUKHAMAT TAUFIKURROHMAN SALEH",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 30,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120001950",
+      "nama": "TIKA KHOFIDHOTUR ROFIAH",
+      "teknis": 185,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120001432",
+      "nama": "SA'IDATUL USWAH",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 30,
+      "total": 376,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410120003097",
+      "nama": "NANI MARYANI",
+      "teknis": 165,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 364,
+      "status": "P"
+    },
+    {
+      "no": 19,
+      "nomor_peserta": "26301410120002460",
+      "nama": "INTAN RIZKY AMALIA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

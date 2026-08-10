@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006846",
+      "nama": "LATIFATUS SHOLIKAH",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007591",
+      "nama": "ANASTANSYA LORA FEBRIA",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004043",
+      "nama": "NI'AMATUL AULIA NUR FITRI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

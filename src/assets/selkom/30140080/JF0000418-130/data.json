@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002522",
+      "nama": "FAJRINNIDA DESFITRI",
+      "teknis": 210,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006501",
+      "nama": "FITRI ROSYIDAH NUR PAKPAHAN",
+      "teknis": 145,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 30,
+      "total": 335,
+      "status": "P/L"
+    }
+  ]
+}

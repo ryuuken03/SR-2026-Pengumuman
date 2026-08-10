@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007726",
+      "nama": "MELLA TRISNIATI",
+      "teknis": 215,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 423,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002577",
+      "nama": "ISTIQOMAH",
+      "teknis": 170,
+      "manajerial": 84,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 362,
+      "status": "P/L"
+    }
+  ]
+}

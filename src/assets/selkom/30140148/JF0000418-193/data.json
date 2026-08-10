@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001598",
+      "nama": "AKMAL",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 60,
+      "wawancara": 33,
+      "total": 408,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007983",
+      "nama": "RATNA MUTIARA RAKASIWI",
+      "teknis": 185,
+      "manajerial": 80,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 365,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006662",
+      "nama": "JUWITA ROSANA",
+      "teknis": 150,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 31,
+      "total": 343,
+      "status": "P"
+    }
+  ]
+}

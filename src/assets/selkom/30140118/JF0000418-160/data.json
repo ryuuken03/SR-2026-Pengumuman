@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000020",
+      "nama": "DANDI MAKMUR",
+      "teknis": 165,
+      "manajerial": 83,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total": 350,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008852",
+      "nama": "NURWAHYUNI T.",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001035",
+      "nama": "YULIANTO",
+      "teknis": 210,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 411,
+      "status": "P/L"
+    }
+  ]
+}

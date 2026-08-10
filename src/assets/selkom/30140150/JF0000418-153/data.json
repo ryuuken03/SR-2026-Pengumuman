@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000216",
+      "nama": "FITRI SASLINAWATI",
+      "teknis": 205,
+      "manajerial": 78,
+      "sosial_kultural": 45,
+      "wawancara": 34,
+      "total": 362,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006113",
+      "nama": "ASTI PURNAWATI NENGSI",
+      "teknis": 180,
+      "manajerial": 80,
+      "sosial_kultural": 59,
+      "wawancara": 35,
+      "total": 354,
+      "status": "P/L"
+    }
+  ]
+}

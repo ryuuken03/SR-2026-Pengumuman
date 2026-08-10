@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005026",
+      "nama": "MEGA RAKHMAWATI",
+      "teknis": 305,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 508,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001193",
+      "nama": "ANGGA WIDYA JOY FANI",
+      "teknis": 290,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005238",
+      "nama": "WIJI DILA LESTARI",
+      "teknis": 280,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 475,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001114",
+      "nama": "GALANG RAKA ABDILAH",
+      "teknis": 285,
+      "manajerial": 88,
+      "sosial_kultural": 62,
+      "wawancara": 36,
+      "total": 471,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120001821",
+      "nama": "NADIA CHAIRUNNISA",
+      "teknis": 265,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 467,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002044",
+      "nama": "FARIZ MAULANA IBRAHIM",
+      "teknis": 275,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 32,
+      "total": 466,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110002537",
+      "nama": "TAUFIQI DANI ASHARI",
+      "teknis": 280,
+      "manajerial": 79,
+      "sosial_kultural": 58,
+      "wawancara": 32,
+      "total": 449,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120004114",
+      "nama": "DIAN AGUSTIN",
+      "teknis": 250,
+      "manajerial": 82,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 441,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120006508",
+      "nama": "Tri Tianti",
+      "teknis": 235,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 441,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120009077",
+      "nama": "RISMA MUNAWAR",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 424,
+      "status": "P"
+    }
+  ]
+}

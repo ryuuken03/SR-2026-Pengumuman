@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006029",
+      "nama": "WAHYU TRI NINGSIH",
+      "teknis": 310,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 500,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006336",
+      "nama": "SITI MAILI VONITASARI",
+      "teknis": 280,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 485,
+      "status": "P/L"
+    }
+  ]
+}

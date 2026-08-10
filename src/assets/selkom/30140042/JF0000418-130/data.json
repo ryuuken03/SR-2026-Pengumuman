@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003976",
+      "nama": "BINTI FARIDA MUFLIHAH",
+      "teknis": 185,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 391,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007984",
+      "nama": "DESTA DARA DWI KUMALA",
+      "teknis": 150,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 350,
+      "status": "P/L"
+    }
+  ]
+}

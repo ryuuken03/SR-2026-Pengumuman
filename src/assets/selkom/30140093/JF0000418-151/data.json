@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000090",
+      "nama": "TEGUH MUHAMMAD MUNIF",
+      "teknis": 250,
+      "manajerial": 80,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001103",
+      "nama": "HARFADLI",
+      "teknis": 230,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001883",
+      "nama": "ARDIANTO WISNU NUGROHO",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110003183",
+      "nama": "HERI IRAWAN",
+      "teknis": 185,
+      "manajerial": 86,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007774",
+      "nama": "RINA RAHMIDIANI PUTRI",
+      "teknis": 170,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 367,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120002802",
+      "nama": "FITRI DEVI ADNADIA",
+      "teknis": 175,
+      "manajerial": 80,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 351,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000208",
+      "nama": "EKO HARIANTO",
+      "teknis": 165,
+      "manajerial": 80,
+      "sosial_kultural": 73,
+      "wawancara": 32,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120002976",
+      "nama": "PIDA RAHIMA",
+      "teknis": 145,
+      "manajerial": 78,
+      "sosial_kultural": 66,
+      "wawancara": 31,
+      "total": 320,
+      "status": "P"
+    }
+  ]
+}

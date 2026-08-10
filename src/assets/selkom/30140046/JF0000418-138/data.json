@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001642",
+      "nama": "BINTI NUR HIDAYAH",
+      "teknis": 275,
+      "manajerial": 96,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total": 487,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007965",
+      "nama": "ANA MAR'ATU ARGIYANTI",
+      "teknis": 285,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 474,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008912",
+      "nama": "ATIQ MAULIA AL-FARIH",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 40,
+      "total": 465,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000389",
+      "nama": "ENGGAR TRI ASTUTI",
+      "teknis": 235,
+      "manajerial": 96,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000355",
+      "nama": "TASHIA NUR FABIOLA",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 432,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002108",
+      "nama": "MULYA HANUM WIJAYA",
+      "teknis": 245,
+      "manajerial": 81,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 427,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003544",
+      "nama": "ZATTIRA NADIA RAHMA",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 400,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110003164",
+      "nama": "AYATULLOH AFURQON",
+      "teknis": 200,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110001907",
+      "nama": "MOH. MIFTAKUL ULUM",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 32,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120007972",
+      "nama": "YOHANA DEA WARDANI",
+      "teknis": 190,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120003448",
+      "nama": "CHANDRA RINI",
+      "teknis": 185,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 387,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120005819",
+      "nama": "RENI ANDRIYANI",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 377,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120005992",
+      "nama": "AQIELLA PUTRI HAYYA",
+      "teknis": 150,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 341,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120000447",
+      "nama": "MUTIARA NUR HAYATI",
+      "teknis": 145,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 340,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120000039",
+      "nama": "DARA ASRI MAULANI",
+      "teknis": 145,
+      "manajerial": 80,
+      "sosial_kultural": 57,
+      "wawancara": 36,
+      "total": 318,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120008534",
+      "nama": "AMIN KHOIRIYAH",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

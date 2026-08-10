@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002210",
+      "nama": "CINDY HANNISYA RELIA",
+      "teknis": 255,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 461,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007772",
+      "nama": "CINTIA PRATAMA",
+      "teknis": 220,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 423,
+      "status": "P/L"
+    }
+  ]
+}

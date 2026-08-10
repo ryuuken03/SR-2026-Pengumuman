@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000704",
+      "nama": "YUDHA AULIA ZULFIKAR KABILLA",
+      "teknis": 240,
+      "manajerial": 63,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001781",
+      "nama": "BAYU NOPA",
+      "teknis": 225,
+      "manajerial": 75,
+      "sosial_kultural": 69,
+      "wawancara": 29,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002636",
+      "nama": "IMAM MASKUR RAHMAT",
+      "teknis": 190,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 395,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001239",
+      "nama": "MUHAMMAD FARIS",
+      "teknis": 200,
+      "manajerial": 81,
+      "sosial_kultural": 66,
+      "wawancara": 33,
+      "total": 380,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120008086",
+      "nama": "NADIA APRILIA",
+      "teknis": 125,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 316,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120004031",
+      "nama": "ECHA INTAN SONIA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

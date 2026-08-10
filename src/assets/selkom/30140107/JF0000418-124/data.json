@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002792",
+      "nama": "ABDUL MUG'HNI",
+      "teknis": 220,
+      "manajerial": 78,
+      "sosial_kultural": 60,
+      "wawancara": 32,
+      "total": 390,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001091",
+      "nama": "MUH. AKBAR",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 385,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002653",
+      "nama": "WAHYUNANI",
+      "teknis": 165,
+      "manajerial": 79,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 347,
+      "status": "P"
+    }
+  ]
+}

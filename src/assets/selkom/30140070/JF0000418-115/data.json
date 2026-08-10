@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000147",
+      "nama": "MUTIA HARUM HSB",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006626",
+      "nama": "RIA KARINA",
+      "teknis": 245,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000081",
+      "nama": "KIKI SIMANJUNTAK",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 437,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005889",
+      "nama": "RINI DAMAYANTI",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 436,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000904",
+      "nama": "YOSI FRANSISKA BR PERANGIN-ANGIN",
+      "teknis": 245,
+      "manajerial": 79,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 427,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001527",
+      "nama": "AYU SERVILITA BR SEMBIRING",
+      "teknis": 235,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 32,
+      "total": 422,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001991",
+      "nama": "MARULI REAGEN SILABAN",
+      "teknis": 190,
+      "manajerial": 98,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 400,
+      "status": "P"
+    }
+  ]
+}

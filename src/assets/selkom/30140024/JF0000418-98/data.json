@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008341",
+      "nama": "FITRI ANISA",
+      "teknis": 260,
+      "manajerial": 87,
+      "sosial_kultural": 77,
+      "wawancara": 31,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001604",
+      "nama": "ARIFATUL HIKMAH",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 65,
+      "wawancara": 38,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003342",
+      "nama": "KHAAFIDHATUL KALAAMIYAH",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 405,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008459",
+      "nama": "MEINANDA FANESA RAHMADIAH",
+      "teknis": 210,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 400,
+      "status": "P"
+    }
+  ]
+}

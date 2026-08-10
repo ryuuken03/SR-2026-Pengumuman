@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006026",
+      "nama": "Eki Yulia Susanti",
+      "teknis": 210,
+      "manajerial": 82,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total": 392,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000280",
+      "nama": "CAHYA HADI KUSUMA",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total": 384,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006922",
+      "nama": "LENI MUSLIMAH",
+      "teknis": 160,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 349,
+      "status": "P/L"
+    }
+  ]
+}

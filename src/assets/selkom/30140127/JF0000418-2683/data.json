@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006215",
+      "nama": "TITI NADIA",
+      "teknis": 260,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 451,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002093",
+      "nama": "YUNIA AL VIANA",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 399,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002394",
+      "nama": "Lola Wahyu Utami",
+      "teknis": 200,
+      "manajerial": 83,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 390,
+      "status": "P/L"
+    }
+  ]
+}

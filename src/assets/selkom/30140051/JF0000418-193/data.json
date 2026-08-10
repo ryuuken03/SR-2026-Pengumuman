@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002710",
+      "nama": "IQBAL PRATAMA FAJAR AKBAR",
+      "teknis": 285,
+      "manajerial": 92,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total": 494,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003460",
+      "nama": "KAMILATURROHMAH",
+      "teknis": 260,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 469,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000048",
+      "nama": "ANZORI",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 458,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001360",
+      "nama": "SILVIA EKA PRATIWI",
+      "teknis": 250,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110003042",
+      "nama": "AJI ARY IRAWAN",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110003229",
+      "nama": "AGUNG WAHYU GUNAWAN",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 67,
+      "wawancara": 40,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000376",
+      "nama": "HENDRA TANU WIJAYA",
+      "teknis": 190,
+      "manajerial": 96,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120005891",
+      "nama": "YOAN MELLY NURRAHMA",
+      "teknis": 175,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002604",
+      "nama": "DHEVYTRI ARUM PRATIWI",
+      "teknis": 175,
+      "manajerial": 84,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 368,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120000497",
+      "nama": "WINDA RAINA SARI",
+      "teknis": 170,
+      "manajerial": 88,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 362,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110000452",
+      "nama": "HABIBUR ROHMAN",
+      "teknis": 160,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total": 353,
+      "status": "P"
+    }
+  ]
+}

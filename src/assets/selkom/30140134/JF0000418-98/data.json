@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008101",
+      "nama": "VIONA DWI PUTRI",
+      "teknis": 215,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004865",
+      "nama": "ATIKA WIWI UTAMI",
+      "teknis": 230,
+      "manajerial": 83,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001218",
+      "nama": "FELLY SELA UTARI",
+      "teknis": 205,
+      "manajerial": 92,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 400,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002649",
+      "nama": "M. IQBAL HABIBULLAH",
+      "teknis": 245,
+      "manajerial": 86,
+      "sosial_kultural": 33,
+      "wawancara": 35,
+      "total": 399,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000487",
+      "nama": "FARI ARIFAN",
+      "teknis": 170,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 378,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006570",
+      "nama": "KURNIA LESTARI",
+      "teknis": 170,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 377,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001397",
+      "nama": "ACHMAT ARDIANSYAH",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 360,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005897",
+      "nama": "YULIANA PUSPITA SARI",
+      "teknis": 215,
+      "manajerial": 98,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002179",
+      "nama": "YULI ARTIKA",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 370,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120009115",
+      "nama": "VESI ANJASARI",
+      "teknis": 165,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 365,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001009",
+      "nama": "MUHAMAD SIDIQ",
+      "teknis": 155,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 357,
+      "status": "P"
+    }
+  ]
+}

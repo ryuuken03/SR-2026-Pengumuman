@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002410",
+      "nama": "MOCHAMMAD FACHRIZAL DARMAWAN",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005797",
+      "nama": "AZMINATUL ALFAY ROHMAH",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002752",
+      "nama": "DANAR CRISTANTO",
+      "teknis": 210,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006831",
+      "nama": "DEVI LATIFAH FATIN",
+      "teknis": 205,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 410,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000347",
+      "nama": "IMELDA YUNAISAFITRA",
+      "teknis": 215,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001451",
+      "nama": "WAHYU RISKI ILAHI",
+      "teknis": 205,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000050",
+      "nama": "MAYA RESTI RAHAYU",
+      "teknis": 195,
+      "manajerial": 97,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120004955",
+      "nama": "IKA OKTAVIA NUR WIDAYANTI",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 396,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110000293",
+      "nama": "SUGIHARTO",
+      "teknis": 170,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 361,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000539",
+      "nama": "FARELL VALERIAN",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001571",
+      "nama": "IQBAL SYARIFUDDIN MAHBUBI",
+      "teknis": 235,
+      "manajerial": 85,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003275",
+      "nama": "CINDY FRAMELLYA PUTRI",
+      "teknis": 240,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 425,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001783",
+      "nama": "AHMAD FAUZI",
+      "teknis": 245,
+      "manajerial": 80,
+      "sosial_kultural": 55,
+      "wawancara": 36,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002039",
+      "nama": "RISMA ADILLAH HENDRANIKA",
+      "teknis": 215,
+      "manajerial": 79,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 399,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001971",
+      "nama": "RIYAN DWI HIDAYANA",
+      "teknis": 205,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001259",
+      "nama": "BHRE CAKRA KRISNA BAYU SM",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 396,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000727",
+      "nama": "HERVINA NUR RAHMADHANI",
+      "teknis": 215,
+      "manajerial": 75,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110003215",
+      "nama": "REZA KHOIRUL UMMA",
+      "teknis": 165,
+      "manajerial": 76,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 341,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110001962",
+      "nama": "SOFWAN ARIPIN",
+      "teknis": 155,
+      "manajerial": 84,
+      "sosial_kultural": 61,
+      "wawancara": 33,
+      "total": 333,
+      "status": "P"
+    }
+  ]
+}

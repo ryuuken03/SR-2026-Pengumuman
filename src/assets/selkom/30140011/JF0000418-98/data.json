@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004215",
+      "nama": "AYU RAHMATIKA",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 407,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003293",
+      "nama": "NURSITO",
+      "teknis": 205,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 402,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000696",
+      "nama": "ROS MANIYAH",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 65,
+      "wawancara": 32,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000036",
+      "nama": "SIGIT FAJAR UBAEDULAH",
+      "teknis": 195,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 392,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002083",
+      "nama": "IMAM PRAYOGA",
+      "teknis": 200,
+      "manajerial": 79,
+      "sosial_kultural": 67,
+      "wawancara": 31,
+      "total": 377,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000872",
+      "nama": "ARIES IBNU MAULANA",
+      "teknis": 170,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 370,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120001240",
+      "nama": "NUR'AMALIYAH AFIFAH",
+      "teknis": 140,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 326,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120006797",
+      "nama": "LISA MAGHFIROHTUL AROFAH",
+      "teknis": 130,
+      "manajerial": 85,
+      "sosial_kultural": 65,
+      "wawancara": 37,
+      "total": 317,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002954",
+      "nama": "SELVIANA",
+      "teknis": 155,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 357,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008936",
+      "nama": "SRI SUCI ARDIANTI ANAS",
+      "teknis": 120,
+      "manajerial": 95,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 329,
+      "status": "P/L"
+    }
+  ]
+}

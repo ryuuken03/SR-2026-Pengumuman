@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000833",
+      "nama": "Nara Augustin",
+      "teknis": 265,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 473,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000588",
+      "nama": "ABDUL RASYIED",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 445,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008748",
+      "nama": "NABILA NAJMI",
+      "teknis": 190,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 396,
+      "status": "P/L"
+    }
+  ]
+}

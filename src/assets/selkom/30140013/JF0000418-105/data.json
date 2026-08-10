@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000290",
+      "nama": "PUTRI NABILA NURSADELI",
+      "teknis": 250,
+      "manajerial": 99,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 457,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006141",
+      "nama": "INDRI NURARIFIN",
+      "teknis": 245,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 440,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000323",
+      "nama": "MUHAMMAD YUHANA SETIAWAN",
+      "teknis": 165,
+      "manajerial": 80,
+      "sosial_kultural": 55,
+      "wawancara": 38,
+      "total": 338,
+      "status": "P"
+    }
+  ]
+}

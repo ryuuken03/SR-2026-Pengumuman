@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000402",
+      "nama": "AZIZAH NUR PRASETYAWATI",
+      "teknis": 245,
+      "manajerial": 81,
+      "sosial_kultural": 79,
+      "wawancara": 37,
+      "total": 442,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003802",
+      "nama": "NURKINTAN APRILIA",
+      "teknis": 215,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 422,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003839",
+      "nama": "INCA PRITONASYA MILANINGSIH",
+      "teknis": 160,
+      "manajerial": 98,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 365,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006580",
+      "nama": "SETYO WATI",
+      "teknis": 165,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 364,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003086",
+      "nama": "NILAM KEMALASARI SUKOCO",
+      "teknis": 130,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 337,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001053",
+      "nama": "LAILATUL KHOIRUN NI'MAH",
+      "teknis": 135,
+      "manajerial": 95,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 331,
+      "status": "P"
+    }
+  ]
+}

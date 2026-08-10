@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000327",
+      "nama": "MUHAMMAD NAUFAL MAJID",
+      "teknis": 255,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 460,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004132",
+      "nama": "SITI KHOIRUNNISA",
+      "teknis": 255,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 459,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000215",
+      "nama": "MOH. ARIFUL RIZANI",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 457,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002938",
+      "nama": "BRAMU NUR ZAKIYAN",
+      "teknis": 255,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 451,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000067",
+      "nama": "MILATINA MURNI LESTARI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 447,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120004600",
+      "nama": "ANIK AGENG PRAMURDAZANI",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 441,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120008840",
+      "nama": "MAGHFIROH IZZA MAULANI",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 431,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120002712",
+      "nama": "SITI MARFU'AH",
+      "teknis": 230,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 429,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120001720",
+      "nama": "VALENTA RIAS MAHARDITA",
+      "teknis": 245,
+      "manajerial": 79,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 427,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120003129",
+      "nama": "TRI WAHYUNINGSIH",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 427,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120001864",
+      "nama": "ATIKA SALMA CHOIRUNNISA",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total": 426,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120006394",
+      "nama": "KURNIA INTAN SARI",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 414,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110002925",
+      "nama": "BAGAS ARDIYANTO",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 406,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120000863",
+      "nama": "RATNA ALMIRA SARI",
+      "teknis": 200,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120005070",
+      "nama": "NUR AFRIANI FATIMAH",
+      "teknis": 200,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 399,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120007961",
+      "nama": "RODHIANA KHAIRUNISA",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120006183",
+      "nama": "INDAH DWI SETYANINGRUM",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410120005851",
+      "nama": "LAYLA RACHMAWATI",
+      "teknis": 195,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 19,
+      "nomor_peserta": "26301410120008022",
+      "nama": "LUSTYA FIFANA ARTHA",
+      "teknis": 180,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 377,
+      "status": "P"
+    },
+    {
+      "no": 20,
+      "nomor_peserta": "26301410120001564",
+      "nama": "DEA QURROTAA'YUN PUTRI MAHARANI BORAHIMA",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 364,
+      "status": "P"
+    },
+    {
+      "no": 21,
+      "nomor_peserta": "26301410110000721",
+      "nama": "MUHAMMAD IBNU CHAJAR",
+      "teknis": 165,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 361,
+      "status": "P"
+    },
+    {
+      "no": 22,
+      "nomor_peserta": "26301410120008456",
+      "nama": "FIDYA DWI YUNINA SAPUTRI",
+      "teknis": 155,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 352,
+      "status": "P"
+    },
+    {
+      "no": 23,
+      "nomor_peserta": "26301410120008549",
+      "nama": "ZALFA IKRIMA",
+      "teknis": 160,
+      "manajerial": 80,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 346,
+      "status": "P"
+    },
+    {
+      "no": 24,
+      "nomor_peserta": "26301410120001454",
+      "nama": "YUNIANA RISKA KHASANATI",
+      "teknis": 135,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 335,
+      "status": "P"
+    },
+    {
+      "no": 25,
+      "nomor_peserta": "26301410120006139",
+      "nama": "RIFQI TIARA FEBRIYANTI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

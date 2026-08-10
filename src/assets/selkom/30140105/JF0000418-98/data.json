@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001480",
+      "nama": "AULIA ADHARI",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 475,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007614",
+      "nama": "SRI ESTIANI PARANTEAN",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005965",
+      "nama": "SALMA",
+      "teknis": 200,
+      "manajerial": 73,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007498",
+      "nama": "Riskia",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002660",
+      "nama": "RIANA R. AHMAD",
+      "teknis": 155,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 351,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000464",
+      "nama": "DANDI FIRMANSYAH",
+      "teknis": 160,
+      "manajerial": 79,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total": 342,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120006694",
+      "nama": "MUSDALIFAH",
+      "teknis": 125,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 32,
+      "total": 318,
+      "status": "P"
+    }
+  ]
+}

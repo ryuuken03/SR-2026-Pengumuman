@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002426",
+      "nama": "Andri Kurniawan",
+      "teknis": 240,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000621",
+      "nama": "MULIADI",
+      "teknis": 170,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 366,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004627",
+      "nama": "Fajriah Mokoagow",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007239",
+      "nama": "SAFIRA SEFTIANINGSIH LAMALAKA",
+      "teknis": 175,
+      "manajerial": 87,
+      "sosial_kultural": 65,
+      "wawancara": 37,
+      "total": 364,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120004136",
+      "nama": "FEBRIYANTI DJAFAR",
+      "teknis": 150,
+      "manajerial": 90,
+      "sosial_kultural": 64,
+      "wawancara": 30,
+      "total": 334,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001895",
+      "nama": "HASANUDIN IBRAHIM",
+      "teknis": 135,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 323,
+      "status": "P"
+    }
+  ]
+}

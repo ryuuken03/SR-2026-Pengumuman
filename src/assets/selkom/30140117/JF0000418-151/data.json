@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000313",
+      "nama": "ELVIS",
+      "teknis": 255,
+      "manajerial": 75,
+      "sosial_kultural": 73,
+      "wawancara": 32,
+      "total": 435,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001432",
+      "nama": "CRESVOYANTO EDNAN MANASSA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 417,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002805",
+      "nama": "MUH. ZULQADAR N",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 368,
+      "status": "P/L"
+    }
+  ]
+}

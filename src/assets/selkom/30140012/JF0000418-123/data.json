@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009145",
+      "nama": "MIFTAHUL JANNAH",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 371,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003371",
+      "nama": "YESSY USMAN",
+      "teknis": 135,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total": 330,
+      "status": "P/L"
+    }
+  ]
+}

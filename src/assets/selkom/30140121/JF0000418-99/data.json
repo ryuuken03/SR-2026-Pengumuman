@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004169",
+      "nama": "NURFADILLAH BADARUN",
+      "teknis": 270,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 464,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005293",
+      "nama": "SHERINA TASYA AWALIAH",
+      "teknis": 245,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002885",
+      "nama": "SITI HALILAH",
+      "teknis": 160,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 356,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002231",
+      "nama": "CHILMI ULLUL HERDIANSYAH",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 442,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002699",
+      "nama": "ACH. ISBAT FAUZI",
+      "teknis": 195,
+      "manajerial": 80,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 386,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008490",
+      "nama": "HENIDA NUHA NAFISA",
+      "teknis": 170,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 363,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000946",
+      "nama": "ALYA ANJANI",
+      "teknis": 155,
+      "manajerial": 94,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 345,
+      "status": "P"
+    }
+  ]
+}

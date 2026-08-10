@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001495",
+      "nama": "RIZALDI MALIK",
+      "teknis": 215,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006955",
+      "nama": "WINA SELFYOMITA",
+      "teknis": 160,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 354,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004667",
+      "nama": "DEFI JENIARTI",
+      "teknis": 150,
+      "manajerial": 74,
+      "sosial_kultural": 31,
+      "wawancara": 39,
+      "total": 294,
+      "status": "P"
+    }
+  ]
+}

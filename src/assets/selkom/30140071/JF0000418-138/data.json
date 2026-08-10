@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002941",
+      "nama": "IBRAHIM YUSUP NASUTION",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 63,
+      "wawancara": 40,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005493",
+      "nama": "KARTIKA SIMANJUNTAK",
+      "teknis": 145,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 347,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003808",
+      "nama": "RISMA WIDIYANTI",
+      "teknis": 305,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 509,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005611",
+      "nama": "LENA MULYAWATI",
+      "teknis": 295,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 494,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002941",
+      "nama": "NOVA ARYANTI",
+      "teknis": 300,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 31,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002243",
+      "nama": "KEVIN FAIZAL FAZRIN",
+      "teknis": 285,
+      "manajerial": 94,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000708",
+      "nama": "ESA SYABILA",
+      "teknis": 285,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 483,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001427",
+      "nama": "NURYANI",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 465,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000346",
+      "nama": "HANANTO FACHRU ROHMAN",
+      "teknis": 270,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 463,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000429",
+      "nama": "RINI PRASTINI",
+      "teknis": 255,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 459,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002942",
+      "nama": "KAMELIA NOVIYANTI",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 435,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120001321",
+      "nama": "SYIFA FAUZIAH",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 424,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120006884",
+      "nama": "YUSIANA HERAWATI",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 420,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120007755",
+      "nama": "ELSA SELVIANA",
+      "teknis": 205,
+      "manajerial": 88,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total": 391,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120002652",
+      "nama": "SUPRIHATINI",
+      "teknis": 185,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 30,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120006898",
+      "nama": "NADYA SALSABILA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120006946",
+      "nama": "PIO ANGGRAENI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

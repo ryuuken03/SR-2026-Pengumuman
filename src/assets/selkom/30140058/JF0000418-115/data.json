@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006263",
+      "nama": "ERA MELANI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003417",
+      "nama": "SITI ZUMROTUS SHOLIHAH",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007501",
+      "nama": "SHOFROUL LAILI",
+      "teknis": 180,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 371,
+      "status": "P"
+    }
+  ]
+}

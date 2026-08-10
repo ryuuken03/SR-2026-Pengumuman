@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002620",
+      "nama": "ERWIN SYAHPUTRA",
+      "teknis": 300,
+      "manajerial": 80,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 481,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002014",
+      "nama": "ALWI RAHMAN HARAHAP",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004983",
+      "nama": "NENTI SILITONGA",
+      "teknis": 235,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002404",
+      "nama": "SYAHPUTRA BANGUN",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006422",
+      "nama": "SANTI KARLA BR SILALAHI",
+      "teknis": 225,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 424,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000555",
+      "nama": "MIFTAHUL JANNAH",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120001726",
+      "nama": "ADE RUQAYAH LUBIS",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 401,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120002310",
+      "nama": "ELLY NAFSIAH",
+      "teknis": 220,
+      "manajerial": 79,
+      "sosial_kultural": 63,
+      "wawancara": 34,
+      "total": 396,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120007262",
+      "nama": "SYARIFAH",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120005713",
+      "nama": "ANIN SARASWATI AZHARI",
+      "teknis": 180,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120001431",
+      "nama": "SURYANI KARTIKA SIHOMBING",
+      "teknis": 185,
+      "manajerial": 84,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 379,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120001246",
+      "nama": "APRILIA PUTRI ANANDA LUBIS",
+      "teknis": 165,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120008247",
+      "nama": "DEBI CINTA MARITO RITONGA",
+      "teknis": 165,
+      "manajerial": 93,
+      "sosial_kultural": 64,
+      "wawancara": 40,
+      "total": 362,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120004441",
+      "nama": "MARDHIYAH",
+      "teknis": 160,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 353,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120002216",
+      "nama": "ISRA RETNO SARI",
+      "teknis": 145,
+      "manajerial": 74,
+      "sosial_kultural": 62,
+      "wawancara": 36,
+      "total": 317,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120000330",
+      "nama": "MAYA KARTIKA WAHYUNI",
+      "teknis": 125,
+      "manajerial": 85,
+      "sosial_kultural": 53,
+      "wawancara": 37,
+      "total": 300,
+      "status": "P"
+    }
+  ]
+}

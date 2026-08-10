@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000588",
+      "nama": "FEBRINA HANIFANI",
+      "teknis": 275,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 479,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006587",
+      "nama": "MILLENIA RAHMAH DINIA",
+      "teknis": 245,
+      "manajerial": 82,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 426,
+      "status": "P/L"
+    }
+  ]
+}

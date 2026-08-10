@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001576",
+      "nama": "KAMIYATEIN",
+      "teknis": 265,
+      "manajerial": 89,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 457,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004541",
+      "nama": "SUHAINA BAKHTIAR",
+      "teknis": 240,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008423",
+      "nama": "PIJARIANI MUTIARA PUTRI",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 426,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005034",
+      "nama": "YUNIA SAPITRI",
+      "teknis": 215,
+      "manajerial": 86,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 415,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002782",
+      "nama": "MELYSA SAPRIANI PUTRI",
+      "teknis": 195,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005331",
+      "nama": "NINDI MELLYS FADISA",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110003045",
+      "nama": "BALDI AREZKY",
+      "teknis": 185,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120004285",
+      "nama": "GHEA REIVA IGUSMI PUTRI",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120005151",
+      "nama": "NURMALA ROSANTI",
+      "teknis": 170,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 368,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120007450",
+      "nama": "PUTRI HARDIYANTI",
+      "teknis": 135,
+      "manajerial": 82,
+      "sosial_kultural": 68,
+      "wawancara": 33,
+      "total": 318,
+      "status": "P"
+    }
+  ]
+}

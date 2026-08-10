@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005596",
+      "nama": "SYA'FA NABILA KURNIA WAHYUDA",
+      "teknis": 290,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 486,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004347",
+      "nama": "KUSUMA INDAH SARI",
+      "teknis": 170,
+      "manajerial": 86,
+      "sosial_kultural": 65,
+      "wawancara": 26,
+      "total": 347,
+      "status": "P/L"
+    }
+  ]
+}

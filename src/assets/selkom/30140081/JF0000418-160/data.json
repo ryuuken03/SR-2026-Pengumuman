@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004210",
+      "nama": "ZUL ADHA MARYANI KOTO",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005692",
+      "nama": "REZTY MUTIARA MAIRISA",
+      "teknis": 205,
+      "manajerial": 86,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008212",
+      "nama": "Yasifa Khairenisa",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 386,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003669",
+      "nama": "RATIH WINDYANINGSIWI",
+      "teknis": 150,
+      "manajerial": 96,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 353,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001647",
+      "nama": "ALFIA RIZA OKTIANY",
+      "teknis": 125,
+      "manajerial": 94,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 324,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001630",
+      "nama": "ASNI RAHMANI",
+      "teknis": 195,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005418",
+      "nama": "SISKHA AIDIYANDA",
+      "teknis": 170,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 374,
+      "status": "P/L"
+    }
+  ]
+}

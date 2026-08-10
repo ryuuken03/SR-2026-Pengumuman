@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000513",
+      "nama": "ADE DHEA MAULIDINA",
+      "teknis": 280,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 474,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003312",
+      "nama": "RASYID AHMAD SOFI",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 414,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004070",
+      "nama": "IVANA MELLA YUNARINDRA",
+      "teknis": 215,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 413,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004737",
+      "nama": "NIARAHMA DIANA",
+      "teknis": 165,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 363,
+      "status": "P"
+    }
+  ]
+}

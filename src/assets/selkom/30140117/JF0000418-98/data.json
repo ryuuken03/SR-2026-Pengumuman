@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005829",
+      "nama": "WINI HERSA",
+      "teknis": 230,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008306",
+      "nama": "WINDA SAPUTRI",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total": 407,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005234",
+      "nama": "MAGDALENA",
+      "teknis": 185,
+      "manajerial": 79,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 369,
+      "status": "P"
+    }
+  ]
+}

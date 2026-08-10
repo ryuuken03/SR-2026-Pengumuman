@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000929",
+      "nama": "WAHIDIN",
+      "teknis": 230,
+      "manajerial": 99,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 435,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005068",
+      "nama": "NURUL HERAWATI",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 374,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000242",
+      "nama": "TIA NOVITA",
+      "teknis": 185,
+      "manajerial": 79,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 369,
+      "status": "P"
+    }
+  ]
+}

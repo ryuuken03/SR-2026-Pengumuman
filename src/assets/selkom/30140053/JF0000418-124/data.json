@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003212",
+      "nama": "SHINTA FAUZIYAH",
+      "teknis": 285,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002719",
+      "nama": "CAHYA FATHAN SABILI",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005074",
+      "nama": "FIRDAUSI WAHYU ILAHI",
+      "teknis": 210,
+      "manajerial": 86,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 402,
+      "status": "P"
+    }
+  ]
+}

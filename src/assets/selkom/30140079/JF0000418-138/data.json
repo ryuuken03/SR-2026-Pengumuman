@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002957",
+      "nama": "ANGGA DINATA",
+      "teknis": 270,
+      "manajerial": 80,
+      "sosial_kultural": 67,
+      "wawancara": 31,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009208",
+      "nama": "PUSPA INDRIANI",
+      "teknis": 185,
+      "manajerial": 86,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 374,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001123",
+      "nama": "FRENGKI PAKPAHAN",
+      "teknis": 170,
+      "manajerial": 80,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 362,
+      "status": "P"
+    }
+  ]
+}

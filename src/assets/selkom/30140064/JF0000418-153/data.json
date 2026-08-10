@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000762",
+      "nama": "MUNAWIR",
+      "teknis": 260,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008535",
+      "nama": "NUR RIZKIA",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 32,
+      "total": 431,
+      "status": "P/L"
+    }
+  ]
+}

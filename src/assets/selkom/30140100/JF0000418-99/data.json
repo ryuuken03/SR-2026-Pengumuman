@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007552",
+      "nama": "SARAH MEISYA VIRA LAHEBA",
+      "teknis": 265,
+      "manajerial": 91,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 456,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002194",
+      "nama": "RAHMAT HARIYADIE",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 419,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000256",
+      "nama": "TRIFANI ERI SUSANTI",
+      "teknis": 200,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 395,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001553",
+      "nama": "NURHALIFAH PUTRI",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 387,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120005691",
+      "nama": "MAULIDA RAHMAH",
+      "teknis": 170,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 371,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001369",
+      "nama": "NOVIA SURIYANI",
+      "teknis": 155,
+      "manajerial": 79,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 341,
+      "status": "P/L"
+    }
+  ]
+}

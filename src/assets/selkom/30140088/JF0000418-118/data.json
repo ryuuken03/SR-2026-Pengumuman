@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004219",
+      "nama": "OKTAVIA WULANDA",
+      "teknis": 150,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total": 341,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001387",
+      "nama": "FATHYA NURUL JANNAH",
+      "teknis": 120,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 322,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000140",
+      "nama": "SURYANI",
+      "teknis": 110,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 40,
+      "total": 309,
+      "status": "P"
+    }
+  ]
+}

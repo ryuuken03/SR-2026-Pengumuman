@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004378",
+      "nama": "SUCIANI MAGFIRAH",
+      "teknis": 260,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 470,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002211",
+      "nama": "MAGFIRAH",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006126",
+      "nama": "FATHURISQI F. RUM",
+      "teknis": 260,
+      "manajerial": 88,
+      "sosial_kultural": 38,
+      "wawancara": 39,
+      "total": 425,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002277",
+      "nama": "ZULKIFLI, S.Pd.",
+      "teknis": 225,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 421,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120005395",
+      "nama": "RATNAWATI",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 60,
+      "wawancara": 35,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003468",
+      "nama": "RISKAWATI",
+      "teknis": 190,
+      "manajerial": 83,
+      "sosial_kultural": 71,
+      "wawancara": 29,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110002926",
+      "nama": "ADI SUPARMAN",
+      "teknis": 180,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 372,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000128",
+      "nama": "FITRIANA WAHIDA",
+      "teknis": 190,
+      "manajerial": 80,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002014",
+      "nama": "NURHALISAH",
+      "teknis": 175,
+      "manajerial": 82,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 359,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120004387",
+      "nama": "IRNAWATI",
+      "teknis": 155,
+      "manajerial": 81,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 344,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120003673",
+      "nama": "NURHALIFA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

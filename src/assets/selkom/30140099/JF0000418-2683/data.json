@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000188",
+      "nama": "NUR AULIA RAHMAH",
+      "teknis": 325,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 526,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008904",
+      "nama": "RABIATUL JANNAH",
+      "teknis": 310,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 512,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001954",
+      "nama": "MAHRITA ERIYANTI",
+      "teknis": 275,
+      "manajerial": 95,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 474,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002658",
+      "nama": "HENDRI",
+      "teknis": 260,
+      "manajerial": 93,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 467,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002499",
+      "nama": "RINA WATI",
+      "teknis": 260,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 460,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120004129",
+      "nama": "NURLAILA RAHMADANIYATI",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 449,
+      "status": "P/L"
+    }
+  ]
+}

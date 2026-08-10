@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000171",
+      "nama": "DIKRY FEISAL RACHMAN",
+      "teknis": 330,
+      "manajerial": 96,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total": 539,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000516",
+      "nama": "GIBSON IRENEUS IVANDER NUA",
+      "teknis": 330,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 529,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002943",
+      "nama": "MOCH. ADIB IRHAM ALI",
+      "teknis": 320,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 518,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002771",
+      "nama": "ALVIN TANGGUH SUJATMIKO",
+      "teknis": 305,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 506,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001156",
+      "nama": "ERLANGGA BAGUS FEBRIANTO",
+      "teknis": 305,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 503,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000104",
+      "nama": "DEA NOVI MAHFIRO",
+      "teknis": 285,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 490,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001216",
+      "nama": "ACHMAD FIRMANDA DWIPUTRA",
+      "teknis": 290,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total": 487,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110001986",
+      "nama": "AGUNG NASRULLAH",
+      "teknis": 290,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 484,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110000797",
+      "nama": "MOCHAMMAD FARDIANTO NURDIN",
+      "teknis": 290,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 483,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120006519",
+      "nama": "SITI NUR JANNAH",
+      "teknis": 275,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 480,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120004872",
+      "nama": "PUTRI LAILIA AGUSTIN",
+      "teknis": 265,
+      "manajerial": 95,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total": 475,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110002822",
+      "nama": "ASWAN FIRMAN ARIF",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 466,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110002389",
+      "nama": "AHMAD FATIH RIZQI",
+      "teknis": 270,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 464,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410110000573",
+      "nama": "MOH. ALIEF BIAS JAGAD",
+      "teknis": 255,
+      "manajerial": 98,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 462,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410110000259",
+      "nama": "MUHAMMAD HUDYATAMA ANSHARI",
+      "teknis": 255,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total": 449,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120008026",
+      "nama": "MEI GITA WAHYU MAHARANI",
+      "teknis": 245,
+      "manajerial": 94,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total": 444,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120007344",
+      "nama": "ENNI DWI RAHAYU",
+      "teknis": 235,
+      "manajerial": 92,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total": 444,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410110001576",
+      "nama": "RANGGA DWI ARTA PANGESTU",
+      "teknis": 255,
+      "manajerial": 88,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total": 442,
+      "status": "P"
+    },
+    {
+      "no": 19,
+      "nomor_peserta": "26301410110001036",
+      "nama": "DEA KRISTIANTO",
+      "teknis": 240,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 434,
+      "status": "P"
+    },
+    {
+      "no": 20,
+      "nomor_peserta": "26301410110002000",
+      "nama": "FEDO WISNU PUTRO",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 427,
+      "status": "P"
+    },
+    {
+      "no": 21,
+      "nomor_peserta": "26301410120002311",
+      "nama": "SANTI PUSPITA DEWI",
+      "teknis": 220,
+      "manajerial": 80,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 22,
+      "nomor_peserta": "26301410120008174",
+      "nama": "SHELLY FATMA KURNIA SARI",
+      "teknis": 205,
+      "manajerial": 83,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 399,
+      "status": "P"
+    },
+    {
+      "no": 23,
+      "nomor_peserta": "26301410110002929",
+      "nama": "AHMAD AHSAN",
+      "teknis": 210,
+      "manajerial": 82,
+      "sosial_kultural": 63,
+      "wawancara": 38,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 24,
+      "nomor_peserta": "26301410110002351",
+      "nama": "SULTHAN FARHAN PRAESTU",
+      "teknis": 205,
+      "manajerial": 81,
+      "sosial_kultural": 73,
+      "wawancara": 27,
+      "total": 386,
+      "status": "P"
+    },
+    {
+      "no": 25,
+      "nomor_peserta": "26301410120009240",
+      "nama": "RINA AVI DANANTI",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 378,
+      "status": "P"
+    },
+    {
+      "no": 26,
+      "nomor_peserta": "26301410120001290",
+      "nama": "ASFI HANI",
+      "teknis": 180,
+      "manajerial": 81,
+      "sosial_kultural": 57,
+      "wawancara": 34,
+      "total": 352,
+      "status": "P"
+    }
+  ]
+}

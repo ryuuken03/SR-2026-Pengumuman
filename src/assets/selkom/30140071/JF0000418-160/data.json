@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000334",
+      "nama": "UMAR",
+      "teknis": 205,
+      "manajerial": 92,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007412",
+      "nama": "RIFKA ERLINDA PUTRI HASIBUAN",
+      "teknis": 125,
+      "manajerial": 85,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 311,
+      "status": "P/L"
+    }
+  ]
+}

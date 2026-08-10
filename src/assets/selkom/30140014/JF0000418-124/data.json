@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000772",
+      "nama": "INA NABILA NURJIHAN",
+      "teknis": 255,
+      "manajerial": 87,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006450",
+      "nama": "ADNI QUROTA AINI",
+      "teknis": 240,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002813",
+      "nama": "LICHEN AYU ASYIFA",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 61,
+      "wawancara": 36,
+      "total": 401,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005298",
+      "nama": "INDI NUR AFIFAH",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 40,
+      "total": 387,
+      "status": "P"
+    }
+  ]
+}

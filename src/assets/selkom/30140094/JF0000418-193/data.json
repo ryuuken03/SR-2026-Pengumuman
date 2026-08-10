@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000893",
+      "nama": "CEFRI LUPIANTO",
+      "teknis": 265,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 457,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003350",
+      "nama": "ARDHIAN AKBAR AHMADI",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002823",
+      "nama": "MUHAMMAD HATAMI",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002743",
+      "nama": "SANDIKA DWI ADI WIGUNA",
+      "teknis": 250,
+      "manajerial": 84,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 442,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000190",
+      "nama": "SITI AMINATUS ZAHRAH",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001978",
+      "nama": "ALIF PRANAJATI",
+      "teknis": 240,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120002075",
+      "nama": "RENILDA ARIYANI SARAGIH",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120008252",
+      "nama": "WILDA NAILISH SHOFA",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 407,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110002242",
+      "nama": "FIRMAN AHMAD",
+      "teknis": 205,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 404,
+      "status": "P/L"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110000972",
+      "nama": "HANIF ARKHAN AL ASYRAFI",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110000778",
+      "nama": "SERAPIANUS",
+      "teknis": 210,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 31,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120004082",
+      "nama": "YULIA MURHATININGTYAS",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110002855",
+      "nama": "KRISTIAN JODI",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 32,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120005551",
+      "nama": "ZANNUBA ALIAN NUR",
+      "teknis": 175,
+      "manajerial": 82,
+      "sosial_kultural": 63,
+      "wawancara": 36,
+      "total": 356,
+      "status": "P/L"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120007618",
+      "nama": "ERLI PUSPITA PURNAMA",
+      "teknis": 155,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 354,
+      "status": "P/L"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120000492",
+      "nama": "SISKA ELLA",
+      "teknis": 140,
+      "manajerial": 88,
+      "sosial_kultural": 54,
+      "wawancara": 35,
+      "total": 317,
+      "status": "P/L"
+    }
+  ]
+}

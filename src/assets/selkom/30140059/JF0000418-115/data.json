@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002239",
+      "nama": "ANANG SETYO SANTOSO",
+      "teknis": 295,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 504,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007337",
+      "nama": "MEI RINA DEWI",
+      "teknis": 275,
+      "manajerial": 93,
+      "sosial_kultural": 79,
+      "wawancara": 40,
+      "total": 487,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005206",
+      "nama": "DEFI FITRIANA",
+      "teknis": 270,
+      "manajerial": 93,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total": 480,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000187",
+      "nama": "ANINDYO YOGASWARA",
+      "teknis": 275,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 477,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120005823",
+      "nama": "GARNIS EKA NABILAH",
+      "teknis": 280,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 476,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001825",
+      "nama": "SUMAIDI",
+      "teknis": 275,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 472,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007846",
+      "nama": "TITIS DWI PRASTIKA",
+      "teknis": 260,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 455,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120004915",
+      "nama": "INA FAIZATUL CHUSNA",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 449,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002516",
+      "nama": "MAF ULATUL AINIYAH",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 445,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120004413",
+      "nama": "DESI CHOIRUNNISA",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 443,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120007261",
+      "nama": "MEYRINDA PUTRI CAHYANTI",
+      "teknis": 230,
+      "manajerial": 94,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 429,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120006675",
+      "nama": "RIKA WAHYU FITRIANI",
+      "teknis": 220,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 424,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120003527",
+      "nama": "Reni Astri Jayanti",
+      "teknis": 220,
+      "manajerial": 86,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410110000283",
+      "nama": "RAHMAT ASHARI",
+      "teknis": 215,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 410,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120008279",
+      "nama": "UMMI AINUR RIZQI",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120002307",
+      "nama": "NUR LATIFAH LIBRIANA",
+      "teknis": 195,
+      "manajerial": 99,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120002633",
+      "nama": "RISFIKHA DHELA ELFYRA",
+      "teknis": 210,
+      "manajerial": 86,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410110000432",
+      "nama": "MOCH BURHAN SIDQI",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 35,
+      "wawancara": 39,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 19,
+      "nomor_peserta": "26301410120006143",
+      "nama": "AVELIA FARERA GABRILE DIARYA",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 20,
+      "nomor_peserta": "26301410120000884",
+      "nama": "NURIN IMANINA",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 21,
+      "nomor_peserta": "26301410120005485",
+      "nama": "ROBIYATUL AKMALIA",
+      "teknis": 200,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 387,
+      "status": "P"
+    },
+    {
+      "no": 22,
+      "nomor_peserta": "26301410120008349",
+      "nama": "DESI KURNIA RAHMADANI",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 66,
+      "wawancara": 40,
+      "total": 383,
+      "status": "P"
+    },
+    {
+      "no": 23,
+      "nomor_peserta": "26301410120009140",
+      "nama": "LUTFIATUS FUADAH",
+      "teknis": 155,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 40,
+      "total": 352,
+      "status": "P"
+    },
+    {
+      "no": 24,
+      "nomor_peserta": "26301410110000666",
+      "nama": "MIFTAHUL HADI",
+      "teknis": 155,
+      "manajerial": 82,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 343,
+      "status": "P"
+    },
+    {
+      "no": 25,
+      "nomor_peserta": "26301410120006678",
+      "nama": "AYU PIPIH LESTARI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

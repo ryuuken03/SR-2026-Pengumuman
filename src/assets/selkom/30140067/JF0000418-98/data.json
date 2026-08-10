@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001504",
+      "nama": "SITI RAHMI FITRI DIHITIA",
+      "teknis": 225,
+      "manajerial": 89,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004576",
+      "nama": "AULIANA",
+      "teknis": 215,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 411,
+      "status": "P/L"
+    }
+  ]
+}

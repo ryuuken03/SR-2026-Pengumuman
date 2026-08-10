@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002094",
+      "nama": "FEBRYSA VARENSYA",
+      "teknis": 295,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 501,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004214",
+      "nama": "YOLA MARISA",
+      "teknis": 290,
+      "manajerial": 97,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 501,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001994",
+      "nama": "CICI RIZKA APRILIA",
+      "teknis": 290,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total": 487,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005768",
+      "nama": "INDAH NUR FERNANDA",
+      "teknis": 270,
+      "manajerial": 94,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total": 473,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120004284",
+      "nama": "ZALYA HANIFAH",
+      "teknis": 265,
+      "manajerial": 97,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 470,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120009080",
+      "nama": "ADE MARISA",
+      "teknis": 275,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 467,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110003116",
+      "nama": "ARI DWI PRASETIO",
+      "teknis": 270,
+      "manajerial": 82,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total": 458,
+      "status": "P"
+    }
+  ]
+}

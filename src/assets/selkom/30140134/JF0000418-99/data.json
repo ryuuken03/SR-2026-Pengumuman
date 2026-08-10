@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002627",
+      "nama": "Hidayat Fadly",
+      "teknis": 270,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 467,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002360",
+      "nama": "CICI ADELIANI",
+      "teknis": 235,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003599",
+      "nama": "ALFIO DWI INDAHSARI",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total": 417,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001041",
+      "nama": "HELSA FEBRIANI",
+      "teknis": 210,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 414,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000804",
+      "nama": "ENDANG TRIANI SAFITRI",
+      "teknis": 195,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 390,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000782",
+      "nama": "LARAS JULIA SARTIKA",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 389,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120001807",
+      "nama": "ANISAH FIKRIYAH",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 383,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110002867",
+      "nama": "HARIT ANANDA LIBRATA",
+      "teknis": 190,
+      "manajerial": 88,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 378,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120004269",
+      "nama": "OKA YUSTIANA",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 30,
+      "total": 377,
+      "status": "P"
+    }
+  ]
+}

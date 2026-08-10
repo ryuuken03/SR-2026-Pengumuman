@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005850",
+      "nama": "NABILA LAILATUL MAHMUDAH",
+      "teknis": 175,
+      "manajerial": 86,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 365,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005501",
+      "nama": "NUR SHABRINA SAFITRI",
+      "teknis": 150,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 354,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001752",
+      "nama": "ALFISAHR OSCAR DEWANDARU",
+      "teknis": 130,
+      "manajerial": 85,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 321,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005006",
+      "nama": "NUR EKA AGUSTI MARDIYANTI",
+      "teknis": 100,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 305,
+      "status": "P"
+    }
+  ]
+}

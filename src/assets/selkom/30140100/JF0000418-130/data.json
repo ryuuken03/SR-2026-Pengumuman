@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004829",
+      "nama": "NURUL MUGHNIYAH ABBAS",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 386,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003474",
+      "nama": "PUTRI ZAIRINA ARSYAH",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 384,
+      "status": "P/L"
+    }
+  ]
+}

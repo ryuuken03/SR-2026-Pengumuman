@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005324",
+      "nama": "RANTI ARYANI",
+      "teknis": 250,
+      "manajerial": 94,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total": 459,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001042",
+      "nama": "RIZKI KRISTANTO",
+      "teknis": 190,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 381,
+      "status": "P/L"
+    }
+  ]
+}

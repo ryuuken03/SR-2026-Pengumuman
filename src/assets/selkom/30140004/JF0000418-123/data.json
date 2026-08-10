@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000792",
+      "nama": "GALIH WICAKSONO",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 432,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001265",
+      "nama": "RADEN NUR'AINI AL MIZAN",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005975",
+      "nama": "YESI SETYO NINGRUM",
+      "teknis": 210,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 417,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003711",
+      "nama": "DINAN AGHNIA CHOERUNISA",
+      "teknis": 150,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 348,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004087",
+      "nama": "SYFA KAILA DAMAYANTI",
+      "teknis": 295,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 497,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005076",
+      "nama": "ROTUASRI REJEKI FAOMASI CHRISTINE WARUWU",
+      "teknis": 290,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 486,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005665",
+      "nama": "POPPY ARISTA FEBRIANI",
+      "teknis": 280,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 483,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002532",
+      "nama": "AMALIA SILMI HUNAFA",
+      "teknis": 285,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 29,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002435",
+      "nama": "DANDI BAROKAH",
+      "teknis": 255,
+      "manajerial": 89,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001371",
+      "nama": "FAUZANI NUGRAHA",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110002510",
+      "nama": "ABDUL SAEPURROHIM",
+      "teknis": 230,
+      "manajerial": 83,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 423,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120001918",
+      "nama": "TRIYANA DEWI ELWINDA",
+      "teknis": 235,
+      "manajerial": 85,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 416,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120000599",
+      "nama": "ELDA TINARI PUTRI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

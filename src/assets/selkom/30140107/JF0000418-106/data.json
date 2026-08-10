@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000391",
+      "nama": "GILANG SINATA ERA YUDHA",
+      "teknis": 230,
+      "manajerial": 95,
+      "sosial_kultural": 67,
+      "wawancara": 40,
+      "total": 432,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002019",
+      "nama": "ANDI NADILA",
+      "teknis": 195,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 399,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001773",
+      "nama": "SANTI",
+      "teknis": 145,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 347,
+      "status": "P"
+    }
+  ]
+}

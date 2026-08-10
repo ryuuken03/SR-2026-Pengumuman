@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000756",
+      "nama": "RINA ULFANINGTIYAS",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 399,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007954",
+      "nama": "ALVINISHA AROFAH KUROCHMAN",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 396,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005147",
+      "nama": "ANISA WAHYU PRIHATIN",
+      "teknis": 200,
+      "manajerial": 79,
+      "sosial_kultural": 57,
+      "wawancara": 38,
+      "total": 374,
+      "status": "P/L"
+    }
+  ]
+}

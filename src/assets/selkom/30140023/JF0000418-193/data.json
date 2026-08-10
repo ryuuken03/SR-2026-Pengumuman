@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001207",
+      "nama": "ARIP NUR USMAN",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000166",
+      "nama": "NUR CAHYO PUTRO",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 422,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001896",
+      "nama": "ARWIN HAPPY NUR FAUZI",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total": 411,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004504",
+      "nama": "PUPUT SRI UTAMI",
+      "teknis": 215,
+      "manajerial": 81,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000659",
+      "nama": "LINDA RIANI",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total": 359,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008300",
+      "nama": "LUBNA",
+      "teknis": 200,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 408,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003337",
+      "nama": "NUR AZIZA ARIFIN",
+      "teknis": 140,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 339,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006756",
+      "nama": "RENI WINARSIH",
+      "teknis": 125,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 321,
+      "status": "P"
+    }
+  ]
+}

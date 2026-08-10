@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000385",
+      "nama": "Riris Dewi Safitri",
+      "teknis": 270,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 478,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000128",
+      "nama": "ADI NUR SETIAWAN",
+      "teknis": 260,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 459,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000678",
+      "nama": "ADITYA WISNU AJI",
+      "teknis": 240,
+      "manajerial": 83,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 437,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002392",
+      "nama": "DANIS MILANIA RASMITASARI",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 434,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001110",
+      "nama": "WANDA FERI REZKI",
+      "teknis": 270,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 465,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005915",
+      "nama": "FADILLA MONICA",
+      "teknis": 175,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 369,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003738",
+      "nama": "DIANA SAPUTRI",
+      "teknis": 170,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 368,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004221",
+      "nama": "NOVRIANI RAHMAH",
+      "teknis": 155,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 361,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000879",
+      "nama": "NUR AINUN HARIYANTO",
+      "teknis": 155,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 360,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120007848",
+      "nama": "SYARIFA RAHMI ANORI",
+      "teknis": 155,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 360,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003197",
+      "nama": "DINDA WULANDARI",
+      "teknis": 120,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 323,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120008582",
+      "nama": "VERA FIRMANSARI",
+      "teknis": 100,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 40,
+      "total": 297,
+      "status": "P"
+    }
+  ]
+}

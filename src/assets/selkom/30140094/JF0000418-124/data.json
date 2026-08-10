@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000692",
+      "nama": "SAMSUL BAHRI",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 442,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006054",
+      "nama": "TASYAA'U MULKA THAFAKI",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 430,
+      "status": "P/L"
+    }
+  ]
+}

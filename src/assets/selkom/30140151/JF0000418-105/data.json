@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006577",
+      "nama": "EKA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003621",
+      "nama": "APRILIYANI",
+      "teknis": 205,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 403,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006907",
+      "nama": "MELTIN BIDANG",
+      "teknis": 180,
+      "manajerial": 83,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 374,
+      "status": "P"
+    }
+  ]
+}

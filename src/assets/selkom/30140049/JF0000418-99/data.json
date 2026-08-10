@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007096",
+      "nama": "YUSROTUN NIKMAH",
+      "teknis": 205,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 396,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003593",
+      "nama": "YULIA AINUN NADZIROH",
+      "teknis": 165,
+      "manajerial": 86,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 360,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003440",
+      "nama": "ELLA LOVI SEPTIANI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

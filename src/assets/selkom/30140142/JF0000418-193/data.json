@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001171",
+      "nama": "RIDHWAN ABDURRAHMAN",
+      "teknis": 210,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005537",
+      "nama": "UMI SYARIFAH",
+      "teknis": 190,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 392,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004785",
+      "nama": "INTAN MULIA SURI",
+      "teknis": 190,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 378,
+      "status": "P/L"
+    }
+  ]
+}

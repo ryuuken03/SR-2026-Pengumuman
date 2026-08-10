@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000421",
+      "nama": "METRI SAFITRI",
+      "teknis": 250,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001297",
+      "nama": "IRAWANSYAH",
+      "teknis": 235,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002358",
+      "nama": "FADILLAH MAULANA",
+      "teknis": 190,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 32,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003394",
+      "nama": "NANDA FEBRI ARIYANI",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total": 374,
+      "status": "P"
+    }
+  ]
+}

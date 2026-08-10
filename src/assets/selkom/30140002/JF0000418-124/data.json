@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001945",
+      "nama": "ELIS DAYANTI",
+      "teknis": 260,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000210",
+      "nama": "MUNAWAR BAGUS HAKAMI",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005050",
+      "nama": "ZETY RUSDIANA SARI",
+      "teknis": 175,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 377,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002039",
+      "nama": "CHETY MUSTIKANING WESTRI",
+      "teknis": 145,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 331,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006019",
+      "nama": "NISA RIZANI RIASATUN NAFSI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120009063",
+      "nama": "ILMI NURANISA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

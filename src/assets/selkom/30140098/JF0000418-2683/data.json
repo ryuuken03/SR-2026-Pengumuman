@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005412",
+      "nama": "MARHAMAH BURHAN",
+      "teknis": 325,
+      "manajerial": 95,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 526,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003538",
+      "nama": "ROSA ESTER RINA",
+      "teknis": 315,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 513,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008415",
+      "nama": "ERNI WAHYU HIDAYANTI",
+      "teknis": 295,
+      "manajerial": 97,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 502,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008555",
+      "nama": "RABIAH",
+      "teknis": 290,
+      "manajerial": 84,
+      "sosial_kultural": 65,
+      "wawancara": 33,
+      "total": 472,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003901",
+      "nama": "ENI ANDRI ANI",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120002485",
+      "nama": "LISNA WATI",
+      "teknis": 230,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 425,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120006240",
+      "nama": "YENICA DAMSELLA",
+      "teknis": 225,
+      "manajerial": 78,
+      "sosial_kultural": 65,
+      "wawancara": 33,
+      "total": 401,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120001763",
+      "nama": "RUTH OKSA CHRIS KALISTA EVELINTIYOLA",
+      "teknis": 210,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 396,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120006057",
+      "nama": "EVRIANI SARI DEWI HUTAPEA",
+      "teknis": 190,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120003551",
+      "nama": "MAHDALINA",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 373,
+      "status": "P"
+    }
+  ]
+}

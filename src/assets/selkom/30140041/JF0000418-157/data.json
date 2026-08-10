@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001609",
+      "nama": "RAKA KUMARA JATI",
+      "teknis": 260,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002160",
+      "nama": "SUNARNO",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 30,
+      "total": 416,
+      "status": "P/L"
+    }
+  ]
+}

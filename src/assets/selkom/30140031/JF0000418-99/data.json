@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006904",
+      "nama": "TIFALIA NUR AMIRA",
+      "teknis": 270,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 473,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005146",
+      "nama": "ULI FAUZIYAH MIATIN",
+      "teknis": 255,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 457,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001348",
+      "nama": "MUHAMAD FAJAR KURNIAWAN",
+      "teknis": 260,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005425",
+      "nama": "RESTU LODYTA ARIYANA RAMADANTY",
+      "teknis": 250,
+      "manajerial": 84,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 442,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120008228",
+      "nama": "CINDY FATIKA SARI",
+      "teknis": 235,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 434,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120002182",
+      "nama": "ANISA FITRIYANI",
+      "teknis": 225,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 429,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007917",
+      "nama": "NUZULIA DIAN MELISA",
+      "teknis": 230,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 425,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120003942",
+      "nama": "AULIN NURULIA",
+      "teknis": 210,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 414,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120008562",
+      "nama": "MUTIARA PUTRI AULIA RIZKI WIDODO",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110002575",
+      "nama": "MUHAMMAD PANDU DANIAJI",
+      "teknis": 255,
+      "manajerial": 79,
+      "sosial_kultural": 29,
+      "wawancara": 35,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120004110",
+      "nama": "TIARA RIZKI HANDAYANI",
+      "teknis": 210,
+      "manajerial": 80,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120003203",
+      "nama": "HALLA AL HARTIK",
+      "teknis": 195,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120000263",
+      "nama": "AGNITA MUTIARA DEWI",
+      "teknis": 185,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120004920",
+      "nama": "DWI RATNANINGSIH",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120008471",
+      "nama": "NADA ADELIA DEWI",
+      "teknis": 175,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 375,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410110002503",
+      "nama": "M. KHAFIDZ AFRIANTO",
+      "teknis": 115,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 313,
+      "status": "P"
+    }
+  ]
+}

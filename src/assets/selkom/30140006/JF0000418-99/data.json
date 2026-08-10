@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000295",
+      "nama": "HEMALIA DAMAYANTI",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 395,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000978",
+      "nama": "TESYA NABILA ZAHRA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

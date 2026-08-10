@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002094",
+      "nama": "MOHAMAD RIZKI ALI RIDHO",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000713",
+      "nama": "MOHAMMAD SATRIYO BHAKTI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 437,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003310",
+      "nama": "MUHAMMAD ZAINUL MUTTAQIN",
+      "teknis": 185,
+      "manajerial": 80,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 370,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008120",
+      "nama": "Ayutri Indah S.R",
+      "teknis": 150,
+      "manajerial": 93,
+      "sosial_kultural": 64,
+      "wawancara": 37,
+      "total": 344,
+      "status": "P/L"
+    }
+  ]
+}

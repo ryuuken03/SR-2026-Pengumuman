@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006491",
+      "nama": "LAYLY MUTHOHAROH",
+      "teknis": 265,
+      "manajerial": 86,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 464,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000120",
+      "nama": "TAUFIK SAMSUNAHAR YULIANTO",
+      "teknis": 255,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 463,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001864",
+      "nama": "HILMI MURTADHO",
+      "teknis": 270,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 458,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110003328",
+      "nama": "RIDWAN AFIF",
+      "teknis": 255,
+      "manajerial": 80,
+      "sosial_kultural": 62,
+      "wawancara": 37,
+      "total": 434,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000192",
+      "nama": "SEPTIAN RIDHO NUR CAHYA",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 60,
+      "wawancara": 35,
+      "total": 428,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002130",
+      "nama": "SATRIA RIVALDI GUSMAN",
+      "teknis": 220,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 419,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120008642",
+      "nama": "TRI RATNA AMBARWATI",
+      "teknis": 210,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 401,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110002019",
+      "nama": "MUHAMAD RAFLI ANANDA",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 64,
+      "wawancara": 38,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120009120",
+      "nama": "TYAS GHOSALY",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110001011",
+      "nama": "MUHAMMAD ABU DAFFA'",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110002737",
+      "nama": "Nur Fathoni",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 61,
+      "wawancara": 29,
+      "total": 368,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120002683",
+      "nama": "RISKA ARDIYANTI",
+      "teknis": 175,
+      "manajerial": 75,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 349,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110000126",
+      "nama": "DIMAS ZIAPUTRA",
+      "teknis": 135,
+      "manajerial": 75,
+      "sosial_kultural": 62,
+      "wawancara": 39,
+      "total": 311,
+      "status": "P"
+    }
+  ]
+}

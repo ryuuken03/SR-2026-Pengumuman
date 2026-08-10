@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007177",
+      "nama": "ASNI PARRANG",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 397,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000151",
+      "nama": "RAHMAWATI",
+      "teknis": 115,
+      "manajerial": 74,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 294,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008185",
+      "nama": "KESMERALDA WIWIN",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

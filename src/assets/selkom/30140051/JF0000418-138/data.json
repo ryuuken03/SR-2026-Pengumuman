@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004883",
+      "nama": "IRFANIAHLOCYTA SALSABILA",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004222",
+      "nama": "SHINDI LUDVIANA DAMAYANTI",
+      "teknis": 240,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000150",
+      "nama": "AHMAD IRWANSYAH",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 430,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003251",
+      "nama": "ANDREANI CAHYANING RAMADHANI",
+      "teknis": 225,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total": 430,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007326",
+      "nama": "AMINATUL ZULFA MUFIDA ALIM",
+      "teknis": 225,
+      "manajerial": 85,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000973",
+      "nama": "FIRJON NURISNA HADI AL HAQ",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 410,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120008548",
+      "nama": "VIVI SHOFIATUL AMALIA",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 408,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120007988",
+      "nama": "GRASYELA OCTA ULANNIDHA",
+      "teknis": 205,
+      "manajerial": 83,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120005321",
+      "nama": "GITA IRAWAN",
+      "teknis": 165,
+      "manajerial": 98,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 373,
+      "status": "P"
+    }
+  ]
+}

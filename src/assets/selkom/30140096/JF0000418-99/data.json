@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003266",
+      "nama": "KARDALIMAH",
+      "teknis": 195,
+      "manajerial": 80,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total": 388,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000130",
+      "nama": "CHRISTIAN ADI SAPUTRA",
+      "teknis": 175,
+      "manajerial": 82,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 361,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006757",
+      "nama": "TIFFANY RAMADINA PUTRISURYA",
+      "teknis": 155,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total": 345,
+      "status": "P/L"
+    }
+  ]
+}

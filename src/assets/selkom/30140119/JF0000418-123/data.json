@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006397",
+      "nama": "Nila Ridhayani",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 390,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004461",
+      "nama": "DYAH SEKAR PRATIWI",
+      "teknis": 175,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 380,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002207",
+      "nama": "MUHAMMAD ARKAAN RUSDI",
+      "teknis": 170,
+      "manajerial": 91,
+      "sosial_kultural": 63,
+      "wawancara": 38,
+      "total": 362,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006261",
+      "nama": "WIRDA WULAN",
+      "teknis": 165,
+      "manajerial": 86,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 355,
+      "status": "P"
+    }
+  ]
+}

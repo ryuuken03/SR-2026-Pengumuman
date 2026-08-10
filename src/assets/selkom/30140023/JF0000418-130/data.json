@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006003",
+      "nama": "IIS ALVIAH",
+      "teknis": 295,
+      "manajerial": 91,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total": 485,
+      "status": "P/L"
+    }
+  ]
+}

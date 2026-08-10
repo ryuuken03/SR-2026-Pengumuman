@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003227",
+      "nama": "RATRI MEIDIA INDRASASTI",
+      "teknis": 190,
+      "manajerial": 98,
+      "sosial_kultural": 78,
+      "wawancara": 40,
+      "total": 406,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003410",
+      "nama": "SHITA DHIYANTI VITASARI",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 60,
+      "wawancara": 37,
+      "total": 385,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004885",
+      "nama": "RISCA SHINTYA PUTRI",
+      "teknis": 180,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000797",
+      "nama": "DYAHASTI INDRAWARI",
+      "teknis": 165,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 38,
+      "total": 372,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001693",
+      "nama": "MOCHAMMAD NIZAR SAFI'I",
+      "teknis": 150,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 356,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003916",
+      "nama": "NOVIA RISKI NURSIAM",
+      "teknis": 135,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 342,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007728",
+      "nama": "MEGA LESTARI PUTRI",
+      "teknis": 140,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 341,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120003777",
+      "nama": "AJENG WIJARPRASIDYA",
+      "teknis": 130,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 326,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000971",
+      "nama": "ESA WAHYU DJATMIKO",
+      "teknis": 320,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 517,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004860",
+      "nama": "RAHMAWATI DIAN PRATIWI",
+      "teknis": 255,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 451,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004244",
+      "nama": "RIZKY AOLIYA NURDIYANA",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002694",
+      "nama": "ALDO KURNIAWAN",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120001269",
+      "nama": "RENNY ATRIMAZONA",
+      "teknis": 180,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 383,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001711",
+      "nama": "AZIZ MULYANA",
+      "teknis": 165,
+      "manajerial": 91,
+      "sosial_kultural": 64,
+      "wawancara": 39,
+      "total": 359,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003607",
+      "nama": "MELATI HERLINA SIHITE",
+      "teknis": 150,
+      "manajerial": 83,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 345,
+      "status": "P"
+    }
+  ]
+}

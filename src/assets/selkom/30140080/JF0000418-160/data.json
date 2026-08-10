@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005500",
+      "nama": "Eighty yohana Hutapea",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 414,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008153",
+      "nama": "FEBRIANI ATTAHHIYYAH",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 410,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004282",
+      "nama": "DEA MONICA",
+      "teknis": 210,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 404,
+      "status": "P/L"
+    }
+  ]
+}

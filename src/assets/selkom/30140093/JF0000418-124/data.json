@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004638",
+      "nama": "MAHARANI",
+      "teknis": 230,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000912",
+      "nama": "RIZKA AULIA HANUM FIRDANIE",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005497",
+      "nama": "NURHESTI",
+      "teknis": 205,
+      "manajerial": 83,
+      "sosial_kultural": 63,
+      "wawancara": 39,
+      "total": 390,
+      "status": "P"
+    }
+  ]
+}

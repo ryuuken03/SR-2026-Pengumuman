@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000172",
+      "nama": "INE SUARI",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002533",
+      "nama": "MUH RIDZKY ANDI PASO",
+      "teknis": 265,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 28,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000140",
+      "nama": "MUHAMMAD AQSA ABDULLAH",
+      "teknis": 220,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 412,
+      "status": "P"
+    }
+  ]
+}

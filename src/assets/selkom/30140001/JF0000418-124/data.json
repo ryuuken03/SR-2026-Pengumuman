@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007937",
+      "nama": "NIDA UL JANNAH",
+      "teknis": 265,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total": 464,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005754",
+      "nama": "ANINDA NUR SYAFITRI",
+      "teknis": 270,
+      "manajerial": 90,
+      "sosial_kultural": 63,
+      "wawancara": 34,
+      "total": 457,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002840",
+      "nama": "FIKRY ULAN SARI",
+      "teknis": 225,
+      "manajerial": 81,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 417,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002981",
+      "nama": "SUKMAWATI SAMIR",
+      "teknis": 210,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 414,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120008237",
+      "nama": "ELLI SASAPIRA",
+      "teknis": 210,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total": 411,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006806",
+      "nama": "NATASYA NUR FILLAILI",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 395,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000267",
+      "nama": "MUHAMMAD BAGUS PUTRA SATRIA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

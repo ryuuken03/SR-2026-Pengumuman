@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000233",
+      "nama": "JOSHUA MAMONDOL",
+      "teknis": 155,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 343,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008098",
+      "nama": "CICI AMALIA",
+      "teknis": 105,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 303,
+      "status": "P/L"
+    }
+  ]
+}

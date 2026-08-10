@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005170",
+      "nama": "RUSMANIAR",
+      "teknis": 230,
+      "manajerial": 88,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000746",
+      "nama": "PUTRI RAHMAWATI",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 33,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000156",
+      "nama": "RAHMI. RM",
+      "teknis": 215,
+      "manajerial": 83,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 406,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000792",
+      "nama": "GEBRINA REZKI",
+      "teknis": 200,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 400,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001807",
+      "nama": "TRENADI PRAMUDYA",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 463,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002097",
+      "nama": "SAIFUL NURHIDAYAT",
+      "teknis": 240,
+      "manajerial": 97,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001826",
+      "nama": "ARHAN MAULANA",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002164",
+      "nama": "RACHMAT HIDAYAT BACHTIAR",
+      "teknis": 235,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000742",
+      "nama": "MUHAMMAD TAUFIQ",
+      "teknis": 225,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 423,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002050",
+      "nama": "JUMARDI CINGKERU",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 33,
+      "total": 420,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001344",
+      "nama": "ANDI HILMAN KHADRI",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 410,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000250",
+      "nama": "INDRA MAULANA",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 399,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110001846",
+      "nama": "HASTOMO PUTRA",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total": 378,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120003429",
+      "nama": "NUR AMILA",
+      "teknis": 185,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110002582",
+      "nama": "A. TRI SURAHMAT",
+      "teknis": 180,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 31,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110003297",
+      "nama": "ANDI MUH. IHSAN FEBRI AMAR",
+      "teknis": 165,
+      "manajerial": 82,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 353,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110001787",
+      "nama": "SURYA ALAM SIMULIA",
+      "teknis": 190,
+      "manajerial": 79,
+      "sosial_kultural": 53,
+      "wawancara": 29,
+      "total": 351,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410110001438",
+      "nama": "ASWAR SIJAYA",
+      "teknis": 170,
+      "manajerial": 75,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410110000024",
+      "nama": "M. BINTANG DWI PUTRA",
+      "teknis": 160,
+      "manajerial": 82,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 347,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120002405",
+      "nama": "A. ADIJA SEPTIANI UMAR",
+      "teknis": 155,
+      "manajerial": 79,
+      "sosial_kultural": 75,
+      "wawancara": 30,
+      "total": 339,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410110000211",
+      "nama": "A. IAN ALI IMRAN",
+      "teknis": 150,
+      "manajerial": 77,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 331,
+      "status": "P"
+    }
+  ]
+}

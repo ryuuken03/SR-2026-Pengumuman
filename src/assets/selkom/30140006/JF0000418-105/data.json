@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002214",
+      "nama": "DINDA PURWADI",
+      "teknis": 205,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 397,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006342",
+      "nama": "PUTRI AGUSTIN SEPTYANI",
+      "teknis": 195,
+      "manajerial": 95,
+      "sosial_kultural": 61,
+      "wawancara": 39,
+      "total": 390,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000506",
+      "nama": "TIARA FAUZIA SAVITRI",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 64,
+      "wawancara": 31,
+      "total": 385,
+      "status": "P"
+    }
+  ]
+}

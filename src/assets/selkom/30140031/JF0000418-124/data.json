@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001435",
+      "nama": "HAIDAR TRISNA TANAYA",
+      "teknis": 320,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 523,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008368",
+      "nama": "RIZKY MUFIDIYATI",
+      "teknis": 295,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total": 483,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007126",
+      "nama": "MAWADDAH ARRAHMAH",
+      "teknis": 280,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 482,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008632",
+      "nama": "NADIYA ZAHRO",
+      "teknis": 280,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 480,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120001868",
+      "nama": "TASSANIA AULIA YUNITA NAIMATULIYAH",
+      "teknis": 275,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 478,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120007666",
+      "nama": "DZULKAISI MUTHIA SARI",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 445,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120006219",
+      "nama": "HANA NABILA",
+      "teknis": 230,
+      "manajerial": 81,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 419,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120008537",
+      "nama": "ANINDYA VEGY AURORA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 413,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120001005",
+      "nama": "MELA DWI LESTARI",
+      "teknis": 200,
+      "manajerial": 96,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120006620",
+      "nama": "DYAH PUTRI PURNAMASARI",
+      "teknis": 205,
+      "manajerial": 82,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120000101",
+      "nama": "PUTRI AYU",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 386,
+      "status": "P"
+    }
+  ]
+}

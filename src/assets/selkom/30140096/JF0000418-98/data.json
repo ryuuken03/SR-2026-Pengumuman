@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006560",
+      "nama": "JENI ROHANI DETHAN",
+      "teknis": 210,
+      "manajerial": 78,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001654",
+      "nama": "RIYAN RIFANI",
+      "teknis": 180,
+      "manajerial": 80,
+      "sosial_kultural": 75,
+      "wawancara": 29,
+      "total": 364,
+      "status": "P/L"
+    }
+  ]
+}

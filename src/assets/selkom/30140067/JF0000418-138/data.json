@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007231",
+      "nama": "MIFTAHUL JANNAH",
+      "teknis": 210,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 38,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001484",
+      "nama": "ZAHRATUL SUCI",
+      "teknis": 210,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 405,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003549",
+      "nama": "DESVIA ANANDA",
+      "teknis": 160,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 352,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005360",
+      "nama": "HUDIATUL ISLAMI",
+      "teknis": 145,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 347,
+      "status": "P"
+    }
+  ]
+}

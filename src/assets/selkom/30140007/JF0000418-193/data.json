@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000853",
+      "nama": "RISKI DWI INDAH SUPRIANTO",
+      "teknis": 240,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 31,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002901",
+      "nama": "WINDI ASTUTI",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 28,
+      "total": 387,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000622",
+      "nama": "NIKO ALEXANDER",
+      "teknis": 160,
+      "manajerial": 93,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 366,
+      "status": "P"
+    }
+  ]
+}

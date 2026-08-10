@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002324",
+      "nama": "HOTMAN PASARIBU",
+      "teknis": 315,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 518,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002477",
+      "nama": "WAHYU AJI PASMAH PUTRA",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 473,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002382",
+      "nama": "SOVI APRILIA MARDIA",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 413,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006896",
+      "nama": "APRILIA DAMAYANTI",
+      "teknis": 160,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 359,
+      "status": "P"
+    }
+  ]
+}

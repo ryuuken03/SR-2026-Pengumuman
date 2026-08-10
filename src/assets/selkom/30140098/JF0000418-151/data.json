@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000635",
+      "nama": "SLAMET RIANTO",
+      "teknis": 225,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006713",
+      "nama": "SALSA NAJWA AULIA",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001714",
+      "nama": "IRSAN",
+      "teknis": 175,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 362,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000865",
+      "nama": "AFRI LIANTO",
+      "teknis": 160,
+      "manajerial": 87,
+      "sosial_kultural": 61,
+      "wawancara": 36,
+      "total": 344,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006864",
+      "nama": "HILDA FITRI WIDYANA",
+      "teknis": 255,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002541",
+      "nama": "PERMATA KAMILATUN NISA",
+      "teknis": 130,
+      "manajerial": 96,
+      "sosial_kultural": 60,
+      "wawancara": 31,
+      "total": 317,
+      "status": "P/L"
+    }
+  ]
+}

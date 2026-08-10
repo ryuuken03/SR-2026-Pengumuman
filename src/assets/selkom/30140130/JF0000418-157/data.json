@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000309",
+      "nama": "MUHAMAD RAFI SOMANTRI",
+      "teknis": 345,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 543,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004189",
+      "nama": "ROYYA ZAHROTUL MALA",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 473,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000772",
+      "nama": "MUHAMMAD RAFLI SIDIN",
+      "teknis": 275,
+      "manajerial": 83,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 460,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007430",
+      "nama": "YUPILIA SAPUTRI NEHUNG",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 405,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000334",
+      "nama": "YOHANA MARIA VIANEY FUNAY",
+      "teknis": 195,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003893",
+      "nama": "YUNIATI PERSEVERANDA WODA",
+      "teknis": 175,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120008117",
+      "nama": "NURHIDAYANTI",
+      "teknis": 165,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110002751",
+      "nama": "BENY MELANTON NATUMNEA",
+      "teknis": 170,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 363,
+      "status": "P"
+    }
+  ]
+}

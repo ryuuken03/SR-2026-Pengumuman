@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005765",
+      "nama": "ELOK ROHMAWATI",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003313",
+      "nama": "RIZAL MUFID AN NURDIN",
+      "teknis": 200,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 403,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003009",
+      "nama": "YOGA ADI PRATAMA",
+      "teknis": 205,
+      "manajerial": 96,
+      "sosial_kultural": 58,
+      "wawancara": 38,
+      "total": 397,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000654",
+      "nama": "RAFII DWI SAPUTRA",
+      "teknis": 200,
+      "manajerial": 79,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 385,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000376",
+      "nama": "MAYLINDA DWI ASTUTI",
+      "teknis": 150,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 353,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120009182",
+      "nama": "JAM JALANI NUR ALAMI",
+      "teknis": 150,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 352,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007469",
+      "nama": "KHOLIFAH FALUPI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

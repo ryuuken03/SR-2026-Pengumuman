@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008203",
+      "nama": "NANDA FUNNA",
+      "teknis": 300,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 501,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001605",
+      "nama": "LAHUDIN",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total": 482,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005564",
+      "nama": "PUTI MERELI",
+      "teknis": 260,
+      "manajerial": 86,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 452,
+      "status": "P/L"
+    }
+  ]
+}

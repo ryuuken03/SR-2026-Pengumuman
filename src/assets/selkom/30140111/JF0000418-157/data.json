@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002731",
+      "nama": "M. Rifqi Miftahun Nurulhad",
+      "teknis": 290,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 492,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001538",
+      "nama": "MUNADRI",
+      "teknis": 215,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002739",
+      "nama": "Arif Nahdatul Khair",
+      "teknis": 130,
+      "manajerial": 79,
+      "sosial_kultural": 62,
+      "wawancara": 32,
+      "total": 303,
+      "status": "P"
+    }
+  ]
+}

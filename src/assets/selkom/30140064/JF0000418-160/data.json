@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000436",
+      "nama": "AHYAR ARRAYYAN",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 443,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007522",
+      "nama": "YUNA RAUDHA",
+      "teknis": 225,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 423,
+      "status": "P/L"
+    }
+  ]
+}

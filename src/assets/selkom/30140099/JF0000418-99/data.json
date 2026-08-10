@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005420",
+      "nama": "RUHAMA FARASYA",
+      "teknis": 270,
+      "manajerial": 83,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 461,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000697",
+      "nama": "NURMITA ZAIN",
+      "teknis": 230,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001982",
+      "nama": "MUHAMMAD FAUZIAN NOOR",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000551",
+      "nama": "MUHAMMAD NOOR AMIN",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 64,
+      "wawancara": 39,
+      "total": 396,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000607",
+      "nama": "SITI HUMAIRO",
+      "teknis": 195,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 395,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005277",
+      "nama": "ELMI KHOIRINA",
+      "teknis": 155,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 31,
+      "total": 346,
+      "status": "P/L"
+    }
+  ]
+}

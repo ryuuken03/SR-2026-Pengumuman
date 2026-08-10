@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002730",
+      "nama": "DEWANGGA ANDHIKA YUDA",
+      "teknis": 290,
+      "manajerial": 97,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 499,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004651",
+      "nama": "INTAN REGINA ULYA",
+      "teknis": 275,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 480,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001761",
+      "nama": "GEBRILIA INDRA PARASANTI",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007668",
+      "nama": "SITI AISYAH",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006167",
+      "nama": "ANGGUN NIRMALA SAFITRI",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 405,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120007509",
+      "nama": "SITI HALUMA SADA",
+      "teknis": 190,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 396,
+      "status": "P"
+    }
+  ]
+}

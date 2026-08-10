@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000528",
+      "nama": "SURTI NINGSIH",
+      "teknis": 365,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 567,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006692",
+      "nama": "IRMA ANGGITA",
+      "teknis": 325,
+      "manajerial": 92,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total": 522,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007073",
+      "nama": "RIZQATUS SHOLEHAH",
+      "teknis": 290,
+      "manajerial": 99,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 493,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000789",
+      "nama": "SUNARTO",
+      "teknis": 290,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 487,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120005645",
+      "nama": "RISKIYANTI",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001799",
+      "nama": "IRFAH KHOIRUNISA",
+      "teknis": 180,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 375,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007296",
+      "nama": "RAHMASARI KUSUMADEWI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

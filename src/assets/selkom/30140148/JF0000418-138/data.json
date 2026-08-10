@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002492",
+      "nama": "FIONA MELTA",
+      "teknis": 210,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003781",
+      "nama": "NELDA RAHMA LISA PUTRI",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 409,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003204",
+      "nama": "FERDI SETIAWAN",
+      "teknis": 225,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003354",
+      "nama": "ROSNAWATI",
+      "teknis": 200,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000452",
+      "nama": "EZRA SELAWATI LA'BI",
+      "teknis": 200,
+      "manajerial": 76,
+      "sosial_kultural": 62,
+      "wawancara": 37,
+      "total": 375,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005912",
+      "nama": "ANNISA IMANURAHMAN",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001404",
+      "nama": "ALIF AKBAR HIDAYATULLAH ARIFIN",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120008442",
+      "nama": "ANDI MUSTIKA AYU",
+      "teknis": 170,
+      "manajerial": 71,
+      "sosial_kultural": 0,
+      "wawancara": 36,
+      "total": 277,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110003226",
+      "nama": "KARTONO MUHAMMAD",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

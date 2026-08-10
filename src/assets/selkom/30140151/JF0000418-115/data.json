@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006939",
+      "nama": "NURLINDA",
+      "teknis": 235,
+      "manajerial": 86,
+      "sosial_kultural": 64,
+      "wawancara": 38,
+      "total": 423,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007852",
+      "nama": "ELSA MUNTIANA MERRY",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 407,
+      "status": "P/L"
+    }
+  ]
+}

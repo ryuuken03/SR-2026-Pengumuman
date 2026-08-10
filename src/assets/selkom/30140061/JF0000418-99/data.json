@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000613",
+      "nama": "NUR FITRIANI",
+      "teknis": 265,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 465,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008710",
+      "nama": "ANA TRI SETYAWATI",
+      "teknis": 255,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total": 451,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001511",
+      "nama": "BERLLY FEBRIANTO",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 424,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000760",
+      "nama": "DEAN CAMAR NOVIRA",
+      "teknis": 220,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 417,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001938",
+      "nama": "BAGUS IZZULHAQ AZIZZI",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 33,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120007757",
+      "nama": "PRISKA SINTA ANDINA",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120005327",
+      "nama": "DWI HANUM MASRUROH",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000317",
+      "nama": "Mahendra Putra Anto",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

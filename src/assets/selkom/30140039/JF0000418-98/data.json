@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006050",
+      "nama": "WINDHI AGUS TIA WIKA",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005187",
+      "nama": "WIDIA AGUSTIN",
+      "teknis": 215,
+      "manajerial": 93,
+      "sosial_kultural": 63,
+      "wawancara": 40,
+      "total": 411,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007401",
+      "nama": "KARINA NURUL HANIFA",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 410,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006940",
+      "nama": "MELLINDA SEVI PUTRI SUSANTI",
+      "teknis": 200,
+      "manajerial": 83,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002456",
+      "nama": "ATTALIA DWI TRISTANTI",
+      "teknis": 195,
+      "manajerial": 89,
+      "sosial_kultural": 65,
+      "wawancara": 40,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002740",
+      "nama": "AGUNG YAMRONI",
+      "teknis": 145,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 335,
+      "status": "P"
+    }
+  ]
+}

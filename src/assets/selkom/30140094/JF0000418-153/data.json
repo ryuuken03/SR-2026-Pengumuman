@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006467",
+      "nama": "TARMILA",
+      "teknis": 305,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 507,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001194",
+      "nama": "SHOPHIAN DEALICH KLAUSSISKO",
+      "teknis": 300,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 495,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002255",
+      "nama": "HASAN SUWANDI",
+      "teknis": 285,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 482,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001496",
+      "nama": "NURFAHMI HAJAR",
+      "teknis": 265,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 469,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002804",
+      "nama": "MAHENDRA MALIK MUSTAKIM",
+      "teknis": 270,
+      "manajerial": 85,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002936",
+      "nama": "ALDIAN TOMIA",
+      "teknis": 235,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 423,
+      "status": "P/L"
+    }
+  ]
+}

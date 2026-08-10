@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001406",
+      "nama": "ENDANG FITRI LESTARI",
+      "teknis": 280,
+      "manajerial": 93,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 487,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004530",
+      "nama": "NUR LAILI IKAWATI",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001652",
+      "nama": "ARIEL GILANG MUHARAM",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 66,
+      "wawancara": 33,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005216",
+      "nama": "Mufidah Nur Izzati",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007057",
+      "nama": "ANNISA' KHOIRINA HABIBILAH",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 428,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003636",
+      "nama": "LUCKY MEIDIANTI DARMAWAN",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120002277",
+      "nama": "ESTI NURUL AINI",
+      "teknis": 225,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total": 421,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120003592",
+      "nama": "GALUH PRISTA ANGGRAENI",
+      "teknis": 225,
+      "manajerial": 86,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 418,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120003407",
+      "nama": "FIRDHA AKHDANIA KAMILAH",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 418,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110001664",
+      "nama": "NUR AFANDI",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 416,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120006301",
+      "nama": "R. RR. ALMASSHABUR INDRA HART",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 33,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110000371",
+      "nama": "RUDI LESMANA",
+      "teknis": 210,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120006116",
+      "nama": "SITI FEBBI AMELIANA HERIANTO",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410110001832",
+      "nama": "SYAEFUL BAHARI",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 384,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120007323",
+      "nama": "INNEKE CIKA WANDIRA",
+      "teknis": 175,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410120002621",
+      "nama": "Putri Nur Azizah",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 378,
+      "status": "P"
+    },
+    {
+      "no": 17,
+      "nomor_peserta": "26301410120004473",
+      "nama": "SEKAR DEWI NAWANGSARI",
+      "teknis": 140,
+      "manajerial": 83,
+      "sosial_kultural": 64,
+      "wawancara": 38,
+      "total": 325,
+      "status": "P"
+    },
+    {
+      "no": 18,
+      "nomor_peserta": "26301410120003032",
+      "nama": "NADIA FARAH ADRIYANTI",
+      "teknis": 130,
+      "manajerial": 73,
+      "sosial_kultural": 64,
+      "wawancara": 30,
+      "total": 297,
+      "status": "P"
+    }
+  ]
+}

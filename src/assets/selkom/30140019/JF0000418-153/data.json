@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001418",
+      "nama": "TEGAR ARIF NURRAHMAN",
+      "teknis": 270,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 466,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001199",
+      "nama": "APRIANA NURLAELI",
+      "teknis": 265,
+      "manajerial": 86,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 454,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003168",
+      "nama": "ELSA FEBYSAPUTRI",
+      "teknis": 260,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 453,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007560",
+      "nama": "SUSANTI LEIMENA",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005012",
+      "nama": "RUSNAINI LIKU",
+      "teknis": 170,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003627",
+      "nama": "AMEY MAKAHITY",
+      "teknis": 155,
+      "manajerial": 79,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 338,
+      "status": "P/L"
+    }
+  ]
+}

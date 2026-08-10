@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007334",
+      "nama": "Shela Kusuma Wardhani",
+      "teknis": 280,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 478,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003249",
+      "nama": "NUR CAHYA PRADIPTA",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002177",
+      "nama": "DWI RIDWAN NURKHOLIK",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 383,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001380",
+      "nama": "FEBRI LAILIAN IKHSANUDIN",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

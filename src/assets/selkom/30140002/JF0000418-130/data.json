@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005979",
+      "nama": "MAYA AMELIA",
+      "teknis": 265,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 456,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001247",
+      "nama": "EGI PERMANA",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 33,
+      "total": 445,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008472",
+      "nama": "DEWI HERNAWATI",
+      "teknis": 220,
+      "manajerial": 97,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 425,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110003022",
+      "nama": "M. NAUFAL YASIN",
+      "teknis": 215,
+      "manajerial": 91,
+      "sosial_kultural": 77,
+      "wawancara": 34,
+      "total": 417,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120008432",
+      "nama": "IIK SINTIA ALFAZ",
+      "teknis": 205,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 405,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120008327",
+      "nama": "JIHAN ASSYIFA FATIHAH",
+      "teknis": 200,
+      "manajerial": 97,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 397,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120008720",
+      "nama": "FAQIA PUTRI",
+      "teknis": 190,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110001487",
+      "nama": "NUNUNG NURWAHIDIN",
+      "teknis": 155,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 355,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002062",
+      "nama": "ANNISA RACHMAN",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003016",
+      "nama": "TRI PRIHATIN HIDAYATILLAH",
+      "teknis": 215,
+      "manajerial": 100,
+      "sosial_kultural": 64,
+      "wawancara": 39,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000967",
+      "nama": "MOH. WILDAN WAHYUDI",
+      "teknis": 175,
+      "manajerial": 76,
+      "sosial_kultural": 78,
+      "wawancara": 34,
+      "total": 363,
+      "status": "P/L"
+    }
+  ]
+}

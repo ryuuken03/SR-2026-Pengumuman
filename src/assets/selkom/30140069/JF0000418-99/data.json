@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006848",
+      "nama": "RAISA AZKIYA",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 392,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009102",
+      "nama": "WIDIA WATI",
+      "teknis": 155,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 347,
+      "status": "P/L"
+    }
+  ]
+}

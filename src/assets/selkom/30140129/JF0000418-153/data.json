@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004874",
+      "nama": "HOFIFAH INDRA SARI",
+      "teknis": 320,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 527,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001249",
+      "nama": "TAUFIK HIDAYAT",
+      "teknis": 295,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 482,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001925",
+      "nama": "FEBRIAN EVAYANTI",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 453,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004529",
+      "nama": "FASIKHA",
+      "teknis": 255,
+      "manajerial": 86,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002028",
+      "nama": "LALU HABIB",
+      "teknis": 260,
+      "manajerial": 82,
+      "sosial_kultural": 61,
+      "wawancara": 37,
+      "total": 440,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002783",
+      "nama": "MUJIHAD AKBAR TANGANAM",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 60,
+      "wawancara": 34,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110000754",
+      "nama": "MUHAMMAD NAFIS MAULANA",
+      "teknis": 210,
+      "manajerial": 67,
+      "sosial_kultural": 53,
+      "wawancara": 40,
+      "total": 370,
+      "status": "P"
+    }
+  ]
+}

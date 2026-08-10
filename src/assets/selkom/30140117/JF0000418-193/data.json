@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003244",
+      "nama": "HERMESDI",
+      "teknis": 285,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000912",
+      "nama": "WAHYU DJUDDAH",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001179",
+      "nama": "IBNU FARHAN HASRUL",
+      "teknis": 245,
+      "manajerial": 82,
+      "sosial_kultural": 78,
+      "wawancara": 36,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001180",
+      "nama": "HARUN DEPPALALLO",
+      "teknis": 235,
+      "manajerial": 83,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002767",
+      "nama": "ILDAYANTI",
+      "teknis": 225,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 427,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000295",
+      "nama": "MUHAMMAD REZA SHIRAJ",
+      "teknis": 225,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 414,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000186",
+      "nama": "NINING ULUL FAJRI",
+      "teknis": 205,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total": 400,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120009090",
+      "nama": "NUR ALAM",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120001515",
+      "nama": "MUSLIKA",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 384,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120000287",
+      "nama": "JUMARIA MANDA",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110001841",
+      "nama": "MUHAMMAD ZIKRUL FADIL",
+      "teknis": 155,
+      "manajerial": 81,
+      "sosial_kultural": 54,
+      "wawancara": 33,
+      "total": 323,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120008197",
+      "nama": "MISPASARI",
+      "teknis": 105,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 301,
+      "status": "P"
+    }
+  ]
+}

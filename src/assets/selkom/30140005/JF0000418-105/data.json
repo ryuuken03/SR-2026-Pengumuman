@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000451",
+      "nama": "FAHMI ABDILLAH",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000139",
+      "nama": "AENI INAYAH ELFITRIYAH",
+      "teknis": 250,
+      "manajerial": 80,
+      "sosial_kultural": 63,
+      "wawancara": 37,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002398",
+      "nama": "ALIFA NURUL KARIMA",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000197",
+      "nama": "DEDE RAHMAT HIDAYAT",
+      "teknis": 180,
+      "manajerial": 81,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000937",
+      "nama": "MOH SUCI AJI WIBAWA",
+      "teknis": 170,
+      "manajerial": 84,
+      "sosial_kultural": 73,
+      "wawancara": 29,
+      "total": 356,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002077",
+      "nama": "FIKRI ARIF GUMELAR",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

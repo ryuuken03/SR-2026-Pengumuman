@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001808",
+      "nama": "MUHAMMAD FARHAN MURZANI",
+      "teknis": 315,
+      "manajerial": 92,
+      "sosial_kultural": 79,
+      "wawancara": 38,
+      "total": 524,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008347",
+      "nama": "MIFTAHUL JANNAH",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120009185",
+      "nama": "NANDA AYU LARASATI",
+      "teknis": 240,
+      "manajerial": 84,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 429,
+      "status": "P"
+    }
+  ]
+}

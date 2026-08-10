@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001404",
+      "nama": "NEVITA AULYA ZARKASI",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002347",
+      "nama": "LUTFI EKA NUR LAILI",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001039",
+      "nama": "INTAN MAUDATUS SYAFIYAH",
+      "teknis": 160,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 360,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001816",
+      "nama": "KRESNA WAHYU ARIE PRADHANA",
+      "teknis": 195,
+      "manajerial": 82,
+      "sosial_kultural": 23,
+      "wawancara": 37,
+      "total": 337,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001778",
+      "nama": "MOCH. RIZAL ADI SETIAWAN",
+      "teknis": 110,
+      "manajerial": 62,
+      "sosial_kultural": 0,
+      "wawancara": 32,
+      "total": 204,
+      "status": "P"
+    }
+  ]
+}

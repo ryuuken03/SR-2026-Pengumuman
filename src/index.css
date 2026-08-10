@@ -1,0 +1,108 @@
+/* ============================================================
+   Design System — Sekolah Rakyat 2026 Pengumuman
+   Diadaptasi dari Search KDKMP SKT
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+html {
+  --radius: 0.5rem;
+  --brand: 221 83% 53%;
+  --brand-foreground: 217 91% 60%;
+  color-scheme: light;
+
+  /* Light theme */
+  --background: 0 0% 100%;
+  --foreground: 222 47% 11%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+  --primary: 222 47% 11%;
+  --primary-foreground: 0 0% 98%;
+  --secondary: 210 40% 96%;
+  --secondary-foreground: 222 47% 11%;
+  --muted: 210 40% 96%;
+  --muted-foreground: 215 16% 47%;
+  --accent: 210 40% 94%;
+  --accent-foreground: 222 47% 11%;
+  --border: 214 32% 91%;
+  --input: 214 32% 85%;
+  --ring: 221 83% 53%;
+  --table-header-bg: 210 40% 97%;
+  --app-shadow: 0 1px 3px rgb(0 0 0 / 0.08), 0 8px 30px rgb(0 0 0 / 0.06);
+  --table-shadow: 0 1px 2px rgb(0 0 0 / 0.06);
+  --thumb-shadow: 0 2px 8px rgb(0 0 0 / 0.08);
+  --body-glow-1: hsl(221 83% 53% / 0.08);
+  --body-glow-2: hsl(217 91% 60% / 0.05);
+
+  /* Status colors */
+  --status-lulus: 142 70% 45%;
+  --status-lulus-bg: 142 70% 97%;
+  --status-tl: 0 72% 51%;
+  --status-tl-bg: 0 72% 97%;
+}
+
+html[data-theme='dark'],
+html.dark {
+  color-scheme: dark;
+  --background: 222 47% 6%;
+  --foreground: 210 40% 96%;
+  --card: 222 47% 8%;
+  --card-foreground: 210 40% 96%;
+  --primary: 210 40% 96%;
+  --primary-foreground: 222 47% 11%;
+  --secondary: 217 33% 14%;
+  --secondary-foreground: 210 40% 96%;
+  --muted: 217 33% 11%;
+  --muted-foreground: 215 20% 55%;
+  --accent: 217 33% 14%;
+  --accent-foreground: 210 40% 96%;
+  --border: 217 33% 16%;
+  --input: 217 33% 16%;
+  --ring: 224 64% 60%;
+  --table-header-bg: 222 47% 10%;
+  --app-shadow: 0 0 0 1px hsl(var(--border) / 0.5), 0 25px 50px -12px rgb(0 0 0 / 0.5);
+  --table-shadow: 0 1px 3px rgb(0 0 0 / 0.35);
+  --thumb-shadow: 0 4px 12px rgb(0 0 0 / 0.35);
+  --body-glow-1: hsl(221 83% 53% / 0.1);
+  --body-glow-2: hsl(217 91% 60% / 0.05);
+  --status-lulus: 142 60% 50%;
+  --status-lulus-bg: 142 40% 10%;
+  --status-tl: 0 72% 60%;
+  --status-tl-bg: 0 50% 10%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -20%, var(--body-glow-1), transparent),
+    radial-gradient(ellipse 60% 40% at 100% 0%, var(--body-glow-2), transparent);
+  transition: background-color 0.2s, color 0.2s;
+}
+
+#root {
+  color: inherit;
+  text-align: left;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}

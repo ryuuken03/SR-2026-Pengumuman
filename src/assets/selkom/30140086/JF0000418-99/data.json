@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002342",
+      "nama": "IKA OCTAVIANI",
+      "teknis": 230,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003850",
+      "nama": "LINIA S.R.R",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 432,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000874",
+      "nama": "NUR FAOZI",
+      "teknis": 170,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 370,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006988",
+      "nama": "ANISA BIANITA UTAMI",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 358,
+      "status": "P/L"
+    }
+  ]
+}

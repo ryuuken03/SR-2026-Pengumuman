@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000541",
+      "nama": "ELBA RICHO FALLAH",
+      "teknis": 270,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 469,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000955",
+      "nama": "PREMI SEPTI LESTARI",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000710",
+      "nama": "SITI HARDIANTI",
+      "teknis": 135,
+      "manajerial": 86,
+      "sosial_kultural": 56,
+      "wawancara": 38,
+      "total": 315,
+      "status": "P/L"
+    }
+  ]
+}

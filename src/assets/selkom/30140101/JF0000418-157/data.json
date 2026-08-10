@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001568",
+      "nama": "AJAR WAHYU JATI",
+      "teknis": 300,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 503,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008439",
+      "nama": "AZIZAH RODIAH",
+      "teknis": 250,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002257",
+      "nama": "BAGUS MIKAIL",
+      "teknis": 215,
+      "manajerial": 81,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 398,
+      "status": "P"
+    }
+  ]
+}

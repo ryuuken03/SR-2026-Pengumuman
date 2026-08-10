@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005782",
+      "nama": "Silvi Nihlatin Naila",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007819",
+      "nama": "MARCHELIN FADIAHAYYA TUZAHRO",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003344",
+      "nama": "HAYYI AZIMATUD DIYANAH",
+      "teknis": 135,
+      "manajerial": 82,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 327,
+      "status": "P"
+    }
+  ]
+}

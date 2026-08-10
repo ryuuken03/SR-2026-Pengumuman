@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007899",
+      "nama": "Nur Ramadhani Adi Jaya",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006810",
+      "nama": "NURUL FATWA ANBIYA JUSUF",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total": 392,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001104",
+      "nama": "RAHMAT HIDAYAT",
+      "teknis": 180,
+      "manajerial": 81,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000149",
+      "nama": "JULVAN KARNAIN MODEONG",
+      "teknis": 160,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 365,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006630",
+      "nama": "HARIYANTI",
+      "teknis": 130,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 332,
+      "status": "P"
+    }
+  ]
+}

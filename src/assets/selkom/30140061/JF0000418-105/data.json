@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006479",
+      "nama": "FADILLA MEYSA PUTRI",
+      "teknis": 270,
+      "manajerial": 93,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005959",
+      "nama": "TIARA NURDIAN ISLAMIATI",
+      "teknis": 250,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004224",
+      "nama": "FATHIA ARIFINA FEBREANTI",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 436,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007605",
+      "nama": "LILIEF AINUR NASTAIIN",
+      "teknis": 225,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 421,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006355",
+      "nama": "UMI LATIFAH",
+      "teknis": 210,
+      "manajerial": 78,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000420",
+      "nama": "FITRIA DWI SETYANINGRUM",
+      "teknis": 200,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000636",
+      "nama": "TOHIROTUL KHASANAH",
+      "teknis": 200,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 30,
+      "total": 384,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000171",
+      "nama": "LILA KURNIAWATI",
+      "teknis": 180,
+      "manajerial": 87,
+      "sosial_kultural": 61,
+      "wawancara": 36,
+      "total": 364,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110003236",
+      "nama": "Dzikri Zain Aneby",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 364,
+      "status": "P"
+    }
+  ]
+}

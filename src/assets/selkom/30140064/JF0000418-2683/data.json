@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007974",
+      "nama": "YUNI HERVINA",
+      "teknis": 270,
+      "manajerial": 97,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 480,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000132",
+      "nama": "ZARQA",
+      "teknis": 225,
+      "manajerial": 83,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 414,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005233",
+      "nama": "AHDA SALSABILA ISIRSA",
+      "teknis": 200,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total": 390,
+      "status": "P/L"
+    }
+  ]
+}

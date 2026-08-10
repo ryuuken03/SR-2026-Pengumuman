@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001744",
+      "nama": "FARIZ NOOR AZIZI",
+      "teknis": 260,
+      "manajerial": 89,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 463,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007694",
+      "nama": "Anggi Isna Khoirinnisa",
+      "teknis": 245,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001366",
+      "nama": "YOGA HANIF FAIZ",
+      "teknis": 230,
+      "manajerial": 97,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006665",
+      "nama": "MALINDA PUTRI ROSMELATI",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120004332",
+      "nama": "Wilian Karera Putri",
+      "teknis": 235,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001027",
+      "nama": "EKO APRILIANTO",
+      "teknis": 235,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000308",
+      "nama": "SALSABELA TITIS TONANDA",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000473",
+      "nama": "ARYA KUMARA ADJI",
+      "teknis": 220,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110003279",
+      "nama": "ULUL FADLI ABDUSSALAM",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 411,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110000941",
+      "nama": "MASRURI ZHAFRAN HIDAYAT",
+      "teknis": 205,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 406,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120007750",
+      "nama": "FIVIANA SULISTIYANA",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 387,
+      "status": "P"
+    }
+  ]
+}

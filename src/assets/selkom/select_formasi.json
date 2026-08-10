@@ -1,0 +1,726 @@
+{
+  "Jabatan Formasi": [
+    {
+      "kode": "JF0000418-98",
+      "label": "Guru Ahli Pertama - GURU BAHASA INDONESIA"
+    },
+    {
+      "kode": "JF0000418-99",
+      "label": "Guru Ahli Pertama - GURU BAHASA INGGRIS"
+    },
+    {
+      "kode": "JF0000418-105",
+      "label": "Guru Ahli Pertama - GURU BIMBINGAN KONSELING"
+    },
+    {
+      "kode": "JF0000418-106",
+      "label": "Guru Ahli Pertama - GURU BIOLOGI"
+    },
+    {
+      "kode": "JF0000418-115",
+      "label": "Guru Ahli Pertama - GURU EKONOMI"
+    },
+    {
+      "kode": "JF0000418-118",
+      "label": "Guru Ahli Pertama - GURU FISIKA"
+    },
+    {
+      "kode": "JF0000418-119",
+      "label": "Guru Ahli Pertama - GURU GEOGRAFI"
+    },
+    {
+      "kode": "JF0000418-123",
+      "label": "Guru Ahli Pertama - GURU IPA"
+    },
+    {
+      "kode": "JF0000418-124",
+      "label": "Guru Ahli Pertama - GURU IPS"
+    },
+    {
+      "kode": "JF0000418-2683",
+      "label": "Guru Ahli Pertama - GURU KELAS-SD"
+    },
+    {
+      "kode": "JF0000418-130",
+      "label": "Guru Ahli Pertama - GURU KIMIA"
+    },
+    {
+      "kode": "JF0000418-138",
+      "label": "Guru Ahli Pertama - GURU MATEMATIKA"
+    },
+    {
+      "kode": "JF0000418-151",
+      "label": "Guru Ahli Pertama - GURU PENJASORKES"
+    },
+    {
+      "kode": "JF0000418-153",
+      "label": "Guru Ahli Pertama - GURU PPKN"
+    },
+    {
+      "kode": "JF0000418-157",
+      "label": "Guru Ahli Pertama - GURU SEJARAH"
+    },
+    {
+      "kode": "JF0000418-160",
+      "label": "Guru Ahli Pertama - GURU SENI BUDAYA"
+    },
+    {
+      "kode": "JF0000418-164",
+      "label": "Guru Ahli Pertama - GURU SOSIOLOGI"
+    },
+    {
+      "kode": "JF0000418-193",
+      "label": "Guru Ahli Pertama - GURU TIK"
+    },
+    {
+      "kode": "JP4291224-1",
+      "label": "PENATA LAYANAN OPERASIONAL (Wali Asuh)"
+    },
+    {
+      "kode": "JP4291224-2",
+      "label": "PENATA LAYANAN OPERASIONAL (Wali Asrama)"
+    },
+    {
+      "kode": "JP4224779-2",
+      "label": "PENGELOLA LAYANAN OPERASIONAL (Operator Sekolah)"
+    },
+    {
+      "kode": "JP4224779-1",
+      "label": "PENGELOLA LAYANAN OPERASIONAL (Pengelola Keuangan)"
+    },
+    {
+      "kode": "JP4291364-1",
+      "label": "OPERATOR LAYANAN OPERASIONAL (Administrasi Perkantoran)"
+    }
+  ],
+  "Lokasi Formasi": [
+    {
+      "kode": "30140001",
+      "label": "Prov. DKI Jakarta"
+    },
+    {
+      "kode": "30140002",
+      "label": "Kab. Bogor"
+    },
+    {
+      "kode": "30140003",
+      "label": "Kab. Sukabumi"
+    },
+    {
+      "kode": "30140004",
+      "label": "Kab. Bandung"
+    },
+    {
+      "kode": "30140005",
+      "label": "Kab. Sumedang"
+    },
+    {
+      "kode": "30140006",
+      "label": "Kab. Garut"
+    },
+    {
+      "kode": "30140007",
+      "label": "Kab. Tasikmalaya"
+    },
+    {
+      "kode": "30140008",
+      "label": "Kab. Kuningan"
+    },
+    {
+      "kode": "30140009",
+      "label": "Kab. Majalengka"
+    },
+    {
+      "kode": "30140010",
+      "label": "Kab. Cirebon"
+    },
+    {
+      "kode": "30140011",
+      "label": "Kab. Indramayu"
+    },
+    {
+      "kode": "30140012",
+      "label": "Kab. Bekasi"
+    },
+    {
+      "kode": "30140013",
+      "label": "Kab. Bandung Barat"
+    },
+    {
+      "kode": "30140014",
+      "label": "Kota Bogor"
+    },
+    {
+      "kode": "30140015",
+      "label": "Kota Bekasi"
+    },
+    {
+      "kode": "30140016",
+      "label": "Kota Cimahi"
+    },
+    {
+      "kode": "30140017",
+      "label": "Kab. Cilacap"
+    },
+    {
+      "kode": "30140018",
+      "label": "Kab. Banyumas"
+    },
+    {
+      "kode": "30140019",
+      "label": "Kab. Banjarnegara"
+    },
+    {
+      "kode": "30140020",
+      "label": "Kab. Kebumen"
+    },
+    {
+      "kode": "30140021",
+      "label": "Kab. Wonosobo"
+    },
+    {
+      "kode": "30140022",
+      "label": "Kab. Magelang"
+    },
+    {
+      "kode": "30140023",
+      "label": "Kab. Sukoharjo"
+    },
+    {
+      "kode": "30140024",
+      "label": "Kab. Sragen"
+    },
+    {
+      "kode": "30140025",
+      "label": "Kab. Blora"
+    },
+    {
+      "kode": "30140026",
+      "label": "Kab. Rembang"
+    },
+    {
+      "kode": "30140027",
+      "label": "Kab. Pati"
+    },
+    {
+      "kode": "30140028",
+      "label": "Kab. Jepara"
+    },
+    {
+      "kode": "30140029",
+      "label": "Kab. Temanggung"
+    },
+    {
+      "kode": "30140030",
+      "label": "Kab. Brebes"
+    },
+    {
+      "kode": "30140031",
+      "label": "Kota Semarang"
+    },
+    {
+      "kode": "30140032",
+      "label": "Kab. Bantul"
+    },
+    {
+      "kode": "30140033",
+      "label": "Kab. Sleman"
+    },
+    {
+      "kode": "30140034",
+      "label": "Kab. Kulon Progo"
+    },
+    {
+      "kode": "30140035",
+      "label": "Kab. Gresik"
+    },
+    {
+      "kode": "30140036",
+      "label": "Kab. Mojokerto"
+    },
+    {
+      "kode": "30140037",
+      "label": "Kab. Jombang"
+    },
+    {
+      "kode": "30140038",
+      "label": "Kab. Bojonegoro"
+    },
+    {
+      "kode": "30140039",
+      "label": "Kab. Tuban"
+    },
+    {
+      "kode": "30140040",
+      "label": "Kab. Lamongan"
+    },
+    {
+      "kode": "30140041",
+      "label": "Kab. Madiun"
+    },
+    {
+      "kode": "30140042",
+      "label": "Kab. Ngawi"
+    },
+    {
+      "kode": "30140043",
+      "label": "Kab. Ponorogo"
+    },
+    {
+      "kode": "30140044",
+      "label": "Kab. Pacitan"
+    },
+    {
+      "kode": "30140045",
+      "label": "Kab. Kediri"
+    },
+    {
+      "kode": "30140046",
+      "label": "Kab. Nganjuk"
+    },
+    {
+      "kode": "30140047",
+      "label": "Kab. Trenggalek"
+    },
+    {
+      "kode": "30140048",
+      "label": "Kab. Malang"
+    },
+    {
+      "kode": "30140049",
+      "label": "Kab. Pasuruan"
+    },
+    {
+      "kode": "30140050",
+      "label": "Kab. Probolinggo"
+    },
+    {
+      "kode": "30140051",
+      "label": "Kab. Jember"
+    },
+    {
+      "kode": "30140052",
+      "label": "Kab. Banyuwangi"
+    },
+    {
+      "kode": "30140053",
+      "label": "Kab. Pamekasan"
+    },
+    {
+      "kode": "30140054",
+      "label": "Kab. Sampang"
+    },
+    {
+      "kode": "30140055",
+      "label": "Kab. Sumenep"
+    },
+    {
+      "kode": "30140056",
+      "label": "Kab. Bangkalan"
+    },
+    {
+      "kode": "30140057",
+      "label": "Kota Surabaya"
+    },
+    {
+      "kode": "30140058",
+      "label": "Kota Kediri"
+    },
+    {
+      "kode": "30140059",
+      "label": "Kota Blitar"
+    },
+    {
+      "kode": "30140060",
+      "label": "Kota Pasuruan"
+    },
+    {
+      "kode": "30140061",
+      "label": "Kota Batu"
+    },
+    {
+      "kode": "30140062",
+      "label": "Kab. Aceh Besar"
+    },
+    {
+      "kode": "30140063",
+      "label": "Kab. Aceh Selatan"
+    },
+    {
+      "kode": "30140064",
+      "label": "Kab. Bireuen"
+    },
+    {
+      "kode": "30140065",
+      "label": "Kab. Aceh Singkil"
+    },
+    {
+      "kode": "30140066",
+      "label": "Kab. Nagan Raya"
+    },
+    {
+      "kode": "30140067",
+      "label": "Kab. Pidie Jaya"
+    },
+    {
+      "kode": "30140068",
+      "label": "Kota Lhokseumawe"
+    },
+    {
+      "kode": "30140069",
+      "label": "Kota Subulussalam"
+    },
+    {
+      "kode": "30140070",
+      "label": "Kab. Deli Serdang"
+    },
+    {
+      "kode": "30140071",
+      "label": "Kab. Tapanuli Selatan"
+    },
+    {
+      "kode": "30140072",
+      "label": "Kab. Serdang Bedagai"
+    },
+    {
+      "kode": "30140073",
+      "label": "Kota Medan"
+    },
+    {
+      "kode": "30140074",
+      "label": "Kota Tebing Tinggi"
+    },
+    {
+      "kode": "30140075",
+      "label": "Kota Padang Sidimpuan"
+    },
+    {
+      "kode": "30140076",
+      "label": "Kab. Solok"
+    },
+    {
+      "kode": "30140077",
+      "label": "Kab. Dharmasraya"
+    },
+    {
+      "kode": "30140078",
+      "label": "Kota Padang"
+    },
+    {
+      "kode": "30140079",
+      "label": "Kab. Rokan Hilir"
+    },
+    {
+      "kode": "30140080",
+      "label": "Kab. Kuantan Singingi"
+    },
+    {
+      "kode": "30140081",
+      "label": "Kota Pekanbaru"
+    },
+    {
+      "kode": "30140082",
+      "label": "Kab. Tanjung Jabung Timur"
+    },
+    {
+      "kode": "30140083",
+      "label": "Kota Jambi"
+    },
+    {
+      "kode": "30140084",
+      "label": "Kab. Ogan Komering Ilir"
+    },
+    {
+      "kode": "30140085",
+      "label": "Kab. Ogan Komering Ulu"
+    },
+    {
+      "kode": "30140086",
+      "label": "Kab. Ogan Ilir"
+    },
+    {
+      "kode": "30140087",
+      "label": "Kab. Empat Lawang"
+    },
+    {
+      "kode": "30140088",
+      "label": "Kota Palembang"
+    },
+    {
+      "kode": "30140089",
+      "label": "Kab. Lampung Selatan"
+    },
+    {
+      "kode": "30140090",
+      "label": "Kab. Lampung Timur"
+    },
+    {
+      "kode": "30140091",
+      "label": "Kota Bandar Lampung"
+    },
+    {
+      "kode": "30140092",
+      "label": "Kab. Ketapang"
+    },
+    {
+      "kode": "30140093",
+      "label": "Kota Pontianak"
+    },
+    {
+      "kode": "30140094",
+      "label": "Kota Singkawang"
+    },
+    {
+      "kode": "30140095",
+      "label": "Kab. Kotawaringin Timur"
+    },
+    {
+      "kode": "30140096",
+      "label": "Kab. Katingan"
+    },
+    {
+      "kode": "30140097",
+      "label": "Kab. Gunung Mas"
+    },
+    {
+      "kode": "30140098",
+      "label": "Kota Palangka Raya"
+    },
+    {
+      "kode": "30140099",
+      "label": "Kab. Barito Kuala"
+    },
+    {
+      "kode": "30140100",
+      "label": "Kab. Tanah Bumbu"
+    },
+    {
+      "kode": "30140101",
+      "label": "Kota Banjarbaru"
+    },
+    {
+      "kode": "30140102",
+      "label": "Kota Samarinda"
+    },
+    {
+      "kode": "30140103",
+      "label": "Kab. Minahasa"
+    },
+    {
+      "kode": "30140104",
+      "label": "Kota Manado"
+    },
+    {
+      "kode": "30140105",
+      "label": "Kab. Tojo Una-Una"
+    },
+    {
+      "kode": "30140106",
+      "label": "Kab. Sigi"
+    },
+    {
+      "kode": "30140107",
+      "label": "Kota Palu"
+    },
+    {
+      "kode": "30140108",
+      "label": "Kab. Pangkajene Kepulauan"
+    },
+    {
+      "kode": "30140109",
+      "label": "Kab. Gowa"
+    },
+    {
+      "kode": "30140110",
+      "label": "Kab. Takalar"
+    },
+    {
+      "kode": "30140111",
+      "label": "Kab. Barru"
+    },
+    {
+      "kode": "30140112",
+      "label": "Kab. Bone"
+    },
+    {
+      "kode": "30140113",
+      "label": "Kab. Wajo"
+    },
+    {
+      "kode": "30140114",
+      "label": "Kab. Soppeng"
+    },
+    {
+      "kode": "30140115",
+      "label": "Kab. Sinjai"
+    },
+    {
+      "kode": "30140116",
+      "label": "Kab. Sidenreng Rappang"
+    },
+    {
+      "kode": "30140117",
+      "label": "Kab. Tana Toraja"
+    },
+    {
+      "kode": "30140118",
+      "label": "Kab. Luwu Utara"
+    },
+    {
+      "kode": "30140119",
+      "label": "Kota Makassar"
+    },
+    {
+      "kode": "30140120",
+      "label": "Kab. Buton Tengah"
+    },
+    {
+      "kode": "30140121",
+      "label": "Kota Kendari"
+    },
+    {
+      "kode": "30140122",
+      "label": "Kab. Maluku Tengah"
+    },
+    {
+      "kode": "30140123",
+      "label": "Kota Ambon"
+    },
+    {
+      "kode": "30140124",
+      "label": "Kota Tual"
+    },
+    {
+      "kode": "30140125",
+      "label": "Kab. Tabanan"
+    },
+    {
+      "kode": "30140126",
+      "label": "Kab. Lombok Barat"
+    },
+    {
+      "kode": "30140127",
+      "label": "Kab. Lombok Timur"
+    },
+    {
+      "kode": "30140128",
+      "label": "Kab. Sumbawa"
+    },
+    {
+      "kode": "30140129",
+      "label": "Kab. Lombok Utara"
+    },
+    {
+      "kode": "30140130",
+      "label": "Kab. Kupang"
+    },
+    {
+      "kode": "30140131",
+      "label": "Kab. Biak Numfor"
+    },
+    {
+      "kode": "30140132",
+      "label": "Kab. Sarmi"
+    },
+    {
+      "kode": "30140133",
+      "label": "Kota Jayapura"
+    },
+    {
+      "kode": "30140134",
+      "label": "Kab. Kaur"
+    },
+    {
+      "kode": "30140135",
+      "label": "Kota Bengkulu"
+    },
+    {
+      "kode": "30140136",
+      "label": "Kab. Halmahera Barat"
+    },
+    {
+      "kode": "30140137",
+      "label": "Kab. halmahera Utara"
+    },
+    {
+      "kode": "30140138",
+      "label": "Kota Ternate"
+    },
+    {
+      "kode": "30140139",
+      "label": "Kota Tidore Kepulauan"
+    },
+    {
+      "kode": "30140140",
+      "label": "Kab. Pandeglang"
+    },
+    {
+      "kode": "30140141",
+      "label": "Kab. Lebak"
+    },
+    {
+      "kode": "30140142",
+      "label": "Kab. Tangerang"
+    },
+    {
+      "kode": "30140143",
+      "label": "Kab. Serang"
+    },
+    {
+      "kode": "30140144",
+      "label": "Kota Tangerang Selatan"
+    },
+    {
+      "kode": "30140145",
+      "label": "Kab. Boalemo"
+    },
+    {
+      "kode": "30140146",
+      "label": "Kab. Natuna"
+    },
+    {
+      "kode": "30140147",
+      "label": "Kab. Kepulauan Anambas"
+    },
+    {
+      "kode": "30140148",
+      "label": "Kota Tanjungpinang"
+    },
+    {
+      "kode": "30140149",
+      "label": "Kab. Mamuju"
+    },
+    {
+      "kode": "30140150",
+      "label": "Kab. Polewali Mandar"
+    },
+    {
+      "kode": "30140151",
+      "label": "Kota Tarakan"
+    },
+    {
+      "kode": "30140152",
+      "label": "Kab. Mimika"
+    },
+    {
+      "kode": "30140153",
+      "label": "Kab. Merauke"
+    },
+    {
+      "kode": "30140154",
+      "label": "Pusat Pendidikan, Pelatihan dan Pengembangan Profesi Kesejahteraan Sosial | Wilayah I"
+    },
+    {
+      "kode": "30140155",
+      "label": "Pusat Pendidikan, Pelatihan dan Pengembangan Profesi Kesejahteraan Sosial | Wilayah II"
+    },
+    {
+      "kode": "30140156",
+      "label": "Pusat Pendidikan, Pelatihan dan Pengembangan Profesi Kesejahteraan Sosial | Wilayah III"
+    },
+    {
+      "kode": "30140157",
+      "label": "Pusat Pendidikan, Pelatihan dan Pengembangan Profesi Kesejahteraan Sosial | Wilayah IV"
+    }
+  ]
+}

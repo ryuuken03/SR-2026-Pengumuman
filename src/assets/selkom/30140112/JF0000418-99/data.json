@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001138",
+      "nama": "ANDI AMELIYA RAMADHANI",
+      "teknis": 260,
+      "manajerial": 81,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total": 445,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001251",
+      "nama": "ANDI RASIDA BASAR",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 371,
+      "status": "P/L"
+    }
+  ]
+}

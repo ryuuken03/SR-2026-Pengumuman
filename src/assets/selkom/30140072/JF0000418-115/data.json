@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000725",
+      "nama": "Andi Cristin",
+      "teknis": 195,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total": 404,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003637",
+      "nama": "ENJELINA LESTARI S.",
+      "teknis": 230,
+      "manajerial": 77,
+      "sosial_kultural": 58,
+      "wawancara": 33,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000495",
+      "nama": "ROMAULI HUTABARAT",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 363,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002145",
+      "nama": "BENNI PRATAMA HAREFA",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 360,
+      "status": "P"
+    }
+  ]
+}

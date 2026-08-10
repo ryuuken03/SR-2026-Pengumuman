@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003011",
+      "nama": "MUHAMMAD KHAIDIR",
+      "teknis": 275,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 473,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000691",
+      "nama": "MERI ZULIFA",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 63,
+      "wawancara": 38,
+      "total": 459,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006877",
+      "nama": "HUMAIRA",
+      "teknis": 245,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 449,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007574",
+      "nama": "JULIA RATNI",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003231",
+      "nama": "SAURA RAMADANI",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 428,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120004167",
+      "nama": "ANA YULIANA",
+      "teknis": 190,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120005606",
+      "nama": "INTAN RAMADHANI GULTOM",
+      "teknis": 160,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120006994",
+      "nama": "KHAIRUNNISA",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 55,
+      "wawancara": 36,
+      "total": 348,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002163",
+      "nama": "NURUL IZZAH",
+      "teknis": 165,
+      "manajerial": 74,
+      "sosial_kultural": 64,
+      "wawancara": 29,
+      "total": 332,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120003978",
+      "nama": "RAHMAH MULIAWATI",
+      "teknis": 140,
+      "manajerial": 87,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 332,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120006505",
+      "nama": "HUSNATUL MUNA",
+      "teknis": 120,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 314,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120006246",
+      "nama": "MAULIDA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

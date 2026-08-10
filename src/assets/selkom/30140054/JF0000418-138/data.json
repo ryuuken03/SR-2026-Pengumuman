@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000745",
+      "nama": "INDAH MARDIANA BELGIS",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002701",
+      "nama": "NOVITA NURUL AINI",
+      "teknis": 225,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 429,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000898",
+      "nama": "AINI AYUNING TIAS",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001719",
+      "nama": "AHMAD HANIF MUSLIM",
+      "teknis": 140,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 343,
+      "status": "P/L"
+    }
+  ]
+}

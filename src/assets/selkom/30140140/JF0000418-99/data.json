@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000922",
+      "nama": "MAYZUL YUSUF",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008241",
+      "nama": "FAHRA MAHDIYAH",
+      "teknis": 205,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 400,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006482",
+      "nama": "RAHMI AMALIA",
+      "teknis": 175,
+      "manajerial": 89,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 371,
+      "status": "P/L"
+    }
+  ]
+}

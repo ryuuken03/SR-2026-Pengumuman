@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001775",
+      "nama": "MUHAMMAD IHZA AMNURILLAH",
+      "teknis": 290,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 486,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008262",
+      "nama": "LUTFIAH NOER ANISA' RAOYANI",
+      "teknis": 280,
+      "manajerial": 86,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total": 482,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006980",
+      "nama": "DEVI OKTAVIA SARI",
+      "teknis": 285,
+      "manajerial": 96,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 481,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001520",
+      "nama": "Sulaiman Mursyid",
+      "teknis": 250,
+      "manajerial": 91,
+      "sosial_kultural": 78,
+      "wawancara": 33,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001359",
+      "nama": "ETTA EMACULATA HAPSARI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 445,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004841",
+      "nama": "AIDA FITRIATIN NAFISAH",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 442,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006228",
+      "nama": "RADDIN ATHENA",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 432,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002292",
+      "nama": "ERNI",
+      "teknis": 215,
+      "manajerial": 84,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total": 412,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120008712",
+      "nama": "LISTI NUR WAHYUNI",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 407,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007290",
+      "nama": "Hafida Jauhary Rahmah",
+      "teknis": 200,
+      "manajerial": 94,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total": 399,
+      "status": "P/L"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120003088",
+      "nama": "DEPI RUSITA",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110000132",
+      "nama": "LUTFI FAHRUROZI",
+      "teknis": 190,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 393,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120008334",
+      "nama": "RUMSIAH",
+      "teknis": 200,
+      "manajerial": 75,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 379,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110000367",
+      "nama": "KHAIRUL RIZAL",
+      "teknis": 185,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 377,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120003233",
+      "nama": "HELNI",
+      "teknis": 185,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 374,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410120000405",
+      "nama": "RAUDHATUL HUSNA",
+      "teknis": 175,
+      "manajerial": 86,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 369,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120002143",
+      "nama": "LILI RAHMAWATI",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 365,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120008106",
+      "nama": "HUSNUL KHATIMAH",
+      "teknis": 155,
+      "manajerial": 80,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total": 333,
+      "status": "P"
+    },
+    {
+      "no": 16,
+      "nomor_peserta": "26301410110002262",
+      "nama": "CHANDRA WAHYUDI",
+      "teknis": 140,
+      "manajerial": 83,
+      "sosial_kultural": 22,
+      "wawancara": 39,
+      "total": 284,
+      "status": "P"
+    }
+  ]
+}

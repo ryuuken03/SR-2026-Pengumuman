@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002797",
+      "nama": "UTARA SETIA NUGRAHA",
+      "teknis": 305,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 492,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008945",
+      "nama": "ARINI GITA CAHYANI",
+      "teknis": 275,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 479,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004015",
+      "nama": "NANDA LINTANG PUSPITA",
+      "teknis": 245,
+      "manajerial": 97,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total": 445,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002949",
+      "nama": "ILVAN TRI YUDHA PANGESTU",
+      "teknis": 260,
+      "manajerial": 82,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total": 441,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110001417",
+      "nama": "RENALDY JOVANDA",
+      "teknis": 215,
+      "manajerial": 81,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 403,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002167",
+      "nama": "AGUS TRIYOGA",
+      "teknis": 165,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 370,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120008935",
+      "nama": "ANATASIA RAMADANTI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

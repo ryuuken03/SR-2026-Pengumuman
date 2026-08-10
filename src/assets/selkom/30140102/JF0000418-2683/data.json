@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007701",
+      "nama": "Andi Nisa Afadilla Lukman",
+      "teknis": 305,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 512,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000046",
+      "nama": "ARINI ARTA NAIBAHO",
+      "teknis": 280,
+      "manajerial": 94,
+      "sosial_kultural": 64,
+      "wawancara": 37,
+      "total": 475,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001800",
+      "nama": "HELIN MARENTIKA",
+      "teknis": 265,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 462,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000563",
+      "nama": "MUHAMMAD ALIEF RAMADHANY",
+      "teknis": 255,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006516",
+      "nama": "EVA VEBRIANTI HAKIM",
+      "teknis": 245,
+      "manajerial": 82,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 432,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110003105",
+      "nama": "DICKY FERDY",
+      "teknis": 235,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total": 429,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110002321",
+      "nama": "ARTAMA PUTRA",
+      "teknis": 210,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 414,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120001367",
+      "nama": "SITI AISYAH",
+      "teknis": 205,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120005578",
+      "nama": "MUTMAINNA",
+      "teknis": 195,
+      "manajerial": 72,
+      "sosial_kultural": 70,
+      "wawancara": 29,
+      "total": 366,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120003230",
+      "nama": "HANUNG FITRIA DEWI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120002810",
+      "nama": "FATHIMA TURRIDHA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

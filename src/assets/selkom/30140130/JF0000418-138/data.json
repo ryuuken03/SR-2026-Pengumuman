@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001036",
+      "nama": "MARIA ERMELINDA SABU SUGI",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 447,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008718",
+      "nama": "FERMI GRAZELA NDOLU",
+      "teknis": 225,
+      "manajerial": 83,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 418,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008644",
+      "nama": "SALIRA WANI",
+      "teknis": 205,
+      "manajerial": 82,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 397,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002584",
+      "nama": "EMMA MARIA SADA TAWA",
+      "teknis": 200,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000796",
+      "nama": "GINA RHAHMAWATI",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 388,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001406",
+      "nama": "JEFRI NAWA",
+      "teknis": 195,
+      "manajerial": 86,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120003261",
+      "nama": "MARILIA IMACULADA MARQUES SOARES",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120001813",
+      "nama": "FLORENTINA MONGA RURON",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120008689",
+      "nama": "YIGDAHLIA SAU",
+      "teknis": 165,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 359,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120008797",
+      "nama": "KRISNA WARDANI BAO",
+      "teknis": 170,
+      "manajerial": 90,
+      "sosial_kultural": 61,
+      "wawancara": 37,
+      "total": 358,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120007725",
+      "nama": "YUTRI KORMALINA LUSI",
+      "teknis": 125,
+      "manajerial": 87,
+      "sosial_kultural": 65,
+      "wawancara": 37,
+      "total": 314,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120009164",
+      "nama": "AGUSTINA BAREK EMAR",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

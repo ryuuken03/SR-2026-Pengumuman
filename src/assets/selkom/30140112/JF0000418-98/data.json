@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005604",
+      "nama": "DEBI AMANDA PUTRI",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002348",
+      "nama": "MUH. JUMARDI NURALI",
+      "teknis": 240,
+      "manajerial": 84,
+      "sosial_kultural": 43,
+      "wawancara": 37,
+      "total": 404,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001349",
+      "nama": "ZULKIFLI",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 32,
+      "total": 404,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002768",
+      "nama": "MUH. DANIS",
+      "teknis": 200,
+      "manajerial": 82,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 382,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120002345",
+      "nama": "SRI INDASARI",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 361,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005042",
+      "nama": "INDAH EVATUL DJANNAH",
+      "teknis": 155,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 356,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120006320",
+      "nama": "HAMRANI HAMID",
+      "teknis": 160,
+      "manajerial": 85,
+      "sosial_kultural": 77,
+      "wawancara": 32,
+      "total": 354,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120007016",
+      "nama": "NURIYAH",
+      "teknis": 190,
+      "manajerial": 78,
+      "sosial_kultural": 49,
+      "wawancara": 33,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120004734",
+      "nama": "NILA SARI",
+      "teknis": 155,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 347,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120005514",
+      "nama": "NUNI WAHYUNI",
+      "teknis": 170,
+      "manajerial": 76,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total": 345,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120002350",
+      "nama": "ITA SASMITA",
+      "teknis": 165,
+      "manajerial": 81,
+      "sosial_kultural": 63,
+      "wawancara": 34,
+      "total": 343,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410120004811",
+      "nama": "NURUL KHAIRANI",
+      "teknis": 110,
+      "manajerial": 80,
+      "sosial_kultural": 63,
+      "wawancara": 30,
+      "total": 283,
+      "status": "P"
+    }
+  ]
+}

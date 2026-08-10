@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001437",
+      "nama": "FAHTUR RAHMAN SYAH",
+      "teknis": 330,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 523,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002140",
+      "nama": "ERNAWATI",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 405,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002170",
+      "nama": "PAULINA PAYARA",
+      "teknis": 190,
+      "manajerial": 79,
+      "sosial_kultural": 72,
+      "wawancara": 29,
+      "total": 370,
+      "status": "P"
+    }
+  ]
+}

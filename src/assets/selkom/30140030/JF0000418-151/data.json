@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003017",
+      "nama": "WASLIKHUN",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 451,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002568",
+      "nama": "CANDRA TRI PAMUNGKAS",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 408,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002339",
+      "nama": "FAIZAL",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 33,
+      "total": 387,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000027",
+      "nama": "SHOLEHUDIN",
+      "teknis": 200,
+      "manajerial": 81,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 381,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000561",
+      "nama": "HANIF AKROMI",
+      "teknis": 200,
+      "manajerial": 81,
+      "sosial_kultural": 62,
+      "wawancara": 36,
+      "total": 379,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000989",
+      "nama": "ACHMAD KHOERUL ASIKIN",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 62,
+      "wawancara": 32,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001698",
+      "nama": "RIFQI ADITIYA NUGRAHA",
+      "teknis": 180,
+      "manajerial": 82,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 364,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110001384",
+      "nama": "PAJARIYANDI",
+      "teknis": 160,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 356,
+      "status": "P"
+    }
+  ]
+}

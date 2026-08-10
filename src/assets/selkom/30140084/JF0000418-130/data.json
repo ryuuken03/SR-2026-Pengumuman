@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002130",
+      "nama": "DIAN LARASATI KARTIKA",
+      "teknis": 210,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007762",
+      "nama": "AYU AGUSTIN LANINGSIH",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 393,
+      "status": "P/L"
+    }
+  ]
+}

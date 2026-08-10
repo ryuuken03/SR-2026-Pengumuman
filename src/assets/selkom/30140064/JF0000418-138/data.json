@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004009",
+      "nama": "DEWI SRI ASTUTI",
+      "teknis": 160,
+      "manajerial": 82,
+      "sosial_kultural": 74,
+      "wawancara": 28,
+      "total": 344,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006090",
+      "nama": "VINA HALIZAYANTI. F",
+      "teknis": 150,
+      "manajerial": 81,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 332,
+      "status": "P/L"
+    }
+  ]
+}

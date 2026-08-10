@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001275",
+      "nama": "Muhammad Banyu Hernuseputro",
+      "teknis": 280,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 485,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000700",
+      "nama": "DEVI PUTRI HERYATI",
+      "teknis": 265,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 463,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001919",
+      "nama": "ALIFIA SARASWATI WIKANINGTYAS",
+      "teknis": 230,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 438,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001519",
+      "nama": "ANIS BUDI UTAMI",
+      "teknis": 230,
+      "manajerial": 97,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 436,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003829",
+      "nama": "ALFIAH FITRIATI",
+      "teknis": 215,
+      "manajerial": 96,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total": 413,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005681",
+      "nama": "AFY RIZKY AWALIA",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120005175",
+      "nama": "SALSABILLA ALIYAH",
+      "teknis": 170,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000265",
+      "nama": "MUTIA GITARINI",
+      "teknis": 160,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 367,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120004308",
+      "nama": "NOVI DWI APSARI",
+      "teknis": 170,
+      "manajerial": 82,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 356,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120001296",
+      "nama": "AJENG NURUL WALIDAENI",
+      "teknis": 120,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 322,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110000765",
+      "nama": "CIPTO ARBA'IN",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

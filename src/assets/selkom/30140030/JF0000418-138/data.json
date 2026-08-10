@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007782",
+      "nama": "EKA WIDIARTI",
+      "teknis": 240,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total": 436,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001845",
+      "nama": "RIFQI FAQIHUDIN",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003076",
+      "nama": "FARAH FEBRIANINGSIH",
+      "teknis": 185,
+      "manajerial": 99,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 394,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004981",
+      "nama": "PUTRI DINDA HASTINASYAH",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 375,
+      "status": "P/L"
+    }
+  ]
+}

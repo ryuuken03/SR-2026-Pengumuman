@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003841",
+      "nama": "WAHYU RESTU PUTRI",
+      "teknis": 285,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 485,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000533",
+      "nama": "AJENG PANGESTI",
+      "teknis": 265,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 464,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007878",
+      "nama": "Siti Mariyatul Kibtiyah",
+      "teknis": 250,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 452,
+      "status": "P/L"
+    }
+  ]
+}

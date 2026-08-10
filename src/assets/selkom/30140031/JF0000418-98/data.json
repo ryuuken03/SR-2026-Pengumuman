@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005459",
+      "nama": "IRMA APRILIYANI RAHAYU",
+      "teknis": 270,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 473,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000806",
+      "nama": "HEIKE KAMARULLAH",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 421,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002151",
+      "nama": "RIZAL MUHAIMIN",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 420,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007741",
+      "nama": "EVA FEBRIANINGSIH",
+      "teknis": 225,
+      "manajerial": 83,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 416,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110000899",
+      "nama": "ADHY SAPUTRO",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110000239",
+      "nama": "DWI NUR KHOLIS ALAMSYAH",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000594",
+      "nama": "ANI MALIKHATUR RIZQIYAH",
+      "teknis": 165,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 367,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120004160",
+      "nama": "HIMATUL ULYA",
+      "teknis": 160,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 363,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120005943",
+      "nama": "EKA SIFA ARIYANTI",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 66,
+      "wawancara": 31,
+      "total": 356,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120008152",
+      "nama": "FADHIILAH FADWAA",
+      "teknis": 155,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 354,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120000536",
+      "nama": "MONICA GYTA RINI",
+      "teknis": 150,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 348,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110000553",
+      "nama": "HASAN ARAFAT",
+      "teknis": 140,
+      "manajerial": 93,
+      "sosial_kultural": 63,
+      "wawancara": 32,
+      "total": 328,
+      "status": "P"
+    }
+  ]
+}

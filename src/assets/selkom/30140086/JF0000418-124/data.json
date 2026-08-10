@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004623",
+      "nama": "AMELIA PUTRI ANGGRAINI",
+      "teknis": 260,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 458,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002812",
+      "nama": "IMAM ABIYYU HAMID",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 403,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002949",
+      "nama": "DIMAS SARTIKA",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 397,
+      "status": "P"
+    }
+  ]
+}

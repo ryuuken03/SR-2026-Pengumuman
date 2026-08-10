@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004134",
+      "nama": "SITI NURROHMAH",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 406,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003099",
+      "nama": "ROSA AMALIA WAHDANI",
+      "teknis": 195,
+      "manajerial": 98,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 406,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005717",
+      "nama": "RIZQI RAHMATIKA",
+      "teknis": 195,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 394,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002638",
+      "nama": "HALIMAH SALSABILA",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 31,
+      "total": 387,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007468",
+      "nama": "NURLATIFAH",
+      "teknis": 185,
+      "manajerial": 95,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001496",
+      "nama": "MURDHANI WIDYASMORO",
+      "teknis": 170,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 377,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120002678",
+      "nama": "MEILIA RAUFI HANIFAH",
+      "teknis": 155,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total": 350,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120006334",
+      "nama": "ERLINA NOVITA",
+      "teknis": 140,
+      "manajerial": 84,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total": 329,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110002819",
+      "nama": "ALIF SUPRIYANTO",
+      "teknis": 135,
+      "manajerial": 89,
+      "sosial_kultural": 64,
+      "wawancara": 31,
+      "total": 319,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410110000509",
+      "nama": "RAKHMATDI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

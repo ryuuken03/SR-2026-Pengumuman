@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000193",
+      "nama": "HELFI DIANI ROSA",
+      "teknis": 255,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 451,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003683",
+      "nama": "NURYATI",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 417,
+      "status": "P/L"
+    }
+  ]
+}

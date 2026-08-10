@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002899",
+      "nama": "TAJUDDIN UMAR SYAHBANA",
+      "teknis": 235,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001680",
+      "nama": "CHOLLIZA ICHLASYA YUSMA",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000604",
+      "nama": "SUYATNO",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 410,
+      "status": "P"
+    }
+  ]
+}

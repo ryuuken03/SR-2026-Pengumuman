@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003666",
+      "nama": "NURUL FAIZZAH",
+      "teknis": 210,
+      "manajerial": 83,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000154",
+      "nama": "PUTRI CHAIRUNNISA SAID",
+      "teknis": 195,
+      "manajerial": 86,
+      "sosial_kultural": 63,
+      "wawancara": 37,
+      "total": 381,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008934",
+      "nama": "RIKA ARISANDI",
+      "teknis": 195,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 28,
+      "total": 378,
+      "status": "P/L"
+    }
+  ]
+}

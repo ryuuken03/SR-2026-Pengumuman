@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000518",
+      "nama": "FIKRI ZENEDINE UMARELLA",
+      "teknis": 240,
+      "manajerial": 78,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003084",
+      "nama": "ABDUR ROHMAN",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 411,
+      "status": "P/L"
+    }
+  ]
+}

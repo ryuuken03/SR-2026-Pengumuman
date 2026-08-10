@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001857",
+      "nama": "LULUSI ISROTUL NUR HIKMAH",
+      "teknis": 225,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total": 432,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003320",
+      "nama": "MOHAMAD YUNUS",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 384,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000395",
+      "nama": "NUR ANI WIJI ASTUTIK",
+      "teknis": 115,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 314,
+      "status": "P"
+    }
+  ]
+}

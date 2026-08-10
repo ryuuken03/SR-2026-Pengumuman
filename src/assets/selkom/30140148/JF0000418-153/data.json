@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000268",
+      "nama": "RAZALI",
+      "teknis": 315,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 515,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008782",
+      "nama": "APIPAH",
+      "teknis": 265,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 32,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002217",
+      "nama": "ANGGARA PRATAKUMBAYAN",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total": 451,
+      "status": "P/L"
+    }
+  ]
+}

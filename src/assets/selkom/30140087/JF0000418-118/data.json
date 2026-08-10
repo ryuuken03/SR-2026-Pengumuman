@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002753",
+      "nama": "NATASHA MEIRISKI WIJAYA",
+      "teknis": 210,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002268",
+      "nama": "ANGGEN DARI",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total": 405,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004725",
+      "nama": "MEFI KIRNA",
+      "teknis": 120,
+      "manajerial": 86,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 313,
+      "status": "P"
+    }
+  ]
+}

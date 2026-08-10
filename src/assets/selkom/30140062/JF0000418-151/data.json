@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006477",
+      "nama": "NORA REZEQINI",
+      "teknis": 215,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total": 415,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001211",
+      "nama": "NASRULLAH",
+      "teknis": 215,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 410,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001457",
+      "nama": "SUWANDI NOVA",
+      "teknis": 195,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 389,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001442",
+      "nama": "T FACHRIAL RIZA",
+      "teknis": 200,
+      "manajerial": 76,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 372,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002252",
+      "nama": "EKO ARRAHMAN",
+      "teknis": 160,
+      "manajerial": 69,
+      "sosial_kultural": 63,
+      "wawancara": 35,
+      "total": 327,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002121",
+      "nama": "IKHLASHUL 'AMAL",
+      "teknis": 155,
+      "manajerial": 71,
+      "sosial_kultural": 60,
+      "wawancara": 31,
+      "total": 317,
+      "status": "P"
+    }
+  ]
+}

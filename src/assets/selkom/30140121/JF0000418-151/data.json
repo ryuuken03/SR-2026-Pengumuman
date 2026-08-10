@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000410",
+      "nama": "SAIFULLAH. M",
+      "teknis": 290,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 32,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000958",
+      "nama": "MUL HAWADIN SANDY",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002604",
+      "nama": "FATUR RAHMAN",
+      "teknis": 220,
+      "manajerial": 89,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 414,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000894",
+      "nama": "ABDUL RAHMAT MUHARRAM",
+      "teknis": 210,
+      "manajerial": 93,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total": 402,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110003255",
+      "nama": "A. FERRY FINANDIKA ARYA PUTRA",
+      "teknis": 210,
+      "manajerial": 81,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total": 391,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006663",
+      "nama": "SELMI PURNAMA SARI",
+      "teknis": 190,
+      "manajerial": 92,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120002445",
+      "nama": "HUSNA SYAFIRA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

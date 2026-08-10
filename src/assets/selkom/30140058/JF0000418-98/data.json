@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001953",
+      "nama": "NANDA AGUSTIANA",
+      "teknis": 290,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 489,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004506",
+      "nama": "QIZQIYA BERLIANA PUTRI",
+      "teknis": 230,
+      "manajerial": 84,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total": 430,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000924",
+      "nama": "FITRIYA NURUL HASANAH",
+      "teknis": 210,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 413,
+      "status": "P/L"
+    }
+  ]
+}

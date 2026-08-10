@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008196",
+      "nama": "ANNISA' NURROHMAH",
+      "teknis": 155,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 356,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000339",
+      "nama": "ANISA AYU WARDANI",
+      "teknis": 155,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total": 353,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003318",
+      "nama": "RAHMA GUSNIASARI",
+      "teknis": 155,
+      "manajerial": 86,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 342,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000806",
+      "nama": "WHISNU ADHI PAMUNGKAS",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004788",
+      "nama": "Nurilmi Amalia Marda, S.Kom.",
+      "teknis": 200,
+      "manajerial": 73,
+      "sosial_kultural": 62,
+      "wawancara": 32,
+      "total": 367,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002890",
+      "nama": "RAHMA",
+      "teknis": 160,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 351,
+      "status": "P/L"
+    }
+  ]
+}

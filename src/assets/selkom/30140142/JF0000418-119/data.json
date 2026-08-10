@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002741",
+      "nama": "DENSA RAMADHAN",
+      "teknis": 320,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 519,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002365",
+      "nama": "INDRI IFANI MARLIN",
+      "teknis": 260,
+      "manajerial": 86,
+      "sosial_kultural": 65,
+      "wawancara": 30,
+      "total": 441,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008531",
+      "nama": "SELLY PUTRI YANI",
+      "teknis": 225,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 426,
+      "status": "P/L"
+    }
+  ]
+}

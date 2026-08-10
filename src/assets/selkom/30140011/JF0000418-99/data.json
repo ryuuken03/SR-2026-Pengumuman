@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006619",
+      "nama": "INDRI TSALISTI NURHALIM",
+      "teknis": 290,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 498,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003329",
+      "nama": "NOVYANSYAH ILYAS IZZULHAQ",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total": 448,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002178",
+      "nama": "SARTIKAH HERLINA",
+      "teknis": 230,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 31,
+      "total": 422,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005989",
+      "nama": "EVITA NUR ALLIZA",
+      "teknis": 200,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 405,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110002086",
+      "nama": "ABDUL GHONI",
+      "teknis": 200,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 395,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120005347",
+      "nama": "TIARA PRADHINI CITRAHATI",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total": 390,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120000368",
+      "nama": "MERI KRISTIANA",
+      "teknis": 200,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120003723",
+      "nama": "AYU JIHAN NABILA",
+      "teknis": 180,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120001410",
+      "nama": "SARI YULIANTI",
+      "teknis": 110,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 304,
+      "status": "P"
+    }
+  ]
+}

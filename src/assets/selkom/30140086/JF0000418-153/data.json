@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001272",
+      "nama": "YUNIK PUJIANINGSIH",
+      "teknis": 300,
+      "manajerial": 93,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total": 493,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002017",
+      "nama": "TIAR HAJUNILATO",
+      "teknis": 290,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006190",
+      "nama": "INTAN FURWANTI",
+      "teknis": 225,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 419,
+      "status": "P/L"
+    }
+  ]
+}

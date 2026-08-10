@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009210",
+      "nama": "ZAIDA AINULFITRI",
+      "teknis": 245,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 450,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001004",
+      "nama": "AFINA AULIA PURNAMANINGTYAS",
+      "teknis": 190,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 386,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001782",
+      "nama": "REZKI",
+      "teknis": 180,
+      "manajerial": 82,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 372,
+      "status": "P"
+    }
+  ]
+}

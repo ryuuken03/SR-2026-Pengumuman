@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003565",
+      "nama": "ERGINA",
+      "teknis": 175,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 373,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000028",
+      "nama": "HUSNUL KHATIMAH",
+      "teknis": 155,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 347,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120009139",
+      "nama": "MUHARRIKAH RAHMAT",
+      "teknis": 130,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 334,
+      "status": "P"
+    }
+  ]
+}

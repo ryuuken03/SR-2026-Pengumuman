@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005118",
+      "nama": "ASTRI AGUSTIN",
+      "teknis": 180,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 379,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007608",
+      "nama": "ALFINA NUR SAFITRI",
+      "teknis": 155,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 357,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003626",
+      "nama": "UTFAH TUTTAZKIYAH",
+      "teknis": 150,
+      "manajerial": 85,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 352,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001232",
+      "nama": "RIFCKA AULIA HIDAYATI",
+      "teknis": 150,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 337,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003284",
+      "nama": "MAULIDAH",
+      "teknis": 135,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 328,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001868",
+      "nama": "HASPIALLOH HASAN",
+      "teknis": 110,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 301,
+      "status": "P"
+    }
+  ]
+}

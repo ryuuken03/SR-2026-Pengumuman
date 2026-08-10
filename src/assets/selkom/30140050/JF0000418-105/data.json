@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008873",
+      "nama": "AMRINA ROSYADA",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 440,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003433",
+      "nama": "NINDA AYU PUTRI CAHYANI",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002816",
+      "nama": "ELIA RIZKY SAFIRA",
+      "teknis": 185,
+      "manajerial": 79,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total": 367,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002268",
+      "nama": "IRWINSYAH MAULANA PUTRA",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009045",
+      "nama": "NI MADE WINDA WIJAYANTI",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 443,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003645",
+      "nama": "KOMING ARI DENAWATI",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 442,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002569",
+      "nama": "NI WAYAN SUNARTI",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 436,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007180",
+      "nama": "FITRIYATUL MARDIYAH",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 435,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120003658",
+      "nama": "SANTRI",
+      "teknis": 225,
+      "manajerial": 85,
+      "sosial_kultural": 62,
+      "wawancara": 37,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007358",
+      "nama": "SHELVI ARVATUL ISLAMIA",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total": 408,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120000891",
+      "nama": "CLAUDYANA ZARMIELIN SIBUEA",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 396,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120002877",
+      "nama": "AYUNI AFRIANI BR SIMAMORA",
+      "teknis": 180,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120004139",
+      "nama": "LUH GEDE TIRTA SARASWATI",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 362,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410110002626",
+      "nama": "KOMANG WINASTIYANA",
+      "teknis": 165,
+      "manajerial": 80,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 348,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110000586",
+      "nama": "FATURAHMAN",
+      "teknis": 160,
+      "manajerial": 81,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 346,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110001810",
+      "nama": "ARIF RAHMAN",
+      "teknis": 160,
+      "manajerial": 88,
+      "sosial_kultural": 61,
+      "wawancara": 36,
+      "total": 345,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120006737",
+      "nama": "SITI MAULA KARIANI",
+      "teknis": 140,
+      "manajerial": 75,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 325,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120006089",
+      "nama": "AYU ROSITA",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003869",
+      "nama": "MARIA NOVITINA TRESIANA JENTAR",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 64,
+      "wawancara": 40,
+      "total": 426,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005090",
+      "nama": "SKOLASTIKA NATALIA KANINGSI",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 420,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001203",
+      "nama": "Oktovianus Rodriques Leku",
+      "teknis": 195,
+      "manajerial": 76,
+      "sosial_kultural": 66,
+      "wawancara": 31,
+      "total": 368,
+      "status": "P/L"
+    }
+  ]
+}

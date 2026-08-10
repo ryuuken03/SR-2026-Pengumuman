@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004232",
+      "nama": "DWI ELOK S",
+      "teknis": 215,
+      "manajerial": 84,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total": 409,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000828",
+      "nama": "ELLY WICAKSONO JATI",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total": 407,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000620",
+      "nama": "AJI PRASETYO",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007879",
+      "nama": "Safira Adnina",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 63,
+      "wawancara": 34,
+      "total": 392,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120007792",
+      "nama": "MANGESTHI LESTARI DIAN SETYANI",
+      "teknis": 190,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002546",
+      "nama": "CHANDRA GHAZI HAR",
+      "teknis": 185,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110001067",
+      "nama": "ADHIMAS WAHYUTAMA PRAMANA PUTRA",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total": 382,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120007275",
+      "nama": "LAWENIA PANELA YULIANTI",
+      "teknis": 175,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 376,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120005294",
+      "nama": "AULIA MAHARANI ARKHOVI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

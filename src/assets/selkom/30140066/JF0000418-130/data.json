@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006398",
+      "nama": "LISA AUFIYA",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total": 431,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001001",
+      "nama": "NUR FARIDAH",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 416,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003441",
+      "nama": "RESI SALYANI",
+      "teknis": 170,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 374,
+      "status": "P"
+    }
+  ]
+}

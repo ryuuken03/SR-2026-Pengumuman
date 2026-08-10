@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000688",
+      "nama": "MISFALAH",
+      "teknis": 255,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 456,
+      "status": "P/L"
+    }
+  ]
+}

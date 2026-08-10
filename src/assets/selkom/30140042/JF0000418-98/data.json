@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000568",
+      "nama": "USWATUN KHASANAH",
+      "teknis": 215,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002545",
+      "nama": "AKHMAD RISQY PRASETYO UTOMO",
+      "teknis": 200,
+      "manajerial": 77,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 378,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001469",
+      "nama": "ERIS SELVIYANA PUTRI",
+      "teknis": 170,
+      "manajerial": 86,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total": 356,
+      "status": "P/L"
+    }
+  ]
+}

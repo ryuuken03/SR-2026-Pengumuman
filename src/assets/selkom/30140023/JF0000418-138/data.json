@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003152",
+      "nama": "SARAH IZZATUNNISA",
+      "teknis": 270,
+      "manajerial": 97,
+      "sosial_kultural": 72,
+      "wawancara": 31,
+      "total": 470,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003065",
+      "nama": "KHAFID BAIHAQI ISKAK",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total": 424,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007040",
+      "nama": "AYU IRNADIANIS IFADA",
+      "teknis": 205,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 407,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008430",
+      "nama": "HASNA AGUSTINA NAZIAH",
+      "teknis": 205,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120009161",
+      "nama": "SALUSI",
+      "teknis": 190,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120004618",
+      "nama": "MYKE RIKA SUSANTI",
+      "teknis": 185,
+      "manajerial": 89,
+      "sosial_kultural": 62,
+      "wawancara": 35,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110002559",
+      "nama": "HARIS MUHAMMAD ZAKY",
+      "teknis": 145,
+      "manajerial": 97,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 352,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000801",
+      "nama": "YOGA DICKY SETIAWAN",
+      "teknis": 150,
+      "manajerial": 90,
+      "sosial_kultural": 62,
+      "wawancara": 35,
+      "total": 337,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120004365",
+      "nama": "NITA ARIYANTI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

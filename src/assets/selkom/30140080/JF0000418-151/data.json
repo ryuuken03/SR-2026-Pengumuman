@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002495",
+      "nama": "Kintan Sinaga",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 58,
+      "wawancara": 31,
+      "total": 417,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004633",
+      "nama": "NURUL FADILLAH",
+      "teknis": 190,
+      "manajerial": 82,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 380,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002198",
+      "nama": "KHAIRUNNISA AL AHNANI",
+      "teknis": 195,
+      "manajerial": 81,
+      "sosial_kultural": 66,
+      "wawancara": 33,
+      "total": 375,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000507",
+      "nama": "MELINA PABILA RINA AYU",
+      "teknis": 190,
+      "manajerial": 82,
+      "sosial_kultural": 52,
+      "wawancara": 33,
+      "total": 357,
+      "status": "P/L"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120003265",
+      "nama": "PUTRI NABILAH",
+      "teknis": 165,
+      "manajerial": 72,
+      "sosial_kultural": 68,
+      "wawancara": 31,
+      "total": 336,
+      "status": "P/L"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110002356",
+      "nama": "RIDHO DARLIS",
+      "teknis": 125,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total": 324,
+      "status": "P/L"
+    }
+  ]
+}

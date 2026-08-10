@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001683",
+      "nama": "RIO PERDANA",
+      "teknis": 200,
+      "manajerial": 95,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total": 412,
+      "status": "P/L"
+    }
+  ]
+}

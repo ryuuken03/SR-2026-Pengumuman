@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005282",
+      "nama": "FAHMA DEVI MAULIDA",
+      "teknis": 230,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 429,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006857",
+      "nama": "PUTRI YULIANTI",
+      "teknis": 160,
+      "manajerial": 91,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total": 351,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004349",
+      "nama": "PINGKAN APRILENI MEMORIKA RIANTO",
+      "teknis": 140,
+      "manajerial": 80,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total": 330,
+      "status": "P"
+    }
+  ]
+}

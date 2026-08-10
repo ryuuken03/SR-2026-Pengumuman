@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002399",
+      "nama": "Luthfi Habibi",
+      "teknis": 195,
+      "manajerial": 77,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 375,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002332",
+      "nama": "AULIA ISNA FARIDA",
+      "teknis": 155,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total": 355,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120009158",
+      "nama": "ROPIYAH",
+      "teknis": 180,
+      "manajerial": 74,
+      "sosial_kultural": 33,
+      "wawancara": 32,
+      "total": 319,
+      "status": "P/L"
+    }
+  ]
+}

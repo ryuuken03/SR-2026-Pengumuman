@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002568",
+      "nama": "INAYATU SOLIKHAH",
+      "teknis": 285,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total": 484,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006129",
+      "nama": "AMALIA SHOFIE SAHIRANI",
+      "teknis": 250,
+      "manajerial": 82,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total": 444,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004615",
+      "nama": "DANIMAULIA NURRAAFI AWALI",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 380,
+      "status": "P"
+    }
+  ]
+}

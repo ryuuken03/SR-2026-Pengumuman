@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002390",
+      "nama": "I DEWA GEDE SIDIKARA",
+      "teknis": 230,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total": 425,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002872",
+      "nama": "PUTRA PRAYOGA",
+      "teknis": 225,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 420,
+      "status": "P/L"
+    }
+  ]
+}

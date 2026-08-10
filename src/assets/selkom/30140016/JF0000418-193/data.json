@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002614",
+      "nama": "FARHAN RAMADHAN",
+      "teknis": 315,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total": 521,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002549",
+      "nama": "GUSMAWAN",
+      "teknis": 240,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total": 438,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002987",
+      "nama": "FITRI DEWANTI",
+      "teknis": 220,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 426,
+      "status": "P/L"
+    }
+  ]
+}

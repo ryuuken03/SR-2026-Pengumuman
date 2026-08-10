@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007569",
+      "nama": "TRI INDYASTUTI",
+      "teknis": 280,
+      "manajerial": 93,
+      "sosial_kultural": 79,
+      "wawancara": 39,
+      "total": 491,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006002",
+      "nama": "TIARA SEKARSARI",
+      "teknis": 255,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 451,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008672",
+      "nama": "SRI RATNA JANUR INDAH",
+      "teknis": 245,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 449,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001833",
+      "nama": "ANDIKA SUPRIADI",
+      "teknis": 240,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total": 445,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120006796",
+      "nama": "SIH BUDI MARIANI",
+      "teknis": 225,
+      "manajerial": 96,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total": 437,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410110001083",
+      "nama": "SETIAWAN INDRA YULIANTO",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 401,
+      "status": "P"
+    }
+  ]
+}

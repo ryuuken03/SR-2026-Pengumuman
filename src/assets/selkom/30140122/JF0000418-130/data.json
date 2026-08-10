@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007267",
+      "nama": "POPI LEDIS MAYOLANA AMANUPUNNYO",
+      "teknis": 195,
+      "manajerial": 89,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 398,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002987",
+      "nama": "HENDRO YUPITER SOUHUKEN",
+      "teknis": 105,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 31,
+      "total": 287,
+      "status": "P/L"
+    }
+  ]
+}

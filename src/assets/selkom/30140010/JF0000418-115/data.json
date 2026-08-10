@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008476",
+      "nama": "GITHA DWI SUKMAWATI",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 63,
+      "wawancara": 33,
+      "total": 433,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003110",
+      "nama": "DENI SEPTIAWAN",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 400,
+      "status": "P/L"
+    }
+  ]
+}

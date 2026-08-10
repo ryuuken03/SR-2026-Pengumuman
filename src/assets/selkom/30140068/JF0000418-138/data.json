@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001463",
+      "nama": "RAIHAN FADHILLAH",
+      "teknis": 250,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 455,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005886",
+      "nama": "RINA ALFIYANTI",
+      "teknis": 225,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total": 432,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005654",
+      "nama": "Dinda Yana",
+      "teknis": 220,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total": 420,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007787",
+      "nama": "NURUL AKMAL",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total": 402,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120000928",
+      "nama": "NUR IZHMA ADZKIA ZAHRA",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 66,
+      "wawancara": 40,
+      "total": 398,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006416",
+      "nama": "KHAIRA NURLIZA",
+      "teknis": 200,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 389,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120004662",
+      "nama": "IDA MAULINA",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total": 381,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000347",
+      "nama": "M. FADLI",
+      "teknis": 195,
+      "manajerial": 77,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120006894",
+      "nama": "YULISA ISMI",
+      "teknis": 175,
+      "manajerial": 80,
+      "sosial_kultural": 78,
+      "wawancara": 30,
+      "total": 363,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120003184",
+      "nama": "FARACH FAZILLA LUBIS",
+      "teknis": 160,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 350,
+      "status": "P"
+    }
+  ]
+}

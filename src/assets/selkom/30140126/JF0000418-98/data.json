@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005738",
+      "nama": "SRIMULYANI",
+      "teknis": 250,
+      "manajerial": 98,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 453,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000793",
+      "nama": "LALU MAULANA SUKARDI",
+      "teknis": 265,
+      "manajerial": 86,
+      "sosial_kultural": 62,
+      "wawancara": 39,
+      "total": 452,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008834",
+      "nama": "NIA AGUSTINA",
+      "teknis": 230,
+      "manajerial": 96,
+      "sosial_kultural": 79,
+      "wawancara": 36,
+      "total": 441,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006758",
+      "nama": "SITI AINUN JARIAH",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 43,
+      "wawancara": 39,
+      "total": 424,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120005974",
+      "nama": "EMA SEPTIANI",
+      "teknis": 220,
+      "manajerial": 89,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total": 424,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006677",
+      "nama": "LENY SUSANTI",
+      "teknis": 220,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total": 413,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410110002886",
+      "nama": "M. SOFIAN",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 412,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410110000790",
+      "nama": "JUNIARDI",
+      "teknis": 230,
+      "manajerial": 86,
+      "sosial_kultural": 57,
+      "wawancara": 36,
+      "total": 409,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410110003026",
+      "nama": "MUHAMAD NALAN ARIF RAHMATAN",
+      "teknis": 195,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total": 385,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120007075",
+      "nama": "ANITA SAPINATUN NAZA",
+      "teknis": 180,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 11,
+      "nomor_peserta": "26301410120004929",
+      "nama": "I GUSTI AYU SINTA PUTRI DEWI",
+      "teknis": 170,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 12,
+      "nomor_peserta": "26301410110001350",
+      "nama": "Muhammad Hadriansyah",
+      "teknis": 190,
+      "manajerial": 85,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total": 371,
+      "status": "P"
+    },
+    {
+      "no": 13,
+      "nomor_peserta": "26301410110001735",
+      "nama": "MUH AINUL BASYIRAH",
+      "teknis": 160,
+      "manajerial": 78,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total": 340,
+      "status": "P"
+    },
+    {
+      "no": 14,
+      "nomor_peserta": "26301410120007953",
+      "nama": "DESNATALYA ARINY SAEK",
+      "teknis": 140,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total": 335,
+      "status": "P"
+    },
+    {
+      "no": 15,
+      "nomor_peserta": "26301410120004879",
+      "nama": "DEWI WIDIA ASTUTI",
+      "teknis": 0,
+      "manajerial": 0,
+      "sosial_kultural": 0,
+      "wawancara": 0,
+      "total": 0,
+      "status": "TH"
+    }
+  ]
+}

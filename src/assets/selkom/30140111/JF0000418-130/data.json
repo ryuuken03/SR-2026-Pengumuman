@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009113",
+      "nama": "HASMA",
+      "teknis": 240,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 439,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000192",
+      "nama": "NUR AULIA S",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total": 401,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004322",
+      "nama": "TASYA RAMADHANI",
+      "teknis": 175,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total": 381,
+      "status": "P"
+    }
+  ]
+}

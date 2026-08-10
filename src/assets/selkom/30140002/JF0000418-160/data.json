@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001040",
+      "nama": "WIWIT CAHYANI",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total": 404,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001034",
+      "nama": "NOVIONA FAZIRA",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 388,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000825",
+      "nama": "FALAH KUN IMADUDDIN",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total": 360,
+      "status": "P/L"
+    }
+  ]
+}

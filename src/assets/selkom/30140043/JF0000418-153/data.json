@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007471",
+      "nama": "FINANDA DWI TRIASWARI",
+      "teknis": 340,
+      "manajerial": 78,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total": 528,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008128",
+      "nama": "FITROH NUR FAUZIAH",
+      "teknis": 300,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 492,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001280",
+      "nama": "MOH. IRFAN NAWAWI",
+      "teknis": 275,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total": 477,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000577",
+      "nama": "DIMAS ALDI FAHRIGI",
+      "teknis": 255,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 449,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410110003025",
+      "nama": "ANDHIKA AJI GUMELAR",
+      "teknis": 240,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total": 442,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120006371",
+      "nama": "SELA AYU RUSTIYA",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total": 417,
+      "status": "P"
+    }
+  ]
+}

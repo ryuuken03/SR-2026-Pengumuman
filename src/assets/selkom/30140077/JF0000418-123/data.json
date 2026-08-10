@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004399",
+      "nama": "ARIEL MONICA",
+      "teknis": 205,
+      "manajerial": 96,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total": 413,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000556",
+      "nama": "HABBIEB ABDULLAH",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 399,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007069",
+      "nama": "FITRI ARLISWAN",
+      "teknis": 175,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total": 380,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004605",
+      "nama": "ULFAH FAUZIYYAH",
+      "teknis": 170,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total": 373,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120001651",
+      "nama": "IKHWANI SOFIA",
+      "teknis": 170,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total": 367,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120001783",
+      "nama": "SABRINA FADILLA BARNI",
+      "teknis": 160,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total": 359,
+      "status": "P"
+    },
+    {
+      "no": 7,
+      "nomor_peserta": "26301410120007292",
+      "nama": "AYU PUSPITA SARI",
+      "teknis": 165,
+      "manajerial": 81,
+      "sosial_kultural": 58,
+      "wawancara": 38,
+      "total": 342,
+      "status": "P"
+    },
+    {
+      "no": 8,
+      "nomor_peserta": "26301410120001829",
+      "nama": "ZAHARA",
+      "teknis": 150,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total": 340,
+      "status": "P"
+    },
+    {
+      "no": 9,
+      "nomor_peserta": "26301410120001107",
+      "nama": "FRARA VINNY ANJELA",
+      "teknis": 140,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total": 334,
+      "status": "P"
+    },
+    {
+      "no": 10,
+      "nomor_peserta": "26301410120007448",
+      "nama": "FADILLA DELENDRA DES RAMADINI",
+      "teknis": 140,
+      "manajerial": 80,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 323,
+      "status": "P"
+    }
+  ]
+}

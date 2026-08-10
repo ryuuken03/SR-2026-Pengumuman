@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005430",
+      "nama": "SITI TRI PUJI RAHAYU",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total": 477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000393",
+      "nama": "DUVAN AWANG PRAYOGA",
+      "teknis": 290,
+      "manajerial": 82,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total": 476,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001056",
+      "nama": "DENI PRASETYO",
+      "teknis": 245,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total": 439,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005142",
+      "nama": "Amelia Ayuningsih",
+      "teknis": 210,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total": 403,
+      "status": "P"
+    }
+  ]
+}

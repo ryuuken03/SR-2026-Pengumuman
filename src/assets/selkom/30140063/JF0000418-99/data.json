@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004769",
+      "nama": "SHABRINA NOPRIMA",
+      "teknis": 200,
+      "manajerial": 78,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total": 384,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004582",
+      "nama": "ELFI MAULANI MR",
+      "teknis": 150,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total": 352,
+      "status": "P/L"
+    }
+  ]
+}

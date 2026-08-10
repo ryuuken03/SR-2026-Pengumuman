@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007708",
+      "nama": "ANITA RIANA",
+      "teknis": 245,
+      "manajerial": 86,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total": 446,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001449",
+      "nama": "Mahmudah",
+      "teknis": 155,
+      "manajerial": 78,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total": 338,
+      "status": "P/L"
+    }
+  ]
+}

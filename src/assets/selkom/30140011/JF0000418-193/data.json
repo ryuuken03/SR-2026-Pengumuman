@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003361",
+      "nama": "PINGKAN DWI FITRIANA",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 396,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001126",
+      "nama": "AULIA ABUKHAIR",
+      "teknis": 180,
+      "manajerial": 90,
+      "sosial_kultural": 65,
+      "wawancara": 37,
+      "total": 372,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004650",
+      "nama": "NURBAETI",
+      "teknis": 185,
+      "manajerial": 87,
+      "sosial_kultural": 51,
+      "wawancara": 31,
+      "total": 354,
+      "status": "P/L"
+    }
+  ]
+}

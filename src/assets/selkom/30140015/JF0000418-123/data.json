@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006712",
+      "nama": "DENOK PERMATASARI",
+      "teknis": 210,
+      "manajerial": 94,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total": 408,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003312",
+      "nama": "FADILA NURHASANAH",
+      "teknis": 190,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total": 392,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005568",
+      "nama": "FURQON FAIZAH",
+      "teknis": 185,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total": 387,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005555",
+      "nama": "ANNISA TRILUSIANI",
+      "teknis": 180,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total": 387,
+      "status": "P"
+    },
+    {
+      "no": 5,
+      "nomor_peserta": "26301410120004493",
+      "nama": "SRI WULANDARI",
+      "teknis": 135,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total": 340,
+      "status": "P"
+    },
+    {
+      "no": 6,
+      "nomor_peserta": "26301410120000896",
+      "nama": "SRIYANI",
+      "teknis": 115,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 302,
+      "status": "P"
+    }
+  ]
+}

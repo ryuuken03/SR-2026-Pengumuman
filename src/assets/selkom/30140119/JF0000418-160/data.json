@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002809",
+      "nama": "VISKA AULIA NURANI",
+      "teknis": 160,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total": 352,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006014",
+      "nama": "NURFADILAH",
+      "teknis": 140,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total": 342,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003253",
+      "nama": "WARDIMAN",
+      "teknis": 150,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total": 341,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006079",
+      "nama": "INDRI HAFSARI SUDARMA",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total": 369,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005193",
+      "nama": "ANNISA A ALZAIN",
+      "teknis": 160,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total": 352,
+      "status": "P/L"
+    }
+  ]
+}
