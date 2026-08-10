@@ -50,7 +50,7 @@ function Highlight({ text, query }: { text: string | number | undefined; query: 
 
 function StatusBadge({ status }: { status?: string }) {
   if (!status) return null
-  const isLulus = /^p\//i.test(status) || status === 'P/L'
+  const isLulus = /^p(\/|$)/i.test(status.trim()) || status === 'P/L' || status === 'P'
   return (
     <span className={`status-badge ${isLulus ? 'status-badge--lulus' : 'status-badge--tl'}`}>
       {status}
@@ -262,6 +262,9 @@ export default function ResultsTable({
         <div className="status-legend__items">
           <span className="status-legend__item">
             <strong className="legend-badge legend-badge--lulus">P/L</strong> Lulus & berhak ikut SKT
+          </span>
+          <span className="status-legend__item">
+            <strong className="legend-badge legend-badge--lulus">P</strong> Peserta yang memenuhi nilai ambang batas (Passing Grade)
           </span>
           <span className="status-legend__item">
             <strong className="legend-badge legend-badge--tl">TH</strong> Tidak Hadir
