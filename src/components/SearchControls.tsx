@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import type { SearchScope } from '../hooks/useSelkomSearch'
 
 const SearchIcon = () => (
@@ -46,6 +46,27 @@ export default function SearchControls({
   formasiReady,
   onScopeChange,
 }: SearchControlsProps) {
+  // Debounce auto-search saat user mengetik
+  useEffect(() => {
+    if (requireSelectedFormasi && !formasiReady) return
+
+    const trimmed = query.trim()
+
+    // Jika input dikosongkan dan sebelumnya sedang dalam mode hasil pencarian, reset langsung
+    if (!trimmed) {
+      if (hasSearched) {
+        handleClear()
+      }
+      return
+    }
+
+    const timer = setTimeout(() => {
+      handleSearch()
+    }, 350)
+
+    return () => clearTimeout(timer)
+  }, [query, requireSelectedFormasi, formasiReady, hasSearched, handleSearch, handleClear])
+
   const onKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (e.key === 'Enter') handleSearch()
   }

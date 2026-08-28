@@ -24,8 +24,7 @@ const GLOBAL_COLS: ColDef[] = [
   { key: 'no', label: 'No', sortable: true },
   { key: 'nomor_peserta', label: 'Nomor Peserta', sortable: true },
   { key: 'nama', label: 'Nama', sortable: true },
-  { key: 'jabatanNama', label: 'Jabatan Formasi', sortable: true },
-  { key: 'lokasiNama', label: 'Lokasi Formasi', sortable: true },
+  { key: 'jabatanNama', label: 'Jabatan & Lokasi Formasi', sortable: true },
   { key: 'teknis', label: 'Teknis', sortable: true },
   { key: 'manajerial', label: 'Manajerial', sortable: true },
   { key: 'sosial_kultural', label: 'Sos. Kultural', sortable: true },
@@ -75,7 +74,6 @@ interface ResultsTableProps {
   ITEMS_PER_PAGE: number
   sortConfig: SortConfig
   requestSort: (key: SortKey) => void
-  onSelectFormasi?: (jabatanKode: string, lokasiKode: string) => void
 }
 
 export default function ResultsTable({
@@ -95,7 +93,6 @@ export default function ResultsTable({
   ITEMS_PER_PAGE,
   sortConfig,
   requestSort,
-  onSelectFormasi,
 }: ResultsTableProps) {
   const [showScrollTop, setScrollTop] = useState(false)
 
@@ -204,25 +201,14 @@ export default function ResultsTable({
               </td>
 
               {isGlobal && (
-                <>
-                  <td data-label="Jabatan Formasi" className="cell-formasi-info cell-jabatan">
-                    {onSelectFormasi && row.jabatanKode && row.lokasiKode ? (
-                      <button
-                        type="button"
-                        className="btn-link-formasi formasi-chip"
-                        onClick={() => onSelectFormasi(row.jabatanKode!, row.lokasiKode!)}
-                        title="Buka detail formasi ini"
-                      >
-                        {row.jabatanNama || row.jabatanKode}
-                      </button>
-                    ) : (
-                      <span className="formasi-chip">{row.jabatanNama || row.jabatanKode || '-'}</span>
-                    )}
-                  </td>
-                  <td data-label="Lokasi Formasi" className="cell-formasi-info cell-lokasi">
-                    <span className="formasi-chip formasi-chip--lokasi">{row.lokasiNama || row.lokasiKode || '-'}</span>
-                  </td>
-                </>
+                <td data-label="Jabatan & Lokasi Formasi" className="cell-formasi-info cell-formasi-combined">
+                  <div className="cell-jabatan-text">{row.jabatanNama || row.jabatanKode || '-'}</div>
+                  {(row.lokasiNama || row.lokasiKode) && (
+                    <span className="formasi-chip formasi-chip--lokasi">
+                      {row.lokasiNama || row.lokasiKode}
+                    </span>
+                  )}
+                </td>
               )}
 
               <td data-label="Teknis" className="cell-score cell-teknis">{row.teknis ?? '-'}</td>

@@ -501,8 +501,41 @@
 
 .cell-formasi-info {
   font-size: 12.5px !important;
-  max-width: 220px;
-  line-height: 1.3;
+  min-width: 180px;
+  max-width: 320px;
+  line-height: 1.4;
+}
+
+.cell-formasi-combined {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.cell-formasi-combined .cell-jabatan-text {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: hsl(var(--foreground));
+  line-height: 1.35;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.cell-formasi-combined .formasi-chip--lokasi {
+  margin-top: 10px;
+}
+
+.cell-jabatan-text,
+.cell-lokasi-text {
+  font-size: 12.5px;
+  line-height: 1.4;
+  display: inline-block;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.cell-lokasi-text {
+  color: hsl(var(--foreground));
 }
 
 .btn-link-formasi {
@@ -518,6 +551,9 @@
   text-decoration: underline;
   text-underline-offset: 2px;
   height: auto !important;
+  line-height: 1.4 !important;
+  word-break: normal;
+  overflow-wrap: break-word;
 }
 
 .btn-link-formasi:hover {
@@ -821,16 +857,20 @@ mark.highlight {
 
 /* Formasi Chip styling */
 .formasi-chip {
-  display: inline-flex;
-  align-items: center;
-  padding: 4px 10px;
-  border-radius: 9999px;
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: calc(var(--radius) - 2px);
   background: hsl(var(--brand) / 0.12);
   border: 1px solid hsl(var(--brand) / 0.25);
   color: hsl(var(--brand));
   font-size: 11.5px;
   font-weight: 600;
-  line-height: 1.3;
+  line-height: 1.35;
+  text-align: left;
+  word-break: normal;
+  overflow-wrap: break-word;
+  max-width: 100%;
+  box-sizing: border-box;
   transition: background-color 0.15s, color 0.15s;
 }
 
@@ -838,6 +878,8 @@ mark.highlight {
   background: hsl(var(--secondary));
   border-color: hsl(var(--border));
   color: hsl(var(--foreground));
+  font-weight: 500;
+  margin-top: 10px;
 }
 
 button.formasi-chip {
@@ -1131,37 +1173,27 @@ button.formasi-chip:hover {
     margin-right: 1px;
   }
 
-  /* Formasi Chips Section ({Jabatan Formasi} {Lokasi Formasi} without Formasi: prefix) */
-  .data-table tbody td.cell-jabatan {
+  /* Formasi Combined Section ({Jabatan Formasi} & {Lokasi Formasi}) */
+  .data-table tbody td.cell-formasi-combined {
     grid-column: 1 / -1;
     display: flex;
+    flex-direction: column;
     justify-content: flex-start;
-    align-items: center;
-    padding: 2px 0;
+    align-items: flex-start;
+    padding: 2px 0 6px 0;
     border-bottom: none !important;
-    font-size: 12px;
-    gap: 6px;
-    flex-wrap: wrap;
+    gap: 4px;
   }
 
-  .data-table tbody td.cell-jabatan::before {
+  .data-table tbody td.cell-formasi-combined::before {
     display: none !important;
   }
 
-  .data-table tbody td.cell-lokasi {
-    grid-column: 1 / -1;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    padding: 0 0 4px 0;
-    border-bottom: none !important;
-    font-size: 12px;
-    gap: 6px;
-    flex-wrap: wrap;
-  }
-
-  .data-table tbody td.cell-lokasi::before {
-    display: none !important;
+  .data-table tbody td.cell-formasi-combined .cell-jabatan-text {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: hsl(var(--foreground));
+    line-height: 1.35;
   }
 
   /* 4 Score cells in 1 ROW */

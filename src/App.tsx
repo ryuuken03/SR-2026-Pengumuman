@@ -68,7 +68,6 @@ export default function App() {
     setSelectedJabatan,
     selectedLokasi,
     setSelectedLokasi,
-    selectFormasiEntry,
     // Scope
     searchScope,
     setSearchScope,
@@ -197,7 +196,6 @@ export default function App() {
         ITEMS_PER_PAGE={ITEMS_PER_PAGE}
         sortConfig={sortConfig}
         requestSort={requestSort}
-        onSelectFormasi={selectFormasiEntry}
       />
     </div>
   )
