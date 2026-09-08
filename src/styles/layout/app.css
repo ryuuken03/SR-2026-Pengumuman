@@ -181,6 +181,7 @@
     align-self: stretch;
     justify-content: space-between;
     width: 100%;
+    align-items: center;
   }
 
   .app-header-nav {
@@ -190,8 +191,9 @@
   .app-header-nav__btn {
     flex: 1;
     justify-content: center;
-    padding: 0 8px;
-    font-size: 12.5px;
+    padding: 0 10px;
+    font-size: 13px;
+    min-height: 44px;
   }
 }
 

@@ -28,12 +28,12 @@ export const APP_CHANGELOG: ChangelogRelease[] = [
     date: APP_LAST_UPDATED,
     isLatest: true,
     badge: 'Rilis Fitur',
-    summary: 'Dukungan penuh data Seleksi Kompetensi Teknis Tambahan (SKT) sebanyak 13.313 peserta, pemilih tahap seleksi CAT vs SKT, kolom rincian nilai integrasi, jadwal pelaksanaan ujian, dan optimasi tampilan seluler.',
+    summary: 'Dukungan penuh data Seleksi Kompetensi Tambahan (SKT) sebanyak 13.313 peserta, pemilih tahap seleksi CAT vs SKT, kolom rincian nilai integrasi, jadwal pelaksanaan ujian, dan optimasi tampilan seluler.',
     publicNotes: [
       {
         type: 'feat',
         label: 'Fitur Baru',
-        text: 'Dukungan dataset Seleksi Kompetensi Teknis Tambahan (SKT) mencakup 13.313 peserta berdasarkan pengumuman resmi.',
+        text: 'Dukungan dataset Seleksi Kompetensi Tambahan (SKT) mencakup 13.313 peserta berdasarkan pengumuman resmi.',
       },
       {
         type: 'feat',

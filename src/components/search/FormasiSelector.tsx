@@ -172,9 +172,16 @@ export default function FormasiSelector(props: FormasiSelectorProps) {
 
         {/* Petunjuk saat salah satu belum dipilih */}
         {isIncomplete && (
-          <p className="formasi-selector__warning" role="alert">
-            {FORMASI.incompleteWarning}
-          </p>
+          <div className="formasi-selector__warning" role="alert">
+            <span>{FORMASI.incompleteWarning}</span>
+            <button
+              type="button"
+              className="formasi-selector__warning-action"
+              onClick={onResetFormasi}
+            >
+              {FORMASI.cancelAndSearchGlobal}
+            </button>
+          </div>
         )}
 
         {/* Tombol reset formasi di desktop jika ada yang dipilih */}

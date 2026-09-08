@@ -246,7 +246,10 @@ export default function App() {
             formasiIncomplete={formasiIncomplete}
             hasActiveFormasi={hasActiveFormasi}
             activeFormasiLabel={activeFormasiLabel}
+            jabatanLabel={jabatanLabel}
+            lokasiLabel={lokasiLabel}
             onOpenFilterModal={() => setIsFilterModalOpen(true)}
+            onResetFormasi={handleResetFormasi}
           />
 
           {/* ── Meta Info ──────────────────────────────────── */}

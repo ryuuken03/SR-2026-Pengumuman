@@ -29,6 +29,12 @@ interface SearchControlsProps {
   onOpenFilterModal: () => void
   /** Trigger untuk re-search dari component (selain debounce) */
   handleSearch: () => void
+  /** Reset pilihan formasi aktif */
+  onResetFormasi?: () => void
+  /** Label nama jabatan */
+  jabatanLabel?: string
+  /** Label nama lokasi */
+  lokasiLabel?: string
 }
 
 const FilterIcon = () => (
@@ -52,8 +58,11 @@ export default function SearchControls({
   formasiIncomplete,
   hasActiveFormasi,
   activeFormasiLabel,
+  jabatanLabel,
+  lokasiLabel,
   onOpenFilterModal,
   handleSearch,
+  onResetFormasi,
 }: SearchControlsProps) {
   // Debounce auto-search saat user mengetik
   useEffect(() => {
@@ -90,8 +99,11 @@ export default function SearchControls({
 
   // Apakah tombol reset perlu ditampilkan
   const showResetSearch = hasSearched || trimmedQuery.length > 0
-  const showResetAll = hasActiveFormasi && showResetSearch
-  const showResetSearchOnly = showResetSearch && !hasActiveFormasi
+  const showResetFormasi = hasActiveFormasi
+  const showResetAll = showResetFormasi && showResetSearch
+  const showResetSearchOnly = showResetSearch && !showResetFormasi
+  const showResetFormasiOnly = showResetFormasi && !showResetSearch
+  const showAnyReset = showResetSearch || showResetFormasi
 
   return (
     <div className="controls">
@@ -153,7 +165,96 @@ export default function SearchControls({
             {SEARCH.btnResetSearch}
           </button>
         )}
+        {showResetFormasiOnly && (
+          <button
+            type="button"
+            className="controls__reset-btn controls__reset-btn--desktop"
+            onClick={onResetFormasi || handleResetAll}
+          >
+            {FORMASI.modalReset}
+          </button>
+        )}
       </div>
+
+      {/* ── Active Filter Chip (Mobile View) ─────────────── */}
+      {hasActiveFormasi && (jabatanLabel || lokasiLabel || activeFormasiLabel) && (
+        <div className="active-filter-chip">
+          <button
+            type="button"
+            className="active-filter-chip__body"
+            onClick={onOpenFilterModal}
+            aria-label={activeFormasiLabel ? FORMASI.chipEditAria(activeFormasiLabel) : FORMASI.sectionLabel}
+          >
+            {jabatanLabel && (
+              <span>{jabatanLabel}</span>
+            )}
+            {lokasiLabel && (
+              <span>{lokasiLabel}</span>
+            )}
+            {!jabatanLabel && !lokasiLabel && activeFormasiLabel && (
+              <span className="active-filter-chip__text">{activeFormasiLabel}</span>
+            )}
+          </button>
+          {onResetFormasi && (
+            <button
+              type="button"
+              className="active-filter-chip__remove"
+              onClick={onResetFormasi}
+              aria-label={FORMASI.clearSelection}
+              title={FORMASI.clearSelection}
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                width="12"
+                height="12"
+                aria-hidden="true"
+              >
+                <line x1="18" y1="6" x2="6" y2="18" />
+                <line x1="6" y1="6" x2="18" y2="18" />
+              </svg>
+            </button>
+          )}
+        </div>
+      )}
+
+      {/* ── Tombol Reset Mobile — tampil di bawah filter chip ── */}
+      {showAnyReset && (
+        <div className="controls__reset-row controls__reset-row--mobile">
+          {showResetAll && (
+            <button
+              type="button"
+              className="controls__reset-btn"
+              onClick={handleResetAll}
+            >
+              {SEARCH.btnResetAll}
+            </button>
+          )}
+          {showResetSearchOnly && (
+            <button
+              type="button"
+              className="controls__reset-btn"
+              onClick={() => { setQuery(''); handleClear() }}
+            >
+              {SEARCH.btnResetSearch}
+            </button>
+          )}
+          {showResetFormasiOnly && (
+            <button
+              type="button"
+              className="controls__reset-btn"
+              onClick={onResetFormasi || handleResetAll}
+            >
+              {FORMASI.modalReset}
+            </button>
+          )}
+        </div>
+      )}
 
       {/* ── Hint minimal karakter (global mode) ────────────── */}
       {isTooShortGlobal && (
@@ -164,32 +265,19 @@ export default function SearchControls({
 
       {/* ── Hint formasi incomplete ─────────────────────────── */}
       {formasiIncomplete && (
-        <p className="search-mode-hint search-mode-hint--warning" role="alert">
-          {SEARCH.hintIncomplete}
-        </p>
+        <div className="search-mode-hint search-mode-hint--warning" role="alert">
+          <span>{SEARCH.hintIncomplete}</span>
+          {onResetFormasi && (
+            <button
+              type="button"
+              className="search-mode-hint__action"
+              onClick={onResetFormasi}
+            >
+              {FORMASI.cancelAndSearchGlobal}
+            </button>
+          )}
+        </div>
       )}
-
-      {/* ── Tombol Reset Mobile — tampil di bawah input search ── */}
-      <div className="controls__reset-row controls__reset-row--mobile">
-        {showResetAll && (
-          <button
-            type="button"
-            className="controls__reset-btn"
-            onClick={handleResetAll}
-          >
-            {SEARCH.btnResetAll}
-          </button>
-        )}
-        {showResetSearchOnly && (
-          <button
-            type="button"
-            className="controls__reset-btn"
-            onClick={() => { setQuery(''); handleClear() }}
-          >
-            {SEARCH.btnResetSearch}
-          </button>
-        )}
-      </div>
     </div>
   )
 }

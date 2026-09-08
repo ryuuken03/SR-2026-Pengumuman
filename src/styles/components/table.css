@@ -22,7 +22,7 @@
 
 .results-table__desktop table {
   width: 100%;
-  min-width: 850px;
+  min-width: 920px;
   border-collapse: collapse;
 }
 
@@ -659,8 +659,8 @@ button.formasi-chip:hover {
 
 /* ── Grouped Score Cells (SKT View Desktop) ────────────────── */
 .cell-score-group {
-  min-width: 200px;
-  max-width: 280px;
+  min-width: 220px;
+  max-width: 300px;
   vertical-align: middle !important;
   padding: 8px 10px !important;
 }
@@ -682,8 +682,8 @@ button.formasi-chip:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 4px;
-  padding: 2px 5px;
+  gap: 3px;
+  padding: 2px 4px;
   background: hsl(var(--secondary) / 0.5);
   border: 1px solid hsl(var(--border) / 0.6);
   border-radius: calc(var(--radius) - 3px);
@@ -695,12 +695,13 @@ button.formasi-chip:hover {
 }
 
 .score-subitem__label {
-  font-size: 10px;
+  font-size: 9.5px;
   font-weight: 500;
   color: hsl(var(--muted-foreground));
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  letter-spacing: -0.01em;
 }
 
 .score-subitem__val {

@@ -66,7 +66,9 @@ export const FORMASI = {
   // Desktop hint
   desktopNote: 'Opsional — kosongkan untuk mencari nama di seluruh data peserta.',
   incompleteWarning: 'Pilih jabatan dan lokasi untuk memuat data formasi.',
+  cancelAndSearchGlobal: 'Batal filter & cari global',
   activeFilterLabel: (jabatan: string, lokasi: string) => `${jabatan} · ${lokasi}`,
+  chipEditAria: (label: string) => `Filter aktif: ${label}. Ketuk untuk mengubah formasi`,
 } as const
 
 /* ── Search Controls ──────────────────────────────────────── */

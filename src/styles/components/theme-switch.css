@@ -52,6 +52,18 @@
   color: hsl(var(--foreground));
 }
 
+@media (max-width: 768px) {
+  /* Memperluas area tap target tema menjadi 44px sesuai standar mobile */
+  .theme-switch::after {
+    content: '';
+    position: absolute;
+    top: -7px;
+    bottom: -7px;
+    left: -4px;
+    right: -4px;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .theme-switch,
   .theme-switch__thumb {
