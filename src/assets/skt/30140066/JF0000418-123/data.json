@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005352",
+      "nama": "ROSMIANI",
+      "teknis": 165,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 368,
+      "psikotes": 69.71,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.20334,
+      "total": 60.0644,
+      "status": "P/L-2"
+    }
+  ]
+}

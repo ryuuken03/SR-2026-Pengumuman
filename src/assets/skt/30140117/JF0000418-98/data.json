@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008306",
+      "nama": "WINDA SAPUTRI",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total_cat": 407,
+      "psikotes": 70.99,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.33534,
+      "total": 64.5408,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005829",
+      "nama": "WINI HERSA",
+      "teknis": 230,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 436,
+      "psikotes": 46.55,
+      "inggris": 51.7,
+      "wawancara_skt": 66.6667,
+      "total_skt": 51.60334,
+      "total": 58.339,
+      "status": "TMS"
+    }
+  ]
+}

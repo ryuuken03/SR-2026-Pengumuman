@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005934",
+      "nama": "NIRA OKTARISNA",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 434,
+      "psikotes": 65.76,
+      "inggris": 57.16,
+      "wawancara_skt": 44.4444,
+      "total_skt": 59.77688,
+      "total": 62.2765,
+      "status": "P/L-2"
+    }
+  ]
+}

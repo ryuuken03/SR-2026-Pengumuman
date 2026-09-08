@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002216",
+      "nama": "MUHAMMAD SAYUTI",
+      "teknis": 210,
+      "manajerial": 93,
+      "sosial_kultural": 61,
+      "wawancara": 38,
+      "total_cat": 402,
+      "psikotes": 82.33,
+      "inggris": 72.38,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.20734,
+      "total": 68.6037,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000993",
+      "nama": "ANDI FEBY SALSABILA LINGRUNG",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 33,
+      "total_cat": 374,
+      "psikotes": 81.02,
+      "inggris": 63.07,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.55934,
+      "total": 65.1901,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008192",
+      "nama": "AMIRA NAFISYA",
+      "teknis": 180,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total_cat": 376,
+      "psikotes": 45.73,
+      "inggris": 68.39,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.44934,
+      "total": 55.2844,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007947",
+      "nama": "ELVIRA SALMA",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 32,
+      "total_cat": 364,
+      "psikotes": 43.26,
+      "inggris": 60.56,
+      "wawancara_skt": 55.5556,
+      "total_skt": 49.17912,
+      "total": 51.7537,
+      "status": "TMS"
+    }
+  ]
+}

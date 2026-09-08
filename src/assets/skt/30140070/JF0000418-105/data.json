@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000520",
+      "nama": "SITI ZAURAH RITONGA",
+      "teknis": 260,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 459,
+      "psikotes": 81.01,
+      "inggris": 55.1,
+      "wawancara_skt": 55.5556,
+      "total_skt": 70.73712,
+      "total": 69.6223,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000125",
+      "nama": "FINNY CORNELIA SITINJAK",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 413,
+      "psikotes": 68.01,
+      "inggris": 66.47,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.43334,
+      "total": 64.5376,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007351",
+      "nama": "AMALIA PUTRI",
+      "teknis": 225,
+      "manajerial": 86,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 415,
+      "psikotes": 51.49,
+      "inggris": 53.62,
+      "wawancara_skt": 77.7778,
+      "total_skt": 57.17356,
+      "total": 59.5569,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007190",
+      "nama": "NADRA HASINA TANJUNG",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 62,
+      "wawancara": 37,
+      "total_cat": 404,
+      "psikotes": 44.34,
+      "inggris": 65.44,
+      "wawancara_skt": 55.5556,
+      "total_skt": 50.80312,
+      "total": 55.5508,
+      "status": "TMS"
+    }
+  ]
+}

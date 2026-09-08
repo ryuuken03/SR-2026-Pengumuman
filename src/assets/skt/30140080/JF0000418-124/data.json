@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006863",
+      "nama": "FEBRI WAHYU ASTUTI",
+      "teknis": 140,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 336,
+      "psikotes": 37.49,
+      "inggris": 60.56,
+      "wawancara_skt": 55.5556,
+      "total_skt": 45.71712,
+      "total": 47.9332,
+      "status": "TMS"
+    }
+  ]
+}

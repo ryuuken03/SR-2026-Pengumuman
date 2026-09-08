@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-09-08",
+  "guru": {
+    "jabatan": 18,
+    "lokasi": 153,
+    "terdaftar": 4120,
+    "pl": 2431,
+    "p": 720,
+    "th": 74,
+    "tms": 895,
+    "aps": 0
+  },
+  "teknis": {
+    "jabatan": 5,
+    "lokasi": 4,
+    "terdaftar": 9193,
+    "pl": 4681,
+    "p": 1803,
+    "th": 190,
+    "tms": 2519,
+    "aps": 0
+  },
+  "total": {
+    "jabatan": 23,
+    "lokasi": 157,
+    "terdaftar": 13313,
+    "pl": 7112,
+    "p": 2523,
+    "th": 264,
+    "tms": 3414,
+    "aps": 0
+  }
+}

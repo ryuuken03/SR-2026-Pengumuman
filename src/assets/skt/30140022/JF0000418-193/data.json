@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000327",
+      "nama": "MUHAMMAD NAUFAL MAJID",
+      "teknis": 255,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 460,
+      "psikotes": 81.02,
+      "inggris": 78.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.69134,
+      "total": 73.174,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004132",
+      "nama": "SITI KHOIRUNNISA",
+      "teknis": 255,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total_cat": 459,
+      "psikotes": 81.03,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.44734,
+      "total": 71.4774,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000215",
+      "nama": "MOH. ARIFUL RIZANI",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 457,
+      "psikotes": 70.45,
+      "inggris": 74.89,
+      "wawancara_skt": 55.5556,
+      "total_skt": 68.35912,
+      "total": 68.284,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002938",
+      "nama": "BRAMU NUR ZAKIYAN",
+      "teknis": 255,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 451,
+      "psikotes": 69.12,
+      "inggris": 62.04,
+      "wawancara_skt": 44.4444,
+      "total_skt": 62.76888,
+      "total": 65.0412,
+      "status": "P"
+    }
+  ]
+}

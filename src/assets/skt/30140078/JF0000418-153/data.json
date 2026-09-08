@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002094",
+      "nama": "FEBRYSA VARENSYA",
+      "teknis": 295,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 501,
+      "psikotes": 65.94,
+      "inggris": 60.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.92134,
+      "total": 69.8487,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004214",
+      "nama": "YOLA MARISA",
+      "teknis": 290,
+      "manajerial": 97,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total_cat": 501,
+      "psikotes": 50.15,
+      "inggris": 55.69,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.11688,
+      "total": 62.4465,
+      "status": "TMS"
+    }
+  ]
+}

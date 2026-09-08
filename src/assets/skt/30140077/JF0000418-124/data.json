@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008767",
+      "nama": "ATIYA RAHMI",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 422,
+      "psikotes": 68.74,
+      "inggris": 58.05,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.18734,
+      "total": 64.5862,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000716",
+      "nama": "FIDYA NADA",
+      "teknis": 205,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total_cat": 410,
+      "psikotes": 69.15,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.13734,
+      "total": 63.6657,
+      "status": "P"
+    }
+  ]
+}

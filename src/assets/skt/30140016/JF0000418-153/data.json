@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001875",
+      "nama": "RIZKY NOVIA SAPUTRI",
+      "teknis": 300,
+      "manajerial": 88,
+      "sosial_kultural": 65,
+      "wawancara": 38,
+      "total_cat": 491,
+      "psikotes": 72.15,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.14534,
+      "total": 70.7145,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001370",
+      "nama": "NIBRAS SHOHWATUL ISLAM",
+      "teknis": 270,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 470,
+      "psikotes": 81.03,
+      "inggris": 53.18,
+      "wawancara_skt": 55.5556,
+      "total_skt": 70.36512,
+      "total": 70.2572,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001371",
+      "nama": "FAUZANI NUGRAHA",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 446,
+      "psikotes": 73.26,
+      "inggris": 77.25,
+      "wawancara_skt": 44.4444,
+      "total_skt": 68.29488,
+      "total": 67.431,
+      "status": "P/L-2"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001090",
+      "nama": "BAGAS MAULANA ANDRIANTO",
+      "teknis": 225,
+      "manajerial": 79,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 408,
+      "psikotes": 38.32,
+      "inggris": 51.7,
+      "wawancara_skt": 44.4444,
+      "total_skt": 42.22088,
+      "total": 51.5582,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008303",
+      "nama": "MILKA RIA DAELI",
+      "teknis": 315,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total_cat": 519,
+      "psikotes": 65.96,
+      "inggris": 50.22,
+      "wawancara_skt": 44.4444,
+      "total_skt": 58.50888,
+      "total": 67.9858,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002750",
+      "nama": "HANI WANGSA PUTRI",
+      "teknis": 230,
+      "manajerial": 77,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 421,
+      "psikotes": 50.14,
+      "inggris": 54.21,
+      "wawancara_skt": 44.4444,
+      "total_skt": 49.81488,
+      "total": 56.3254,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004638",
+      "nama": "MAHARANI",
+      "teknis": 230,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 431,
+      "psikotes": 81.03,
+      "inggris": 59.53,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.85734,
+      "total": 69.0928,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000692",
+      "nama": "SAMSUL BAHRI",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 442,
+      "psikotes": 57.56,
+      "inggris": 56.57,
+      "wawancara_skt": 77.7778,
+      "total_skt": 61.40556,
+      "total": 63.6879,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006054",
+      "nama": "TASYAA'U MULKA THAFAKI",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 430,
+      "psikotes": 50.08,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 55.58134,
+      "total": 59.8802,
+      "status": "TMS"
+    }
+  ]
+}

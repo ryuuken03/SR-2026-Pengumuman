@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002704",
+      "nama": "LIYATIN NISA",
+      "teknis": 215,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 32,
+      "total_cat": 417,
+      "psikotes": 71.01,
+      "inggris": 48.3,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.37712,
+      "total": 62.808,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003263",
+      "nama": "NOFRIZAL",
+      "teknis": 180,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total_cat": 377,
+      "psikotes": 70.45,
+      "inggris": 47.71,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.14534,
+      "total": 60.707,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004084",
+      "nama": "DEWI RAMADHANI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 33,
+      "wawancara": 38,
+      "total_cat": 404,
+      "psikotes": 50.94,
+      "inggris": 48.3,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.33512,
+      "total": 55.8168,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003881",
+      "nama": "AMILATUN NABAWIYAH",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total_cat": 401,
+      "psikotes": 45.71,
+      "inggris": 47.27,
+      "wawancara_skt": 33.3333,
+      "total_skt": 43.54666,
+      "total": 51.6987,
+      "status": "TMS"
+    }
+  ]
+}

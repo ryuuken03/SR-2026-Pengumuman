@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001400",
+      "nama": "MUHAMMAD RIDHWAN AL MU'MIN",
+      "teknis": 280,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 475,
+      "psikotes": 81.03,
+      "inggris": 58.05,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.56134,
+      "total": 72.2284,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003237",
+      "nama": "WA ODE SUPIAMARSAFELA",
+      "teknis": 195,
+      "manajerial": 94,
+      "sosial_kultural": 64,
+      "wawancara": 40,
+      "total_cat": 393,
+      "psikotes": 68.01,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.54734,
+      "total": 62.602,
+      "status": "P/L"
+    }
+  ]
+}

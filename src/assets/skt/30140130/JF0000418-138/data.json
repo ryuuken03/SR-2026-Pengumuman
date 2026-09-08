@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001036",
+      "nama": "MARIA ERMELINDA SABU SUGI",
+      "teknis": 250,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 447,
+      "psikotes": 81.03,
+      "inggris": 56.13,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.39956,
+      "total": 71.058,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008718",
+      "nama": "FERMI GRAZELA NDOLU",
+      "teknis": 225,
+      "manajerial": 83,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total_cat": 418,
+      "psikotes": 54.73,
+      "inggris": 70.46,
+      "wawancara_skt": 66.6667,
+      "total_skt": 60.26334,
+      "total": 61.3257,
+      "status": "TMS"
+    }
+  ]
+}

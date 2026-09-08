@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000503",
+      "nama": "AMRI",
+      "teknis": 135,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 332,
+      "psikotes": 82.66,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.33734,
+      "total": 62.4448,
+      "status": "P/L-2"
+    }
+  ]
+}

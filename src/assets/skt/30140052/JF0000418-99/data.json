@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002730",
+      "nama": "DEWANGGA ANDHIKA YUDA",
+      "teknis": 290,
+      "manajerial": 97,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 499,
+      "psikotes": 81.02,
+      "inggris": 82.72,
+      "wawancara_skt": 66.6667,
+      "total_skt": 78.48934,
+      "total": 76.4835,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001761",
+      "nama": "GEBRILIA INDRA PARASANTI",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total_cat": 454,
+      "psikotes": 81.03,
+      "inggris": 91.14,
+      "wawancara_skt": 77.7778,
+      "total_skt": 82.40156,
+      "total": 75.0814,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007668",
+      "nama": "SITI AISYAH",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total_cat": 436,
+      "psikotes": 71.02,
+      "inggris": 74.3,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.80534,
+      "total": 67.94,
+      "status": "P"
+    }
+  ]
+}

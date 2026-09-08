@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008984",
+      "nama": "NOVIA SYAHFITRI",
+      "teknis": 260,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total_cat": 458,
+      "psikotes": 68.02,
+      "inggris": 50.66,
+      "wawancara_skt": 77.7778,
+      "total_skt": 66.49956,
+      "total": 67.4289,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005599",
+      "nama": "EMA SRY LESTARI BR NAHAMPUN",
+      "teknis": 290,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 493,
+      "psikotes": 49.88,
+      "inggris": 70.46,
+      "wawancara_skt": 44.4444,
+      "total_skt": 52.90888,
+      "total": 63.2455,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001192",
+      "nama": "WURI AMBARWANGI",
+      "teknis": 250,
+      "manajerial": 84,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 443,
+      "psikotes": 49.87,
+      "inggris": 53.62,
+      "wawancara_skt": 33.3333,
+      "total_skt": 47.31266,
+      "total": 56.716,
+      "status": "TMS"
+    }
+  ]
+}

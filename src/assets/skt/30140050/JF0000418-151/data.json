@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000131",
+      "nama": "YULI AMALIA EFANDA PUTERI",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 429,
+      "psikotes": 65.95,
+      "inggris": 56.13,
+      "wawancara_skt": 77.7778,
+      "total_skt": 66.35156,
+      "total": 65.1907,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002748",
+      "nama": "DIMAS IQBAL PRADITA",
+      "teknis": 160,
+      "manajerial": 73,
+      "sosial_kultural": 65,
+      "wawancara": 28,
+      "total_cat": 326,
+      "psikotes": 48.09,
+      "inggris": 54.65,
+      "wawancara_skt": 33.3333,
+      "total_skt": 46.45066,
+      "total": 47.5537,
+      "status": "TMS"
+    }
+  ]
+}

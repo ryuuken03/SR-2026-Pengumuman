@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005229",
+      "nama": "MAZDA REZKI",
+      "teknis": 170,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total_cat": 363,
+      "psikotes": 81.03,
+      "inggris": 70.46,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.04334,
+      "total": 65.1112,
+      "status": "P/L-2"
+    }
+  ]
+}

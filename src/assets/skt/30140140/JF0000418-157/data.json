@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005559",
+      "nama": "SILVIA SURYANINGRUM",
+      "teknis": 290,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 487,
+      "psikotes": 70.26,
+      "inggris": 79.76,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.44134,
+      "total": 72.064,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001161",
+      "nama": "MUHAMMAD ATH THAARIQ AZIIZI",
+      "teknis": 310,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total_cat": 502,
+      "psikotes": 65.77,
+      "inggris": 66.03,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.00134,
+      "total": 70.4634,
+      "status": "P"
+    }
+  ]
+}

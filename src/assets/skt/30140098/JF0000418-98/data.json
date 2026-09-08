@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003830",
+      "nama": "TRIANA AYUNINGSIH UJUNG",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total_cat": 418,
+      "psikotes": 81.02,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.35334,
+      "total": 68.3707,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002959",
+      "nama": "AWANK ZUHUD FAJAR ALVIDENS",
+      "teknis": 245,
+      "manajerial": 84,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total_cat": 437,
+      "psikotes": 69.7,
+      "inggris": 59.08,
+      "wawancara_skt": 77.7778,
+      "total_skt": 69.19156,
+      "total": 67.2077,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007561",
+      "nama": "ERNY RAHAYU",
+      "teknis": 260,
+      "manajerial": 84,
+      "sosial_kultural": 30,
+      "wawancara": 35,
+      "total_cat": 409,
+      "psikotes": 54.64,
+      "inggris": 62.04,
+      "wawancara_skt": 44.4444,
+      "total_skt": 54.08088,
+      "total": 57.5628,
+      "status": "TMS"
+    }
+  ]
+}

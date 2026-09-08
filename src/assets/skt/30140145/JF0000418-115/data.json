@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003072",
+      "nama": "HAJRAT HIPPY",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 407,
+      "psikotes": 70.27,
+      "inggris": 58.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.22334,
+      "total": 63.9848,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001873",
+      "nama": "MUHAMAD RIFALDI IDRUS",
+      "teknis": 165,
+      "manajerial": 81,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total_cat": 351,
+      "psikotes": 53.07,
+      "inggris": 54.65,
+      "wawancara_skt": 44.4444,
+      "total_skt": 51.66088,
+      "total": 52.0245,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003054",
+      "nama": "MUHAMMAD REZA ARISMUNANDAR",
+      "teknis": 310,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 35,
+      "total_cat": 506,
+      "psikotes": 81.02,
+      "inggris": 64.55,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.85534,
+      "total": 75.1889,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000550",
+      "nama": "MOHAMMAD BASOFI AL QOWIYYU",
+      "teknis": 330,
+      "manajerial": 84,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total_cat": 517,
+      "psikotes": 56.38,
+      "inggris": 54.21,
+      "wawancara_skt": 44.4444,
+      "total_skt": 53.55888,
+      "total": 65.3615,
+      "status": "TMS"
+    }
+  ]
+}

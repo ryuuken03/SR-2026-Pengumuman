@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000998",
+      "nama": "FEBRY SANJAYA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total_cat": 424,
+      "psikotes": 65.77,
+      "inggris": 47.27,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.24934,
+      "total": 62.7665,
+      "status": "P/L"
+    }
+  ]
+}

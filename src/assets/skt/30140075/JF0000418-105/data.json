@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001985",
+      "nama": "ATIKA RAHMADANI",
+      "teknis": 215,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 413,
+      "psikotes": 82.12,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.80534,
+      "total": 68.2236,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000417",
+      "nama": "FIKRUL ISLAMI",
+      "teknis": 210,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 403,
+      "psikotes": 81.02,
+      "inggris": 53.62,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.66934,
+      "total": 66.4093,
+      "status": "P"
+    }
+  ]
+}

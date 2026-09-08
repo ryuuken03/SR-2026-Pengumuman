@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001207",
+      "nama": "ARIP NUR USMAN",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 450,
+      "psikotes": 82.32,
+      "inggris": 67.5,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.22534,
+      "total": 71.6948,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004504",
+      "nama": "PUPUT SRI UTAMI",
+      "teknis": 215,
+      "manajerial": 81,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total_cat": 398,
+      "psikotes": 82.33,
+      "inggris": 61.6,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.05134,
+      "total": 67.2272,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001896",
+      "nama": "ARWIN HAPPY NUR FAUZI",
+      "teknis": 220,
+      "manajerial": 90,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total_cat": 411,
+      "psikotes": 70.45,
+      "inggris": 59.53,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.50934,
+      "total": 64.4263,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000166",
+      "nama": "NUR CAHYO PUTRO",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 422,
+      "psikotes": 67.62,
+      "inggris": 52.73,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.22912,
+      "total": 62.6071,
+      "status": "P"
+    }
+  ]
+}

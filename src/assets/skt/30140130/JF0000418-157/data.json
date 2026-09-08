@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000309",
+      "nama": "MUHAMAD RAFI SOMANTRI",
+      "teknis": 345,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 543,
+      "psikotes": 57.44,
+      "inggris": 73.41,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.47934,
+      "total": 71.7621,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004189",
+      "nama": "ROYYA ZAHROTUL MALA",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 473,
+      "psikotes": 52.5,
+      "inggris": 67.5,
+      "wawancara_skt": 77.7778,
+      "total_skt": 60.55556,
+      "total": 65.5763,
+      "status": "TMS"
+    }
+  ]
+}

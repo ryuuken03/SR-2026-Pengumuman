@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000759",
+      "nama": "RISMAN PURNAMA",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total_cat": 446,
+      "psikotes": 81.01,
+      "inggris": 62.04,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.79178,
+      "total": 72.6795,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001676",
+      "nama": "MOHAMAD ALDI REZA",
+      "teknis": 190,
+      "manajerial": 86,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total_cat": 380,
+      "psikotes": 81.02,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.35334,
+      "total": 65.5349,
+      "status": "P/L"
+    }
+  ]
+}

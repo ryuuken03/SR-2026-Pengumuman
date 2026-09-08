@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003166",
+      "nama": "RIA TRI PUJI LESTARI",
+      "teknis": 230,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 426,
+      "psikotes": 70.28,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.61334,
+      "total": 65.5977,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003778",
+      "nama": "WAQINA NATA",
+      "teknis": 245,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 446,
+      "psikotes": 71.01,
+      "inggris": 63.96,
+      "wawancara_skt": 33.3333,
+      "total_skt": 62.06466,
+      "total": 64.3159,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001928",
+      "nama": "BUSTANUL ARIFIN",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total_cat": 413,
+      "psikotes": 59.69,
+      "inggris": 59.08,
+      "wawancara_skt": 66.6667,
+      "total_skt": 60.96334,
+      "total": 61.3026,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001174",
+      "nama": "YOSI PUTRI WERIANTI",
+      "teknis": 235,
+      "manajerial": 98,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 445,
+      "psikotes": 43.55,
+      "inggris": 53.62,
+      "wawancara_skt": 33.3333,
+      "total_skt": 43.52066,
+      "total": 54.9693,
+      "status": "TMS"
+    }
+  ]
+}

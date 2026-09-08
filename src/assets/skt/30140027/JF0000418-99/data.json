@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005256",
+      "nama": "EKA VIOLA SETYOWATI",
+      "teknis": 220,
+      "manajerial": 97,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total_cat": 424,
+      "psikotes": 81.02,
+      "inggris": 74.89,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.92334,
+      "total": 70.1035,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000346",
+      "nama": "NADYA RESTU TELAUMBANUA",
+      "teknis": 290,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total_cat": 483,
+      "psikotes": 70.26,
+      "inggris": 79.32,
+      "wawancara_skt": 44.4444,
+      "total_skt": 66.90888,
+      "total": 69.4992,
+      "status": "P/L"
+    }
+  ]
+}

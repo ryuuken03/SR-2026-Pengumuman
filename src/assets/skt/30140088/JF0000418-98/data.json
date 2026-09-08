@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005869",
+      "nama": "DEFITA",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total_cat": 468,
+      "psikotes": 81.02,
+      "inggris": 63.07,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.55934,
+      "total": 72.205,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002551",
+      "nama": "UMMI HAYATI",
+      "teknis": 260,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total_cat": 465,
+      "psikotes": 81.02,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.44134,
+      "total": 71.9222,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000466",
+      "nama": "SAHDAM RUMAIN",
+      "teknis": 200,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 397,
+      "psikotes": 41.06,
+      "inggris": 44.31,
+      "wawancara_skt": 33.3333,
+      "total_skt": 40.16466,
+      "total": 49.7092,
+      "status": "TMS"
+    }
+  ]
+}

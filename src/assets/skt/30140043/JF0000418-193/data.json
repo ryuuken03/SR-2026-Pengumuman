@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006846",
+      "nama": "LATIFATUS SHOLIKAH",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 446,
+      "psikotes": 81.03,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.15134,
+      "total": 70.3593,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007591",
+      "nama": "ANASTANSYA LORA FEBRIA",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 433,
+      "psikotes": 81.03,
+      "inggris": 61,
+      "wawancara_skt": 55.5556,
+      "total_skt": 71.92912,
+      "total": 68.278,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006929",
+      "nama": "ALIVIA RAHMAWATI",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 30,
+      "total_cat": 447,
+      "psikotes": 68.57,
+      "inggris": 57.16,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.46288,
+      "total": 64.0896,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003191",
+      "nama": "GINA PRATIWI ELSON",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 26,
+      "total_cat": 425,
+      "psikotes": 68.02,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.18934,
+      "total": 63.8111,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006237",
+      "nama": "NELATU FADILA",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 386,
+      "psikotes": 70.26,
+      "inggris": 49.19,
+      "wawancara_skt": 77.7778,
+      "total_skt": 67.54956,
+      "total": 62.5807,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000710",
+      "nama": "AIDUL PUTRA",
+      "teknis": 185,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total_cat": 383,
+      "psikotes": 69.89,
+      "inggris": 58.64,
+      "wawancara_skt": 33.3333,
+      "total_skt": 60.32866,
+      "total": 58.7464,
+      "status": "P"
+    }
+  ]
+}

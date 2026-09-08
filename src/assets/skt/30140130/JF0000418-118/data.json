@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005579",
+      "nama": "INGRID ROBO TADU",
+      "teknis": 170,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 373,
+      "psikotes": 65.77,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.93334,
+      "total": 59.8025,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009028",
+      "nama": "YOSEFA LAMA URAN",
+      "teknis": 90,
+      "manajerial": 82,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total_cat": 285,
+      "psikotes": 65.94,
+      "inggris": 48.74,
+      "wawancara_skt": 44.4444,
+      "total_skt": 58.20088,
+      "total": 50.3691,
+      "status": "P"
+    }
+  ]
+}

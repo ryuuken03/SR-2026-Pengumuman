@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002150",
+      "nama": "MOH. UMAR ABDUL AZIZ",
+      "teknis": 190,
+      "manajerial": 91,
+      "sosial_kultural": 78,
+      "wawancara": 36,
+      "total_cat": 395,
+      "psikotes": 68.01,
+      "inggris": 41.8,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.49934,
+      "total": 60.7273,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000535",
+      "nama": "MOH. RIZKI AL AZIZI",
+      "teknis": 190,
+      "manajerial": 82,
+      "sosial_kultural": 65,
+      "wawancara": 32,
+      "total_cat": 369,
+      "psikotes": 65.77,
+      "inggris": 45.79,
+      "wawancara_skt": 55.5556,
+      "total_skt": 59.73112,
+      "total": 57.4029,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004864",
+      "nama": "EMALIA FATMA DIANTI",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 403,
+      "psikotes": 81.02,
+      "inggris": 59.08,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.76134,
+      "total": 66.9553,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001545",
+      "nama": "ERSA AGUSTI NENGSIH",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total_cat": 384,
+      "psikotes": 68.2,
+      "inggris": 48.74,
+      "wawancara_skt": 55.5556,
+      "total_skt": 61.77912,
+      "total": 59.5463,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008289",
+      "nama": "SETILAWATI",
+      "teknis": 150,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 349,
+      "psikotes": 67.64,
+      "inggris": 49.78,
+      "wawancara_skt": 55.5556,
+      "total_skt": 61.65112,
+      "total": 56.8703,
+      "status": "P/L-2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000588",
+      "nama": "FEBRINA HANIFANI",
+      "teknis": 275,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 479,
+      "psikotes": 81.03,
+      "inggris": 73.41,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.63334,
+      "total": 74.0629,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006587",
+      "nama": "MILLENIA RAHMAH DINIA",
+      "teknis": 245,
+      "manajerial": 82,
+      "sosial_kultural": 65,
+      "wawancara": 34,
+      "total_cat": 426,
+      "psikotes": 44.91,
+      "inggris": 55.1,
+      "wawancara_skt": 55.5556,
+      "total_skt": 49.07712,
+      "total": 56.3296,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001059",
+      "nama": "EKA WANDA",
+      "teknis": 260,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 455,
+      "psikotes": 70.27,
+      "inggris": 73.86,
+      "wawancara_skt": 77.7778,
+      "total_skt": 72.48956,
+      "total": 70.2,
+      "status": "P/L-2"
+    }
+  ]
+}

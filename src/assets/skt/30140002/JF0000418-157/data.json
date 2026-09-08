@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001117",
+      "nama": "HERNANDA ADE APRIANSYAH",
+      "teknis": 320,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 515,
+      "psikotes": 82.34,
+      "inggris": 76.37,
+      "wawancara_skt": 88.8889,
+      "total_skt": 82.45578,
+      "total": 79.6607,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000445",
+      "nama": "DANG ILHAM P PRATAMA",
+      "teknis": 330,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 537,
+      "psikotes": 81.03,
+      "inggris": 67.95,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.54134,
+      "total": 77.8453,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001903",
+      "nama": "ALYA YUSRIYATUR ROFIDA",
+      "teknis": 325,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total_cat": 526,
+      "psikotes": 82.34,
+      "inggris": 65.44,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.82534,
+      "total": 77.1664,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000877",
+      "nama": "GIPAL PURNAMA ANSHARI",
+      "teknis": 315,
+      "manajerial": 80,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total_cat": 498,
+      "psikotes": 46.75,
+      "inggris": 60.12,
+      "wawancara_skt": 44.4444,
+      "total_skt": 48.96288,
+      "total": 61.6456,
+      "status": "TMS"
+    }
+  ]
+}

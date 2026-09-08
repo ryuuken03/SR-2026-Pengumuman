@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001228",
+      "nama": "AHMAD ADHA RABANI",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 421,
+      "psikotes": 69.34,
+      "inggris": 64.55,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.84734,
+      "total": 65.3416,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003340",
+      "nama": "ACHMAD TAMSYIQ AMNUR",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total_cat": 435,
+      "psikotes": 71.02,
+      "inggris": 63.96,
+      "wawancara_skt": 44.4444,
+      "total_skt": 64.29288,
+      "total": 64.6091,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004192",
+      "nama": "NOR AZIMA",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total_cat": 432,
+      "psikotes": 70.27,
+      "inggris": 56.57,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.58712,
+      "total": 64.5324,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004311",
+      "nama": "INDAH CAHYANING DJATMIKO PUTRI",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total_cat": 437,
+      "psikotes": 52.61,
+      "inggris": 70.9,
+      "wawancara_skt": 66.6667,
+      "total_skt": 59.07934,
+      "total": 62.1516,
+      "status": "TMS"
+    }
+  ]
+}

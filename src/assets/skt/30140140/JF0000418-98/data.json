@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006590",
+      "nama": "NURWANTI",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total_cat": 445,
+      "psikotes": 81.02,
+      "inggris": 57.16,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.59956,
+      "total": 71.0087,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000328",
+      "nama": "OKTIMATUL AMANAH",
+      "teknis": 220,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total_cat": 420,
+      "psikotes": 81.03,
+      "inggris": 51.26,
+      "wawancara_skt": 77.7778,
+      "total_skt": 74.42556,
+      "total": 68.5561,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001294",
+      "nama": "LAURA CECILIA LOIS LIMUEL",
+      "teknis": 220,
+      "manajerial": 93,
+      "sosial_kultural": 79,
+      "wawancara": 40,
+      "total_cat": 432,
+      "psikotes": 48.21,
+      "inggris": 62.04,
+      "wawancara_skt": 77.7778,
+      "total_skt": 56.88956,
+      "total": 60.6836,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001054",
+      "nama": "LUSI LAELA RESTUNI",
+      "teknis": 230,
+      "manajerial": 89,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total_cat": 431,
+      "psikotes": 49.84,
+      "inggris": 58.05,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.84734,
+      "total": 59.5878,
+      "status": "TMS"
+    }
+  ]
+}

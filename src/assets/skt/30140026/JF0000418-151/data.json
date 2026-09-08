@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001155",
+      "nama": "BAGUS ISMAIL MAULANA",
+      "teknis": 255,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 40,
+      "total_cat": 464,
+      "psikotes": 81.02,
+      "inggris": 57.61,
+      "wawancara_skt": 88.8889,
+      "total_skt": 77.91178,
+      "total": 73.5828,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000300",
+      "nama": "MAHMUD SUDARYADI",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 449,
+      "psikotes": 81.03,
+      "inggris": 48.74,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.69934,
+      "total": 69.3571,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000638",
+      "nama": "AINUN NI'AM",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 437,
+      "psikotes": 81.02,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.17134,
+      "total": 69.1976,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001595",
+      "nama": "MUHAMMAD YUSUF",
+      "teknis": 250,
+      "manajerial": 79,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total_cat": 429,
+      "psikotes": 50.54,
+      "inggris": 60.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 55.68134,
+      "total": 59.8556,
+      "status": "TMS"
+    }
+  ]
+}

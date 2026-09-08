@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006186",
+      "nama": "ERICKHA SEPTIANI TAMSYA",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total_cat": 415,
+      "psikotes": 68.01,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.27734,
+      "total": 63.6088,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000177",
+      "nama": "NAHRUL HAYAT NURDIN",
+      "teknis": 195,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total_cat": 393,
+      "psikotes": 71.02,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.49134,
+      "total": 62.574,
+      "status": "P/L"
+    }
+  ]
+}

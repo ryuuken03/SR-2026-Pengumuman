@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/assets/selkom/(.*)\\.json",
+      "source": "/assets/(selkom|skt)/(.*)\\.json",
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
     },
     {

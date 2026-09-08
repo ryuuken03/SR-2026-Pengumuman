@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001963",
+      "nama": "YOGA PRANATA",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total_cat": 444,
+      "psikotes": 68.2,
+      "inggris": 60.56,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.14312,
+      "total": 65.2059,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000800",
+      "nama": "FIJAR AISYAH ARIYANI",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 67,
+      "wawancara": 31,
+      "total_cat": 368,
+      "psikotes": 68.75,
+      "inggris": 56.13,
+      "wawancara_skt": 33.3333,
+      "total_skt": 59.14266,
+      "total": 57.034,
+      "status": "P/L"
+    }
+  ]
+}

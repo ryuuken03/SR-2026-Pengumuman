@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002747",
+      "nama": "MOH NAFIS HUSEN ROMADANI",
+      "teknis": 250,
+      "manajerial": 97,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 457,
+      "psikotes": 81.02,
+      "inggris": 71.34,
+      "wawancara_skt": 55.5556,
+      "total_skt": 73.99112,
+      "total": 71.1,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008114",
+      "nama": "INDRIANA RESTIANINGRUM",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total_cat": 422,
+      "psikotes": 81.03,
+      "inggris": 68.98,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.74734,
+      "total": 69.3662,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003562",
+      "nama": "ATIKA NUR PRATIWI",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 398,
+      "psikotes": 81.02,
+      "inggris": 82.27,
+      "wawancara_skt": 66.6667,
+      "total_skt": 78.39934,
+      "total": 68.9012,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007128",
+      "nama": "ALVIN DWI NOVILA",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 368,
+      "psikotes": 70.45,
+      "inggris": 72.38,
+      "wawancara_skt": 44.4444,
+      "total_skt": 65.63488,
+      "total": 60.2801,
+      "status": "P"
+    }
+  ]
+}

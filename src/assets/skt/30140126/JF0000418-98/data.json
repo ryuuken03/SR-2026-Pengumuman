@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000793",
+      "nama": "LALU MAULANA SUKARDI",
+      "teknis": 265,
+      "manajerial": 86,
+      "sosial_kultural": 62,
+      "wawancara": 39,
+      "total_cat": 452,
+      "psikotes": 81.01,
+      "inggris": 75.78,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.09534,
+      "total": 72.279,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005738",
+      "nama": "SRIMULYANI",
+      "teknis": 250,
+      "manajerial": 98,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total_cat": 453,
+      "psikotes": 81.02,
+      "inggris": 60.12,
+      "wawancara_skt": 77.7778,
+      "total_skt": 76.19156,
+      "total": 71.9017,
+      "status": "P"
+    }
+  ]
+}

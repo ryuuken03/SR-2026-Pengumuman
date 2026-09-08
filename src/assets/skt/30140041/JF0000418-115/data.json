@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002239",
+      "nama": "ANANG SETYO SANTOSO",
+      "teknis": 295,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 504,
+      "psikotes": 72.53,
+      "inggris": 51.26,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.10334,
+      "total": 71.1636,
+      "status": "P/L-2"
+    }
+  ]
+}

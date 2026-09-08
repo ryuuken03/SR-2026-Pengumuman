@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002613",
+      "nama": "FANI DWI NURIYANTO",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total_cat": 440,
+      "psikotes": 82.34,
+      "inggris": 56.13,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.40778,
+      "total": 72.0397,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001680",
+      "nama": "CHOLLIZA ICHLASYA YUSMA",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 426,
+      "psikotes": 81.02,
+      "inggris": 70.9,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.12534,
+      "total": 69.8537,
+      "status": "P/L-2"
+    }
+  ]
+}

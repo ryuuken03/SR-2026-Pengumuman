@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008367",
+      "nama": "APRISA DEWI TAUNGKE",
+      "teknis": 185,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 385,
+      "psikotes": 68.75,
+      "inggris": 58.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.31134,
+      "total": 61.887,
+      "status": "P/L"
+    }
+  ]
+}

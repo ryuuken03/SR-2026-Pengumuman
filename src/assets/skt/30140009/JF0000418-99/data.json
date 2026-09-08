@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003016",
+      "nama": "SLAMET CENGKI RIYADI",
+      "teknis": 260,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total_cat": 468,
+      "psikotes": 81.03,
+      "inggris": 69.42,
+      "wawancara_skt": 55.5556,
+      "total_skt": 73.61312,
+      "total": 71.7319,
+      "status": "P/L"
+    }
+  ]
+}

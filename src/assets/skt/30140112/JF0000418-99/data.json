@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002533",
+      "nama": "MUH RIDZKY ANDI PASO S PD",
+      "teknis": 265,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 28,
+      "total_cat": 447,
+      "psikotes": 81.03,
+      "inggris": 79.76,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.90334,
+      "total": 72.3099,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008498",
+      "nama": "RAHMAH MAHARDINI IBRAHIM",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 446,
+      "psikotes": 81.03,
+      "inggris": 72.82,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.51534,
+      "total": 71.5413,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001251",
+      "nama": "ANDI RASIDA BASAR",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total_cat": 371,
+      "psikotes": 81.02,
+      "inggris": 63.96,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.73734,
+      "total": 65.0552,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001138",
+      "nama": "ANDI AMELIYA RAMADHANI",
+      "teknis": 260,
+      "manajerial": 81,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total_cat": 445,
+      "psikotes": 53.02,
+      "inggris": 82.72,
+      "wawancara_skt": 66.6667,
+      "total_skt": 61.68934,
+      "total": 64.0536,
+      "status": "TMS"
+    }
+  ]
+}

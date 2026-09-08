@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006667",
+      "nama": "TASIANA KIKI",
+      "teknis": 145,
+      "manajerial": 76,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total_cat": 323,
+      "psikotes": 32.75,
+      "inggris": 54.21,
+      "wawancara_skt": 55.5556,
+      "total_skt": 41.60312,
+      "total": 44.906,
+      "status": "TMS"
+    }
+  ]
+}

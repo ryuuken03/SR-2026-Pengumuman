@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009113",
+      "nama": "HASMA",
+      "teknis": 240,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 439,
+      "psikotes": 81.02,
+      "inggris": 66.47,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.23934,
+      "total": 70.3809,
+      "status": "P/L"
+    }
+  ]
+}

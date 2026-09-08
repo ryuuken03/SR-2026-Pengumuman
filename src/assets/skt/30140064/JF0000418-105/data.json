@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000746",
+      "nama": "PUTRI RAHMAWATI",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 33,
+      "total_cat": 418,
+      "psikotes": 70.27,
+      "inggris": 54.21,
+      "wawancara_skt": 77.7778,
+      "total_skt": 68.55956,
+      "total": 65.4738,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005170",
+      "nama": "RUSMANIAR",
+      "teknis": 230,
+      "manajerial": 88,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total_cat": 418,
+      "psikotes": 46.57,
+      "inggris": 52.73,
+      "wawancara_skt": 77.7778,
+      "total_skt": 54.04356,
+      "total": 58.2158,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003002",
+      "nama": "IJON GABE MARTUAH SINAGA",
+      "teknis": 280,
+      "manajerial": 96,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total_cat": 481,
+      "psikotes": 84.63,
+      "inggris": 54.65,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.04134,
+      "total": 73.4162,
+      "status": "P/L"
+    }
+  ]
+}

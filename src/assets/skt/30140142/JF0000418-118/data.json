@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001077",
+      "nama": "ARIO SUDIRO",
+      "teknis": 120,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 314,
+      "psikotes": 81.02,
+      "inggris": 57.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.37734,
+      "total": 60.1215,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000807",
+      "nama": "IKE ISMAWATI",
+      "teknis": 150,
+      "manajerial": 83,
+      "sosial_kultural": 62,
+      "wawancara": 35,
+      "total_cat": 330,
+      "psikotes": 51.67,
+      "inggris": 52.14,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.31888,
+      "total": 49.7863,
+      "status": "TMS"
+    }
+  ]
+}

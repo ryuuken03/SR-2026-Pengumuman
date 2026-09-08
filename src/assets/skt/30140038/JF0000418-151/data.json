@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000518",
+      "nama": "FIKRI ZENEDINE UMARELLA",
+      "teknis": 240,
+      "manajerial": 78,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 426,
+      "psikotes": 68.02,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.34534,
+      "total": 64.9637,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003084",
+      "nama": "ABDUR ROHMAN",
+      "teknis": 220,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 411,
+      "psikotes": 51.51,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 55.37734,
+      "total": 58.3603,
+      "status": "TMS"
+    }
+  ]
+}

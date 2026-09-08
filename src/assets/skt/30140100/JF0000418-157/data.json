@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001670",
+      "nama": "RENARDI PAMIKAT",
+      "teknis": 255,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 451,
+      "psikotes": 81.02,
+      "inggris": 68.39,
+      "wawancara_skt": 88.8889,
+      "total_skt": 80.06778,
+      "total": 73.6906,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006901",
+      "nama": "NUZUL DESTARA",
+      "teknis": 280,
+      "manajerial": 93,
+      "sosial_kultural": 61,
+      "wawancara": 39,
+      "total_cat": 473,
+      "psikotes": 81.03,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.47334,
+      "total": 72.0352,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001121",
+      "nama": "PANDU WIJAYA",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 425,
+      "psikotes": 81.03,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.49734,
+      "total": 67.9651,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003190",
+      "nama": "SILVIARISA BR NASUTION",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total_cat": 422,
+      "psikotes": 65.76,
+      "inggris": 48.3,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.44934,
+      "total": 62.7172,
+      "status": "P"
+    }
+  ]
+}

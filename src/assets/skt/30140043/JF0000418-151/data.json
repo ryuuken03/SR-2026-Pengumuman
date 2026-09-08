@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002076",
+      "nama": "DIAZ REZA APRIANTO PUTRA",
+      "teknis": 215,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 418,
+      "psikotes": 70.27,
+      "inggris": 54.21,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.11512,
+      "total": 63.2516,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003107",
+      "nama": "ZULITA DWI APRILIA",
+      "teknis": 220,
+      "manajerial": 82,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total_cat": 408,
+      "psikotes": 70.28,
+      "inggris": 60.12,
+      "wawancara_skt": 44.4444,
+      "total_skt": 63.08088,
+      "total": 61.9882,
+      "status": "P"
+    }
+  ]
+}

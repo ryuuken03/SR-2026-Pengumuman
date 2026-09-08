@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007918",
+      "nama": "MALIDA QONITAH FANI",
+      "teknis": 215,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 420,
+      "psikotes": 69.14,
+      "inggris": 71.94,
+      "wawancara_skt": 77.7778,
+      "total_skt": 71.42756,
+      "total": 67.0571,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001148",
+      "nama": "LUTFI MUJIBUDZIKRI",
+      "teknis": 235,
+      "manajerial": 98,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 441,
+      "psikotes": 68.76,
+      "inggris": 51.26,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.61912,
+      "total": 64.22,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002999",
+      "nama": "YOLANDA DEBY MARTA ATIKA",
+      "teknis": 240,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total_cat": 444,
+      "psikotes": 65.93,
+      "inggris": 57.16,
+      "wawancara_skt": 44.4444,
+      "total_skt": 59.87888,
+      "total": 63.0738,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001203",
+      "nama": "PUTRI KUSUMA WARDANI",
+      "teknis": 240,
+      "manajerial": 97,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total_cat": 443,
+      "psikotes": 53.2,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 57.36534,
+      "total": 61.7424,
+      "status": "TMS"
+    }
+  ]
+}

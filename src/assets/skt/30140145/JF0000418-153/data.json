@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003374",
+      "nama": "INDA MAGVIRA",
+      "teknis": 300,
+      "manajerial": 94,
+      "sosial_kultural": 63,
+      "wawancara": 40,
+      "total_cat": 497,
+      "psikotes": 70.27,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.80934,
+      "total": 70.4942,
+      "status": "P/L"
+    }
+  ]
+}

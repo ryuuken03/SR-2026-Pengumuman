@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005354",
+      "nama": "DYA SALSABILA",
+      "teknis": 265,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 467,
+      "psikotes": 68.76,
+      "inggris": 77.25,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.03934,
+      "total": 69.8704,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004259",
+      "nama": "YUNIARSIH AZIZAH",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 366,
+      "psikotes": 81.02,
+      "inggris": 72.82,
+      "wawancara_skt": 88.8889,
+      "total_skt": 80.95378,
+      "total": 67.7903,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002812",
+      "nama": "RIAN SESAR TAMALA YUSUF",
+      "teknis": 165,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 369,
+      "psikotes": 81.02,
+      "inggris": 77.84,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.51334,
+      "total": 66.294,
+      "status": "P"
+    }
+  ]
+}

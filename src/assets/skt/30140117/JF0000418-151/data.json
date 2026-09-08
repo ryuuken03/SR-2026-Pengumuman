@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001432",
+      "nama": "CRESVOYANTO EDNAN MANASSA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 417,
+      "psikotes": 68.01,
+      "inggris": 49.19,
+      "wawancara_skt": 44.4444,
+      "total_skt": 59.53288,
+      "total": 60.8858,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002805",
+      "nama": "MUH. ZULQADAR N",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 368,
+      "psikotes": 71.02,
+      "inggris": 51.7,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.06312,
+      "total": 59.4942,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000313",
+      "nama": "ELVIS",
+      "teknis": 255,
+      "manajerial": 75,
+      "sosial_kultural": 73,
+      "wawancara": 32,
+      "total_cat": 435,
+      "psikotes": 53.31,
+      "inggris": 50.22,
+      "wawancara_skt": 33.3333,
+      "total_skt": 48.69666,
+      "total": 56.811,
+      "status": "TMS"
+    }
+  ]
+}

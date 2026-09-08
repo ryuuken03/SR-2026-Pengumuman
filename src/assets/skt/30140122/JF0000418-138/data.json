@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003745",
+      "nama": "DIAN RISKI UTAMI",
+      "teknis": 240,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 441,
+      "psikotes": 68.76,
+      "inggris": 63.07,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.20334,
+      "total": 66.5121,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007305",
+      "nama": "MEY LINDA",
+      "teknis": 190,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total_cat": 388,
+      "psikotes": 81.03,
+      "inggris": 61.6,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.27134,
+      "total": 66.0909,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001674",
+      "nama": "MEGARIA REFWALU",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 386,
+      "psikotes": 82.13,
+      "inggris": 58.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.33934,
+      "total": 65.9756,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007166",
+      "nama": "PASKALINA TUKLY",
+      "teknis": 185,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total_cat": 381,
+      "psikotes": 27.79,
+      "inggris": 0,
+      "wawancara_skt": 44.4444,
+      "total_skt": 25.56288,
+      "total": 41.2143,
+      "status": "TH"
+    }
+  ]
+}

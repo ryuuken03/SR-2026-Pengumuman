@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000729",
+      "nama": "TALENSTA MELLANDIKA WARDHANI",
+      "teknis": 240,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 444,
+      "psikotes": 81.03,
+      "inggris": 73.41,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.63334,
+      "total": 71.451,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009186",
+      "nama": "KIDUNG HERMAYANK WALUYAN",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total_cat": 443,
+      "psikotes": 70.45,
+      "inggris": 61,
+      "wawancara_skt": 44.4444,
+      "total_skt": 63.35888,
+      "total": 64.7391,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004584",
+      "nama": "SABRINAYA OKYTA DIGIANANDA",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 400,
+      "psikotes": 70.28,
+      "inggris": 63.96,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.29334,
+      "total": 63.9974,
+      "status": "P"
+    }
+  ]
+}

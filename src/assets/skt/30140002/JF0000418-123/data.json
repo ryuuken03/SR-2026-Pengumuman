@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005975",
+      "nama": "YESI SETYO NINGRUM",
+      "teknis": 210,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total_cat": 417,
+      "psikotes": 81.03,
+      "inggris": 69.87,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.92534,
+      "total": 69.0821,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006712",
+      "nama": "DENOK PERMATASARI",
+      "teknis": 210,
+      "manajerial": 94,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total_cat": 408,
+      "psikotes": 70.27,
+      "inggris": 85.67,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.62934,
+      "total": 66.7624,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005109",
+      "nama": "ASTY SYURYANTI",
+      "teknis": 240,
+      "manajerial": 91,
+      "sosial_kultural": 66,
+      "wawancara": 31,
+      "total_cat": 428,
+      "psikotes": 70.26,
+      "inggris": 66.03,
+      "wawancara_skt": 44.4444,
+      "total_skt": 64.25088,
+      "total": 64.0657,
+      "status": "P/L-2"
+    }
+  ]
+}

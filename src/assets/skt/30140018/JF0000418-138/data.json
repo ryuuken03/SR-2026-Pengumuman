@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007034",
+      "nama": "KARTIKA PUSPANINGRUM",
+      "teknis": 265,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total_cat": 468,
+      "psikotes": 84.96,
+      "inggris": 64.99,
+      "wawancara_skt": 55.5556,
+      "total_skt": 75.08512,
+      "total": 72.4679,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002488",
+      "nama": "FAJAR RESDIANA",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total_cat": 446,
+      "psikotes": 79.99,
+      "inggris": 84.19,
+      "wawancara_skt": 55.5556,
+      "total_skt": 75.94312,
+      "total": 71.2551,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000266",
+      "nama": "MUHAMMAD REVAN ALDEANSYAH",
+      "teknis": 255,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total_cat": 463,
+      "psikotes": 72.71,
+      "inggris": 80.8,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.11934,
+      "total": 71.1119,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003253",
+      "nama": "DESYA ADELLA NUR AFINDA",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 439,
+      "psikotes": 82.34,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.14534,
+      "total": 70.3339,
+      "status": "P"
+    }
+  ]
+}

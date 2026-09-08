@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008400",
+      "nama": "HARI SETIYOWATI",
+      "teknis": 290,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 496,
+      "psikotes": 81.03,
+      "inggris": 60.56,
+      "wawancara_skt": 55.5556,
+      "total_skt": 71.84112,
+      "total": 72.9355,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002477",
+      "nama": "ZHANIA PRIDA BRILLIANTI",
+      "teknis": 235,
+      "manajerial": 79,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total_cat": 415,
+      "psikotes": 81.03,
+      "inggris": 53.18,
+      "wawancara_skt": 77.7778,
+      "total_skt": 74.80956,
+      "total": 68.3749,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004020",
+      "nama": "FATIMAH",
+      "teknis": 265,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total_cat": 459,
+      "psikotes": 51.49,
+      "inggris": 63.52,
+      "wawancara_skt": 44.4444,
+      "total_skt": 52.48688,
+      "total": 60.4972,
+      "status": "TMS"
+    }
+  ]
+}

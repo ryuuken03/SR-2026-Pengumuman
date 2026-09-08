@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001183",
+      "nama": "A. SYARIFUDDIN",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 417,
+      "psikotes": 43.28,
+      "inggris": 49.78,
+      "wawancara_skt": 66.6667,
+      "total_skt": 49.25734,
+      "total": 55.7481,
+      "status": "TMS"
+    }
+  ]
+}

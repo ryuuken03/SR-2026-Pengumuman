@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002620",
+      "nama": "ERWIN SYAHPUTRA",
+      "teknis": 300,
+      "manajerial": 80,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total_cat": 481,
+      "psikotes": 81.03,
+      "inggris": 77.25,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.40134,
+      "total": 74.5962,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004983",
+      "nama": "NENTI SILITONGA",
+      "teknis": 235,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total_cat": 439,
+      "psikotes": 81.03,
+      "inggris": 69.87,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.92534,
+      "total": 70.7239,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002404",
+      "nama": "SYAHPUTRA BANGUN",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 428,
+      "psikotes": 81.79,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.92934,
+      "total": 68.905,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002014",
+      "nama": "ALWI RAHMAN HARAHAP",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total_cat": 439,
+      "psikotes": 59.67,
+      "inggris": 68.98,
+      "wawancara_skt": 77.7778,
+      "total_skt": 65.15356,
+      "total": 65.338,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000950",
+      "nama": "DWI LESTARI",
+      "teknis": 290,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 489,
+      "psikotes": 70.26,
+      "inggris": 60.56,
+      "wawancara_skt": 77.7778,
+      "total_skt": 69.82356,
+      "total": 71.4043,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008318",
+      "nama": "ANGGITA PUJI HASTUTI",
+      "teknis": 300,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 493,
+      "psikotes": 70.26,
+      "inggris": 63.52,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.19334,
+      "total": 70.8877,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004936",
+      "nama": "INDAH TRISNAWATI",
+      "teknis": 310,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total_cat": 502,
+      "psikotes": 51.77,
+      "inggris": 51.26,
+      "wawancara_skt": 33.3333,
+      "total_skt": 47.98066,
+      "total": 61.453,
+      "status": "TMS"
+    }
+  ]
+}

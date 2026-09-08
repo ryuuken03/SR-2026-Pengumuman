@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000711",
+      "nama": "ANISA NUR SAKINAH",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 33,
+      "total_cat": 442,
+      "psikotes": 65.96,
+      "inggris": 56.13,
+      "wawancara_skt": 33.3333,
+      "total_skt": 57.46866,
+      "total": 61.7194,
+      "status": "P/L-2"
+    }
+  ]
+}

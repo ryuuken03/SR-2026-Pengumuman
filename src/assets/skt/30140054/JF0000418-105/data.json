@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002062",
+      "nama": "ANNISA RACHMAN",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total_cat": 430,
+      "psikotes": 65.75,
+      "inggris": 71.94,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.17134,
+      "total": 65.6752,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003016",
+      "nama": "TRI PRIHATIN HIDAYATILLAH",
+      "teknis": 215,
+      "manajerial": 100,
+      "sosial_kultural": 64,
+      "wawancara": 39,
+      "total_cat": 418,
+      "psikotes": 68.21,
+      "inggris": 54.21,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.10134,
+      "total": 63.7447,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000967",
+      "nama": "MOH. WILDAN WAHYUDI",
+      "teknis": 175,
+      "manajerial": 76,
+      "sosial_kultural": 78,
+      "wawancara": 34,
+      "total_cat": 363,
+      "psikotes": 40.69,
+      "inggris": 43.28,
+      "wawancara_skt": 44.4444,
+      "total_skt": 41.95888,
+      "total": 48.069,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001086",
+      "nama": "DEVIRA RISKY PRATIWI",
+      "teknis": 250,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total_cat": 445,
+      "psikotes": 71.94,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.99334,
+      "total": 67.7056,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002640",
+      "nama": "ACHMAD DAVID RAHMATULLOH",
+      "teknis": 180,
+      "manajerial": 74,
+      "sosial_kultural": 69,
+      "wawancara": 30,
+      "total_cat": 353,
+      "psikotes": 68.02,
+      "inggris": 51.7,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.26312,
+      "total": 57.4748,
+      "status": "P/L"
+    }
+  ]
+}

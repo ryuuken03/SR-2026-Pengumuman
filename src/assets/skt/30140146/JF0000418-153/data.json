@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002217",
+      "nama": "ANGGARA PRATAKUMBAYAN",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 451,
+      "psikotes": 68.01,
+      "inggris": 64.99,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.13734,
+      "total": 67.2254,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008288",
+      "nama": "NURJANAH",
+      "teknis": 250,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 446,
+      "psikotes": 50.12,
+      "inggris": 54.65,
+      "wawancara_skt": 55.5556,
+      "total_skt": 52.11312,
+      "total": 59.3401,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004653",
+      "nama": "DIA AYU SALINDRI",
+      "teknis": 210,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 405,
+      "psikotes": 37.64,
+      "inggris": 54.21,
+      "wawancara_skt": 55.5556,
+      "total_skt": 44.53712,
+      "total": 52.4924,
+      "status": "TMS"
+    }
+  ]
+}

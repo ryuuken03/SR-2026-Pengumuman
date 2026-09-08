@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002040",
+      "nama": "LA ODE MUHAMMAD RESKY",
+      "teknis": 250,
+      "manajerial": 79,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total_cat": 429,
+      "psikotes": 65.74,
+      "inggris": 52.14,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.20534,
+      "total": 63.6176,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001639",
+      "nama": "MUHAMMAD RICO",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total_cat": 371,
+      "psikotes": 37.69,
+      "inggris": 51.26,
+      "wawancara_skt": 55.5556,
+      "total_skt": 43.97712,
+      "total": 49.6751,
+      "status": "TMS"
+    }
+  ]
+}

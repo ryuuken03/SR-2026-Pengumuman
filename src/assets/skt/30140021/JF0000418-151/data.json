@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003041",
+      "nama": "NURUL JULINAR",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total_cat": 450,
+      "psikotes": 69.13,
+      "inggris": 76.81,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.17334,
+      "total": 68.6688,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000321",
+      "nama": "GIFALDY ARIA FAHREZY",
+      "teknis": 220,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 423,
+      "psikotes": 70.45,
+      "inggris": 66.47,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.89734,
+      "total": 66.0158,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002942",
+      "nama": "ENDRA SETIAWAN",
+      "teknis": 255,
+      "manajerial": 75,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 436,
+      "psikotes": 68.2,
+      "inggris": 52.73,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.57712,
+      "total": 63.8259,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000625",
+      "nama": "ARIYANTO",
+      "teknis": 235,
+      "manajerial": 84,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total_cat": 434,
+      "psikotes": 46.85,
+      "inggris": 54.21,
+      "wawancara_skt": 44.4444,
+      "total_skt": 47.84088,
+      "total": 56.3085,
+      "status": "TMS"
+    }
+  ]
+}

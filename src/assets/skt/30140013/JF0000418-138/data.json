@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001303",
+      "nama": "DAVIT SOPARTA",
+      "teknis": 285,
+      "manajerial": 89,
+      "sosial_kultural": 65,
+      "wawancara": 32,
+      "total_cat": 471,
+      "psikotes": 82.33,
+      "inggris": 68.39,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.40934,
+      "total": 73.3539,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001312",
+      "nama": "MUHAMMAD KAMIL AL HADDAD",
+      "teknis": 295,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 488,
+      "psikotes": 69.69,
+      "inggris": 65.44,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.23534,
+      "total": 70.5356,
+      "status": "P"
+    }
+  ]
+}

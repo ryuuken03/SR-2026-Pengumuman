@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003594",
+      "nama": "HERMAULINA HUTAGAOL",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 432,
+      "psikotes": 68.2,
+      "inggris": 52.73,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.57712,
+      "total": 63.5274,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001263",
+      "nama": "SEPTIO VAN KEYNES SILALAHI",
+      "teknis": 165,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 369,
+      "psikotes": 50.57,
+      "inggris": 58.05,
+      "wawancara_skt": 66.6667,
+      "total_skt": 55.28534,
+      "total": 55.18,
+      "status": "TMS"
+    }
+  ]
+}

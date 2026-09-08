@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001051",
+      "nama": "REFITA",
+      "teknis": 265,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 474,
+      "psikotes": 82.67,
+      "inggris": 68.39,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.61334,
+      "total": 73.6798,
+      "status": "P/L"
+    }
+  ]
+}

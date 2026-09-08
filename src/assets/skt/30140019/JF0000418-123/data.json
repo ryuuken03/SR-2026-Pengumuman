@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004032",
+      "nama": "ARINTA BRILIANA PRABAWANTI",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total_cat": 431,
+      "psikotes": 81.03,
+      "inggris": 70.46,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.04334,
+      "total": 70.1859,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000286",
+      "nama": "SITI HAMIDAH ASSHOFFA",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 408,
+      "psikotes": 81.8,
+      "inggris": 63.07,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.02734,
+      "total": 67.9614,
+      "status": "P"
+    }
+  ]
+}

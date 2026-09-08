@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002362",
+      "nama": "RIZKY",
+      "teknis": 305,
+      "manajerial": 79,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 496,
+      "psikotes": 70.26,
+      "inggris": 87.59,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.00734,
+      "total": 73.5186,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002125",
+      "nama": "ABDUL GOFUR",
+      "teknis": 180,
+      "manajerial": 78,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total_cat": 362,
+      "psikotes": 50.14,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 53.96334,
+      "total": 53.9966,
+      "status": "TMS"
+    }
+  ]
+}

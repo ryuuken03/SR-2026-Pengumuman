@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006708",
+      "nama": "AFTA RIZQI CAHAYA",
+      "teknis": 220,
+      "manajerial": 97,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 428,
+      "psikotes": 81.03,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.26534,
+      "total": 68.573,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004856",
+      "nama": "ASTIN PUSPA FEBRIANTI",
+      "teknis": 170,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total_cat": 371,
+      "psikotes": 81.02,
+      "inggris": 70.46,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.03734,
+      "total": 65.7052,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003199",
+      "nama": "YUDI HANAFI",
+      "teknis": 215,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total_cat": 412,
+      "psikotes": 51.42,
+      "inggris": 70.9,
+      "wawancara_skt": 55.5556,
+      "total_skt": 56.14312,
+      "total": 58.8178,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006056",
+      "nama": "NALA PAWITRI ANDANAWARIH",
+      "teknis": 145,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total_cat": 341,
+      "psikotes": 48.15,
+      "inggris": 51.26,
+      "wawancara_skt": 66.6667,
+      "total_skt": 52.47534,
+      "total": 51.6854,
+      "status": "TMS"
+    }
+  ]
+}

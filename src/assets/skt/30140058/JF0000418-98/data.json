@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000924",
+      "nama": "FITRIYA NURUL HASANAH",
+      "teknis": 210,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 413,
+      "psikotes": 81.02,
+      "inggris": 80.21,
+      "wawancara_skt": 88.8889,
+      "total_skt": 82.43178,
+      "total": 72.0368,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001953",
+      "nama": "NANDA AGUSTIANA",
+      "teknis": 290,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 489,
+      "psikotes": 68.74,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.71534,
+      "total": 69.3502,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004506",
+      "nama": "QIZQIYA BERLIANA PUTRI",
+      "teknis": 230,
+      "manajerial": 84,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total_cat": 430,
+      "psikotes": 54.72,
+      "inggris": 70.9,
+      "wawancara_skt": 66.6667,
+      "total_skt": 60.34534,
+      "total": 62.2622,
+      "status": "TMS"
+    }
+  ]
+}

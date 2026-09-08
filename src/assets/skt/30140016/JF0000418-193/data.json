@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002614",
+      "nama": "FARHAN RAMADHAN",
+      "teknis": 315,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 521,
+      "psikotes": 70.25,
+      "inggris": 81.24,
+      "wawancara_skt": 33.3333,
+      "total_skt": 65.06466,
+      "total": 71.4129,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002987",
+      "nama": "FITRI DEWANTI",
+      "teknis": 220,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 426,
+      "psikotes": 49.74,
+      "inggris": 66.47,
+      "wawancara_skt": 55.5556,
+      "total_skt": 54.24912,
+      "total": 58.9156,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002549",
+      "nama": "GUSMAWAN",
+      "teknis": 240,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total_cat": 438,
+      "psikotes": 0,
+      "inggris": 0,
+      "wawancara_skt": 0,
+      "total_skt": 0,
+      "total": 32.6866,
+      "status": "TH"
+    }
+  ]
+}

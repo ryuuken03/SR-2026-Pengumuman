@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008745",
+      "nama": "STRAHAYU FADILLAH",
+      "teknis": 210,
+      "manajerial": 82,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 401,
+      "psikotes": 81.03,
+      "inggris": 66.03,
+      "wawancara_skt": 88.8889,
+      "total_skt": 79.60178,
+      "total": 69.7263,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008324",
+      "nama": "ANDI FAUSIA ANHAR",
+      "teknis": 190,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 387,
+      "psikotes": 81.03,
+      "inggris": 67.5,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.45134,
+      "total": 66.6063,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000870",
+      "nama": "MUHAMMAD AGUNG",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 68,
+      "wawancara": 40,
+      "total_cat": 400,
+      "psikotes": 70.27,
+      "inggris": 82.27,
+      "wawancara_skt": 44.4444,
+      "total_skt": 67.50488,
+      "total": 63.6032,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006962",
+      "nama": "RIKA ANGGARI",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 416,
+      "psikotes": 66.88,
+      "inggris": 71.94,
+      "wawancara_skt": 44.4444,
+      "total_skt": 63.40488,
+      "total": 62.7472,
+      "status": "P"
+    }
+  ]
+}

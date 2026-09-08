@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001642",
+      "nama": "ASPAR LINDO URI",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 425,
+      "psikotes": 83.43,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.52934,
+      "total": 68.9811,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000892",
+      "nama": "MUHAMMAD AHLAN SYAH",
+      "teknis": 285,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total_cat": 482,
+      "psikotes": 69.7,
+      "inggris": 65.44,
+      "wawancara_skt": 44.4444,
+      "total_skt": 63.79688,
+      "total": 67.8686,
+      "status": "P"
+    }
+  ]
+}

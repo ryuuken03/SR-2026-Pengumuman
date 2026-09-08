@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000331",
+      "nama": "NADIA ISRAQ CANIAGO",
+      "teknis": 230,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total_cat": 426,
+      "psikotes": 68.57,
+      "inggris": 49.19,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.09112,
+      "total": 62.8366,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006021",
+      "nama": "IIS TIARA NURGUSTIA HARYANA",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total_cat": 436,
+      "psikotes": 49.83,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.45734,
+      "total": 59.766,
+      "status": "TMS"
+    }
+  ]
+}

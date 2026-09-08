@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004831",
+      "nama": "PIPIT RAHAYU",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total_cat": 407,
+      "psikotes": 50.14,
+      "inggris": 57.61,
+      "wawancara_skt": 55.5556,
+      "total_skt": 52.71712,
+      "total": 56.7317,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002067",
+      "nama": "EVI APRIANTI",
+      "teknis": 160,
+      "manajerial": 95,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 366,
+      "psikotes": 55.48,
+      "inggris": 64.55,
+      "wawancara_skt": 55.5556,
+      "total_skt": 57.30912,
+      "total": 55.968,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007361",
+      "nama": "RIZKI HIDAYAH BACO",
+      "teknis": 205,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 400,
+      "psikotes": 69.33,
+      "inggris": 56.13,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.93512,
+      "total": 61.8183,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003951",
+      "nama": "NURUL SULFIANI",
+      "teknis": 130,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total_cat": 328,
+      "psikotes": 44.37,
+      "inggris": 52.14,
+      "wawancara_skt": 66.6667,
+      "total_skt": 50.38334,
+      "total": 49.6693,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000567",
+      "nama": "M. AZIZ FIKRI",
+      "teknis": 305,
+      "manajerial": 93,
+      "sosial_kultural": 78,
+      "wawancara": 36,
+      "total_cat": 512,
+      "psikotes": 68.76,
+      "inggris": 78.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.33534,
+      "total": 73.3766,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000345",
+      "nama": "FAZA KHOZIN AL FADLLI",
+      "teknis": 140,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 32,
+      "total_cat": 329,
+      "psikotes": 53.06,
+      "inggris": 50.66,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.85688,
+      "total": 49.9807,
+      "status": "TMS"
+    }
+  ]
+}

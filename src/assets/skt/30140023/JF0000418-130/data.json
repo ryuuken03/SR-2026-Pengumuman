@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006003",
+      "nama": "IIS ALVIAH",
+      "teknis": 295,
+      "manajerial": 91,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total_cat": 485,
+      "psikotes": 81.02,
+      "inggris": 62.04,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.79778,
+      "total": 75.5929,
+      "status": "P/L"
+    }
+  ]
+}

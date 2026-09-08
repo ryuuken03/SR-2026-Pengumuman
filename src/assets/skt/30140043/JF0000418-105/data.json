@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002646",
+      "nama": "AGUNG PRASETYA",
+      "teknis": 260,
+      "manajerial": 96,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total_cat": 460,
+      "psikotes": 83.43,
+      "inggris": 61.6,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.71134,
+      "total": 72.184,
+      "status": "P/L"
+    }
+  ]
+}

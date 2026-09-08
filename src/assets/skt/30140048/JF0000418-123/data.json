@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003410",
+      "nama": "SHITA DHIYANTI VITASARI",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 60,
+      "wawancara": 37,
+      "total_cat": 385,
+      "psikotes": 81.03,
+      "inggris": 69.42,
+      "wawancara_skt": 77.7778,
+      "total_skt": 78.05756,
+      "total": 67.7601,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003227",
+      "nama": "RATRI MEIDIA INDRASASTI",
+      "teknis": 190,
+      "manajerial": 98,
+      "sosial_kultural": 78,
+      "wawancara": 40,
+      "total_cat": 406,
+      "psikotes": 67.43,
+      "inggris": 70.9,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.74912,
+      "total": 63.1731,
+      "status": "P"
+    }
+  ]
+}

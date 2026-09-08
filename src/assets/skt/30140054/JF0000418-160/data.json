@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003743",
+      "nama": "ODYLIA TARA ANDHIKA",
+      "teknis": 240,
+      "manajerial": 82,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 426,
+      "psikotes": 81.79,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.81534,
+      "total": 69.1987,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001451",
+      "nama": "FARIDA HANUM A.",
+      "teknis": 215,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 412,
+      "psikotes": 82.67,
+      "inggris": 54.21,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.77734,
+      "total": 67.6349,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001570",
+      "nama": "SUTAN ALIF NAUFAL PASYA",
+      "teknis": 195,
+      "manajerial": 75,
+      "sosial_kultural": 63,
+      "wawancara": 31,
+      "total_cat": 364,
+      "psikotes": 55.53,
+      "inggris": 62.04,
+      "wawancara_skt": 55.5556,
+      "total_skt": 56.83712,
+      "total": 55.5827,
+      "status": "TMS"
+    }
+  ]
+}

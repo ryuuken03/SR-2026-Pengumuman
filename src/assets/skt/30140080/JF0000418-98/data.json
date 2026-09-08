@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001862",
+      "nama": "WIRDATUL JANNAH",
+      "teknis": 285,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 486,
+      "psikotes": 81.03,
+      "inggris": 63.52,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.65534,
+      "total": 73.5963,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000292",
+      "nama": "ZULYAN OKTAWENDA",
+      "teknis": 275,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 40,
+      "total_cat": 478,
+      "psikotes": 71.02,
+      "inggris": 82.72,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.48934,
+      "total": 71.9163,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001221",
+      "nama": "FIRAJUL AFKAR ASRA",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total_cat": 446,
+      "psikotes": 70.46,
+      "inggris": 61.6,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.92934,
+      "total": 67.2483,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001334",
+      "nama": "NOVIA TRI RAMADANI",
+      "teknis": 235,
+      "manajerial": 97,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total_cat": 449,
+      "psikotes": 70.45,
+      "inggris": 48.3,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.26334,
+      "total": 66.1391,
+      "status": "P"
+    }
+  ]
+}

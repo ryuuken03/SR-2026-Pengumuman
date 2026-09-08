@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000488",
+      "nama": "MUH AQRIM S",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 408,
+      "psikotes": 81.79,
+      "inggris": 67.95,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.99734,
+      "total": 68.4464,
+      "status": "P/L"
+    }
+  ]
+}

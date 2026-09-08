@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009215",
+      "nama": "WAHYUNINGTYAS PUSPITA SARI",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total_cat": 436,
+      "psikotes": 71.01,
+      "inggris": 53.18,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.35312,
+      "total": 64.7139,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002190",
+      "nama": "ANJAS SETIYOKO",
+      "teknis": 205,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total_cat": 395,
+      "psikotes": 73.09,
+      "inggris": 53.62,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.68912,
+      "total": 62.3222,
+      "status": "P/L"
+    }
+  ]
+}

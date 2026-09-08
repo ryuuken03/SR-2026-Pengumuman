@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003219",
+      "nama": "MOHAMAD KEVIN",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total_cat": 384,
+      "psikotes": 73.84,
+      "inggris": 82.72,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.18134,
+      "total": 65.7474,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004867",
+      "nama": "ALYA RIHHADATUL AISY",
+      "teknis": 210,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total_cat": 394,
+      "psikotes": 70.45,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.82934,
+      "total": 62.8177,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000509",
+      "nama": "NYIMAS HILYATUL ZAHROH",
+      "teknis": 150,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total_cat": 349,
+      "psikotes": 65.75,
+      "inggris": 53.18,
+      "wawancara_skt": 44.4444,
+      "total_skt": 58.97488,
+      "total": 55.5322,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002749",
+      "nama": "MUHAMAD DIMAS",
+      "teknis": 190,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 24,
+      "total_cat": 376,
+      "psikotes": 49.32,
+      "inggris": 54.65,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.63312,
+      "total": 53.8763,
+      "status": "TMS"
+    }
+  ]
+}

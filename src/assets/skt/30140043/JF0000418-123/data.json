@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002466",
+      "nama": "MUHAMMAD ZAINU FUADIN",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 31,
+      "total_cat": 384,
+      "psikotes": 82.12,
+      "inggris": 55.1,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.62534,
+      "total": 65.4694,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005567",
+      "nama": "TANTIN NURHIDAYAH",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 387,
+      "psikotes": 70.24,
+      "inggris": 60.56,
+      "wawancara_skt": 77.7778,
+      "total_skt": 69.81156,
+      "total": 63.7864,
+      "status": "P"
+    }
+  ]
+}

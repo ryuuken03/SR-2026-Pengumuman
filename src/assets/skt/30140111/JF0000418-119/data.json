@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002318",
+      "nama": "IRAWATI",
+      "teknis": 225,
+      "manajerial": 96,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total_cat": 432,
+      "psikotes": 65.95,
+      "inggris": 57.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.33534,
+      "total": 64.4065,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005418",
+      "nama": "SISKHA AIDIYANDA",
+      "teknis": 170,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 374,
+      "psikotes": 70.27,
+      "inggris": 57.61,
+      "wawancara_skt": 44.4444,
+      "total_skt": 62.57288,
+      "total": 59.1969,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001630",
+      "nama": "ASNI RAHMANI",
+      "teknis": 195,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 394,
+      "psikotes": 49.22,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.00334,
+      "total": 56.4047,
+      "status": "TMS"
+    }
+  ]
+}

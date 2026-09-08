@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001640",
+      "nama": "RISZA ARTIANA",
+      "teknis": 180,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 387,
+      "psikotes": 81.03,
+      "inggris": 72.38,
+      "wawancara_skt": 77.7778,
+      "total_skt": 78.64956,
+      "total": 68.2054,
+      "status": "P/L"
+    }
+  ]
+}

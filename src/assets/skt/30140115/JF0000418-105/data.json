@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007403",
+      "nama": "NURUL AFWANI",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total_cat": 405,
+      "psikotes": 68.01,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.68534,
+      "total": 62.5666,
+      "status": "P/L"
+    }
+  ]
+}

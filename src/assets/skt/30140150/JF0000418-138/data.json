@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003823",
+      "nama": "LATIPA",
+      "teknis": 145,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 33,
+      "total_cat": 335,
+      "psikotes": 40.22,
+      "inggris": 54.65,
+      "wawancara_skt": 66.6667,
+      "total_skt": 48.39534,
+      "total": 49.1977,
+      "status": "TMS"
+    }
+  ]
+}

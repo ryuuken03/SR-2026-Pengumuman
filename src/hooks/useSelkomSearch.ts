@@ -37,6 +37,8 @@ async function fetchWithCache<T>(url: string): Promise<T | null> {
   }
 }
 
+export type DataSource = 'selkom' | 'skt'
+
 export interface PesertaItem {
   no: number
   nomor_peserta: string
@@ -51,6 +53,11 @@ export interface PesertaItem {
   jabatanKode?: string
   lokasiNama?: string
   jabatanNama?: string
+  total_cat?: number
+  psikotes?: number
+  inggris?: number
+  wawancara_skt?: number
+  total_skt?: number
 }
 
 export interface NilaiUjianSummary {
@@ -82,6 +89,11 @@ export type SortKey =
   | 'status'
   | 'lokasiNama'
   | 'jabatanNama'
+  | 'psikotes'
+  | 'inggris'
+  | 'wawancara_skt'
+  | 'total_skt'
+  | 'total_cat'
 
 export interface SortConfig {
   key: SortKey | null
@@ -107,6 +119,14 @@ function normalize(str: string | undefined | null): string {
 }
 
 export function useSelkomSearch() {
+  const [dataSource, setDataSource] = useState<DataSource>(() => {
+    try {
+      const saved = localStorage.getItem('sr-data-source-v2') as DataSource
+      if (saved === 'selkom' || saved === 'skt') return saved
+    } catch {}
+    return 'skt'
+  })
+
   const [formasiTab, setFormasiTab] = useState<FormasiTab>('guru')
   const [formasiOptions, setFormasiOptions] = useState<SelectFormasiData | null>(null)
   const [validCombos, setValidCombos] = useState<SelectorMap | null>(null)
@@ -126,6 +146,8 @@ export function useSelkomSearch() {
   const [globalData, setGlobalData] = useState<PesertaItem[]>([])
   const [globalLoading, setGlobalLoading] = useState<boolean>(false)
   const [globalIndexedTotal, setGlobalIndexedTotal] = useState<number>(0)
+  const [globalTotalMatches, setGlobalTotalMatches] = useState<number>(0)
+  const [isGlobalCapped, setIsGlobalCapped] = useState<boolean>(false)
 
   const [query, setQuery] = useState<string>('')
   const [activeQuery, setActiveQuery] = useState<string>('')
@@ -137,7 +159,17 @@ export function useSelkomSearch() {
   const workerRef = useRef<Worker | null>(null)
   const requestIdRef = useRef<number>(0)
 
-  // Initialize Worker
+  // Save dataSource to localStorage and inform worker
+  useEffect(() => {
+    try {
+      localStorage.setItem('sr-data-source-v2', dataSource)
+    } catch {}
+    workerRef.current?.postMessage({ action: 'SET_SOURCE', source: dataSource })
+  }, [dataSource])
+
+  const initialSourceRef = useRef(dataSource)
+
+  // ── Web Worker pencarian global ─────────────────────────────
   useEffect(() => {
     try {
       const worker = new Worker(new URL('../workers/searchWorker.ts', import.meta.url), {
@@ -152,6 +184,8 @@ export function useSelkomSearch() {
         } else if (type === 'SEARCH_RESULT') {
           if (requestId === requestIdRef.current) {
             setGlobalData(results || [])
+            setGlobalTotalMatches(e.data.totalMatches ?? (results || []).length)
+            setIsGlobalCapped(Boolean(e.data.isCapped))
             setGlobalLoading(false)
           }
         } else if (type === 'INIT_ERROR') {
@@ -160,7 +194,7 @@ export function useSelkomSearch() {
         }
       }
 
-      worker.postMessage({ action: 'INIT' })
+      worker.postMessage({ action: 'INIT', source: initialSourceRef.current })
     } catch (err) {
       console.error('Gagal membuat Web Worker pencarian:', err)
     }
@@ -178,8 +212,8 @@ export function useSelkomSearch() {
     ;(async () => {
       try {
         const [formasiRes, selectorRes] = await Promise.all([
-          fetchWithCache<SelectFormasiData>('/assets/selkom/select_formasi.json'),
-          fetchWithCache<SelectorMap>('/assets/selkom/selector.json'),
+          fetchWithCache<SelectFormasiData>(`/assets/${dataSource}/select_formasi.json`),
+          fetchWithCache<SelectorMap>(`/assets/${dataSource}/selector.json`),
         ])
 
         if (!mounted) return
@@ -201,9 +235,9 @@ export function useSelkomSearch() {
     return () => {
       mounted = false
     }
-  }, [])
+  }, [dataSource])
 
-  // Reset saat tab formasi berpindah
+  // Reset saat tab formasi atau sumber data berpindah
   useEffect(() => {
     setSelectedJabatan('')
     setSelectedLokasi('')
@@ -213,8 +247,11 @@ export function useSelkomSearch() {
     setActiveQuery('')
     setHasSearched(false)
     setCurrentPage(1)
+    setGlobalData([])
+    setGlobalTotalMatches(0)
+    setIsGlobalCapped(false)
     setSortConfig({ key: null, direction: 'asc' })
-  }, [formasiTab])
+  }, [formasiTab, dataSource])
 
   // Jabatan Formasi sesuai tab aktif (PPPK Guru vs PPPK Teknis)
   const tabJabatanOptions = useMemo(() => {
@@ -284,7 +321,7 @@ export function useSelkomSearch() {
     setLoading(true)
     setProgress(DATA_PROGRESS.loading)
 
-    const basePath = `/assets/selkom/${selectedLokasi}/${selectedJabatan}`
+    const basePath = `/assets/${dataSource}/${selectedLokasi}/${selectedJabatan}`
 
     ;(async () => {
       try {
@@ -319,53 +356,96 @@ export function useSelkomSearch() {
     return () => {
       mounted = false
     }
+  }, [selectedJabatan, selectedLokasi, dataSource])
+
+
+  // Auto-sync searchScope dari pilihan dropdown:
+  // - Keduanya kosong → global
+  // - Keduanya terisi → formasi
+  // - Salah satu terisi → 'pending' (ditahan, tapi tidak ubah scope agar tidak trigger global search)
+  useEffect(() => {
+    const bothEmpty = !selectedJabatan && !selectedLokasi
+    const bothFilled = selectedJabatan && selectedLokasi
+
+    if (bothEmpty) {
+      setSearchScope('global')
+      setRequireSelectedFormasi(false)
+      setGlobalData([])
+      setGlobalTotalMatches(0)
+      setIsGlobalCapped(false)
+    } else if (bothFilled) {
+      setSearchScope('formasi')
+      setRequireSelectedFormasi(true)
+    }
+    // Jika hanya salah satu terisi, tahan scope saat ini (jangan pindah ke global)
   }, [selectedJabatan, selectedLokasi])
 
-  // Sync scope & reset formasi selections when requireSelectedFormasi changes
-  useEffect(() => {
-    setSearchScope(requireSelectedFormasi ? 'formasi' : 'global')
-    if (!requireSelectedFormasi) {
-      setSelectedJabatan('')
-      setSelectedLokasi('')
-    }
-  }, [requireSelectedFormasi])
 
   useEffect(() => {
-    if (searchScope === 'global' && activeQuery.trim()) {
+    const trimmed = activeQuery.trim()
+    const isNumeric = /^\d+$/.test(trimmed)
+    if (searchScope === 'global' && trimmed && (isNumeric || trimmed.length >= 2)) {
       setGlobalLoading(true)
       const reqId = ++requestIdRef.current
       workerRef.current?.postMessage({
         action: 'SEARCH',
-        query: activeQuery,
+        query: trimmed,
         requestId: reqId,
+        source: dataSource,
       })
-    } else if (searchScope === 'global' && !activeQuery.trim()) {
+    } else if (searchScope === 'global' && (!trimmed || (!isNumeric && trimmed.length < 2))) {
       setGlobalData([])
+      setGlobalTotalMatches(0)
+      setIsGlobalCapped(false)
       setGlobalLoading(false)
     }
-  }, [searchScope, activeQuery])
+  }, [searchScope, activeQuery, dataSource])
 
   const handleSearch = useCallback(() => {
     const trimmed = query.trim()
+    const bothFilled = selectedJabatan && selectedLokasi
+    const isIncompletePick = (selectedJabatan && !selectedLokasi) || (!selectedJabatan && selectedLokasi)
 
-    if (requireSelectedFormasi && (!selectedJabatan || !selectedLokasi)) {
+    // Jika sedang mode formasi tapi belum lengkap kedua dropdown, tahan pencarian
+    if (isIncompletePick) return
+
+    const isNumeric = /^\d+$/.test(trimmed)
+    // Minimal 2 karakter untuk pencarian nama pada mode global
+    if (!bothFilled && trimmed && !isNumeric && trimmed.length < 2) {
       return
     }
 
     setActiveQuery(trimmed)
-    setSearchScope(requireSelectedFormasi ? 'formasi' : 'global')
+    setSearchScope(bothFilled ? 'formasi' : 'global')
     setHasSearched(trimmed.length > 0)
     setCurrentPage(1)
     setSortConfig({ key: null, direction: 'asc' })
-  }, [query, requireSelectedFormasi, selectedJabatan, selectedLokasi])
+  }, [query, selectedJabatan, selectedLokasi])
 
   const handleClear = useCallback(() => {
     setQuery('')
     setActiveQuery('')
     setHasSearched(false)
     setGlobalData([])
+    setGlobalTotalMatches(0)
+    setIsGlobalCapped(false)
     setCurrentPage(1)
     setSortConfig({ key: null, direction: 'asc' })
+  }, [])
+
+  const handleResetAll = useCallback(() => {
+    setQuery('')
+    setActiveQuery('')
+    setHasSearched(false)
+    setGlobalData([])
+    setGlobalTotalMatches(0)
+    setIsGlobalCapped(false)
+    setCurrentPage(1)
+    setSortConfig({ key: null, direction: 'asc' })
+    setSelectedJabatan('')
+    setSelectedLokasi('')
+    setRequireSelectedFormasi(false)
+    setSearchScope('global')
   }, [])
 
   const filteredData = useMemo(() => {
@@ -412,6 +492,18 @@ export function useSelkomSearch() {
         const strB = String(valB || '')
         const cmp = strA.localeCompare(strB, 'id', { sensitivity: 'base' })
         return sortConfig.direction === 'asc' ? cmp : -cmp
+      }
+
+      if (key === 'total_skt') {
+        const numA = Number(a.total_skt ?? a.psikotes ?? 0)
+        const numB = Number(b.total_skt ?? b.psikotes ?? 0)
+        return sortConfig.direction === 'asc' ? numA - numB : numB - numA
+      }
+
+      if (key === 'total_cat') {
+        const numA = Number(a.total_cat ?? a.total ?? 0)
+        const numB = Number(b.total_cat ?? b.total ?? 0)
+        return sortConfig.direction === 'asc' ? numA - numB : numB - numA
       }
 
       const numA = Number(valA) || 0
@@ -462,6 +554,8 @@ export function useSelkomSearch() {
   )
 
   return {
+    dataSource,
+    setDataSource,
     formasiTab,
     setFormasiTab,
     formasiOptions,
@@ -482,6 +576,8 @@ export function useSelkomSearch() {
     setRequireSelectedFormasi,
     globalLoading,
     globalIndexedTotal,
+    globalTotalMatches,
+    isGlobalCapped,
     // Data
     data,
     summary,
@@ -493,6 +589,7 @@ export function useSelkomSearch() {
     hasSearched,
     handleSearch,
     handleClear,
+    handleResetAll,
     currentPage,
     setCurrentPage,
     totalItems,

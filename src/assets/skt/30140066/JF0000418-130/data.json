@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000406",
+      "nama": "NURUL AULIA SARI",
+      "teknis": 140,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 37,
+      "total_cat": 334,
+      "psikotes": 82.34,
+      "inggris": 70.9,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.91734,
+      "total": 63.384,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006398",
+      "nama": "LISA AUFIYA",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 431,
+      "psikotes": 49.78,
+      "inggris": 66.91,
+      "wawancara_skt": 66.6667,
+      "total_skt": 56.58334,
+      "total": 60.4558,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001001",
+      "nama": "NUR FARIDAH",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 416,
+      "psikotes": 51.42,
+      "inggris": 51.26,
+      "wawancara_skt": 77.7778,
+      "total_skt": 56.65956,
+      "total": 59.3746,
+      "status": "TMS"
+    }
+  ]
+}

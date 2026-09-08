@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005244",
+      "nama": "ANITA PRAMUDANI",
+      "teknis": 300,
+      "manajerial": 89,
+      "sosial_kultural": 69,
+      "wawancara": 27,
+      "total_cat": 485,
+      "psikotes": 81.02,
+      "inggris": 50.66,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.07734,
+      "total": 72.2327,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009086",
+      "nama": "MELA PUTRI RAHAYU",
+      "teknis": 265,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total_cat": 469,
+      "psikotes": 81.02,
+      "inggris": 45.79,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.10334,
+      "total": 70.5517,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001296",
+      "nama": "BENI FADILA",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total_cat": 418,
+      "psikotes": 71.01,
+      "inggris": 94.53,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.84534,
+      "total": 68.6167,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003046",
+      "nama": "DWI FAJRIANI RAMDHANINGRUM",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 440,
+      "psikotes": 65.95,
+      "inggris": 57.16,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.11312,
+      "total": 63.8924,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007504",
+      "nama": "VERA SRIKANDI",
+      "teknis": 220,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total_cat": 423,
+      "psikotes": 81.02,
+      "inggris": 66.47,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.23934,
+      "total": 69.1868,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003431",
+      "nama": "FITRA WIDYA RAHMA",
+      "teknis": 275,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 475,
+      "psikotes": 66.52,
+      "inggris": 71.94,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.41112,
+      "total": 68.1533,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000841",
+      "nama": "YUNAS SAJURI",
+      "teknis": 165,
+      "manajerial": 93,
+      "sosial_kultural": 64,
+      "wawancara": 37,
+      "total_cat": 359,
+      "psikotes": 81.02,
+      "inggris": 81.68,
+      "wawancara_skt": 66.6667,
+      "total_skt": 78.28134,
+      "total": 65.9317,
+      "status": "P/L"
+    }
+  ]
+}

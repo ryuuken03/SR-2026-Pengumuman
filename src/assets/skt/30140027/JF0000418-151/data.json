@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001571",
+      "nama": "IQBAL SYARIFUDDIN MAHBUBI",
+      "teknis": 235,
+      "manajerial": 85,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total_cat": 433,
+      "psikotes": 81.02,
+      "inggris": 74.3,
+      "wawancara_skt": 55.5556,
+      "total_skt": 74.58312,
+      "total": 69.605,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001783",
+      "nama": "AHMAD FAUZI",
+      "teknis": 245,
+      "manajerial": 80,
+      "sosial_kultural": 55,
+      "wawancara": 36,
+      "total_cat": 416,
+      "psikotes": 82.33,
+      "inggris": 51.7,
+      "wawancara_skt": 55.5556,
+      "total_skt": 70.84912,
+      "total": 66.4693,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000539",
+      "nama": "FAREL VALERIAN",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total_cat": 436,
+      "psikotes": 67.42,
+      "inggris": 67.5,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.06312,
+      "total": 65.0689,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003275",
+      "nama": "CINDY FRAMELLYA PUTRI",
+      "teknis": 240,
+      "manajerial": 83,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total_cat": 425,
+      "psikotes": 65.95,
+      "inggris": 51.7,
+      "wawancara_skt": 55.5556,
+      "total_skt": 61.02112,
+      "total": 62.227,
+      "status": "P"
+    }
+  ]
+}

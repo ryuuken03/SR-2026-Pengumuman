@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000158",
+      "nama": "ANTONIUS HESTU AJI PRAYOGA",
+      "teknis": 295,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 500,
+      "psikotes": 81.03,
+      "inggris": 84.64,
+      "wawancara_skt": 55.5556,
+      "total_skt": 76.65712,
+      "total": 75.642,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001143",
+      "nama": "ISTIJANAH",
+      "teknis": 210,
+      "manajerial": 95,
+      "sosial_kultural": 78,
+      "wawancara": 38,
+      "total_cat": 421,
+      "psikotes": 81.03,
+      "inggris": 52.73,
+      "wawancara_skt": 88.8889,
+      "total_skt": 76.94178,
+      "total": 69.8888,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001860",
+      "nama": "LABIB AS'AD IZZUDDIN",
+      "teknis": 215,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 415,
+      "psikotes": 81.02,
+      "inggris": 59.53,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.85134,
+      "total": 67.8958,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000340",
+      "nama": "INNEKE SALWA RAHMADIANI",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total_cat": 408,
+      "psikotes": 69.14,
+      "inggris": 76.81,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.95712,
+      "total": 64.4263,
+      "status": "P"
+    }
+  ]
+}

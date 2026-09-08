@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007449",
+      "nama": "KARINA NURQUMAROH",
+      "teknis": 320,
+      "manajerial": 91,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total_cat": 525,
+      "psikotes": 77.77,
+      "inggris": 71.34,
+      "wawancara_skt": 77.7778,
+      "total_skt": 76.48556,
+      "total": 77.4219,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006745",
+      "nama": "FIKA HAYYATUN NAFI'AH",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total_cat": 435,
+      "psikotes": 68.2,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.56734,
+      "total": 65.2464,
+      "status": "P"
+    }
+  ]
+}

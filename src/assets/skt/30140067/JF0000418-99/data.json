@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008347",
+      "nama": "MIFTAHUL JANNAH",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total_cat": 431,
+      "psikotes": 66.9,
+      "inggris": 84.64,
+      "wawancara_skt": 44.4444,
+      "total_skt": 65.95688,
+      "total": 65.1426,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001808",
+      "nama": "MUHAMMAD FARHAN MURZANI",
+      "teknis": 315,
+      "manajerial": 92,
+      "sosial_kultural": 79,
+      "wawancara": 38,
+      "total_cat": 524,
+      "psikotes": 51.5,
+      "inggris": 91.14,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.46134,
+      "total": 70.3351,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001184",
+      "nama": "MUH HAYYUL",
+      "teknis": 235,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 432,
+      "psikotes": 70.45,
+      "inggris": 67.5,
+      "wawancara_skt": 44.4444,
+      "total_skt": 64.65888,
+      "total": 64.5682,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008593",
+      "nama": "BESSE FARAD RAMADHANI ZUHDI",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 395,
+      "psikotes": 68,
+      "inggris": 53.18,
+      "wawancara_skt": 44.4444,
+      "total_skt": 60.32488,
+      "total": 59.6401,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000871",
+      "nama": "TAUFIQ RAHMAN",
+      "teknis": 220,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 417,
+      "psikotes": 50.68,
+      "inggris": 54.21,
+      "wawancara_skt": 33.3333,
+      "total_skt": 47.91666,
+      "total": 55.0777,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002859",
+      "nama": "MUHAMMAD SABIR ALWI",
+      "teknis": 220,
+      "manajerial": 79,
+      "sosial_kultural": 62,
+      "wawancara": 35,
+      "total_cat": 396,
+      "psikotes": 44.92,
+      "inggris": 41.8,
+      "wawancara_skt": 33.3333,
+      "total_skt": 41.97866,
+      "total": 50.5416,
+      "status": "TMS"
+    }
+  ]
+}

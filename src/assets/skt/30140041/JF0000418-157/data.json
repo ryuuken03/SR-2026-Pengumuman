@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001609",
+      "nama": "RAKA KUMARA JATI",
+      "teknis": 260,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total_cat": 455,
+      "psikotes": 65.76,
+      "inggris": 65.44,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.87734,
+      "total": 66.8939,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002160",
+      "nama": "SUNARNO",
+      "teknis": 220,
+      "manajerial": 96,
+      "sosial_kultural": 70,
+      "wawancara": 30,
+      "total_cat": 416,
+      "psikotes": 66.52,
+      "inggris": 50.66,
+      "wawancara_skt": 44.4444,
+      "total_skt": 58.93288,
+      "total": 60.5112,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000784",
+      "nama": "MERI ASPARINA",
+      "teknis": 180,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 383,
+      "psikotes": 40.25,
+      "inggris": 55.1,
+      "wawancara_skt": 55.5556,
+      "total_skt": 46.28112,
+      "total": 51.7226,
+      "status": "TMS"
+    }
+  ]
+}

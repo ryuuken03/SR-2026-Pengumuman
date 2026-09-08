@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005935",
+      "nama": "FRANSINA FLORA RENYAAN",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 30,
+      "total_cat": 365,
+      "psikotes": 68.01,
+      "inggris": 48.74,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.88734,
+      "total": 59.1825,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007892",
+      "nama": "RAHAYU SARA GURIUM",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total_cat": 403,
+      "psikotes": 27.65,
+      "inggris": 51.7,
+      "wawancara_skt": 66.6667,
+      "total_skt": 40.26334,
+      "total": 50.2063,
+      "status": "TMS"
+    }
+  ]
+}

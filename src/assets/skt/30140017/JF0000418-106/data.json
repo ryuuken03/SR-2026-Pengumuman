@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001530",
+      "nama": "EVI MARGIYANTI",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total_cat": 441,
+      "psikotes": 82.34,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.96334,
+      "total": 69.8921,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001823",
+      "nama": "MITHA PURNAMASARI",
+      "teknis": 150,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total_cat": 345,
+      "psikotes": 68.01,
+      "inggris": 48.74,
+      "wawancara_skt": 33.3333,
+      "total_skt": 57.22066,
+      "total": 54.3566,
+      "status": "P/L"
+    }
+  ]
+}

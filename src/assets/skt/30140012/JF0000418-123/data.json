@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003711",
+      "nama": "DINAN AGHNIA CHOERUNISA",
+      "teknis": 150,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 348,
+      "psikotes": 81.03,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.35934,
+      "total": 63.1498,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009145",
+      "nama": "MIFTAHUL JANNAH",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 371,
+      "psikotes": 48.2,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 52.79934,
+      "total": 54.0862,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003371",
+      "nama": "YESSY USMAN",
+      "teknis": 135,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total_cat": 330,
+      "psikotes": 48.22,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 52.30934,
+      "total": 50.7815,
+      "status": "TMS"
+    }
+  ]
+}

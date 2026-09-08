@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008062",
+      "nama": "ROCHMATUL IZZA",
+      "teknis": 305,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 510,
+      "psikotes": 82.33,
+      "inggris": 73.41,
+      "wawancara_skt": 55.5556,
+      "total_skt": 75.19112,
+      "total": 75.6553,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001091",
+      "nama": "MUH. AKBAR",
+      "teknis": 190,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 385,
+      "psikotes": 68,
+      "inggris": 55.69,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.04912,
+      "total": 60.2559,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002792",
+      "nama": "ABDUL MUG'HNI",
+      "teknis": 220,
+      "manajerial": 78,
+      "sosial_kultural": 60,
+      "wawancara": 32,
+      "total_cat": 390,
+      "psikotes": 40.16,
+      "inggris": 53.18,
+      "wawancara_skt": 44.4444,
+      "total_skt": 43.62088,
+      "total": 50.9149,
+      "status": "TMS"
+    }
+  ]
+}

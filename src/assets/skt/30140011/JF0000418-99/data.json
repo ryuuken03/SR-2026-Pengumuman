@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006619",
+      "nama": "INDRI TSALISTI NURHALIM",
+      "teknis": 290,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 498,
+      "psikotes": 70.27,
+      "inggris": 86.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.71934,
+      "total": 73.5238,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003329",
+      "nama": "NOVYANSYAH ILYAS IZZULHAQ",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 64,
+      "wawancara": 35,
+      "total_cat": 448,
+      "psikotes": 81.02,
+      "inggris": 84.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 78.87334,
+      "total": 72.8695,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005989",
+      "nama": "EVITA NUR ALLIZA",
+      "teknis": 200,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 405,
+      "psikotes": 71,
+      "inggris": 79.76,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.88534,
+      "total": 66.1665,
+      "status": "P"
+    }
+  ]
+}

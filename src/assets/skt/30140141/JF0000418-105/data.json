@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003034",
+      "nama": "SITI SUNDARI",
+      "teknis": 235,
+      "manajerial": 84,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total_cat": 427,
+      "psikotes": 70.26,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.68934,
+      "total": 65.7103,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000490",
+      "nama": "DESI RATNA SARI",
+      "teknis": 255,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total_cat": 451,
+      "psikotes": 65.73,
+      "inggris": 48.74,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.51934,
+      "total": 64.9164,
+      "status": "P"
+    }
+  ]
+}

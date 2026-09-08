@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002268",
+      "nama": "IRWINSYAH MAULANA PUTRA",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total_cat": 446,
+      "psikotes": 67.64,
+      "inggris": 86.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.14134,
+      "total": 68.8543,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009045",
+      "nama": "NI MADE WINDA WIJAYANTI",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 443,
+      "psikotes": 68.58,
+      "inggris": 61,
+      "wawancara_skt": 44.4444,
+      "total_skt": 62.23688,
+      "total": 64.1781,
+      "status": "P"
+    }
+  ]
+}

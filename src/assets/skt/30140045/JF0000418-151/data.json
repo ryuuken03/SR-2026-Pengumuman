@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002361",
+      "nama": "MOH SOFYAN SOFI",
+      "teknis": 210,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 416,
+      "psikotes": 81.03,
+      "inggris": 82.27,
+      "wawancara_skt": 66.6667,
+      "total_skt": 78.40534,
+      "total": 70.2474,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002431",
+      "nama": "RESA SULI FEBRIAN",
+      "teknis": 240,
+      "manajerial": 80,
+      "sosial_kultural": 65,
+      "wawancara": 31,
+      "total_cat": 416,
+      "psikotes": 81.01,
+      "inggris": 50.66,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.07134,
+      "total": 67.0804,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001857",
+      "nama": "MUHAMMAD IRFAN ARI PRASETYA",
+      "teknis": 190,
+      "manajerial": 83,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total_cat": 376,
+      "psikotes": 43.44,
+      "inggris": 52.73,
+      "wawancara_skt": 55.5556,
+      "total_skt": 47.72112,
+      "total": 51.9203,
+      "status": "TMS"
+    }
+  ]
+}

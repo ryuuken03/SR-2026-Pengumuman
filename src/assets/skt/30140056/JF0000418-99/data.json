@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007814",
+      "nama": "UMMI FADLILAH",
+      "teknis": 225,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total_cat": 428,
+      "psikotes": 81.03,
+      "inggris": 71.34,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.21934,
+      "total": 70.05,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006011",
+      "nama": "NUR FADILAH",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 382,
+      "psikotes": 81.03,
+      "inggris": 68.98,
+      "wawancara_skt": 55.5556,
+      "total_skt": 73.52512,
+      "total": 65.27,
+      "status": "P"
+    }
+  ]
+}

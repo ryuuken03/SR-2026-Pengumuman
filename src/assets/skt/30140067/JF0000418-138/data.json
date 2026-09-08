@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007231",
+      "nama": "MIFTAHUL JANNAH",
+      "teknis": 210,
+      "manajerial": 88,
+      "sosial_kultural": 77,
+      "wawancara": 38,
+      "total_cat": 413,
+      "psikotes": 83.97,
+      "inggris": 66.47,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.00934,
+      "total": 69.3256,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001484",
+      "nama": "ZAHRATUL SUCI",
+      "teknis": 210,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 405,
+      "psikotes": 71.59,
+      "inggris": 75.78,
+      "wawancara_skt": 44.4444,
+      "total_skt": 66.99888,
+      "total": 63.7233,
+      "status": "P"
+    }
+  ]
+}

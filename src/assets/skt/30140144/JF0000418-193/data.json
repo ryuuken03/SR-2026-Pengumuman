@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000716",
+      "nama": "RACHMAD NURCHOLIS",
+      "teknis": 260,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 462,
+      "psikotes": 70.28,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.81534,
+      "total": 67.8853,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008616",
+      "nama": "DELPRIMA ESTHER D TAMBUNAN",
+      "teknis": 185,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 34,
+      "total_cat": 389,
+      "psikotes": 50.94,
+      "inggris": 62.48,
+      "wawancara_skt": 55.5556,
+      "total_skt": 54.17112,
+      "total": 56.1154,
+      "status": "TMS"
+    }
+  ]
+}

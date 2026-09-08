@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000148",
+      "nama": "YONY UTAMI",
+      "teknis": 260,
+      "manajerial": 95,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total_cat": 464,
+      "psikotes": 81.03,
+      "inggris": 62.04,
+      "wawancara_skt": 77.7778,
+      "total_skt": 76.58156,
+      "total": 72.9176,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008649",
+      "nama": "LUSIANA SARI NURUL HIKMAH",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total_cat": 471,
+      "psikotes": 81.03,
+      "inggris": 66.47,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.24534,
+      "total": 72.7719,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007994",
+      "nama": "RINI HASWIN PALA",
+      "teknis": 270,
+      "manajerial": 85,
+      "sosial_kultural": 67,
+      "wawancara": 40,
+      "total_cat": 462,
+      "psikotes": 81.02,
+      "inggris": 71.94,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.33334,
+      "total": 72.6443,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004411",
+      "nama": "SALSABILA YUSFA",
+      "teknis": 260,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 454,
+      "psikotes": 0,
+      "inggris": 0,
+      "wawancara_skt": 0,
+      "total_skt": 0,
+      "total": 33.8806,
+      "status": "TH"
+    }
+  ]
+}

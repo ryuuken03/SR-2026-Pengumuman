@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001559",
+      "nama": "FAIZ FAISHAL HUDA",
+      "teknis": 270,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 473,
+      "psikotes": 73.25,
+      "inggris": 75.78,
+      "wawancara_skt": 77.7778,
+      "total_skt": 74.66156,
+      "total": 72.6293,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001082",
+      "nama": "UDIK PRASETYO",
+      "teknis": 245,
+      "manajerial": 96,
+      "sosial_kultural": 69,
+      "wawancara": 30,
+      "total_cat": 440,
+      "psikotes": 81.02,
+      "inggris": 56.13,
+      "wawancara_skt": 55.5556,
+      "total_skt": 70.94912,
+      "total": 68.3104,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002721",
+      "nama": "PETRA ARDIANSYAH",
+      "teknis": 220,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 423,
+      "psikotes": 52.33,
+      "inggris": 51.26,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.53888,
+      "total": 56.8366,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001017",
+      "nama": "DONY PRASETYO",
+      "teknis": 200,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 31,
+      "total_cat": 389,
+      "psikotes": 50.12,
+      "inggris": 49.78,
+      "wawancara_skt": 44.4444,
+      "total_skt": 48.91688,
+      "total": 53.4883,
+      "status": "TMS"
+    }
+  ]
+}

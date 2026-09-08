@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002813",
+      "nama": "RIKI MARYO",
+      "teknis": 270,
+      "manajerial": 99,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total_cat": 484,
+      "psikotes": 71.02,
+      "inggris": 66.03,
+      "wawancara_skt": 55.5556,
+      "total_skt": 66.92912,
+      "total": 69.584,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004220",
+      "nama": "ANJANI NURFITRIANA",
+      "teknis": 260,
+      "manajerial": 75,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total_cat": 447,
+      "psikotes": 81.03,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.35934,
+      "total": 70.5379,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000475",
+      "nama": "YOHANNA LUBIS",
+      "teknis": 185,
+      "manajerial": 93,
+      "sosial_kultural": 74,
+      "wawancara": 32,
+      "total_cat": 384,
+      "psikotes": 81.03,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.35934,
+      "total": 65.8364,
+      "status": "P"
+    }
+  ]
+}

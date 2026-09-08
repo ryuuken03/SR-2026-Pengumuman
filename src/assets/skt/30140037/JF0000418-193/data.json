@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000343",
+      "nama": "SATRIO HADI PRAYOGO",
+      "teknis": 230,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total_cat": 431,
+      "psikotes": 81.03,
+      "inggris": 59.53,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.30178,
+      "total": 71.3151,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000004",
+      "nama": "ACHMAD YULIANTO",
+      "teknis": 265,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 473,
+      "psikotes": 74.77,
+      "inggris": 65.44,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.28334,
+      "total": 70.9402,
+      "status": "P/L"
+    }
+  ]
+}

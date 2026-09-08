@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001006",
+      "nama": "MAHENDRA JAYA LOMA",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total_cat": 424,
+      "psikotes": 50.06,
+      "inggris": 71.34,
+      "wawancara_skt": 55.5556,
+      "total_skt": 55.41512,
+      "total": 59.3493,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001055",
+      "nama": "NIKEN NUR FITRIANA",
+      "teknis": 295,
+      "manajerial": 98,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total_cat": 499,
+      "psikotes": 84.4,
+      "inggris": 85.67,
+      "wawancara_skt": 88.8889,
+      "total_skt": 85.55178,
+      "total": 80.0147,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000382",
+      "nama": "MUHAMMAD DWI YANTO",
+      "teknis": 320,
+      "manajerial": 85,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total_cat": 518,
+      "psikotes": 83.65,
+      "inggris": 70.46,
+      "wawancara_skt": 88.8889,
+      "total_skt": 82.05978,
+      "total": 79.6866,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002920",
+      "nama": "MUHAMMAD ROSYID RIDHO",
+      "teknis": 325,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 532,
+      "psikotes": 82.33,
+      "inggris": 59.08,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.99178,
+      "total": 79.1974,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005312",
+      "nama": "DIAN NATALIA LESTARI",
+      "teknis": 300,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total_cat": 504,
+      "psikotes": 70.45,
+      "inggris": 69.42,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.48734,
+      "total": 72.3556,
+      "status": "P"
+    }
+  ]
+}

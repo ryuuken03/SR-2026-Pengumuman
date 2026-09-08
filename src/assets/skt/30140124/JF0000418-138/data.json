@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001679",
+      "nama": "ALFI NUR SHOIMAH",
+      "teknis": 335,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total_cat": 530,
+      "psikotes": 72.71,
+      "inggris": 49.19,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.57512,
+      "total": 71.8398,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009183",
+      "nama": "PUPUT WALI",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 405,
+      "psikotes": 70.46,
+      "inggris": 68.39,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.06512,
+      "total": 63.7564,
+      "status": "P"
+    }
+  ]
+}

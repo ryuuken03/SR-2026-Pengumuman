@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000867",
+      "nama": "RIFALDO LATANDO",
+      "teknis": 295,
+      "manajerial": 81,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 485,
+      "psikotes": 81.03,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.26534,
+      "total": 72.8267,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007588",
+      "nama": "JANI YANTI",
+      "teknis": 245,
+      "manajerial": 94,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 443,
+      "psikotes": 82.34,
+      "inggris": 72.38,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.21334,
+      "total": 71.6664,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007242",
+      "nama": "NOVI HUMAIROH HAMIDIYAH",
+      "teknis": 300,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 495,
+      "psikotes": 52.51,
+      "inggris": 48.74,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.14288,
+      "total": 62.0117,
+      "status": "TMS"
+    }
+  ]
+}

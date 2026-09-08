@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008128",
+      "nama": "FITROH NUR FAUZIAH",
+      "teknis": 300,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 492,
+      "psikotes": 81.03,
+      "inggris": 58.05,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.56134,
+      "total": 73.4971,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007471",
+      "nama": "FINANDA DWI TRIASWARI",
+      "teknis": 340,
+      "manajerial": 78,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 528,
+      "psikotes": 51.47,
+      "inggris": 65.44,
+      "wawancara_skt": 66.6667,
+      "total_skt": 57.30334,
+      "total": 68.0547,
+      "status": "TMS"
+    }
+  ]
+}

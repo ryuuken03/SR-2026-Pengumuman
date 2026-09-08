@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000139",
+      "nama": "AENI INAYAH ELFITRIYAH",
+      "teknis": 250,
+      "manajerial": 80,
+      "sosial_kultural": 63,
+      "wawancara": 37,
+      "total_cat": 430,
+      "psikotes": 70.24,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.58934,
+      "total": 65.8842,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000451",
+      "nama": "FAHMI ABDILLAH",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 77,
+      "wawancara": 37,
+      "total_cat": 449,
+      "psikotes": 56.35,
+      "inggris": 67.5,
+      "wawancara_skt": 55.5556,
+      "total_skt": 58.42112,
+      "total": 62.718,
+      "status": "TMS"
+    }
+  ]
+}

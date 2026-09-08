@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009203",
+      "nama": "SITI KHAIRUNNISA",
+      "teknis": 215,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 412,
+      "psikotes": 81.03,
+      "inggris": 84.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 78.87934,
+      "total": 70.1859,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003179",
+      "nama": "RIZA SRI RAMADHANI",
+      "teknis": 260,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total_cat": 452,
+      "psikotes": 70.27,
+      "inggris": 72.82,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.83712,
+      "total": 67.6499,
+      "status": "P"
+    }
+  ]
+}

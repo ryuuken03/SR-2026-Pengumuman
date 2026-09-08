@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007616",
+      "nama": "HARI DARMANSYAH",
+      "teknis": 285,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 484,
+      "psikotes": 83.1,
+      "inggris": 69.87,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.16734,
+      "total": 74.7031,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002430",
+      "nama": "DENI SEPTRIADI",
+      "teknis": 290,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total_cat": 493,
+      "psikotes": 70.45,
+      "inggris": 67.5,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.10334,
+      "total": 71.3427,
+      "status": "P"
+    }
+  ]
+}

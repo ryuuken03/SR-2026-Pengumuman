@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008448",
+      "nama": "ANGELINA HASIAN SINAGA",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 64,
+      "wawancara": 32,
+      "total_cat": 442,
+      "psikotes": 70.46,
+      "inggris": 59.53,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.51534,
+      "total": 66.7427,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004838",
+      "nama": "DELIMA SARI",
+      "teknis": 245,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 449,
+      "psikotes": 56.65,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 59.52334,
+      "total": 63.2691,
+      "status": "TMS"
+    }
+  ]
+}

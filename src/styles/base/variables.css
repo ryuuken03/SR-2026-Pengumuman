@@ -39,6 +39,8 @@ html {
   --status-lulus-bg: 142 70% 97%;
   --status-tl: 0 72% 51%;
   --status-tl-bg: 0 72% 97%;
+  --destructive: 0 72% 51%;
+  --destructive-foreground: 0 0% 98%;
 }
 
 html[data-theme='dark'],
@@ -69,4 +71,6 @@ html.dark {
   --status-lulus-bg: 142 40% 10%;
   --status-tl: 0 72% 60%;
   --status-tl-bg: 0 50% 10%;
+  --destructive: 0 72% 60%;
+  --destructive-foreground: 0 0% 98%;
 }

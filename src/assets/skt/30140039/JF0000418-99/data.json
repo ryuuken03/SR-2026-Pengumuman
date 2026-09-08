@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000016",
+      "nama": "MUHAMMAD SULTON RIZAL",
+      "teknis": 225,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total_cat": 424,
+      "psikotes": 81.79,
+      "inggris": 73.41,
+      "wawancara_skt": 77.7778,
+      "total_skt": 79.31156,
+      "total": 71.2976,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008499",
+      "nama": "HANINA NUR AFFIFAH",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 444,
+      "psikotes": 81.03,
+      "inggris": 68.39,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.62934,
+      "total": 70.949,
+      "status": "P/L-2"
+    }
+  ]
+}

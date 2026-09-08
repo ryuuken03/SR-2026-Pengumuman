@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001580",
+      "nama": "ISA MAHENDRA GUMELAR",
+      "teknis": 255,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 454,
+      "psikotes": 82.11,
+      "inggris": 71.34,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.86734,
+      "total": 72.3143,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120009098",
+      "nama": "TSANIA MAULIDA AZ-ZAHROH",
+      "teknis": 285,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total_cat": 479,
+      "psikotes": 65.77,
+      "inggris": 66.91,
+      "wawancara_skt": 77.7778,
+      "total_skt": 68.39956,
+      "total": 69.946,
+      "status": "P/L"
+    }
+  ]
+}

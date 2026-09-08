@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000642",
+      "nama": "MUHAMMAD HAFIDZ RAHMAN",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 426,
+      "psikotes": 51.51,
+      "inggris": 77.84,
+      "wawancara_skt": 44.4444,
+      "total_skt": 55.36288,
+      "total": 59.4725,
+      "status": "TMS"
+    }
+  ]
+}

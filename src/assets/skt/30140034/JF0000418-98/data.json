@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002731",
+      "nama": "LUTHFIA ALIFIANI",
+      "teknis": 275,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 483,
+      "psikotes": 81.03,
+      "inggris": 77.84,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.51934,
+      "total": 74.8044,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001922",
+      "nama": "AISYA QOTRUNNADA MUNAWAROH",
+      "teknis": 265,
+      "manajerial": 98,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total_cat": 480,
+      "psikotes": 81.02,
+      "inggris": 69.87,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.91934,
+      "total": 73.7806,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001191",
+      "nama": "DHIKA APRILLIA",
+      "teknis": 295,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total_cat": 503,
+      "psikotes": 73.08,
+      "inggris": 62.48,
+      "wawancara_skt": 77.7778,
+      "total_skt": 71.89956,
+      "total": 73.4871,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000095",
+      "nama": "ATIKA ZULFA MUKNISAH",
+      "teknis": 260,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 461,
+      "psikotes": 59.66,
+      "inggris": 68.98,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.92534,
+      "total": 65.8657,
+      "status": "TMS"
+    }
+  ]
+}

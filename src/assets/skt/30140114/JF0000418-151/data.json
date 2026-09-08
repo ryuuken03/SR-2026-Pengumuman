@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001516",
+      "nama": "IZMUH SHADIQ ANWAR",
+      "teknis": 260,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 32,
+      "total_cat": 456,
+      "psikotes": 81.01,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.48534,
+      "total": 70.2725,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002775",
+      "nama": "RADHIAH NUR MUHAJIRAH",
+      "teknis": 255,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 460,
+      "psikotes": 68.59,
+      "inggris": 51.26,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.51712,
+      "total": 65.5869,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000879",
+      "nama": "BASO AMRIZAL",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 65,
+      "wawancara": 37,
+      "total_cat": 442,
+      "psikotes": 66.52,
+      "inggris": 47.71,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.78734,
+      "total": 64.3787,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001098",
+      "nama": "MUHAMMAD HUSNI",
+      "teknis": 245,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 30,
+      "total_cat": 437,
+      "psikotes": 65.75,
+      "inggris": 0,
+      "wawancara_skt": 66.6667,
+      "total_skt": 52.78334,
+      "total": 59.0036,
+      "status": "TH"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001480",
+      "nama": "AULIA ADHARI",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 475,
+      "psikotes": 81.02,
+      "inggris": 75.33,
+      "wawancara_skt": 77.7778,
+      "total_skt": 79.23356,
+      "total": 75.0645,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007614",
+      "nama": "SRI ESTIANI PARANTEAN",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total_cat": 424,
+      "psikotes": 81.02,
+      "inggris": 56.13,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.39356,
+      "total": 69.3386,
+      "status": "P"
+    }
+  ]
+}

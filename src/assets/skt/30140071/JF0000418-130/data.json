@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007012",
+      "nama": "DEA KUMALA DEWI",
+      "teknis": 235,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 437,
+      "psikotes": 71.02,
+      "inggris": 75.33,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.01134,
+      "total": 68.1176,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001521",
+      "nama": "NURLAILA AWALINA",
+      "teknis": 280,
+      "manajerial": 89,
+      "sosial_kultural": 78,
+      "wawancara": 35,
+      "total_cat": 482,
+      "psikotes": 0,
+      "inggris": 0,
+      "wawancara_skt": 0,
+      "total_skt": 0,
+      "total": 35.9701,
+      "status": "TH"
+    }
+  ]
+}

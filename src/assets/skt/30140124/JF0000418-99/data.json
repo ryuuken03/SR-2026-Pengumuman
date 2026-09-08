@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001618",
+      "nama": "AYU ARISKA ALFAT",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 377,
+      "psikotes": 81.03,
+      "inggris": 66.91,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.33334,
+      "total": 65.801,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000814",
+      "nama": "RIADUSSULHI",
+      "teknis": 200,
+      "manajerial": 84,
+      "sosial_kultural": 76,
+      "wawancara": 32,
+      "total_cat": 392,
+      "psikotes": 67.64,
+      "inggris": 71.94,
+      "wawancara_skt": 55.5556,
+      "total_skt": 66.08312,
+      "total": 62.2953,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005984",
+      "nama": "GLORYA DEWANTI PRIANTARA",
+      "teknis": 160,
+      "manajerial": 81,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total_cat": 341,
+      "psikotes": 65.75,
+      "inggris": 61,
+      "wawancara_skt": 44.4444,
+      "total_skt": 60.53888,
+      "total": 55.7172,
+      "status": "P/L-2"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120009149",
+      "nama": "SANDRA ATI ACHER",
+      "teknis": 185,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total_cat": 377,
+      "psikotes": 44.35,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 52.05534,
+      "total": 54.162,
+      "status": "TMS"
+    }
+  ]
+}

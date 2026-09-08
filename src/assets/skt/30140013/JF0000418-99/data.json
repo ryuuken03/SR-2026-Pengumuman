@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002319",
+      "nama": "ANTI ALFIONITA",
+      "teknis": 245,
+      "manajerial": 93,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 446,
+      "psikotes": 69.68,
+      "inggris": 68.98,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.93734,
+      "total": 67.7523,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007135",
+      "nama": "INTAN ANDINI KUSUMAH WARDINI",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total_cat": 390,
+      "psikotes": 81.03,
+      "inggris": 71.94,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.33934,
+      "total": 67.2741,
+      "status": "P"
+    }
+  ]
+}

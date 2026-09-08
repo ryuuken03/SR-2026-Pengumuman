@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002684",
+      "nama": "MUHAMAD SALIHIN",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 77,
+      "wawancara": 35,
+      "total_cat": 433,
+      "psikotes": 65.75,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.30534,
+      "total": 64.4661,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003872",
+      "nama": "EKA OKTAVIANI",
+      "teknis": 220,
+      "manajerial": 87,
+      "sosial_kultural": 64,
+      "wawancara": 34,
+      "total_cat": 405,
+      "psikotes": 70.26,
+      "inggris": 46.82,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.85334,
+      "total": 62.6506,
+      "status": "P/L-2"
+    }
+  ]
+}

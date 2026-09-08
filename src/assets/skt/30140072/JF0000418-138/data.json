@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004217",
+      "nama": "NOVA TANIA",
+      "teknis": 320,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total_cat": 524,
+      "psikotes": 81.03,
+      "inggris": 64.99,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.94934,
+      "total": 76.5791,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001416",
+      "nama": "TOHATI LAMBADYA MALAU",
+      "teknis": 270,
+      "manajerial": 98,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total_cat": 482,
+      "psikotes": 81.02,
+      "inggris": 69.42,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.82934,
+      "total": 73.8848,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000292",
+      "nama": "T. ASIMA SULYS SIMANJUNTAK",
+      "teknis": 250,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 452,
+      "psikotes": 81.79,
+      "inggris": 86.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 79.63134,
+      "total": 73.547,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001551",
+      "nama": "RIPALDO PANDIANGAN",
+      "teknis": 295,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 491,
+      "psikotes": 70.26,
+      "inggris": 78.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.23534,
+      "total": 72.2595,
+      "status": "P"
+    }
+  ]
+}

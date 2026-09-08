@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000272",
+      "nama": "SULHIJRAH MUSTABIL",
+      "teknis": 165,
+      "manajerial": 91,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 368,
+      "psikotes": 69.13,
+      "inggris": 64.99,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.58712,
+      "total": 60.2562,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004612",
+      "nama": "ANGGI PRATIWI",
+      "teknis": 135,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 326,
+      "psikotes": 49.88,
+      "inggris": 49.19,
+      "wawancara_skt": 66.6667,
+      "total_skt": 53.09934,
+      "total": 50.878,
+      "status": "TMS"
+    }
+  ]
+}

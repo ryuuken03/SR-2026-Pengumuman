@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000127",
+      "nama": "ARDIAN MARTHAWIJAYA",
+      "teknis": 295,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 493,
+      "psikotes": 75.34,
+      "inggris": 87.59,
+      "wawancara_skt": 77.7778,
+      "total_skt": 78.27756,
+      "total": 75.9298,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002767",
+      "nama": "NAUFAL RAFIIF NAFIYANTO",
+      "teknis": 270,
+      "manajerial": 88,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total_cat": 458,
+      "psikotes": 63.99,
+      "inggris": 85.67,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.86134,
+      "total": 68.6098,
+      "status": "TMS"
+    }
+  ]
+}

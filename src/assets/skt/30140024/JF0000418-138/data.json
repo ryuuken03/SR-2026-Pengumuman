@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002903",
+      "nama": "SINTA NOVITASARI",
+      "teknis": 265,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total_cat": 472,
+      "psikotes": 81.02,
+      "inggris": 63.96,
+      "wawancara_skt": 77.7778,
+      "total_skt": 76.95956,
+      "total": 73.7037,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006839",
+      "nama": "CORNELIA SURYANINGSIH",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 409,
+      "psikotes": 71.01,
+      "inggris": 50.22,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.76112,
+      "total": 62.4029,
+      "status": "P"
+    }
+  ]
+}

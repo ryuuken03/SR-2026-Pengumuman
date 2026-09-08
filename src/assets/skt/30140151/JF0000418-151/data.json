@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007246",
+      "nama": "UNSIA SURYA NINGRUM",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total_cat": 425,
+      "psikotes": 50.14,
+      "inggris": 54.21,
+      "wawancara_skt": 55.5556,
+      "total_skt": 52.03712,
+      "total": 57.735,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000111",
+      "nama": "ARHAM. B",
+      "teknis": 170,
+      "manajerial": 81,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 360,
+      "psikotes": 46.56,
+      "inggris": 53.18,
+      "wawancara_skt": 44.4444,
+      "total_skt": 47.46088,
+      "total": 50.5961,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001737",
+      "nama": "SURIYANISA",
+      "teknis": 240,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total_cat": 445,
+      "psikotes": 49.86,
+      "inggris": 60.56,
+      "wawancara_skt": 55.5556,
+      "total_skt": 53.13912,
+      "total": 59.7785,
+      "status": "TMS"
+    }
+  ]
+}

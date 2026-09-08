@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003258",
+      "nama": "BENY NUR DWI SUBEKTI",
+      "teknis": 245,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total_cat": 446,
+      "psikotes": 81.03,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.99534,
+      "total": 69.2812,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000155",
+      "nama": "MUHAMMAD FAUZI IHSAN",
+      "teknis": 255,
+      "manajerial": 78,
+      "sosial_kultural": 66,
+      "wawancara": 31,
+      "total_cat": 430,
+      "psikotes": 81.03,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.47334,
+      "total": 68.8262,
+      "status": "P/L-2"
+    }
+  ]
+}

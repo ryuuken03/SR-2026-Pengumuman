@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001264",
+      "nama": "ANISA INDAH PRATIWI",
+      "teknis": 140,
+      "manajerial": 93,
+      "sosial_kultural": 63,
+      "wawancara": 35,
+      "total_cat": 331,
+      "psikotes": 68.01,
+      "inggris": 53.18,
+      "wawancara_skt": 44.4444,
+      "total_skt": 60.33088,
+      "total": 54.8669,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007443",
+      "nama": "RABIAH AL ADAWIYAH",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 63,
+      "wawancara": 37,
+      "total_cat": 365,
+      "psikotes": 59.67,
+      "inggris": 85.23,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.18134,
+      "total": 60.3295,
+      "status": "TMS"
+    }
+  ]
+}

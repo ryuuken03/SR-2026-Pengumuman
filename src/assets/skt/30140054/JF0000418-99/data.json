@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003636",
+      "nama": "LUCKY MEIDIANTI DARMAWAN",
+      "teknis": 225,
+      "manajerial": 87,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 426,
+      "psikotes": 81.03,
+      "inggris": 81.24,
+      "wawancara_skt": 66.6667,
+      "total_skt": 78.19934,
+      "total": 70.8907,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000234",
+      "nama": "IFTIKA MAR'ATUS SHOLIKAH",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total_cat": 464,
+      "psikotes": 71.01,
+      "inggris": 76.37,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.21334,
+      "total": 70.2335,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000444",
+      "nama": "MISWAK",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 415,
+      "psikotes": 81.02,
+      "inggris": 67.5,
+      "wawancara_skt": 77.7778,
+      "total_skt": 77.66756,
+      "total": 69.8039,
+      "status": "P/L"
+    }
+  ]
+}

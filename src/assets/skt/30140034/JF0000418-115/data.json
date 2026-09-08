@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008437",
+      "nama": "DWI SRI LESTARINI",
+      "teknis": 330,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 40,
+      "total_cat": 527,
+      "psikotes": 81.02,
+      "inggris": 66.91,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.32734,
+      "total": 76.992,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006953",
+      "nama": "NUR SANGADAH",
+      "teknis": 330,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 523,
+      "psikotes": 70.26,
+      "inggris": 67.5,
+      "wawancara_skt": 77.7778,
+      "total_skt": 71.21156,
+      "total": 74.6356,
+      "status": "P"
+    }
+  ]
+}

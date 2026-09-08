@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006543",
+      "nama": "ANISA NUR'AINI",
+      "teknis": 225,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 418,
+      "psikotes": 72.51,
+      "inggris": 44.31,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.25688,
+      "total": 61.8225,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003196",
+      "nama": "SALSABILLA CAHYA DELTASYAH",
+      "teknis": 225,
+      "manajerial": 79,
+      "sosial_kultural": 28,
+      "wawancara": 29,
+      "total_cat": 361,
+      "psikotes": 68.2,
+      "inggris": 60.12,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.05512,
+      "total": 58.9679,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002159",
+      "nama": "AULIA RAMADHANI",
+      "teknis": 185,
+      "manajerial": 81,
+      "sosial_kultural": 62,
+      "wawancara": 37,
+      "total_cat": 365,
+      "psikotes": 46.01,
+      "inggris": 52.14,
+      "wawancara_skt": 55.5556,
+      "total_skt": 49.14512,
+      "total": 51.8114,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000757",
+      "nama": "ARDIAN RIFQY WIJAYA",
+      "teknis": 200,
+      "manajerial": 75,
+      "sosial_kultural": 53,
+      "wawancara": 38,
+      "total_cat": 366,
+      "psikotes": 46.81,
+      "inggris": 51.26,
+      "wawancara_skt": 44.4444,
+      "total_skt": 47.22688,
+      "total": 50.9269,
+      "status": "TMS"
+    }
+  ]
+}

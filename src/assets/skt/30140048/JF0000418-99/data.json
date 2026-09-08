@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003751",
+      "nama": "INASNI DYAH RAHMATIKA",
+      "teknis": 305,
+      "manajerial": 94,
+      "sosial_kultural": 66,
+      "wawancara": 37,
+      "total_cat": 502,
+      "psikotes": 70.45,
+      "inggris": 85.23,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.64934,
+      "total": 73.7874,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008035",
+      "nama": "HAYU ANISA FADHILAH",
+      "teknis": 290,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 38,
+      "total_cat": 495,
+      "psikotes": 70.25,
+      "inggris": 78.29,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.14134,
+      "total": 72.511,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001064",
+      "nama": "ARIK ADITIA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 417,
+      "psikotes": 81.02,
+      "inggris": 75.78,
+      "wawancara_skt": 88.8889,
+      "total_skt": 81.54578,
+      "total": 71.8923,
+      "status": "P/L"
+    }
+  ]
+}

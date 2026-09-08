@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000689",
+      "nama": "UNI MAHARANI",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total_cat": 405,
+      "psikotes": 83.65,
+      "inggris": 69.87,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.49734,
+      "total": 68.9725,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005306",
+      "nama": "TUTY HENDRIYANI",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 405,
+      "psikotes": 53.82,
+      "inggris": 73.86,
+      "wawancara_skt": 55.5556,
+      "total_skt": 58.17512,
+      "total": 59.3114,
+      "status": "TMS"
+    }
+  ]
+}

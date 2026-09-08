@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002110",
+      "nama": "NOVRIDA RAFU",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total_cat": 447,
+      "psikotes": 65.75,
+      "inggris": 60.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.80734,
+      "total": 65.7619,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001024",
+      "nama": "YOHANES HARUT",
+      "teknis": 240,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total_cat": 429,
+      "psikotes": 70.45,
+      "inggris": 50.66,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.73534,
+      "total": 64.8826,
+      "status": "P"
+    }
+  ]
+}

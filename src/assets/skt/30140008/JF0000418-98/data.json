@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001665",
+      "nama": "RAFLI FAHLEVI",
+      "teknis": 150,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 353,
+      "psikotes": 66.32,
+      "inggris": 54.21,
+      "wawancara_skt": 33.3333,
+      "total_skt": 57.30066,
+      "total": 54.9936,
+      "status": "P/L"
+    }
+  ]
+}

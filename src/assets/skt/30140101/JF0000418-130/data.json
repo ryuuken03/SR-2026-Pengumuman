@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002166",
+      "nama": "SHABRINA ADZHANI FEBRIANTI",
+      "teknis": 185,
+      "manajerial": 86,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 375,
+      "psikotes": 66.88,
+      "inggris": 79.32,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.32534,
+      "total": 62.6477,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001307",
+      "nama": "ADINDA FATNA BELLA",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 435,
+      "psikotes": 60.76,
+      "inggris": 69.87,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.76334,
+      "total": 64.3444,
+      "status": "TMS"
+    }
+  ]
+}

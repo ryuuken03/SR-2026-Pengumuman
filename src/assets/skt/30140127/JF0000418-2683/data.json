@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002720",
+      "nama": "D SAEPUL ANWAR",
+      "teknis": 315,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 517,
+      "psikotes": 81.02,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.46734,
+      "total": 75.3158,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002394",
+      "nama": "LOLA WAHYU UTAMI",
+      "teknis": 200,
+      "manajerial": 83,
+      "sosial_kultural": 72,
+      "wawancara": 35,
+      "total_cat": 390,
+      "psikotes": 81.03,
+      "inggris": 51.7,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.29134,
+      "total": 65.2501,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006215",
+      "nama": "TITI NADIA",
+      "teknis": 260,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total_cat": 451,
+      "psikotes": 53.98,
+      "inggris": 57.61,
+      "wawancara_skt": 33.3333,
+      "total_skt": 50.57666,
+      "total": 58.945,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002093",
+      "nama": "YUNIA AL VIANA",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total_cat": 399,
+      "psikotes": 49.03,
+      "inggris": 56.57,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.84312,
+      "total": 55.6977,
+      "status": "TMS"
+    }
+  ]
+}

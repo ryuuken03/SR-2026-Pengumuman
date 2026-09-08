@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000009",
+      "nama": "ARI FAUZAN AKBAR",
+      "teknis": 190,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 376,
+      "psikotes": 65.75,
+      "inggris": 46.23,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.02934,
+      "total": 59.0744,
+      "status": "P/L"
+    }
+  ]
+}

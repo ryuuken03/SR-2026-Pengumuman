@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007574",
+      "nama": "JULIA RATNI",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 447,
+      "psikotes": 81.03,
+      "inggris": 61.6,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.71578,
+      "total": 72.7161,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003011",
+      "nama": "MUHAMMAD KHAIDIR",
+      "teknis": 275,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 473,
+      "psikotes": 70.26,
+      "inggris": 69.87,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.46334,
+      "total": 70.0302,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006877",
+      "nama": "HUMAIRA",
+      "teknis": 245,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 449,
+      "psikotes": 71.01,
+      "inggris": 59.53,
+      "wawancara_skt": 77.7778,
+      "total_skt": 70.06756,
+      "total": 68.5412,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120000691",
+      "nama": "MERI ZULIFA",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 63,
+      "wawancara": 38,
+      "total_cat": 459,
+      "psikotes": 68.57,
+      "inggris": 66.03,
+      "wawancara_skt": 44.4444,
+      "total_skt": 63.23688,
+      "total": 65.8722,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000667",
+      "nama": "APRIAN SISWANTO",
+      "teknis": 215,
+      "manajerial": 91,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total_cat": 406,
+      "psikotes": 81.02,
+      "inggris": 56.57,
+      "wawancara_skt": 55.5556,
+      "total_skt": 71.03712,
+      "total": 65.8171,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001367",
+      "nama": "TAUFIK SANDOYO",
+      "teknis": 220,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 420,
+      "psikotes": 68.03,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.19534,
+      "total": 63.441,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001060",
+      "nama": "FURQON AL - HAQ",
+      "teknis": 180,
+      "manajerial": 79,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total_cat": 359,
+      "psikotes": 68.01,
+      "inggris": 48.3,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.79934,
+      "total": 58.6907,
+      "status": "P/L"
+    }
+  ]
+}

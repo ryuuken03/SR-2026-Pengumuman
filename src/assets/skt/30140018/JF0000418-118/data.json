@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000129",
+      "nama": "AZI TAMIM FADHLI",
+      "teknis": 140,
+      "manajerial": 89,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 336,
+      "psikotes": 68.59,
+      "inggris": 58.64,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.77088,
+      "total": 55.9601,
+      "status": "P/L"
+    }
+  ]
+}

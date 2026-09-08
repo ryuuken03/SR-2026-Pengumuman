@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000637",
+      "nama": "SANDY RAMADHAN",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total_cat": 455,
+      "psikotes": 81.03,
+      "inggris": 65.44,
+      "wawancara_skt": 88.8889,
+      "total_skt": 79.48378,
+      "total": 73.6971,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003327",
+      "nama": "AHMAD FARHAN NASHAR",
+      "teknis": 230,
+      "manajerial": 92,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 431,
+      "psikotes": 67.45,
+      "inggris": 58.64,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.08688,
+      "total": 62.7076,
+      "status": "P/L-2"
+    }
+  ]
+}

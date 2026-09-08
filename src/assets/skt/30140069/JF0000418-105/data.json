@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007924",
+      "nama": "TRIA ULFHA",
+      "teknis": 190,
+      "manajerial": 84,
+      "sosial_kultural": 64,
+      "wawancara": 31,
+      "total_cat": 369,
+      "psikotes": 81.02,
+      "inggris": 66.03,
+      "wawancara_skt": 55.5556,
+      "total_skt": 72.92912,
+      "total": 64.0019,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006564",
+      "nama": "MIRA ANDINI HOFIFAH",
+      "teknis": 140,
+      "manajerial": 68,
+      "sosial_kultural": 64,
+      "wawancara": 39,
+      "total_cat": 311,
+      "psikotes": 48.21,
+      "inggris": 52.73,
+      "wawancara_skt": 55.5556,
+      "total_skt": 50.58312,
+      "total": 48.5005,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000878",
+      "nama": "RSI AMARA",
+      "teknis": 215,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 33,
+      "total_cat": 410,
+      "psikotes": 81.03,
+      "inggris": 0,
+      "wawancara_skt": 66.6667,
+      "total_skt": 61.95134,
+      "total": 61.5727,
+      "status": "TH"
+    }
+  ]
+}

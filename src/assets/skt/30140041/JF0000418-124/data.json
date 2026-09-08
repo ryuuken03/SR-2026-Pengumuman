@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000711",
+      "nama": "NOVIAN YOGA KURNIAWAN",
+      "teknis": 220,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 426,
+      "psikotes": 81.02,
+      "inggris": 53.62,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.66934,
+      "total": 68.1257,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004682",
+      "nama": "WIWIK WIDA SAFITRI",
+      "teknis": 205,
+      "manajerial": 80,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total_cat": 391,
+      "psikotes": 72.7,
+      "inggris": 55.1,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.75112,
+      "total": 62.0547,
+      "status": "P"
+    }
+  ]
+}

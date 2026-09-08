@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007708",
+      "nama": "ANITA RIANA",
+      "teknis": 245,
+      "manajerial": 86,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total_cat": 446,
+      "psikotes": 81.79,
+      "inggris": 63.52,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.11134,
+      "total": 70.8392,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001449",
+      "nama": "MAHMUDAH",
+      "teknis": 155,
+      "manajerial": 78,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total_cat": 338,
+      "psikotes": 70.45,
+      "inggris": 63.96,
+      "wawancara_skt": 77.7778,
+      "total_skt": 70.61756,
+      "total": 60.5327,
+      "status": "P/L"
+    }
+  ]
+}

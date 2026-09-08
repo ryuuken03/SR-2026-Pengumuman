@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000329",
+      "nama": "KIKI AMELIA SARI",
+      "teknis": 295,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 501,
+      "psikotes": 65.76,
+      "inggris": 52.14,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.21734,
+      "total": 68.9967,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003327",
+      "nama": "NADIA HUSNA AZZAHRA",
+      "teknis": 220,
+      "manajerial": 86,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 414,
+      "psikotes": 55.46,
+      "inggris": 61.6,
+      "wawancara_skt": 66.6667,
+      "total_skt": 58.92934,
+      "total": 60.3602,
+      "status": "TMS"
+    }
+  ]
+}

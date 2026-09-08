@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005608",
+      "nama": "FARAH RAFIDAH",
+      "teknis": 185,
+      "manajerial": 85,
+      "sosial_kultural": 61,
+      "wawancara": 38,
+      "total_cat": 369,
+      "psikotes": 83.09,
+      "inggris": 71.94,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.57534,
+      "total": 66.325,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001598",
+      "nama": "LUSI SEPTIANI",
+      "teknis": 130,
+      "manajerial": 91,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 335,
+      "psikotes": 82.34,
+      "inggris": 68.39,
+      "wawancara_skt": 88.8889,
+      "total_skt": 80.85978,
+      "total": 65.4299,
+      "status": "P"
+    }
+  ]
+}

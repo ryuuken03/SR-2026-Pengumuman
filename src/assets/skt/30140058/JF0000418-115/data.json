@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006263",
+      "nama": "ERA MELANI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 444,
+      "psikotes": 81.03,
+      "inggris": 66.91,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.33334,
+      "total": 70.801,
+      "status": "P/L"
+    }
+  ]
+}

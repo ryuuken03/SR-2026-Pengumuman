@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002855",
+      "nama": "KRISTIAN JODI",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 32,
+      "total_cat": 373,
+      "psikotes": 81.02,
+      "inggris": 65.44,
+      "wawancara_skt": 55.5556,
+      "total_skt": 72.81112,
+      "total": 64.2414,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000778",
+      "nama": "SERAPIANUS",
+      "teknis": 210,
+      "manajerial": 88,
+      "sosial_kultural": 69,
+      "wawancara": 31,
+      "total_cat": 398,
+      "psikotes": 68.76,
+      "inggris": 80.8,
+      "wawancara_skt": 55.5556,
+      "total_skt": 68.52712,
+      "total": 63.9651,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007618",
+      "nama": "ERLI PUSPITA PURNAM",
+      "teknis": 155,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 354,
+      "psikotes": 81.78,
+      "inggris": 55.69,
+      "wawancara_skt": 55.5556,
+      "total_skt": 71.31712,
+      "total": 62.0765,
+      "status": "P/L-2"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004082",
+      "nama": "YULIA MURHATININGTYAS",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total_cat": 394,
+      "psikotes": 65.77,
+      "inggris": 63.07,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.18712,
+      "total": 60.9965,
+      "status": "P/L-2"
+    }
+  ]
+}

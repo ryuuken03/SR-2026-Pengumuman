@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004708",
+      "nama": "LINGGA NURMA MUKARROMAH",
+      "teknis": 245,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 436,
+      "psikotes": 81.03,
+      "inggris": 73.86,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.72334,
+      "total": 70.899,
+      "status": "P/L"
+    }
+  ]
+}

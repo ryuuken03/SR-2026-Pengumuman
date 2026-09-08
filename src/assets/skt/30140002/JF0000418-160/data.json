@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001040",
+      "nama": "WIWIT CAHYANI",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 404,
+      "psikotes": 70.46,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.13134,
+      "total": 63.7149,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001034",
+      "nama": "NOVIONA FAZIRA",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total_cat": 388,
+      "psikotes": 65.75,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.09734,
+      "total": 61.0039,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000825",
+      "nama": "FALAH KUN IMADUDDIN",
+      "teknis": 170,
+      "manajerial": 89,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total_cat": 360,
+      "psikotes": 51.48,
+      "inggris": 51.26,
+      "wawancara_skt": 55.5556,
+      "total_skt": 52.25112,
+      "total": 52.9912,
+      "status": "TMS"
+    }
+  ]
+}

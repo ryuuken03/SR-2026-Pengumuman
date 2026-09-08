@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008947",
+      "nama": "RISA RAMADHANI",
+      "teknis": 200,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 401,
+      "psikotes": 82.33,
+      "inggris": 61.6,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.05134,
+      "total": 67.451,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005088",
+      "nama": "VILDA ROUDHA NINGRUM",
+      "teknis": 215,
+      "manajerial": 96,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total_cat": 416,
+      "psikotes": 70.45,
+      "inggris": 67.5,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.10334,
+      "total": 65.5964,
+      "status": "P"
+    }
+  ]
+}

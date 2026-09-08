@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002149",
+      "nama": "IMROATUN FADILLAH",
+      "teknis": 250,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 445,
+      "psikotes": 82.33,
+      "inggris": 69.42,
+      "wawancara_skt": 88.8889,
+      "total_skt": 81.05978,
+      "total": 73.7388,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006613",
+      "nama": "JENIATI DATUANGGOA",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 380,
+      "psikotes": 81.03,
+      "inggris": 58.64,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.90156,
+      "total": 66.309,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002033",
+      "nama": "MASNIAH",
+      "teknis": 175,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total_cat": 364,
+      "psikotes": 83.1,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.33134,
+      "total": 64.3298,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005081",
+      "nama": "RIZKI AMALIA SY. PAU",
+      "teknis": 180,
+      "manajerial": 80,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total_cat": 366,
+      "psikotes": 67.45,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.91534,
+      "total": 60.2711,
+      "status": "P"
+    }
+  ]
+}

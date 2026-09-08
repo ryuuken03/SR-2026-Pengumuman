@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001239",
+      "nama": "MUHAMMAD FARIS",
+      "teknis": 200,
+      "manajerial": 81,
+      "sosial_kultural": 66,
+      "wawancara": 33,
+      "total_cat": 380,
+      "psikotes": 81.03,
+      "inggris": 72.38,
+      "wawancara_skt": 88.8889,
+      "total_skt": 80.87178,
+      "total": 68.7941,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000704",
+      "nama": "YUDHA AULIA ZULFIKAR KABILLA",
+      "teknis": 240,
+      "manajerial": 63,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 412,
+      "psikotes": 68.19,
+      "inggris": 67.5,
+      "wawancara_skt": 77.7778,
+      "total_skt": 69.96956,
+      "total": 65.731,
+      "status": "P/L"
+    }
+  ]
+}

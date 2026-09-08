@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004232",
+      "nama": "DWI ELOK S",
+      "teknis": 215,
+      "manajerial": 84,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total_cat": 409,
+      "psikotes": 68.02,
+      "inggris": 56.57,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.01488,
+      "total": 61.0298,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003266",
+      "nama": "IMAM SATYA ARDIANA",
+      "teknis": 175,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 373,
+      "psikotes": 50.93,
+      "inggris": 50.66,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.02334,
+      "total": 54.8475,
+      "status": "TMS"
+    }
+  ]
+}

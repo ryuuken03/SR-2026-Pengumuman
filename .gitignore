@@ -23,3 +23,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Raw PDF announcements (excluded from repo & Vercel deployment)
+*.pdf
+src/assets/selkom/pengumuman_selkom.pdf
+src/assets/skt/pengumuman_skt.pdf

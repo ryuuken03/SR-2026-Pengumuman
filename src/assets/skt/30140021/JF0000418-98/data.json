@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007629",
+      "nama": "NUR HASANAH",
+      "teknis": 230,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 424,
+      "psikotes": 65.76,
+      "inggris": 53.18,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.42534,
+      "total": 63.3545,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007834",
+      "nama": "DHANI SUSILOWATI",
+      "teknis": 255,
+      "manajerial": 83,
+      "sosial_kultural": 64,
+      "wawancara": 39,
+      "total_cat": 441,
+      "psikotes": 49.87,
+      "inggris": 49.19,
+      "wawancara_skt": 55.5556,
+      "total_skt": 50.87112,
+      "total": 58.346,
+      "status": "TMS"
+    }
+  ]
+}

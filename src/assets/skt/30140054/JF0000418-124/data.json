@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003292",
+      "nama": "HESTI TRIANA SULISTYARI",
+      "teknis": 200,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 392,
+      "psikotes": 67.64,
+      "inggris": 52.14,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.34534,
+      "total": 61.4264,
+      "status": "P/L"
+    }
+  ]
+}

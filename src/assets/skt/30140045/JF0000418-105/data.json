@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001776",
+      "nama": "HENDRI RISTIAWAN",
+      "teknis": 210,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 412,
+      "psikotes": 70.99,
+      "inggris": 79.76,
+      "wawancara_skt": 55.5556,
+      "total_skt": 69.65712,
+      "total": 65.5748,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000416",
+      "nama": "ALEX ISKANDAR",
+      "teknis": 150,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total_cat": 343,
+      "psikotes": 70.26,
+      "inggris": 77.84,
+      "wawancara_skt": 44.4444,
+      "total_skt": 66.61288,
+      "total": 58.9035,
+      "status": "P"
+    }
+  ]
+}

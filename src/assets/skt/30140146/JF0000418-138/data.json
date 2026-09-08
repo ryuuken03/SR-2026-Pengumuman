@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003781",
+      "nama": "NELDA RAHMALISA PUTRI",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total_cat": 409,
+      "psikotes": 70.44,
+      "inggris": 57.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.02934,
+      "total": 64.0371,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001319",
+      "nama": "SALMI AFIFA",
+      "teknis": 230,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 437,
+      "psikotes": 41.59,
+      "inggris": 51.7,
+      "wawancara_skt": 66.6667,
+      "total_skt": 48.62734,
+      "total": 56.9256,
+      "status": "TMS"
+    }
+  ]
+}

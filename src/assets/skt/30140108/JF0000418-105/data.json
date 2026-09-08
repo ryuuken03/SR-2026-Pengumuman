@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008139",
+      "nama": "SRI SUFIRAH",
+      "teknis": 190,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total_cat": 390,
+      "psikotes": 82.11,
+      "inggris": 60.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.62334,
+      "total": 66.4161,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006721",
+      "nama": "SASMITA PRATIWI",
+      "teknis": 200,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 31,
+      "total_cat": 389,
+      "psikotes": 46.01,
+      "inggris": 60.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 52.96334,
+      "total": 55.5115,
+      "status": "TMS"
+    }
+  ]
+}

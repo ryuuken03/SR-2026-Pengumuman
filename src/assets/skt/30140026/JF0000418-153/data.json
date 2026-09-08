@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007102",
+      "nama": "NUR AZIZAH PUTRI ANDRIANI",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 31,
+      "total_cat": 452,
+      "psikotes": 82.34,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.78134,
+      "total": 70.122,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007136",
+      "nama": "IKAYANTI",
+      "teknis": 305,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 512,
+      "psikotes": 46.83,
+      "inggris": 58.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 53.15934,
+      "total": 64.7886,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001054",
+      "nama": "YOLANTA ANDRIAN",
+      "teknis": 240,
+      "manajerial": 92,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 442,
+      "psikotes": 53.36,
+      "inggris": 53.18,
+      "wawancara_skt": 66.6667,
+      "total_skt": 55.98534,
+      "total": 60.9777,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003202",
+      "nama": "DEVIKA AYUNING TIAS",
+      "teknis": 260,
+      "manajerial": 84,
+      "sosial_kultural": 65,
+      "wawancara": 40,
+      "total_cat": 449,
+      "psikotes": 50.12,
+      "inggris": 54.65,
+      "wawancara_skt": 55.5556,
+      "total_skt": 52.11312,
+      "total": 59.564,
+      "status": "TMS"
+    }
+  ]
+}

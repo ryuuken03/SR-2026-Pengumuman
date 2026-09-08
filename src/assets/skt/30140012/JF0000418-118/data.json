@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003797",
+      "nama": "YULI ERI SUSANTI",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 390,
+      "psikotes": 69.7,
+      "inggris": 79.76,
+      "wawancara_skt": 77.7778,
+      "total_skt": 73.32756,
+      "total": 65.7683,
+      "status": "P/L"
+    }
+  ]
+}

@@ -2,12 +2,12 @@
    search.css — SearchControls & FormasiSelector Components
    ============================================================ */
 
-/* ── Formasi Selector ──────────────────────────────────────── */
+/* ── Formasi Selector ────────────────────────────────────────────── */
 .formasi-selector {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  padding: 20px;
+  padding: 18px 20px;
   background: hsl(var(--secondary) / 0.5);
   border: 1px solid hsl(var(--border));
   border-radius: calc(var(--radius) + 2px);
@@ -15,6 +15,12 @@
   width: 100%;
   max-width: 100%;
   box-sizing: border-box;
+}
+
+/* Desktop: selalu tampil; Mobile: sembunyikan panel inline */
+.formasi-selector--desktop {
+  display: flex;
+  /* default desktop */
 }
 
 .formasi-selector__header {
@@ -115,6 +121,56 @@
   font-size: 12px;
   font-weight: 600;
   color: hsl(var(--muted-foreground));
+}
+
+/* Note/hint desktop di bawah label */
+.formasi-selector__note {
+  font-size: 11.5px;
+  color: hsl(var(--muted-foreground));
+  opacity: 0.75;
+  font-style: italic;
+}
+
+/* Warning saat pilihan tidak lengkap */
+.formasi-selector__warning {
+  font-size: 12px;
+  color: hsl(var(--warning, 38 92% 50%));
+  background: hsl(var(--warning, 38 92% 50%) / 0.08);
+  border: 1px solid hsl(var(--warning, 38 92% 50%) / 0.25);
+  border-radius: var(--radius);
+  padding: 8px 12px;
+  margin: 0;
+}
+
+/* Baris tombol aksi di bagian bawah panel formasi */
+.formasi-selector__actions {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 4px;
+  border-top: 1px solid hsl(var(--border) / 0.5);
+}
+
+.formasi-selector__reset-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 12px;
+  font-size: 12.5px;
+  font-weight: 500;
+  font-family: inherit;
+  color: hsl(var(--muted-foreground));
+  background: transparent;
+  border: 1px solid hsl(var(--border));
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  min-height: 32px;
+}
+
+.formasi-selector__reset-btn:hover {
+  background: hsl(var(--destructive) / 0.08);
+  color: hsl(var(--destructive));
+  border-color: hsl(var(--destructive) / 0.3);
 }
 
 /* ── Searchable Select Component ───────────────────────────── */
@@ -248,6 +304,7 @@
     opacity: 0;
     transform: translateY(-4px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -538,28 +595,312 @@
   margin-top: -4px;
 }
 
+.search-mode-hint--warning {
+  color: hsl(38deg 92% 45%);
+  font-weight: 500;
+}
+
+/* ── Search Input Wrap (input + tombol clear inline) ──────── */
+.search-input-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-input-wrap input[type="text"] {
+  width: 100%;
+  padding-right: 36px;
+}
+
+.search-input-clear {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border: none;
+  background: transparent;
+  color: hsl(var(--muted-foreground));
+  cursor: pointer;
+  border-radius: 50%;
+  padding: 0;
+  transition: background 0.15s, color 0.15s;
+}
+
+.search-input-clear:hover {
+  background: hsl(var(--accent));
+  color: hsl(var(--foreground));
+}
+
+/* ── Tombol Filter Mobile ─────────────────────────────────── */
+.controls .filter-btn-mobile,
+.filter-btn-mobile {
+  display: none !important;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 40px;
+  padding: 0 14px;
+  border: 1px solid hsl(var(--border));
+  border-radius: var(--radius);
+  background: hsl(var(--secondary));
+  color: hsl(var(--secondary-foreground));
+  font-size: 13.5px;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  min-height: 44px;
+  min-width: 44px;
+}
+
+.filter-btn-mobile:hover {
+  background: hsl(var(--accent));
+  border-color: hsl(var(--ring));
+}
+
+.filter-btn-mobile--active {
+  border-color: hsl(var(--brand));
+  color: hsl(var(--brand));
+  background: hsl(var(--brand) / 0.08);
+}
+
+.filter-btn-mobile__badge {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #e53e3e;
+  box-shadow: 0 0 0 1px rgb(229 62 62 / 0.4);
+}
+
+/* ── Controls Reset Row ───────────────────────────────────── */
+.controls__reset-row {
+  display: flex;
+  gap: 8px;
+}
+
+.controls .controls__reset-btn,
+.controls__reset-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 6px 14px;
+  font-size: 12.5px;
+  font-weight: 500;
+  font-family: inherit;
+  color: hsl(var(--muted-foreground));
+  background: transparent;
+  border: 1px solid hsl(var(--border));
+  border-radius: var(--radius);
+  cursor: pointer;
+  min-height: 34px;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.controls .controls__reset-btn:hover,
+.controls__reset-btn:hover {
+  background: hsl(var(--destructive) / 0.08);
+  color: hsl(var(--destructive));
+  border-color: hsl(var(--destructive) / 0.4);
+}
+
+/* Desktop: Tombol reset di sebelah kanan input search */
+.controls__reset-btn--desktop {
+  display: inline-flex;
+  height: 40px;
+  padding: 0 16px;
+  font-size: 13px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* Desktop: Sembunyikan reset row mobile */
+.controls__reset-row--mobile {
+  display: none;
+}
+
+/* ── Filter Modal (Centered Dialog) ──────────────────────── */
+.filter-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgb(0 0 0 / 0.5);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  animation: filterModalFadeIn 0.18s ease-out;
+}
+
+@keyframes filterModalFadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.filter-modal-content {
+  background: hsl(var(--card));
+  border: 1px solid hsl(var(--border));
+  border-radius: calc(var(--radius) + 6px);
+  box-shadow: 0 20px 60px -8px rgb(0 0 0 / 0.35), 0 8px 24px -4px rgb(0 0 0 / 0.2);
+  width: 100%;
+  max-width: 480px;
+  max-height: min(90vh, 600px);
+  display: flex;
+  flex-direction: column;
+  animation: filterModalScaleIn 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  overflow: hidden;
+}
+
+@keyframes filterModalScaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.94) translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.filter-modal-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 20px 14px;
+  border-bottom: 1px solid hsl(var(--border));
+  flex-shrink: 0;
+}
+
+.filter-modal-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: hsl(var(--foreground));
+  margin: 0 0 3px;
+  line-height: 1.3;
+}
+
+.filter-modal-subtitle {
+  font-size: 12px;
+  color: hsl(var(--muted-foreground));
+  margin: 0;
+  line-height: 1.4;
+}
+
+.filter-modal-close {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: none;
+  background: transparent;
+  color: hsl(var(--muted-foreground));
+  border-radius: 50%;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background 0.15s, color 0.15s;
+  padding: 0;
+}
+
+.filter-modal-close:hover {
+  background: hsl(var(--accent));
+  color: hsl(var(--foreground));
+}
+
+.filter-modal-body {
+  padding: 18px 20px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.filter-modal-footer {
+  display: flex;
+  gap: 10px;
+  padding: 14px 20px;
+  border-top: 1px solid hsl(var(--border));
+  flex-shrink: 0;
+}
+
+.filter-modal-btn {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 46px;
+  padding: 0 16px;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  border-radius: var(--radius);
+  cursor: pointer;
+  border: none;
+  transition: background 0.15s, opacity 0.15s;
+  min-height: 44px;
+}
+
+.filter-modal-btn--reset {
+  background: hsl(var(--secondary));
+  color: hsl(var(--secondary-foreground));
+  border: 1px solid hsl(var(--border));
+  flex: 0 0 auto;
+  padding: 0 18px;
+}
+
+.filter-modal-btn--reset:hover {
+  background: hsl(var(--destructive) / 0.1);
+  color: hsl(var(--destructive));
+  border-color: hsl(var(--destructive) / 0.4);
+}
+
+.filter-modal-btn--apply {
+  background: hsl(var(--brand));
+  color: #fff;
+}
+
+.filter-modal-btn--apply:hover:not([disabled]) {
+  opacity: 0.9;
+}
+
+.filter-modal-btn--disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 /* ── Responsive ────────────────────────────────────────────── */
 @media (max-width: 768px) {
-  .formasi-selector {
-    padding: 14px 12px;
+
+  /* Panel inline formasi DISEMBUNYIKAN di mobile — digantikan oleh modal */
+  .formasi-selector--desktop {
+    display: none;
   }
 
-  .formasi-selector__header {
-    flex-direction: column;
-    align-items: stretch;
-    gap: 10px;
-  }
-
-  .formasi-tabs {
-    width: 100%;
-    display: flex;
-  }
-
-  .formasi-tab {
-    flex: 1;
-    justify-content: center;
-    padding: 8px 12px;
-    min-height: 42px;
+  /* Tombol filter TAMPIL di mobile */
+  .controls .filter-btn-mobile,
+  .filter-btn-mobile {
+    display: inline-flex !important;
   }
 
   .formasi-selector__row {
@@ -567,33 +908,46 @@
   }
 
   .controls__row {
-    flex-direction: column;
+    flex-direction: row;
+    /* search bar + tombol filter tetap satu baris */
     align-items: stretch;
     width: 100%;
-    gap: 0;
+    gap: 8px;
+  }
+
+  /* Mobile: Sembunyikan tombol reset inline desktop */
+  .controls__reset-btn--desktop {
+    display: none !important;
+  }
+
+  /* Mobile: Tampilkan reset row di bawah input search */
+  .controls__reset-row--mobile {
+    display: flex;
+    width: 100%;
+    margin-top: 4px;
+  }
+
+  .controls__reset-row--mobile .controls__reset-btn {
+    min-height: 44px;
+    padding: 0 16px;
+    font-size: 13.5px;
   }
 
   .controls__fields {
-    flex-direction: column;
-    width: 100%;
-    gap: 0;
+    flex: 1;
+    min-width: 0;
   }
 
-  /* Search input field mobile */
+  /* Search input field mobile: lebih ramping, tanpa background card */
   .search-input-field {
     width: 100%;
     box-sizing: border-box;
-    gap: 6px;
+    gap: 4px;
     display: flex;
     flex-direction: column;
-    background: hsl(var(--secondary) / 0.5);
-    border: 1px solid hsl(var(--border));
-    border-radius: calc(var(--radius) + 2px);
-    padding: 14px 16px 16px;
-    margin-bottom: 10px;
   }
 
-  /* Label muncul di mobile */
+  /* Label tetap tampil di mobile */
   .search-input-label {
     display: block;
   }
@@ -601,39 +955,32 @@
   .controls input[type="text"] {
     width: 100%;
     box-sizing: border-box;
-    height: 42px;
-    padding: 0 12px;
-    font-size: 13.5px;
+    height: 44px;
+    padding: 0 36px 0 12px;
+    /* ruang untuk tombol clear */
+    font-size: 15px;
+    /* 15-16px mencegah auto-zoom iOS */
     border: 1px solid hsl(var(--input));
     border-radius: var(--radius);
     background: hsl(var(--background));
   }
 
-  .controls button {
-    height: 44px;
+  /* font-size 16px pada search-input-wrap mencegah auto-zoom iOS */
+  .search-input-wrap input[type="text"] {
+    font-size: 16px;
   }
 
-  .controls__actions {
+  .controls__reset-row {
     width: 100%;
-    box-sizing: border-box;
-    justify-content: stretch;
-    padding-top: 4px;
-    flex-direction: column;
   }
 
-  .controls__actions button {
+  .controls__reset-btn {
     width: 100%;
     justify-content: center;
+    height: 40px;
+    font-size: 13px;
   }
 
-  .formasi-selector {
-    padding: 12px 10px;
-  }
-
-  .formasi-tab {
-    padding: 6px 10px;
-    font-size: 12.5px;
-  }
 
   .searchable-select__trigger {
     min-height: 44px;
@@ -673,6 +1020,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
+
   .controls input[type="text"],
   .controls button,
   .searchable-select__trigger,

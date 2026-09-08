@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004675",
+      "nama": "ANDI WASIULNUR",
+      "teknis": 155,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total_cat": 351,
+      "psikotes": 81.02,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.44134,
+      "total": 63.4147,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008701",
+      "nama": "ASMA THUSHALIHA",
+      "teknis": 155,
+      "manajerial": 83,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 348,
+      "psikotes": 68.18,
+      "inggris": 59.08,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.05734,
+      "total": 58.9988,
+      "status": "P"
+    }
+  ]
+}

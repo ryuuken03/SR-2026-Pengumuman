@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002424",
+      "nama": "RIZKI YULIANA",
+      "teknis": 235,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 442,
+      "psikotes": 71.57,
+      "inggris": 57.61,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.57512,
+      "total": 65.7726,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007120",
+      "nama": "RENDA MULYANA",
+      "teknis": 205,
+      "manajerial": 99,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 411,
+      "psikotes": 54.73,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 57.48534,
+      "total": 59.4143,
+      "status": "TMS"
+    }
+  ]
+}

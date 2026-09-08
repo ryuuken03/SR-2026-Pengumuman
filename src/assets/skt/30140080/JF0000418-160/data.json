@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008153",
+      "nama": "FEBRIANI ATTAHHIYYAH",
+      "teknis": 205,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 410,
+      "psikotes": 81.03,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.17734,
+      "total": 67.1857,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004282",
+      "nama": "DEA MONICA",
+      "teknis": 210,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total_cat": 404,
+      "psikotes": 71.96,
+      "inggris": 46.23,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.75534,
+      "total": 63.0269,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005500",
+      "nama": "EIGHTY YOHANA HUTAPEA",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 414,
+      "psikotes": 50.95,
+      "inggris": 68.39,
+      "wawancara_skt": 44.4444,
+      "total_skt": 53.13688,
+      "total": 57.464,
+      "status": "TMS"
+    }
+  ]
+}

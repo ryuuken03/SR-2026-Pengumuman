@@ -14,13 +14,28 @@ export const APP = {
   title: 'Pengumuman Seleksi Kompetensi',
   subtitle: 'Sekolah Rakyat 2026',
   disclaimer: 'Bukan website resmi.',
-  sourceUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
+  // sourceUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
+  sourceUrl: 'https://bit.ly/hasil-integrasi',
   sourceButtonText: 'Sumber referensi',
   logoAlt: 'Logo Kementerian Sosial',
   themeLight: 'Mode terang',
   themeDark: 'Mode gelap',
   themeLightTitle: 'Beralih ke mode terang',
   themeDarkTitle: 'Beralih ke mode gelap',
+} as const
+
+/* ── Sumber Data / Tahap Seleksi ─────────────────────────── */
+export const DATA_SOURCE = {
+  label: 'Tahap Seleksi',
+  ariaLabel: 'Pilih tahap seleksi atau sumber data',
+  catOption: 'Seleksi Kompetensi CAT',
+  sktOption: 'Seleksi Kompetensi Tambahan',
+  catShort: 'CAT',
+  sktShort: 'SKT',
+  catCount: '118.432 Peserta',
+  sktCount: '13.313 Peserta',
+  catDescription: 'Data hasil Seleksi Kompetensi berbasis CAT',
+  sktDescription: 'Data hasil integrasi Seleksi Kompetensi Tambahan',
 } as const
 
 /* ── Formasi Selector ─────────────────────────────────────── */
@@ -40,33 +55,52 @@ export const FORMASI = {
   searchLokasiPlaceholder: 'Cari lokasi...',
   searchEmpty: 'Tidak ada hasil',
   clearSelection: 'Hapus pilihan',
+  // Modal / filter mobile
+  btnFilterMobile: 'Filter',
+  btnFilterMobileAria: 'Buka filter formasi',
+  modalTitle: 'Filter Formasi',
+  modalSubtitle: 'Pilih jabatan dan lokasi untuk melihat data peserta formasi tertentu',
+  modalApply: 'Terapkan',
+  modalReset: 'Reset Filter',
+  modalClose: 'Tutup filter formasi',
+  // Desktop hint
+  desktopNote: 'Opsional — kosongkan untuk mencari nama di seluruh data peserta.',
+  incompleteWarning: 'Pilih jabatan dan lokasi untuk memuat data formasi.',
+  activeFilterLabel: (jabatan: string, lokasi: string) => `${jabatan} · ${lokasi}`,
 } as const
 
 /* ── Search Controls ──────────────────────────────────────── */
 export const SEARCH = {
-  checkboxLabel: 'Hanya formasi terpilih',
   inputLabelGlobal: 'Cari Peserta',
   inputLabelFormasi: 'Cari di Formasi Ini',
   placeholderGlobal: 'Nama atau nomor peserta...',
   placeholderFormasi: 'Nama atau no. peserta...',
-  btnCari: 'Cari',
+  placeholderGlobalShort: 'Nama / nomor peserta...',
+  placeholderFormasiShort: 'Nama / no. peserta...',
   btnClear: 'Reset',
-  btnClearAria: 'Hapus kata kunci',
+  btnClearAria: 'Hapus teks pencarian',
+  btnResetSearch: 'Reset Pencarian',
+  btnResetAll: 'Reset Pencarian & Filter',
   inputAria: 'Kolom pencarian peserta',
-  btnCariDisabledHint: 'Pilih jabatan dan lokasi terlebih dahulu',
   hintGlobal: 'Pencarian di seluruh data peserta.',
   hintFormasiReady: 'Pencarian pada formasi yang dipilih.',
-  hintFormasiNotReady: 'Pilih jabatan dan lokasi sebelum mencari.',
+  hintIncomplete: 'Pilih jabatan dan lokasi untuk memuat data formasi.',
+  minCharsHint: 'Ketik minimal 2 karakter untuk mencari nama',
 } as const
 
 /* ── Meta Info (di bawah search, di atas tabel) ─────────────  */
 export const META = {
   loading: (progress?: string) => progress || 'Memuat data...',
-  resultGlobal: (total: number, query: string) =>
-    `${total.toLocaleString('id-ID')} hasil untuk "${query}"`,
+  resultGlobal: (total: number, query: string, totalMatches?: number) => {
+    if (totalMatches && totalMatches > total) {
+      return `Menampilkan ${total.toLocaleString('id-ID')} teratas dari ${totalMatches.toLocaleString('id-ID')} hasil untuk "${query}" (persempit kata kunci jika perlu)`
+    }
+    return `${total.toLocaleString('id-ID')} hasil untuk "${query}"`
+  },
   resultFormasi: (total: number, query: string) =>
     `${total.toLocaleString('id-ID')} hasil untuk "${query}"`,
   globalIdle: 'Ketik nama atau nomor peserta untuk mencari',
+  minQueryNotice: 'Ketik minimal 2 karakter untuk mencari nama',
   formasiTotal: (total: number) => `Total ${total.toLocaleString('id-ID')} peserta`,
   formasiIdle: 'Pilih jabatan dan lokasi formasi',
   pageInfo: (current: number, total: number) => `Hal. ${current} dari ${total}`,
@@ -80,9 +114,17 @@ export const TABLE_HEADERS = {
   jabatanLokasi: 'Jabatan & Lokasi',
   teknis: 'Teknis',
   manajerial: 'Manajerial',
-  sosialKultural: 'Sos. Kultural',
+  sosialKultural: 'SOS.Kultural',
   wawancara: 'Wawancara',
+  kompetensiCat: 'Kompetensi CAT',
+  kompetensiTambahan: 'Kompetensi Tambahan',
+  psikotes: 'Psikotes',
+  inggris: 'Inggris',
+  wawancaraSkt: 'Wawancara',
+  totalSkt: 'Total SKT',
+  totalCat: 'Total CAT',
   total: 'Total',
+  totalIntegrasi: 'Total Akhir',
   status: 'Status',
   sortHint: (col: string) => `Urutkan ${col}`,
 } as const
@@ -195,8 +237,8 @@ export const DATA_PROGRESS = {
 
 /* ── Rekapitulasi Statistik PPPK Guru & Teknis ────────────── */
 export const REKAP = {
-  title: 'Rekapitulasi Formasi & Peserta',
-  subtitle: 'PPPK Guru & PPPK Teknis 2026',
+  title: 'PPPK Guru & PPPK Teknis 2026',
+  // subtitle: 'Buka atau tutup rekapitulasi statistik',
   toggleAria: 'Buka atau tutup rekapitulasi statistik',
   preview: (peserta: number, jabatan: number) =>
     `${peserta.toLocaleString('id-ID')} Peserta · ${jabatan} Jabatan`,
@@ -274,7 +316,7 @@ export const ABOUT = {
   badgeExperience: '10 Tahun Pengalaman',
   title: 'Tentang Pengembang',
   subtitle: 'Pengembang Perangkat Lunak',
-  
+
   bioSectionTitle: 'Latar Belakang & Pengalaman',
   bioParagraph1: 'Sebagai software engineer dengan pengalaman lebih dari 10 tahun, fokus utama saya mencakup arsitektur sistem performa tinggi, efisiensi pemrosesan data bervolume besar, serta antarmuka web modern yang cepat dan aksesibel.',
   bioParagraph2: 'Aplikasi pencarian hasil Seleksi Kompetensi Sekolah Rakyat 2026 ini dikembangkan secara independen untuk mempermudah para peserta memeriksa nilai dan status kelulusan mereka tanpa terkendala beban server serta hemat penggunaan kuota data.',
@@ -304,7 +346,8 @@ export const ABOUT = {
 
   disclaimerTitle: 'Pernyataan Sumber Data (Disclaimer)',
   disclaimerText: 'Aplikasi ini bukan website resmi pemerintah. Seluruh data pengumuman bersumber dari laman resmi Kementerian Sosial RI.',
-  disclaimerUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
+  // disclaimerUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
+  disclaimerUrl: 'https://bit.ly/hasil-integrasi',
   sourceButtonText: 'Sumber referensi',
 
   stats: [
@@ -351,7 +394,8 @@ export const ABOUT = {
 /* ── Footer ───────────────────────────────────────────────── */
 export const FOOTER = {
   disclaimerText: 'Aplikasi ini bukan website resmi.',
-  sourceUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
+  // sourceUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
+  sourceUrl: 'https://bit.ly/hasil-integrasi',
   sourceButtonText: 'Sumber referensi',
   copyright: '© 2026 Inisiatif Independen Pengumuman Seleksi Kompetensi.',
   navSearch: 'Pencarian Peserta',

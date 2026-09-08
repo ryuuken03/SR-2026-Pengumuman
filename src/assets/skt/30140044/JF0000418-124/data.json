@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002790",
+      "nama": "AHMAD JUANDA",
+      "teknis": 305,
+      "manajerial": 92,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total_cat": 506,
+      "psikotes": 68.58,
+      "inggris": 61.6,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.57912,
+      "total": 70.0508,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000051",
+      "nama": "RIZKI NOVFREDY PRADANA",
+      "teknis": 255,
+      "manajerial": 91,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 449,
+      "psikotes": 69.71,
+      "inggris": 63.07,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.77334,
+      "total": 67.3941,
+      "status": "P"
+    }
+  ]
+}

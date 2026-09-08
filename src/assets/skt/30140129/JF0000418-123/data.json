@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007608",
+      "nama": "ALFINA NUR SAFITRI",
+      "teknis": 155,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total_cat": 357,
+      "psikotes": 81.02,
+      "inggris": 54.21,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.78734,
+      "total": 63.0355,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005118",
+      "nama": "ASTRI AGUSTIN",
+      "teknis": 180,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 379,
+      "psikotes": 53.94,
+      "inggris": 58.05,
+      "wawancara_skt": 55.5556,
+      "total_skt": 55.08512,
+      "total": 55.8261,
+      "status": "TMS"
+    }
+  ]
+}

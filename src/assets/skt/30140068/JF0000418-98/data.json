@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000466",
+      "nama": "NISA JANNATIA",
+      "teknis": 225,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 425,
+      "psikotes": 70.28,
+      "inggris": 46.23,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.74734,
+      "total": 64.0901,
+      "status": "P/L"
+    }
+  ]
+}

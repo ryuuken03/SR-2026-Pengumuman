@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001222",
+      "nama": "AHMAD MUZAQQI",
+      "teknis": 180,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total_cat": 371,
+      "psikotes": 50.14,
+      "inggris": 53.62,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.91912,
+      "total": 53.6461,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002596",
+      "nama": "GITA PUSPA HERLINDA",
+      "teknis": 305,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 502,
+      "psikotes": 71,
+      "inggris": 71.94,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.32134,
+      "total": 72.6234,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001347",
+      "nama": "NURHASANAH",
+      "teknis": 260,
+      "manajerial": 88,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 457,
+      "psikotes": 81.01,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.43534,
+      "total": 71.3222,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002757",
+      "nama": "NINA KURNIAWATI",
+      "teknis": 295,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 32,
+      "total_cat": 487,
+      "psikotes": 71.02,
+      "inggris": 60.56,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.83512,
+      "total": 69.2608,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007806",
+      "nama": "OKTAVIA ARLIANA DEWI",
+      "teknis": 260,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total_cat": 454,
+      "psikotes": 54.71,
+      "inggris": 60.56,
+      "wawancara_skt": 44.4444,
+      "total_skt": 53.82688,
+      "total": 60.794,
+      "status": "TMS"
+    }
+  ]
+}

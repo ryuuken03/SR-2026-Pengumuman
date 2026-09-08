@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001032",
+      "nama": "ABEDNEGO BASKORO",
+      "teknis": 285,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 493,
+      "psikotes": 86.59,
+      "inggris": 67.95,
+      "wawancara_skt": 88.8889,
+      "total_skt": 83.32178,
+      "total": 78.4519,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000921",
+      "nama": "IBNUBARTYA ROSYIDA NUGRAHA",
+      "teknis": 275,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 468,
+      "psikotes": 81.03,
+      "inggris": 60.56,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.50778,
+      "total": 74.1793,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008802",
+      "nama": "TYAS IKA UTAMI",
+      "teknis": 260,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 33,
+      "total_cat": 458,
+      "psikotes": 81.03,
+      "inggris": 59.53,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.30178,
+      "total": 73.33,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000957",
+      "nama": "AKHMAD SHOLAHUDDIN",
+      "teknis": 245,
+      "manajerial": 87,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total_cat": 445,
+      "psikotes": 58.81,
+      "inggris": 75.78,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.77534,
+      "total": 65.0966,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007640",
+      "nama": "RIESHA VYO AMOLA",
+      "teknis": 295,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 493,
+      "psikotes": 81.03,
+      "inggris": 67.5,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.45134,
+      "total": 74.5167,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001318",
+      "nama": "ULFA FAUZIYAH M",
+      "teknis": 255,
+      "manajerial": 82,
+      "sosial_kultural": 69,
+      "wawancara": 40,
+      "total_cat": 446,
+      "psikotes": 81.02,
+      "inggris": 72.38,
+      "wawancara_skt": 55.5556,
+      "total_skt": 74.19912,
+      "total": 70.3831,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003420",
+      "nama": "INTAN YUWTA",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 68,
+      "wawancara": 38,
+      "total_cat": 464,
+      "psikotes": 68.02,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.45934,
+      "total": 67.3565,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120001704",
+      "nama": "SERI MELANI",
+      "teknis": 255,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total_cat": 460,
+      "psikotes": 54.16,
+      "inggris": 61,
+      "wawancara_skt": 33.3333,
+      "total_skt": 51.36266,
+      "total": 60.0097,
+      "status": "TMS"
+    }
+  ]
+}

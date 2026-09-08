@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006023",
+      "nama": "ADINDA RIZQI FEJILLYA",
+      "teknis": 170,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total_cat": 371,
+      "psikotes": 81.02,
+      "inggris": 63.96,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.73734,
+      "total": 65.0552,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003732",
+      "nama": "WENY ESTIYANI",
+      "teknis": 175,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 374,
+      "psikotes": 70.46,
+      "inggris": 63.96,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.40134,
+      "total": 62.1111,
+      "status": "P/L"
+    }
+  ]
+}

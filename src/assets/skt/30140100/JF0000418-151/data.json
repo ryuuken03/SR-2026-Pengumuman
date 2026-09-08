@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003805",
+      "nama": "DIAN OKTAVIANI",
+      "teknis": 160,
+      "manajerial": 82,
+      "sosial_kultural": 58,
+      "wawancara": 38,
+      "total_cat": 338,
+      "psikotes": 51.49,
+      "inggris": 49.19,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.84312,
+      "total": 51.1454,
+      "status": "TMS"
+    }
+  ]
+}

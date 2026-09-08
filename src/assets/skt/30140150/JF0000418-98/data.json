@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005362",
+      "nama": "EKA ISLAMAYA",
+      "teknis": 165,
+      "manajerial": 89,
+      "sosial_kultural": 72,
+      "wawancara": 32,
+      "total_cat": 358,
+      "psikotes": 69.12,
+      "inggris": 51.7,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.14534,
+      "total": 59.2891,
+      "status": "P/L"
+    }
+  ]
+}

@@ -127,7 +127,7 @@
 }
 
 /* Column-specific styles */
-.results-table__desktop tbody td:nth-child(1) {
+.results-table__desktop tbody td.cell-no {
   color: hsl(var(--muted-foreground));
   font-weight: 500;
   text-align: center;
@@ -135,15 +135,45 @@
   font-size: 12px;
 }
 
-.results-table__desktop tbody td:nth-child(2) {
+.results-table__desktop tbody td.cell-nomor {
   font-family: ui-monospace, 'Cascadia Code', Consolas, monospace;
   font-size: 12px;
   color: hsl(var(--muted-foreground));
   letter-spacing: 0.02em;
 }
 
-.results-table__desktop tbody td:nth-child(3) {
+.results-table__desktop tbody td.cell-nama {
   font-weight: 600;
+}
+
+.cell-nama--combined .cell-nama__wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  min-width: 160px;
+}
+
+.cell-nama--combined .cell-nama__text {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: hsl(var(--foreground));
+  line-height: 1.35;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.cell-nama--combined .cell-nama__nomor {
+  font-family: ui-monospace, 'Cascadia Code', Consolas, monospace;
+  font-size: 11.5px;
+  font-weight: 500;
+  color: hsl(var(--muted-foreground));
+  letter-spacing: 0.02em;
+  background: hsl(var(--secondary) / 0.5);
+  padding: 1px 6px;
+  border-radius: calc(var(--radius) - 4px);
+  border: 1px solid hsl(var(--border) / 0.6);
+  display: inline-block;
 }
 
 .results-table__desktop tbody td.cell-score {
@@ -548,6 +578,173 @@ button.formasi-chip:hover {
     font-variant-numeric: tabular-nums;
     line-height: 1.2;
   }
+
+  .participant-card__score-item--full {
+    grid-column: 1 / -1;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 3px 8px;
+  }
+
+  .participant-card__score-item--full .score-label {
+    margin-bottom: 0;
+  }
+
+  /* ── Mobile SKT Grouped Cards ── */
+  .participant-card__skt-groups {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    width: 100%;
+    margin-top: 6px;
+  }
+
+  .card-score-group {
+    background: hsl(var(--muted) / 0.25);
+    border: 1px solid hsl(var(--border) / 0.7);
+    border-radius: calc(var(--radius) - 2px);
+    padding: 6px 8px;
+    box-sizing: border-box;
+  }
+
+  .card-score-group__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid hsl(var(--border) / 0.5);
+  }
+
+  .card-score-group__title {
+    font-size: 10.5px;
+    font-weight: 700;
+    color: hsl(var(--muted-foreground));
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .card-score-group__total {
+    font-size: 11px;
+    color: hsl(var(--foreground));
+    font-variant-numeric: tabular-nums;
+  }
+
+  .card-score-group__total strong {
+    color: hsl(var(--brand));
+    font-weight: 700;
+  }
+
+  .card-score-group--skt .card-score-group__total strong {
+    color: hsl(var(--foreground));
+  }
+
+  .card-score-group__grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 4px;
+    width: 100%;
+  }
+
+  .card-score-group--skt .card-score-group__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 360px) {
+    .card-score-group__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+}
+
+/* ── Grouped Score Cells (SKT View Desktop) ────────────────── */
+.cell-score-group {
+  min-width: 200px;
+  max-width: 280px;
+  vertical-align: middle !important;
+  padding: 8px 10px !important;
+}
+
+.score-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
+
+.score-group__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4px 6px;
+}
+
+.score-subitem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 5px;
+  background: hsl(var(--secondary) / 0.5);
+  border: 1px solid hsl(var(--border) / 0.6);
+  border-radius: calc(var(--radius) - 3px);
+  min-width: 0;
+}
+
+.score-subitem--full {
+  grid-column: 1 / -1;
+}
+
+.score-subitem__label {
+  font-size: 10px;
+  font-weight: 500;
+  color: hsl(var(--muted-foreground));
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.score-subitem__val {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: hsl(var(--foreground));
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.score-subitem-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px 6px;
+  border-radius: calc(var(--radius) - 3px);
+  background: hsl(var(--brand) / 0.08);
+  border: 1px solid hsl(var(--brand) / 0.22);
+}
+
+.score-subitem-total__label {
+  font-size: 11px;
+  font-weight: 600;
+  color: hsl(var(--brand));
+}
+
+.score-subitem-total__val {
+  font-size: 12px;
+  font-weight: 700;
+  color: hsl(var(--brand));
+  font-variant-numeric: tabular-nums;
+}
+
+.score-subitem-total--skt {
+  background: hsl(var(--accent) / 0.35);
+  border-color: hsl(var(--border));
+}
+
+.score-subitem-total--skt .score-subitem-total__label {
+  color: hsl(var(--foreground));
+}
+
+.score-subitem-total--skt .score-subitem-total__val {
+  color: hsl(var(--foreground));
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002193",
+      "nama": "MECKO EVERYADI",
+      "teknis": 205,
+      "manajerial": 82,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total_cat": 392,
+      "psikotes": 65.77,
+      "inggris": 46.82,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.15934,
+      "total": 60.3334,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002685",
+      "nama": "BENNY TRIMARTA",
+      "teknis": 145,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 32,
+      "total_cat": 334,
+      "psikotes": 65.75,
+      "inggris": 49.78,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.73934,
+      "total": 56.295,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002897",
+      "nama": "ANDI SAPUTRA",
+      "teknis": 205,
+      "manajerial": 86,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total_cat": 397,
+      "psikotes": 44.06,
+      "inggris": 57.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 51.20134,
+      "total": 55.2275,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001313",
+      "nama": "ABQORI DZIKRO DIFA",
+      "teknis": 170,
+      "manajerial": 70,
+      "sosial_kultural": 52,
+      "wawancara": 26,
+      "total_cat": 318,
+      "psikotes": 34.12,
+      "inggris": 52.73,
+      "wawancara_skt": 44.4444,
+      "total_skt": 39.90688,
+      "total": 43.6848,
+      "status": "TMS"
+    }
+  ]
+}

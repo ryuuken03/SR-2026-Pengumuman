@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004376",
+      "nama": "ROSYIDA RIZKI DANNIAR",
+      "teknis": 225,
+      "manajerial": 97,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total_cat": 423,
+      "psikotes": 72.15,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.11934,
+      "total": 66.1268,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006258",
+      "nama": "ELGA SOFHIANI IKA RAHAYU",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total_cat": 419,
+      "psikotes": 65.95,
+      "inggris": 78.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.64934,
+      "total": 65.5933,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000267",
+      "nama": "CHUSNUL HOTIMAH",
+      "teknis": 185,
+      "manajerial": 81,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total_cat": 370,
+      "psikotes": 44.85,
+      "inggris": 56.13,
+      "wawancara_skt": 55.5556,
+      "total_skt": 49.24712,
+      "total": 52.2355,
+      "status": "TMS"
+    }
+  ]
+}

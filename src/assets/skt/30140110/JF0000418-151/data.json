@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002587",
+      "nama": "MUH. YUSUF RAUF",
+      "teknis": 205,
+      "manajerial": 88,
+      "sosial_kultural": 61,
+      "wawancara": 37,
+      "total_cat": 391,
+      "psikotes": 68,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.35934,
+      "total": 61.8588,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000351",
+      "nama": "BESMAN ALI",
+      "teknis": 195,
+      "manajerial": 83,
+      "sosial_kultural": 62,
+      "wawancara": 34,
+      "total_cat": 374,
+      "psikotes": 68.75,
+      "inggris": 51.7,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.92334,
+      "total": 60.3721,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001187",
+      "nama": "NURICZHAN",
+      "teknis": 175,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 31,
+      "total_cat": 367,
+      "psikotes": 49.86,
+      "inggris": 45.79,
+      "wawancara_skt": 55.5556,
+      "total_skt": 50.18512,
+      "total": 52.4806,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000409",
+      "nama": "YUSRIL",
+      "teknis": 160,
+      "manajerial": 72,
+      "sosial_kultural": 57,
+      "wawancara": 35,
+      "total_cat": 324,
+      "psikotes": 43.22,
+      "inggris": 65.44,
+      "wawancara_skt": 55.5556,
+      "total_skt": 50.13112,
+      "total": 49.2447,
+      "status": "TMS"
+    }
+  ]
+}

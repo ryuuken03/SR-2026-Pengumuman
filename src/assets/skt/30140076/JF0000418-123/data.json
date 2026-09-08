@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000988",
+      "nama": "NURHAMIDA",
+      "teknis": 205,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total_cat": 411,
+      "psikotes": 82.34,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.87534,
+      "total": 67.6093,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004412",
+      "nama": "LARASATI GUSTIA AYOPMA",
+      "teknis": 210,
+      "manajerial": 76,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total_cat": 390,
+      "psikotes": 81.03,
+      "inggris": 64.55,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.86134,
+      "total": 66.5351,
+      "status": "P"
+    }
+  ]
+}

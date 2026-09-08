@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007912",
+      "nama": "LIDYA HASMANINGSIH",
+      "teknis": 255,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 463,
+      "psikotes": 65.76,
+      "inggris": 55.1,
+      "wawancara_skt": 55.5556,
+      "total_skt": 61.58712,
+      "total": 65.3458,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007020",
+      "nama": "UMMU ASHYFAH",
+      "teknis": 255,
+      "manajerial": 82,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 441,
+      "psikotes": 68.76,
+      "inggris": 68.98,
+      "wawancara_skt": 44.4444,
+      "total_skt": 63.94088,
+      "total": 64.8809,
+      "status": "P"
+    }
+  ]
+}

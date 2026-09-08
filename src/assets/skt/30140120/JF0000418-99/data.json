@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001561",
+      "nama": "M IKBAL ODE",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 450,
+      "psikotes": 81.02,
+      "inggris": 72.82,
+      "wawancara_skt": 77.7778,
+      "total_skt": 78.73156,
+      "total": 72.9479,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003192",
+      "nama": "MUHAMMAD AYYUB HERIANTO",
+      "teknis": 185,
+      "manajerial": 88,
+      "sosial_kultural": 76,
+      "wawancara": 33,
+      "total_cat": 382,
+      "psikotes": 81.02,
+      "inggris": 65.44,
+      "wawancara_skt": 77.7778,
+      "total_skt": 77.25556,
+      "total": 67.1352,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001353",
+      "nama": "ERVIN",
+      "teknis": 180,
+      "manajerial": 77,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 364,
+      "psikotes": 68.75,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.69534,
+      "total": 60.5118,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120002593",
+      "nama": "ETY KURNIASIH",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 394,
+      "psikotes": 48.21,
+      "inggris": 62.04,
+      "wawancara_skt": 77.7778,
+      "total_skt": 56.88956,
+      "total": 57.8478,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000233",
+      "nama": "JOSHUA MAMONDOL",
+      "teknis": 155,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 343,
+      "psikotes": 49,
+      "inggris": 53.62,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.23512,
+      "total": 51.2146,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008098",
+      "nama": "CICI AMALIA",
+      "teknis": 105,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 303,
+      "psikotes": 44.01,
+      "inggris": 54.65,
+      "wawancara_skt": 44.4444,
+      "total_skt": 46.22488,
+      "total": 45.7244,
+      "status": "TMS"
+    }
+  ]
+}

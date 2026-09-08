@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006015",
+      "nama": "DEWI KASNIAR",
+      "teknis": 240,
+      "manajerial": 78,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 428,
+      "psikotes": 68.01,
+      "inggris": 60.56,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.02912,
+      "total": 63.9549,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004906",
+      "nama": "HAKIMMATUS SOLEHA",
+      "teknis": 140,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 33,
+      "total_cat": 332,
+      "psikotes": 27.65,
+      "inggris": 53.62,
+      "wawancara_skt": 55.5556,
+      "total_skt": 38.42512,
+      "total": 43.9887,
+      "status": "TMS"
+    }
+  ]
+}

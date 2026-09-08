@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006749",
+      "nama": "SITI NUR ASIAH",
+      "teknis": 265,
+      "manajerial": 87,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total_cat": 456,
+      "psikotes": 65.94,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.12334,
+      "total": 66.0915,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005342",
+      "nama": "DINDA HULZANAH",
+      "teknis": 310,
+      "manajerial": 83,
+      "sosial_kultural": 71,
+      "wawancara": 30,
+      "total_cat": 494,
+      "psikotes": 53.05,
+      "inggris": 66.03,
+      "wawancara_skt": 66.6667,
+      "total_skt": 58.36934,
+      "total": 66.0503,
+      "status": "TMS"
+    }
+  ]
+}

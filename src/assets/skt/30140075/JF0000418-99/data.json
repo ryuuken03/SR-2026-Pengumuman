@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003541",
+      "nama": "FITRI ORLINCE SIBURIAN",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 74,
+      "wawancara": 32,
+      "total_cat": 471,
+      "psikotes": 81.02,
+      "inggris": 77.84,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.51334,
+      "total": 73.9059,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001279",
+      "nama": "DEVI MAKHRANI",
+      "teknis": 285,
+      "manajerial": 85,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 477,
+      "psikotes": 68.01,
+      "inggris": 92.02,
+      "wawancara_skt": 77.7778,
+      "total_skt": 74.76556,
+      "total": 72.9798,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001845",
+      "nama": "AIDA SUKMA SIMBOLON",
+      "teknis": 245,
+      "manajerial": 95,
+      "sosial_kultural": 77,
+      "wawancara": 36,
+      "total_cat": 453,
+      "psikotes": 68.77,
+      "inggris": 78.29,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.25334,
+      "total": 68.9326,
+      "status": "P"
+    }
+  ]
+}

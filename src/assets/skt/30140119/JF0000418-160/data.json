@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002809",
+      "nama": "VISKA AULIA NURANI",
+      "teknis": 160,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 352,
+      "psikotes": 70.45,
+      "inggris": 89.66,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.53534,
+      "total": 63.0363,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006014",
+      "nama": "NUR FADILA",
+      "teknis": 140,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 40,
+      "total_cat": 342,
+      "psikotes": 70.46,
+      "inggris": 53.62,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.88888,
+      "total": 56.4668,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003253",
+      "nama": "WARDIMAN",
+      "teknis": 150,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 341,
+      "psikotes": 43.28,
+      "inggris": 49.78,
+      "wawancara_skt": 55.5556,
+      "total_skt": 47.03512,
+      "total": 48.9653,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001781",
+      "nama": "BAYU NOPA",
+      "teknis": 225,
+      "manajerial": 75,
+      "sosial_kultural": 69,
+      "wawancara": 29,
+      "total_cat": 398,
+      "psikotes": 70.25,
+      "inggris": 49.78,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.21712,
+      "total": 61.3101,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002636",
+      "nama": "IMAM MASKUR RAHMAT",
+      "teknis": 190,
+      "manajerial": 96,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 395,
+      "psikotes": 68.21,
+      "inggris": 58.64,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.54288,
+      "total": 60.2491,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002932",
+      "nama": "KAMAL LATIF FADHOLI",
+      "teknis": 160,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total_cat": 352,
+      "psikotes": 71.01,
+      "inggris": 47.27,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.39334,
+      "total": 58.9653,
+      "status": "P/L"
+    }
+  ]
+}

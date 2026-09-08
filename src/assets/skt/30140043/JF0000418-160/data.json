@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002258",
+      "nama": "YULIA AYUNINGTYAS",
+      "teknis": 195,
+      "manajerial": 95,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 401,
+      "psikotes": 81.02,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.05734,
+      "total": 66.954,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002630",
+      "nama": "EKA SETYA PURNAMA",
+      "teknis": 175,
+      "manajerial": 84,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 367,
+      "psikotes": 81.02,
+      "inggris": 55.69,
+      "wawancara_skt": 55.5556,
+      "total_skt": 70.86112,
+      "total": 62.8186,
+      "status": "P"
+    }
+  ]
+}

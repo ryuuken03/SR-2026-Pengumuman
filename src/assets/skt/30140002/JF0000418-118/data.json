@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001317",
+      "nama": "GESANG SURYA KUSUMA",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 430,
+      "psikotes": 69.11,
+      "inggris": 72.82,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.36334,
+      "total": 66.7712,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007850",
+      "nama": "FEPRIYANI MURTIANINGSIH",
+      "teknis": 135,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 335,
+      "psikotes": 69.14,
+      "inggris": 57.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.24934,
+      "total": 58.1247,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003337",
+      "nama": "NUR AZIZA ARIFIN",
+      "teknis": 140,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total_cat": 339,
+      "psikotes": 71,
+      "inggris": 62.48,
+      "wawancara_skt": 44.4444,
+      "total_skt": 63.98488,
+      "total": 57.2909,
+      "status": "P/L-2"
+    }
+  ]
+}

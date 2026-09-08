@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002552",
+      "nama": "AFRIZAL SATYA HADI",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 375,
+      "psikotes": 70.25,
+      "inggris": 68.39,
+      "wawancara_skt": 44.4444,
+      "total_skt": 64.71688,
+      "total": 60.3435,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000236",
+      "nama": "YULIANA RASYID",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total_cat": 410,
+      "psikotes": 73.24,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.50334,
+      "total": 64.8487,
+      "status": "P/L"
+    }
+  ]
+}

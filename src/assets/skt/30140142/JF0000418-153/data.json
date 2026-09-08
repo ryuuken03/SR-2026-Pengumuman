@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006029",
+      "nama": "WAHYU TRI NINGSIH",
+      "teknis": 310,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 500,
+      "psikotes": 70.27,
+      "inggris": 51.7,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.83534,
+      "total": 70.2311,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006336",
+      "nama": "SITI MAILI VONITASARI",
+      "teknis": 280,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 485,
+      "psikotes": 0,
+      "inggris": 49.78,
+      "wawancara_skt": 0,
+      "total_skt": 9.956,
+      "total": 41.172,
+      "status": "TH"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001354",
+      "nama": "SRI KURNIA YULIARNIS",
+      "teknis": 240,
+      "manajerial": 90,
+      "sosial_kultural": 73,
+      "wawancara": 40,
+      "total_cat": 443,
+      "psikotes": 81.03,
+      "inggris": 64.99,
+      "wawancara_skt": 55.5556,
+      "total_skt": 72.72712,
+      "total": 69.4233,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007077",
+      "nama": "NENENG DEVI YANA KOMALA SARI",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total_cat": 401,
+      "psikotes": 81.03,
+      "inggris": 57.16,
+      "wawancara_skt": 55.5556,
+      "total_skt": 71.16112,
+      "total": 65.5059,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120007377",
+      "nama": "ABID ROHMIYATUL WAHDA",
+      "teknis": 180,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 34,
+      "total_cat": 376,
+      "psikotes": 70.46,
+      "inggris": 63.07,
+      "wawancara_skt": 55.5556,
+      "total_skt": 66.00112,
+      "total": 61.0603,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003850",
+      "nama": "LINIA S.R.R",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 38,
+      "total_cat": 432,
+      "psikotes": 81.03,
+      "inggris": 71.34,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.21934,
+      "total": 70.3485,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000874",
+      "nama": "NUR FAOZI",
+      "teknis": 170,
+      "manajerial": 95,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 370,
+      "psikotes": 81.01,
+      "inggris": 77.25,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.38934,
+      "total": 66.3066,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002342",
+      "nama": "IKA OCTAVIANI",
+      "teknis": 230,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 438,
+      "psikotes": 56.66,
+      "inggris": 78.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.07534,
+      "total": 64.2242,
+      "status": "TMS"
+    }
+  ]
+}

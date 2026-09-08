@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004846",
+      "nama": "DESSY AUGUSTINAH",
+      "teknis": 235,
+      "manajerial": 90,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 430,
+      "psikotes": 82.34,
+      "inggris": 81.68,
+      "wawancara_skt": 66.6667,
+      "total_skt": 79.07334,
+      "total": 71.6262,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000589",
+      "nama": "DANDY SAPUTRA PRATAMA",
+      "teknis": 180,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 32,
+      "total_cat": 365,
+      "psikotes": 81.02,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.14534,
+      "total": 64.3115,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001768",
+      "nama": "HAFIS IBNU HAJAR",
+      "teknis": 190,
+      "manajerial": 82,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 380,
+      "psikotes": 70.24,
+      "inggris": 48.3,
+      "wawancara_skt": 44.4444,
+      "total_skt": 60.69288,
+      "total": 58.7046,
+      "status": "P/L"
+    }
+  ]
+}

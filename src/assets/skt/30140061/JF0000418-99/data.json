@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000613",
+      "nama": "NUR FITRIANI",
+      "teknis": 265,
+      "manajerial": 94,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total_cat": 465,
+      "psikotes": 81.03,
+      "inggris": 77.84,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.51934,
+      "total": 73.4612,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008710",
+      "nama": "ANA TRI SETYAWATI",
+      "teknis": 255,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total_cat": 451,
+      "psikotes": 50.61,
+      "inggris": 79.32,
+      "wawancara_skt": 66.6667,
+      "total_skt": 59.56334,
+      "total": 63.4384,
+      "status": "TMS"
+    }
+  ]
+}

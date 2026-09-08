@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001211",
+      "nama": "RAZITA FANADRARUL AMIZA",
+      "teknis": 285,
+      "manajerial": 87,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total_cat": 477,
+      "psikotes": 81.03,
+      "inggris": 74.3,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.81134,
+      "total": 74.0027,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005619",
+      "nama": "TESSA NOVIRI EKA SAPUTRI",
+      "teknis": 295,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 488,
+      "psikotes": 71,
+      "inggris": 73.86,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.70534,
+      "total": 71.7706,
+      "status": "P"
+    }
+  ]
+}

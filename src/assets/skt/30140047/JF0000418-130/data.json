@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005217",
+      "nama": "MURNIATI LAWAH",
+      "teknis": 285,
+      "manajerial": 92,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total_cat": 493,
+      "psikotes": 81.02,
+      "inggris": 71.34,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.21334,
+      "total": 74.8977,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007576",
+      "nama": "HABIBAH LUTFIANI",
+      "teknis": 175,
+      "manajerial": 94,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total_cat": 386,
+      "psikotes": 83.97,
+      "inggris": 61.6,
+      "wawancara_skt": 55.5556,
+      "total_skt": 73.81312,
+      "total": 65.7125,
+      "status": "P"
+    }
+  ]
+}

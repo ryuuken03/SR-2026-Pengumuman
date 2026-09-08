@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003869",
+      "nama": "MARIA NOVITINA TRESIANA JENTAR",
+      "teknis": 235,
+      "manajerial": 87,
+      "sosial_kultural": 64,
+      "wawancara": 40,
+      "total_cat": 426,
+      "psikotes": 81.02,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.46734,
+      "total": 68.5247,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005090",
+      "nama": "SKOLASTIKA NATALIA KANINGSI",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 75,
+      "wawancara": 36,
+      "total_cat": 420,
+      "psikotes": 50.14,
+      "inggris": 71.34,
+      "wawancara_skt": 77.7778,
+      "total_skt": 59.90756,
+      "total": 61.2971,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001203",
+      "nama": "OKTOVIANUS RODRIQUES LEKU",
+      "teknis": 195,
+      "manajerial": 76,
+      "sosial_kultural": 66,
+      "wawancara": 31,
+      "total_cat": 368,
+      "psikotes": 49.03,
+      "inggris": 47.27,
+      "wawancara_skt": 55.5556,
+      "total_skt": 49.98312,
+      "total": 52.4542,
+      "status": "TMS"
+    }
+  ]
+}

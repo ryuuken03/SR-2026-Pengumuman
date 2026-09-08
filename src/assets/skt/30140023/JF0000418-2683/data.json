@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004566",
+      "nama": "MUTIARA SARI DEWI",
+      "teknis": 330,
+      "manajerial": 94,
+      "sosial_kultural": 63,
+      "wawancara": 34,
+      "total_cat": 521,
+      "psikotes": 81.03,
+      "inggris": 60.12,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.41978,
+      "total": 78.0905,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005995",
+      "nama": "LIANA WIJAYASARI",
+      "teknis": 340,
+      "manajerial": 83,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total_cat": 528,
+      "psikotes": 71,
+      "inggris": 66.47,
+      "wawancara_skt": 77.7778,
+      "total_skt": 71.44956,
+      "total": 75.1278,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000667",
+      "nama": "IRMA MELIANA PRIWARDANI",
+      "teknis": 310,
+      "manajerial": 94,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 509,
+      "psikotes": 70.26,
+      "inggris": 57.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.92134,
+      "total": 71.4457,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004713",
+      "nama": "WINNY ARSYABINTA",
+      "teknis": 320,
+      "manajerial": 91,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total_cat": 516,
+      "psikotes": 46.84,
+      "inggris": 56.13,
+      "wawancara_skt": 33.3333,
+      "total_skt": 45.99666,
+      "total": 61.5058,
+      "status": "TMS"
+    }
+  ]
+}

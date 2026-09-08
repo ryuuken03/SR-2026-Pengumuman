@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007177",
+      "nama": "ASNI PARRANG",
+      "teknis": 210,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 34,
+      "total_cat": 397,
+      "psikotes": 66.88,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.00734,
+      "total": 61.6305,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000151",
+      "nama": "RAHMAWATI",
+      "teknis": 115,
+      "manajerial": 74,
+      "sosial_kultural": 70,
+      "wawancara": 35,
+      "total_cat": 294,
+      "psikotes": 65.76,
+      "inggris": 52.73,
+      "wawancara_skt": 55.5556,
+      "total_skt": 61.11312,
+      "total": 52.4969,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000857",
+      "nama": "HENDRA",
+      "teknis": 260,
+      "manajerial": 86,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total_cat": 455,
+      "psikotes": 81.03,
+      "inggris": 87.15,
+      "wawancara_skt": 66.6667,
+      "total_skt": 79.38134,
+      "total": 73.6459,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007975",
+      "nama": "SITTI AISYAH BINTI M. IKHWAN",
+      "teknis": 250,
+      "manajerial": 90,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total_cat": 446,
+      "psikotes": 82.67,
+      "inggris": 84.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 79.86334,
+      "total": 73.2153,
+      "status": "P/L"
+    }
+  ]
+}

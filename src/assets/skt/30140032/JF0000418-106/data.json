@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003232",
+      "nama": "NIKA CAHYA AWANI",
+      "teknis": 285,
+      "manajerial": 81,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 471,
+      "psikotes": 82.33,
+      "inggris": 70.9,
+      "wawancara_skt": 88.8889,
+      "total_skt": 81.35578,
+      "total": 75.8271,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007324",
+      "nama": "ANNAS KHOIRUM UMMAH",
+      "teknis": 250,
+      "manajerial": 94,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total_cat": 448,
+      "psikotes": 82.67,
+      "inggris": 73.86,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.70734,
+      "total": 72.2865,
+      "status": "P"
+    }
+  ]
+}

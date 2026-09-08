@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005430",
+      "nama": "SITI TRI PUJI RAHAYU",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 477,
+      "psikotes": 81.03,
+      "inggris": 58.05,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.78356,
+      "total": 73.4888,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000393",
+      "nama": "DUVAN AWANG PRAYOGA",
+      "teknis": 290,
+      "manajerial": 82,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 476,
+      "psikotes": 70.44,
+      "inggris": 82.72,
+      "wawancara_skt": 55.5556,
+      "total_skt": 69.91912,
+      "total": 70.4819,
+      "status": "P"
+    }
+  ]
+}

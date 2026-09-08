@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005765",
+      "nama": "ELOK ROHMAWATI",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 428,
+      "psikotes": 81.03,
+      "inggris": 63.52,
+      "wawancara_skt": 55.5556,
+      "total_skt": 72.43312,
+      "total": 68.1569,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003313",
+      "nama": "RIZAL MUFID AN NURDIN",
+      "teknis": 200,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total_cat": 403,
+      "psikotes": 81.02,
+      "inggris": 57.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.37734,
+      "total": 66.7633,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110003009",
+      "nama": "YOGA ADI PRATAMA",
+      "teknis": 205,
+      "manajerial": 96,
+      "sosial_kultural": 58,
+      "wawancara": 38,
+      "total_cat": 397,
+      "psikotes": 81.03,
+      "inggris": 54.21,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.79334,
+      "total": 66.0235,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000654",
+      "nama": "RAFII DWI SAPUTRA",
+      "teknis": 200,
+      "manajerial": 79,
+      "sosial_kultural": 69,
+      "wawancara": 37,
+      "total_cat": 385,
+      "psikotes": 68.01,
+      "inggris": 62.04,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.32512,
+      "total": 60.8939,
+      "status": "P"
+    }
+  ]
+}

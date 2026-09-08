@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002483",
+      "nama": "SANDRA PASCA GEMPITA",
+      "teknis": 215,
+      "manajerial": 81,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 408,
+      "psikotes": 70.27,
+      "inggris": 48.74,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.02112,
+      "total": 61.9583,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008617",
+      "nama": "RAHMA PRATIWI",
+      "teknis": 245,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 442,
+      "psikotes": 50.56,
+      "inggris": 53.62,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.39334,
+      "total": 60.1817,
+      "status": "TMS"
+    }
+  ]
+}

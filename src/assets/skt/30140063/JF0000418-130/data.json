@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002724",
+      "nama": "ROSI HAMAMA",
+      "teknis": 160,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 362,
+      "psikotes": 82.34,
+      "inggris": 52.73,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.50556,
+      "total": 64.7677,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000160",
+      "nama": "NOVA REZA LENA",
+      "teknis": 160,
+      "manajerial": 85,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total_cat": 352,
+      "psikotes": 71.01,
+      "inggris": 48.3,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.15488,
+      "total": 56.8461,
+      "status": "P"
+    }
+  ]
+}

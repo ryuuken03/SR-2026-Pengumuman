@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001966",
+      "nama": "ALFAIN NUR MUSTAWHISIN",
+      "teknis": 255,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 464,
+      "psikotes": 81.03,
+      "inggris": 64.99,
+      "wawancara_skt": 55.5556,
+      "total_skt": 72.72712,
+      "total": 70.9904,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120007658",
+      "nama": "DWI OKTAVIA RAHMAWATI",
+      "teknis": 260,
+      "manajerial": 94,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 465,
+      "psikotes": 71.96,
+      "inggris": 68.98,
+      "wawancara_skt": 44.4444,
+      "total_skt": 65.86088,
+      "total": 67.6319,
+      "status": "P"
+    }
+  ]
+}

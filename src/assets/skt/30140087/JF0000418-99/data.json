@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006376",
+      "nama": "PUTRI ALAWIYAH",
+      "teknis": 210,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 412,
+      "psikotes": 68.02,
+      "inggris": 68.98,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.94134,
+      "total": 64.7169,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001209",
+      "nama": "RIKA RISMAYANTI",
+      "teknis": 175,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 381,
+      "psikotes": 68.76,
+      "inggris": 67.95,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.17934,
+      "total": 62.5225,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006988",
+      "nama": "ANISA BIANITA UTAMI",
+      "teknis": 170,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total_cat": 358,
+      "psikotes": 70.27,
+      "inggris": 67.95,
+      "wawancara_skt": 55.5556,
+      "total_skt": 66.86312,
+      "total": 60.148,
+      "status": "P/L-2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001647",
+      "nama": "ALFIA RIZA OKTIANY",
+      "teknis": 125,
+      "manajerial": 94,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total_cat": 324,
+      "psikotes": 81.02,
+      "inggris": 72.38,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.42134,
+      "total": 62.3898,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003669",
+      "nama": "RATIH WINDYANINGSIWI",
+      "teknis": 150,
+      "manajerial": 96,
+      "sosial_kultural": 68,
+      "wawancara": 39,
+      "total_cat": 353,
+      "psikotes": 71,
+      "inggris": 63.07,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.54734,
+      "total": 60.617,
+      "status": "P"
+    }
+  ]
+}

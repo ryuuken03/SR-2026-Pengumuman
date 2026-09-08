@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008655",
+      "nama": "LAILI FAUZIAH",
+      "teknis": 315,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 515,
+      "psikotes": 53.06,
+      "inggris": 74.3,
+      "wawancara_skt": 55.5556,
+      "total_skt": 57.80712,
+      "total": 67.3364,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004297",
+      "nama": "PUTRI RETNO SARI",
+      "teknis": 275,
+      "manajerial": 97,
+      "sosial_kultural": 78,
+      "wawancara": 37,
+      "total_cat": 487,
+      "psikotes": 53.07,
+      "inggris": 63.52,
+      "wawancara_skt": 66.6667,
+      "total_skt": 57.87934,
+      "total": 65.283,
+      "status": "TMS"
+    }
+  ]
+}

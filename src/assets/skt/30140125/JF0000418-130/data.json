@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004887",
+      "nama": "NI LUH PUTU SUARTINI",
+      "teknis": 210,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 421,
+      "psikotes": 70.45,
+      "inggris": 61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.80334,
+      "total": 65.3196,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001372",
+      "nama": "MADE DANU WIJAYA",
+      "teknis": 195,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total_cat": 396,
+      "psikotes": 54.7,
+      "inggris": 63.52,
+      "wawancara_skt": 66.6667,
+      "total_skt": 58.85734,
+      "total": 58.9809,
+      "status": "TMS"
+    }
+  ]
+}

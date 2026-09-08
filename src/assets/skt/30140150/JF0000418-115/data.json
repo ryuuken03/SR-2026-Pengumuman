@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005659",
+      "nama": "NUR AFIFAH",
+      "teknis": 200,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 38,
+      "total_cat": 403,
+      "psikotes": 81.02,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 71.98934,
+      "total": 66.0693,
+      "status": "P/L"
+    }
+  ]
+}

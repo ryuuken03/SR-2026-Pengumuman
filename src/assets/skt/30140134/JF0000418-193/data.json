@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002154",
+      "nama": "AHMAD KHODRI",
+      "teknis": 230,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 427,
+      "psikotes": 81.02,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.25934,
+      "total": 68.4953,
+      "status": "P/L"
+    }
+  ]
+}

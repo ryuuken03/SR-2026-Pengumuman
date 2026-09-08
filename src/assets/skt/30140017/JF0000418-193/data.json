@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002513",
+      "nama": "JAKA WISNU WARDANA",
+      "teknis": 245,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 449,
+      "psikotes": 82.34,
+      "inggris": 67.5,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.23734,
+      "total": 71.6261,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001909",
+      "nama": "TRI ADITYO SUNARDO",
+      "teknis": 265,
+      "manajerial": 89,
+      "sosial_kultural": 67,
+      "wawancara": 34,
+      "total_cat": 455,
+      "psikotes": 81.03,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.35934,
+      "total": 71.1349,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000148",
+      "nama": "RIFKI GHOYALI",
+      "teknis": 245,
+      "manajerial": 92,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total_cat": 446,
+      "psikotes": 81.03,
+      "inggris": 67.95,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.54134,
+      "total": 71.0543,
+      "status": "P/L-2"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110001683",
+      "nama": "RIO PERDANA",
+      "teknis": 200,
+      "manajerial": 95,
+      "sosial_kultural": 78,
+      "wawancara": 39,
+      "total_cat": 412,
+      "psikotes": 83.64,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.03934,
+      "total": 68.2659,
+      "status": "P/L"
+    }
+  ]
+}

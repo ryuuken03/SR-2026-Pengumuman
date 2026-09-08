@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "npm run build:index && vite",
     "build:index": "node scripts/generate_search_index.mjs",
+    "extract:skt": "node scripts/extract_skt.mjs",
     "build": "npm run build:index && tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"

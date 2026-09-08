@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001576",
+      "nama": "KAMIYATEIN",
+      "teknis": 265,
+      "manajerial": 89,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total_cat": 457,
+      "psikotes": 70.25,
+      "inggris": 72.82,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.04734,
+      "total": 69.1282,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004541",
+      "nama": "SUHAINA BAKHTIAR",
+      "teknis": 240,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total_cat": 441,
+      "psikotes": 71.02,
+      "inggris": 60.12,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.74712,
+      "total": 65.784,
+      "status": "P"
+    }
+  ]
+}

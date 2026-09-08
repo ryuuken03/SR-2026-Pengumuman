@@ -27,7 +27,46 @@ export const APP_CHANGELOG: ChangelogRelease[] = [
     version: APP_VERSION,
     date: APP_LAST_UPDATED,
     isLatest: true,
-    badge: 'Rilis Stabil',
+    badge: 'Rilis Fitur',
+    summary: 'Dukungan penuh data Seleksi Kompetensi Teknis Tambahan (SKT) sebanyak 13.313 peserta, pemilih tahap seleksi CAT vs SKT, kolom rincian nilai integrasi, jadwal pelaksanaan ujian, dan optimasi tampilan seluler.',
+    publicNotes: [
+      {
+        type: 'feat',
+        label: 'Fitur Baru',
+        text: 'Dukungan dataset Seleksi Kompetensi Teknis Tambahan (SKT) mencakup 13.313 peserta berdasarkan pengumuman resmi.',
+      },
+      {
+        type: 'feat',
+        label: 'Fitur Baru',
+        text: 'Komponen pemilih tahap seleksi (CAT dan SKT) dengan pemuatan data on-demand yang hemat kuota.',
+      },
+      {
+        type: 'feat',
+        label: 'Fitur Baru',
+        text: 'Tampilan kolom nilai integrasi SKT (Psikotes, Bahasa Inggris, Wawancara SKT, Total SKT, dan Total Akhir).',
+      },
+      {
+        type: 'improve',
+        label: 'Peningkatan',
+        text: 'Pemrosesan pencarian terintegrasi pada Web Worker untuk penyaringan cepat lintas dataset CAT maupun SKT.',
+      },
+      {
+        type: 'improve',
+        label: 'Peningkatan',
+        text: 'Penyesuaian tata letak kartu seluler pada tabel hasil pencarian agar informasi jadwal dan nilai SKT mudah dibaca.',
+      },
+      {
+        type: 'improve',
+        label: 'Penyempurnaan',
+        text: 'Pembaruan tautan referensi resmi pengumuman hasil integrasi seleksi pada header, footer, dan tentang pengembang.',
+      },
+    ],
+  },
+  {
+    version: 'v1.0.1',
+    date: '8 September 2026',
+    isLatest: false,
+    badge: 'Pembaruan Tampilan',
     summary: 'Profil pengembang & kartu kontak terverifikasi (WA, Portofolio, Threads @mohammadtoriq, GitHub), tombol sumber referensi resmi, pembersihan antarmuka dari emoji AI-slop, panel rekapitulasi statistik fleksibel, serta modal catatan pembaruan bertingkat.',
     publicNotes: [
       {

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004440",
+      "nama": "SRI LESTARI",
+      "teknis": 210,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 39,
+      "total_cat": 415,
+      "psikotes": 81.02,
+      "inggris": 64.55,
+      "wawancara_skt": 88.8889,
+      "total_skt": 79.29978,
+      "total": 70.62,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000297",
+      "nama": "SISNANDA TYAPUSPITA",
+      "teknis": 185,
+      "manajerial": 83,
+      "sosial_kultural": 67,
+      "wawancara": 31,
+      "total_cat": 366,
+      "psikotes": 70.99,
+      "inggris": 58.64,
+      "wawancara_skt": 77.7778,
+      "total_skt": 69.87756,
+      "total": 62.2522,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110000817",
+      "nama": "IMAM SOBIRUL LATIF",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 62,
+      "wawancara": 32,
+      "total_cat": 389,
+      "psikotes": 56.63,
+      "inggris": 58.64,
+      "wawancara_skt": 66.6667,
+      "total_skt": 59.03934,
+      "total": 58.5495,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110000587",
+      "nama": "MUHAMMAD GHOZALI",
+      "teknis": 155,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 349,
+      "psikotes": 43.96,
+      "inggris": 50.22,
+      "wawancara_skt": 66.6667,
+      "total_skt": 49.75334,
+      "total": 50.9214,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003433",
+      "nama": "NINDA AYU PUTRI CAHYANI",
+      "teknis": 200,
+      "manajerial": 90,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 401,
+      "psikotes": 81.02,
+      "inggris": 54.21,
+      "wawancara_skt": 88.8889,
+      "total_skt": 77.23178,
+      "total": 68.5413,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120009057",
+      "nama": "ARNI RANTETASIK",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 66,
+      "wawancara": 36,
+      "total_cat": 411,
+      "psikotes": 39.13,
+      "inggris": 56.13,
+      "wawancara_skt": 55.5556,
+      "total_skt": 45.81512,
+      "total": 53.5792,
+      "status": "TMS"
+    }
+  ]
+}

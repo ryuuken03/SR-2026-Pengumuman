@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002452",
+      "nama": "WAHYU DWI SETYAWAN",
+      "teknis": 270,
+      "manajerial": 95,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total_cat": 470,
+      "psikotes": 81.03,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.17734,
+      "total": 71.6633,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004599",
+      "nama": "RACHMA FADHILLAH AMALIA",
+      "teknis": 200,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 403,
+      "psikotes": 81.03,
+      "inggris": 68.98,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.74734,
+      "total": 67.9483,
+      "status": "P"
+    }
+  ]
+}

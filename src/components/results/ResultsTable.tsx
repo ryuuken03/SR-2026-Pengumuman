@@ -4,7 +4,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import Pagination from './Pagination'
 import EmptyState, { resolveEmptyVariant } from '../ui/EmptyState'
-import type { PesertaItem, SortConfig, SortKey, SearchScope } from '../../hooks/useSelkomSearch'
+import type { PesertaItem, SortConfig, SortKey, SearchScope, DataSource } from '../../hooks/useSelkomSearch'
 import { TABLE_HEADERS, MOBILE, STATUS } from '../../constants/strings'
 
 interface ColDef {
@@ -77,8 +77,9 @@ interface ResultsTableProps {
   indexOfFirstItem: number
   indexOfLastItem: number
   ITEMS_PER_PAGE: number
-  sortConfig: SortConfig
-  requestSort: (key: SortKey) => void
+  sortConfig?: SortConfig
+  requestSort?: (key: SortKey) => void
+  dataSource?: DataSource
 }
 
 export default function ResultsTable({
@@ -96,8 +97,9 @@ export default function ResultsTable({
   indexOfFirstItem,
   indexOfLastItem,
   ITEMS_PER_PAGE,
-  sortConfig,
-  requestSort,
+  sortConfig: _sortConfig,
+  requestSort: _requestSort,
+  dataSource = 'skt',
 }: ResultsTableProps) {
   const [showScrollTop, setScrollTop] = useState(false)
 
@@ -108,7 +110,37 @@ export default function ResultsTable({
   }, [])
 
   const isGlobal = searchScope === 'global'
-  const cols = useMemo(() => (isGlobal ? GLOBAL_COLS : FORMATION_COLS), [isGlobal])
+  const isSkt = dataSource === 'skt'
+
+  const cols = useMemo<ColDef[]>(() => {
+    if (isGlobal) {
+      if (isSkt) {
+        return [
+          { key: 'no', label: TABLE_HEADERS.no, sortable: true },
+          { key: 'nama', label: TABLE_HEADERS.nama, sortable: true },
+          { key: 'jabatanNama', label: TABLE_HEADERS.jabatanLokasi, sortable: true },
+          { key: 'total_cat', label: TABLE_HEADERS.kompetensiCat, sortable: true },
+          { key: 'total_skt', label: TABLE_HEADERS.kompetensiTambahan, sortable: true },
+          { key: 'total', label: TABLE_HEADERS.totalIntegrasi, sortable: true },
+          { key: 'status', label: TABLE_HEADERS.status, sortable: true },
+        ]
+      }
+      return GLOBAL_COLS
+    }
+
+    if (isSkt) {
+      return [
+        { key: 'no', label: TABLE_HEADERS.no, sortable: true },
+        { key: 'nama', label: TABLE_HEADERS.nama, sortable: true },
+        { key: 'total_cat', label: TABLE_HEADERS.kompetensiCat, sortable: true },
+        { key: 'total_skt', label: TABLE_HEADERS.kompetensiTambahan, sortable: true },
+        { key: 'total', label: TABLE_HEADERS.totalIntegrasi, sortable: true },
+        { key: 'status', label: TABLE_HEADERS.status, sortable: true },
+      ]
+    }
+
+    return FORMATION_COLS
+  }, [isGlobal, isSkt])
 
   // Tentukan variant EmptyState yang perlu ditampilkan (null = ada data)
   const emptyVariant = resolveEmptyVariant({
@@ -121,27 +153,7 @@ export default function ResultsTable({
   })
 
   const renderHeader = (col: ColDef) => {
-    const isSorted = sortConfig?.key === col.key
-    const dir = sortConfig?.direction
-
-    if (!col.sortable) {
-      return <th key={col.key}>{col.label}</th>
-    }
-
-    return (
-      <th
-        key={col.key}
-        className={`sortable${isSorted ? ' sorted' : ''}`}
-        onClick={() => requestSort(col.key)}
-        title={TABLE_HEADERS.sortHint(col.label)}
-        aria-sort={isSorted ? (dir === 'asc' ? 'ascending' : 'descending') : 'none'}
-      >
-        {col.label}
-        <span className="sort-indicator" aria-hidden="true">
-          {isSorted ? (dir === 'asc' ? ' ▲' : ' ▼') : ' ↕'}
-        </span>
-      </th>
-    )
+    return <th key={col.key}>{col.label}</th>
   }
 
   return (
@@ -169,13 +181,31 @@ export default function ResultsTable({
               <tbody>
                 {displayItems.map((row, i) => (
                   <tr key={`${row.nomor_peserta || row.no}-${i}`}>
-                    <td className="cell-no">{row.no}</td>
-                    <td className="cell-nomor">
-                      <Highlight text={row.nomor_peserta} query={activeQuery} />
-                    </td>
-                    <td className="cell-nama">
-                      <Highlight text={row.nama} query={activeQuery} />
-                    </td>
+                    <td className="cell-no">{indexOfFirstItem + i + 1}</td>
+
+                    {isSkt ? (
+                      <td className="cell-nama cell-nama--combined">
+                        <div className="cell-nama__wrap">
+                          <div className="cell-nama__text">
+                            <Highlight text={row.nama} query={activeQuery} />
+                          </div>
+                          {row.nomor_peserta && (
+                            <div className="cell-nama__nomor">
+                              <Highlight text={row.nomor_peserta} query={activeQuery} />
+                            </div>
+                          )}
+                        </div>
+                      </td>
+                    ) : (
+                      <>
+                        <td className="cell-nomor">
+                          <Highlight text={row.nomor_peserta} query={activeQuery} />
+                        </td>
+                        <td className="cell-nama">
+                          <Highlight text={row.nama} query={activeQuery} />
+                        </td>
+                      </>
+                    )}
 
                     {isGlobal && (
                       <td className="cell-formasi-info cell-formasi-combined">
@@ -188,10 +218,74 @@ export default function ResultsTable({
                       </td>
                     )}
 
-                    <td className="cell-score cell-teknis">{row.teknis ?? '-'}</td>
-                    <td className="cell-score cell-manajerial">{row.manajerial ?? '-'}</td>
-                    <td className="cell-score cell-soskul">{row.sosial_kultural ?? '-'}</td>
-                    <td className="cell-score cell-wawancara">{row.wawancara ?? '-'}</td>
+                    {isSkt ? (
+                      <>
+                        {/* Kolom Kompetensi CAT */}
+                        <td className="cell-score-group cell-kompetensi-cat">
+                          <div className="score-group">
+                            <div className="score-group__grid">
+                              <div className="score-subitem">
+                                <span className="score-subitem__label">{TABLE_HEADERS.teknis}</span>
+                                <span className="score-subitem__val">{row.teknis ?? '-'}</span>
+                              </div>
+                              <div className="score-subitem">
+                                <span className="score-subitem__label">{TABLE_HEADERS.manajerial}</span>
+                                <span className="score-subitem__val">{row.manajerial ?? '-'}</span>
+                              </div>
+                              <div className="score-subitem">
+                                <span className="score-subitem__label">{TABLE_HEADERS.sosialKultural}</span>
+                                <span className="score-subitem__val">{row.sosial_kultural ?? '-'}</span>
+                              </div>
+                              <div className="score-subitem">
+                                <span className="score-subitem__label">{TABLE_HEADERS.wawancara}</span>
+                                <span className="score-subitem__val">{row.wawancara ?? '-'}</span>
+                              </div>
+                            </div>
+                            <div className="score-subitem-total">
+                              <span className="score-subitem-total__label">{TABLE_HEADERS.totalCat}</span>
+                              <span className="score-subitem-total__val">{row.total_cat ?? '-'}</span>
+                            </div>
+                          </div>
+                        </td>
+
+                        {/* Kolom Kompetensi Tambahan */}
+                        <td className="cell-score-group cell-kompetensi-tambahan">
+                          <div className="score-group">
+                            <div className="score-group__grid">
+                              <div
+                                className={`score-subitem${row.inggris === undefined && row.wawancara_skt === undefined ? ' score-subitem--full' : ''}`}
+                              >
+                                <span className="score-subitem__label">{TABLE_HEADERS.psikotes}</span>
+                                <span className="score-subitem__val">{row.psikotes ?? '-'}</span>
+                              </div>
+                              {row.inggris !== undefined && (
+                                <div className="score-subitem">
+                                  <span className="score-subitem__label">{TABLE_HEADERS.inggris}</span>
+                                  <span className="score-subitem__val">{row.inggris ?? '-'}</span>
+                                </div>
+                              )}
+                              {row.wawancara_skt !== undefined && (
+                                <div className="score-subitem score-subitem--full">
+                                  <span className="score-subitem__label">{TABLE_HEADERS.wawancaraSkt}</span>
+                                  <span className="score-subitem__val">{row.wawancara_skt ?? '-'}</span>
+                                </div>
+                              )}
+                            </div>
+                            <div className="score-subitem-total score-subitem-total--skt">
+                              <span className="score-subitem-total__label">{TABLE_HEADERS.totalSkt}</span>
+                              <span className="score-subitem-total__val">{row.total_skt ?? row.psikotes ?? '-'}</span>
+                            </div>
+                          </div>
+                        </td>
+                      </>
+                    ) : (
+                      <>
+                        <td className="cell-score cell-teknis">{row.teknis ?? '-'}</td>
+                        <td className="cell-score cell-manajerial">{row.manajerial ?? '-'}</td>
+                        <td className="cell-score cell-soskul">{row.sosial_kultural ?? '-'}</td>
+                        <td className="cell-score cell-wawancara">{row.wawancara ?? '-'}</td>
+                      </>
+                    )}
                     <td className="cell-total">
                       <span className="desktop-total-val">{row.total ?? '-'}</span>
                     </td>
@@ -206,44 +300,6 @@ export default function ResultsTable({
 
           {/* 2. Tampilan Mobile Cards (hanya di max-width: 768px, bebas scroll horizontal) */}
           <div className="results-cards__mobile">
-            {/* Bilah Pengurutan Cepat di Mobile */}
-            {/* <div className="results-mobile-sort">
-              <div className="results-mobile-sort__field">
-                <span className="results-mobile-sort__icon" aria-hidden="true">⇅</span>
-                <label htmlFor="mobile-sort-select" className="results-mobile-sort__label">
-                  {MOBILE.sortBy}
-                </label>
-                <select
-                  id="mobile-sort-select"
-                  className="results-mobile-sort__select"
-                  value={sortConfig?.key || ''}
-                  onChange={(e) => {
-                    const val = e.target.value as SortKey
-                    requestSort(val || 'no')
-                  }}
-                >
-                  <option value="">{MOBILE.sortDefault}</option>
-                  {cols.filter(c => c.sortable && c.key !== 'no').map(col => (
-                    <option key={col.key} value={col.key}>
-                      {col.label}
-                    </option>
-                  ))}
-                </select>
-              </div>
-
-              {sortConfig?.key && (
-                <button
-                  type="button"
-                  className="results-mobile-sort__dir-btn"
-                  onClick={() => requestSort(sortConfig.key!)}
-                  title={sortConfig.direction === 'asc' ? 'Urutan naik (A-Z / terkecil)' : 'Urutan turun (Z-A / terbesar)'}
-                  aria-label="Ubah arah pengurutan"
-                >
-                  {sortConfig.direction === 'asc' ? '▲ Naik' : '▼ Turun'}
-                </button>
-              )}
-            </div> */}
-
             {/* Daftar Kartu Peserta */}
             <div className="participant-card-list">
               {displayItems.map((row, i) => (
@@ -252,12 +308,12 @@ export default function ResultsTable({
                   <div className="participant-card__header">
                     <div className="participant-card__badges">
                       <span className="participant-card__rank">
-                        {MOBILE.rankLabel(row.no)}
+                        {MOBILE.rankLabel(indexOfFirstItem + i + 1)}
                       </span>
                       <StatusBadge status={row.status} />
                     </div>
                     <div className="participant-card__total">
-                      <span className="participant-card__total-label">{MOBILE.totalSkorLabel}</span>
+                      <span className="participant-card__total-label">{isSkt ? TABLE_HEADERS.totalIntegrasi : MOBILE.totalSkorLabel}</span>
                       <span className="participant-card__total-val">{row.total ?? '-'}</span>
                     </div>
                   </div>
@@ -289,25 +345,87 @@ export default function ResultsTable({
                     </div>
                   )}
 
-                  {/* Grid Rincian Nilai / Skor */}
-                  <div className="participant-card__scores">
-                    <div className="participant-card__score-item">
-                      <span className="score-label">{TABLE_HEADERS.teknis}</span>
-                      <span className="score-value">{row.teknis ?? '-'}</span>
+                  {/* Rincian Nilai / Skor */}
+                  {isSkt ? (
+                    <div className="participant-card__skt-groups">
+                      {/* Kelompok Kompetensi CAT */}
+                      <div className="card-score-group">
+                        <div className="card-score-group__header">
+                          <span className="card-score-group__title">{TABLE_HEADERS.kompetensiCat}</span>
+                          <span className="card-score-group__total">
+                            {TABLE_HEADERS.totalCat}: <strong>{row.total_cat ?? '-'}</strong>
+                          </span>
+                        </div>
+                        <div className="card-score-group__grid">
+                          <div className="participant-card__score-item">
+                            <span className="score-label">{TABLE_HEADERS.teknis}</span>
+                            <span className="score-value">{row.teknis ?? '-'}</span>
+                          </div>
+                          <div className="participant-card__score-item">
+                            <span className="score-label">{TABLE_HEADERS.manajerial}</span>
+                            <span className="score-value">{row.manajerial ?? '-'}</span>
+                          </div>
+                          <div className="participant-card__score-item">
+                            <span className="score-label">{TABLE_HEADERS.sosialKultural}</span>
+                            <span className="score-value">{row.sosial_kultural ?? '-'}</span>
+                          </div>
+                          <div className="participant-card__score-item">
+                            <span className="score-label">{TABLE_HEADERS.wawancara}</span>
+                            <span className="score-value">{row.wawancara ?? '-'}</span>
+                          </div>
+                        </div>
+                      </div>
+
+                      {/* Kelompok Kompetensi Tambahan */}
+                      <div className="card-score-group card-score-group--skt">
+                        <div className="card-score-group__header">
+                          <span className="card-score-group__title">{TABLE_HEADERS.kompetensiTambahan}</span>
+                          <span className="card-score-group__total">
+                            {TABLE_HEADERS.totalSkt}: <strong>{row.total_skt ?? row.psikotes ?? '-'}</strong>
+                          </span>
+                        </div>
+                        <div className="card-score-group__grid">
+                          <div
+                            className={`participant-card__score-item${row.inggris === undefined && row.wawancara_skt === undefined ? ' participant-card__score-item--full' : ''}`}
+                          >
+                            <span className="score-label">{TABLE_HEADERS.psikotes}</span>
+                            <span className="score-value">{row.psikotes ?? '-'}</span>
+                          </div>
+                          {row.inggris !== undefined && (
+                            <div className="participant-card__score-item">
+                              <span className="score-label">{TABLE_HEADERS.inggris}</span>
+                              <span className="score-value">{row.inggris ?? '-'}</span>
+                            </div>
+                          )}
+                          {row.wawancara_skt !== undefined && (
+                            <div className="participant-card__score-item participant-card__score-item--full">
+                              <span className="score-label">{TABLE_HEADERS.wawancaraSkt}</span>
+                              <span className="score-value">{row.wawancara_skt ?? '-'}</span>
+                            </div>
+                          )}
+                        </div>
+                      </div>
                     </div>
-                    <div className="participant-card__score-item">
-                      <span className="score-label">{TABLE_HEADERS.manajerial}</span>
-                      <span className="score-value">{row.manajerial ?? '-'}</span>
+                  ) : (
+                    <div className="participant-card__scores">
+                      <div className="participant-card__score-item">
+                        <span className="score-label">{TABLE_HEADERS.teknis}</span>
+                        <span className="score-value">{row.teknis ?? '-'}</span>
+                      </div>
+                      <div className="participant-card__score-item">
+                        <span className="score-label">{TABLE_HEADERS.manajerial}</span>
+                        <span className="score-value">{row.manajerial ?? '-'}</span>
+                      </div>
+                      <div className="participant-card__score-item">
+                        <span className="score-label">{TABLE_HEADERS.sosialKultural}</span>
+                        <span className="score-value">{row.sosial_kultural ?? '-'}</span>
+                      </div>
+                      <div className="participant-card__score-item">
+                        <span className="score-label">{TABLE_HEADERS.wawancara}</span>
+                        <span className="score-value">{row.wawancara ?? '-'}</span>
+                      </div>
                     </div>
-                    <div className="participant-card__score-item">
-                      <span className="score-label">{TABLE_HEADERS.sosialKultural}</span>
-                      <span className="score-value">{row.sosial_kultural ?? '-'}</span>
-                    </div>
-                    <div className="participant-card__score-item">
-                      <span className="score-label">{TABLE_HEADERS.wawancara}</span>
-                      <span className="score-value">{row.wawancara ?? '-'}</span>
-                    </div>
-                  </div>
+                  )}
                 </article>
               ))}
             </div>

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002412",
+      "nama": "SRI WAHYUNI",
+      "teknis": 205,
+      "manajerial": 86,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total_cat": 397,
+      "psikotes": 81.02,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.46734,
+      "total": 66.3605,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001481",
+      "nama": "MUHAMMAD WAHYU SAPUTRA",
+      "teknis": 205,
+      "manajerial": 91,
+      "sosial_kultural": 72,
+      "wawancara": 36,
+      "total_cat": 404,
+      "psikotes": 66.89,
+      "inggris": 62.48,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.51888,
+      "total": 60.9087,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120006608",
+      "nama": "RISA ARIYANTI",
+      "teknis": 175,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total_cat": 373,
+      "psikotes": 66.88,
+      "inggris": 66.91,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.62112,
+      "total": 60.1464,
+      "status": "P"
+    }
+  ]
+}

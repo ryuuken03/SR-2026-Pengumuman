@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008917",
+      "nama": "ARISTIYANINGSIH",
+      "teknis": 300,
+      "manajerial": 99,
+      "sosial_kultural": 75,
+      "wawancara": 32,
+      "total_cat": 506,
+      "psikotes": 70.46,
+      "inggris": 57.61,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.13134,
+      "total": 71.3269,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003605",
+      "nama": "DIAN NURUL FATHONAH",
+      "teknis": 305,
+      "manajerial": 96,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total_cat": 514,
+      "psikotes": 70.47,
+      "inggris": 58.64,
+      "wawancara_skt": 55.5556,
+      "total_skt": 65.12112,
+      "total": 70.9188,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003026",
+      "nama": "RIZQI NURUL IRFANI",
+      "teknis": 305,
+      "manajerial": 94,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total_cat": 516,
+      "psikotes": 68.02,
+      "inggris": 61,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.12312,
+      "total": 70.569,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003684",
+      "nama": "RANI WIDIASTUTI",
+      "teknis": 290,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 493,
+      "psikotes": 65.76,
+      "inggris": 55.1,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.80934,
+      "total": 68.6957,
+      "status": "P"
+    }
+  ]
+}

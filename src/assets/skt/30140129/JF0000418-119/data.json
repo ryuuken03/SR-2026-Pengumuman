@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000585",
+      "nama": "EGA BINTANG PRAYOGA",
+      "teknis": 250,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total_cat": 445,
+      "psikotes": 81.03,
+      "inggris": 53.18,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.58734,
+      "total": 69.5026,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005824",
+      "nama": "RIFAH TYARA KURNIA MAHARANI",
+      "teknis": 235,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 438,
+      "psikotes": 57.4,
+      "inggris": 54.21,
+      "wawancara_skt": 66.6667,
+      "total_skt": 58.61534,
+      "total": 61.9942,
+      "status": "TMS"
+    }
+  ]
+}

@@ -3,8 +3,10 @@
    bersifat expandable (default: collapsed) dengan tabel responsif & kartu mobile.
    ─────────────────────────────────────────────────────────── */
 import { useState } from 'react'
-import { REKAP } from '../../constants/strings'
-import rekapData from '../../assets/selkom/rekap_stats.json'
+import { REKAP, DATA_SOURCE } from '../../constants/strings'
+import selkomStats from '../../assets/selkom/rekap_stats.json'
+import sktStats from '../../assets/skt/rekap_stats.json'
+import type { DataSource } from '../../hooks/useSelkomSearch'
 
 interface CategoryStats {
   jabatan: number
@@ -43,12 +45,15 @@ interface MetricGroup {
   items: MetricItem[]
 }
 
-const stats: RekapStatsData = rekapData
-
 const fmt = (num: number): string => num.toLocaleString('id-ID')
 
-export default function GlobalSummary() {
+interface GlobalSummaryProps {
+  dataSource?: DataSource
+}
+
+export default function GlobalSummary({ dataSource = 'selkom' }: GlobalSummaryProps) {
   const [isOpen, setIsOpen] = useState<boolean>(false)
+  const stats: RekapStatsData = dataSource === 'skt' ? sktStats : selkomStats
 
   const toggleOpen = () => {
     setIsOpen(prev => !prev)
@@ -150,31 +155,31 @@ export default function GlobalSummary() {
         },
         ...(stats.guru.tms > 0 || stats.teknis.tms > 0
           ? [
-              {
-                key: 'tms',
-                title: REKAP.metricTMS,
-                badge: 'TMS',
-                badgeClass: 'status-badge--tms',
-                guru: stats.guru.tms,
-                teknis: stats.teknis.tms,
-                total: stats.total.tms,
-                variant: 'muted' as const,
-              },
-            ]
+            {
+              key: 'tms',
+              title: REKAP.metricTMS,
+              badge: 'TMS',
+              badgeClass: 'status-badge--tms',
+              guru: stats.guru.tms,
+              teknis: stats.teknis.tms,
+              total: stats.total.tms,
+              variant: 'muted' as const,
+            },
+          ]
           : []),
         ...(stats.guru.aps > 0 || stats.teknis.aps > 0
           ? [
-              {
-                key: 'aps',
-                title: REKAP.metricAPS,
-                badge: 'APS',
-                badgeClass: 'status-badge--aps',
-                guru: stats.guru.aps,
-                teknis: stats.teknis.aps,
-                total: stats.total.aps,
-                variant: 'muted' as const,
-              },
-            ]
+            {
+              key: 'aps',
+              title: REKAP.metricAPS,
+              badge: 'APS',
+              badgeClass: 'status-badge--aps',
+              guru: stats.guru.aps,
+              teknis: stats.teknis.aps,
+              total: stats.total.aps,
+              variant: 'muted' as const,
+            },
+          ]
           : []),
       ],
     },
@@ -210,7 +215,10 @@ export default function GlobalSummary() {
 
           <div className="global-summary__trigger-text">
             <span className="global-summary__title">{REKAP.title}</span>
-            <span className="global-summary__subtitle">{REKAP.subtitle}</span>
+            <span className="global-summary__subtitle">
+              {/* {REKAP.subtitle} ·  */}
+              {dataSource === 'skt' ? DATA_SOURCE.sktOption : DATA_SOURCE.catOption}
+            </span>
           </div>
         </div>
 
@@ -403,9 +411,9 @@ export default function GlobalSummary() {
             ))}
           </div>
 
-          <div className="global-summary__footer">
+          {/* <div className="global-summary__footer">
             <p>{REKAP.footerNote}</p>
-          </div>
+          </div> */}
         </div>
       )}
     </section>

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006026",
+      "nama": "EKI YULIA SUSANTI",
+      "teknis": 210,
+      "manajerial": 82,
+      "sosial_kultural": 64,
+      "wawancara": 36,
+      "total_cat": 392,
+      "psikotes": 81.03,
+      "inggris": 97.49,
+      "wawancara_skt": 88.8889,
+      "total_skt": 85.89378,
+      "total": 72.2006,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000280",
+      "nama": "CAHYA HADI KUSUMA",
+      "teknis": 185,
+      "manajerial": 92,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total_cat": 384,
+      "psikotes": 68.01,
+      "inggris": 54.21,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.75912,
+      "total": 60.0363,
+      "status": "P/L"
+    }
+  ]
+}

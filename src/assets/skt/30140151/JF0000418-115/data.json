@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007852",
+      "nama": "ELSA MUNTIANA MERRY",
+      "teknis": 210,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 407,
+      "psikotes": 71.01,
+      "inggris": 65.44,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.02734,
+      "total": 64.8868,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006939",
+      "nama": "NURLINDA",
+      "teknis": 235,
+      "manajerial": 86,
+      "sosial_kultural": 64,
+      "wawancara": 38,
+      "total_cat": 423,
+      "psikotes": 47.66,
+      "inggris": 58.64,
+      "wawancara_skt": 33.3333,
+      "total_skt": 46.99066,
+      "total": 55.0625,
+      "status": "TMS"
+    }
+  ]
+}

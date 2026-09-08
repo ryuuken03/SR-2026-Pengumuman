@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003293",
+      "nama": "NURSITO",
+      "teknis": 205,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 35,
+      "total_cat": 402,
+      "psikotes": 81.03,
+      "inggris": 53.62,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.67534,
+      "total": 66.3377,
+      "status": "P/L"
+    }
+  ]
+}

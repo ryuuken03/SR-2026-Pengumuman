@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007639",
+      "nama": "DAINTY RESY SUCIATI",
+      "teknis": 220,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 35,
+      "total_cat": 426,
+      "psikotes": 81.03,
+      "inggris": 61.6,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.27134,
+      "total": 68.9267,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002165",
+      "nama": "AWAL DHARMAWAN",
+      "teknis": 180,
+      "manajerial": 88,
+      "sosial_kultural": 62,
+      "wawancara": 38,
+      "total_cat": 368,
+      "psikotes": 50.67,
+      "inggris": 52.14,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.94112,
+      "total": 53.4332,
+      "status": "TMS"
+    }
+  ]
+}

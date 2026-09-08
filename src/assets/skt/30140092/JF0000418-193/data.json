@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000972",
+      "nama": "HANIF ARKHAN AL ASYRAFI",
+      "teknis": 205,
+      "manajerial": 90,
+      "sosial_kultural": 67,
+      "wawancara": 39,
+      "total_cat": 401,
+      "psikotes": 66.31,
+      "inggris": 61,
+      "wawancara_skt": 44.4444,
+      "total_skt": 60.87488,
+      "total": 60.3628,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002011",
+      "nama": "SINTA NAULI PASARIBU",
+      "teknis": 110,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 313,
+      "psikotes": 50.14,
+      "inggris": 54.65,
+      "wawancara_skt": 44.4444,
+      "total_skt": 49.90288,
+      "total": 48.3097,
+      "status": "TMS"
+    }
+  ]
+}

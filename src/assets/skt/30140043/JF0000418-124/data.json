@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002423",
+      "nama": "MUHAMMAD RIZQI KHOIRULLAH",
+      "teknis": 265,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total_cat": 469,
+      "psikotes": 81.02,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.25934,
+      "total": 71.6297,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001919",
+      "nama": "HERANDI TAUFIK SALIM",
+      "teknis": 265,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 31,
+      "total_cat": 457,
+      "psikotes": 54.67,
+      "inggris": 59.08,
+      "wawancara_skt": 44.4444,
+      "total_skt": 53.50688,
+      "total": 60.8579,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001081",
+      "nama": "SYAHRUL ADHIM",
+      "teknis": 260,
+      "manajerial": 87,
+      "sosial_kultural": 65,
+      "wawancara": 31,
+      "total_cat": 443,
+      "psikotes": 44.78,
+      "inggris": 54.65,
+      "wawancara_skt": 55.5556,
+      "total_skt": 48.90912,
+      "total": 57.5143,
+      "status": "TMS"
+    }
+  ]
+}

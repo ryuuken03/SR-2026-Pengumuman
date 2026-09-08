@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001693",
+      "nama": "AFRIDA ARYANA AZAHRO",
+      "teknis": 250,
+      "manajerial": 98,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 458,
+      "psikotes": 82.33,
+      "inggris": 74.3,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.59134,
+      "total": 72.9748,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003601",
+      "nama": "DIANA NURIA PUTRI",
+      "teknis": 280,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 39,
+      "total_cat": 489,
+      "psikotes": 70.27,
+      "inggris": 83.75,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.24534,
+      "total": 72.6152,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120002957",
+      "nama": "BERTHA YUWANDA RAHMANDANI",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 415,
+      "psikotes": 70.26,
+      "inggris": 77.25,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.93934,
+      "total": 66.4398,
+      "status": "P"
+    }
+  ]
+}

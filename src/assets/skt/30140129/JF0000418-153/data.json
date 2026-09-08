@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001925",
+      "nama": "FEBRIAN EVAYANTI",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 76,
+      "wawancara": 35,
+      "total_cat": 453,
+      "psikotes": 68.2,
+      "inggris": 51.7,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.37112,
+      "total": 64.9915,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004874",
+      "nama": "HOFIFAH INDRA SARI",
+      "teknis": 320,
+      "manajerial": 94,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 527,
+      "psikotes": 49.86,
+      "inggris": 54.21,
+      "wawancara_skt": 44.4444,
+      "total_skt": 49.64688,
+      "total": 64.1518,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001249",
+      "nama": "TAUFIK HIDAYAT",
+      "teknis": 295,
+      "manajerial": 87,
+      "sosial_kultural": 66,
+      "wawancara": 34,
+      "total_cat": 482,
+      "psikotes": 43.54,
+      "inggris": 50.22,
+      "wawancara_skt": 44.4444,
+      "total_skt": 45.05688,
+      "total": 58.4986,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120004529",
+      "nama": "FASIKHA",
+      "teknis": 255,
+      "manajerial": 86,
+      "sosial_kultural": 74,
+      "wawancara": 37,
+      "total_cat": 452,
+      "psikotes": 47.52,
+      "inggris": 48.74,
+      "wawancara_skt": 55.5556,
+      "total_skt": 49.37112,
+      "total": 58.4169,
+      "status": "TMS"
+    }
+  ]
+}

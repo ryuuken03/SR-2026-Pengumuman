@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000470",
+      "nama": "FIRMAN SAPUTRA",
+      "teknis": 225,
+      "manajerial": 76,
+      "sosial_kultural": 67,
+      "wawancara": 35,
+      "total_cat": 403,
+      "psikotes": 68.02,
+      "inggris": 52.14,
+      "wawancara_skt": 77.7778,
+      "total_skt": 66.79556,
+      "total": 63.4724,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000147",
+      "nama": "MUTIA HARUM HSB",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 39,
+      "total_cat": 446,
+      "psikotes": 81.02,
+      "inggris": 53.18,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.58134,
+      "total": 69.5742,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006626",
+      "nama": "RIA KARINA",
+      "teknis": 245,
+      "manajerial": 94,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total_cat": 444,
+      "psikotes": 49.3,
+      "inggris": 67.5,
+      "wawancara_skt": 66.6667,
+      "total_skt": 56.41334,
+      "total": 61.341,
+      "status": "TMS"
+    }
+  ]
+}

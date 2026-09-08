@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005959",
+      "nama": "TIARA NURDIAN ISLAMIATI",
+      "teknis": 250,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 37,
+      "total_cat": 447,
+      "psikotes": 81.03,
+      "inggris": 64.55,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.86134,
+      "total": 70.7889,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005149",
+      "nama": "ELSA WULANDARI",
+      "teknis": 250,
+      "manajerial": 92,
+      "sosial_kultural": 65,
+      "wawancara": 36,
+      "total_cat": 443,
+      "psikotes": 82.12,
+      "inggris": 41.36,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.87734,
+      "total": 68.4984,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120005020",
+      "nama": "IRMA AULIA",
+      "teknis": 210,
+      "manajerial": 87,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total_cat": 407,
+      "psikotes": 38.29,
+      "inggris": 52.73,
+      "wawancara_skt": 66.6667,
+      "total_skt": 46.85334,
+      "total": 53.7998,
+      "status": "TMS"
+    }
+  ]
+}

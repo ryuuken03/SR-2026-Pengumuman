@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006577",
+      "nama": "EKA",
+      "teknis": 225,
+      "manajerial": 88,
+      "sosial_kultural": 67,
+      "wawancara": 33,
+      "total_cat": 413,
+      "psikotes": 53.88,
+      "inggris": 59.53,
+      "wawancara_skt": 66.6667,
+      "total_skt": 57.56734,
+      "total": 59.6046,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003621",
+      "nama": "APRILIYANI",
+      "teknis": 205,
+      "manajerial": 88,
+      "sosial_kultural": 70,
+      "wawancara": 40,
+      "total_cat": 403,
+      "psikotes": 49.72,
+      "inggris": 59.08,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.53688,
+      "total": 55.3431,
+      "status": "TMS"
+    }
+  ]
+}

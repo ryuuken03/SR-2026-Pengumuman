@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006130",
+      "nama": "RIKA RAHMI",
+      "teknis": 285,
+      "manajerial": 91,
+      "sosial_kultural": 62,
+      "wawancara": 38,
+      "total_cat": 476,
+      "psikotes": 81.02,
+      "inggris": 63.96,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.73734,
+      "total": 72.8911,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002669",
+      "nama": "DZYKRA SALSABILA",
+      "teknis": 310,
+      "manajerial": 84,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 502,
+      "psikotes": 68.76,
+      "inggris": 59.08,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.40534,
+      "total": 70.6654,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120003606",
+      "nama": "BRILLIANY DWI MITRY",
+      "teknis": 265,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 34,
+      "total_cat": 461,
+      "psikotes": 71.57,
+      "inggris": 54.21,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.11734,
+      "total": 67.9617,
+      "status": "P"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120007838",
+      "nama": "PUPUT MIA ANJELA",
+      "teknis": 305,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 505,
+      "psikotes": 50.14,
+      "inggris": 53.62,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.14134,
+      "total": 64.7572,
+      "status": "TMS"
+    }
+  ]
+}

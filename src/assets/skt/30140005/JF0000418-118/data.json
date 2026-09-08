@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002233",
+      "nama": "NURUL MUSTIKA DEWI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 443,
+      "psikotes": 81.03,
+      "inggris": 53.18,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.58734,
+      "total": 69.3534,
+      "status": "P/L"
+    }
+  ]
+}

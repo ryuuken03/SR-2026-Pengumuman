@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007670",
+      "nama": "ZAHRA FAJARANI AURAVITA",
+      "teknis": 240,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 32,
+      "total_cat": 429,
+      "psikotes": 72.68,
+      "inggris": 83.16,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.57334,
+      "total": 68.8016,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003123",
+      "nama": "FIANITA EKA PUTRI",
+      "teknis": 195,
+      "manajerial": 94,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 397,
+      "psikotes": 81.03,
+      "inggris": 58.64,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.90156,
+      "total": 67.5776,
+      "status": "P"
+    }
+  ]
+}

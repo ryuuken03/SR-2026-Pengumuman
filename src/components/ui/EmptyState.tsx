@@ -27,12 +27,12 @@ export default function EmptyState({ variant, activeQuery = '' }: EmptyStateProp
   }
 
   if (variant === 'global-idle') {
-    const { title, desc, hint } = EMPTY.globalIdle
+    const { title, hint } = EMPTY.globalIdle
     return (
       <div className="empty-state-wrapper">
         <h2 className="empty-state__title">{title}</h2>
-        <p className="empty-state__desc">{desc}</p>
-        <p className="empty-state__hint">{hint}</p>
+        <p className="empty-state__desc">{hint}</p>
+        {/* <p className="empty-state__hint">{hint}</p> */}
       </div>
     )
   }

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000122",
+      "nama": "SANSAN HASTUTI NINGRUM",
+      "teknis": 210,
+      "manajerial": 95,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total_cat": 420,
+      "psikotes": 82.34,
+      "inggris": 64.55,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.64734,
+      "total": 69.167,
+      "status": "P/L-2"
+    }
+  ]
+}

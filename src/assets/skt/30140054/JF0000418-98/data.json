@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006424",
+      "nama": "KONITATUL AROFAH",
+      "teknis": 240,
+      "manajerial": 94,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 443,
+      "psikotes": 81.03,
+      "inggris": 71.94,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.33934,
+      "total": 71.2294,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005601",
+      "nama": "NURUL FATIMAH",
+      "teknis": 225,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 423,
+      "psikotes": 81.03,
+      "inggris": 55.1,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.97134,
+      "total": 68.0528,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000518",
+      "nama": "SA'ADATUL ABADIYAH",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 32,
+      "total_cat": 406,
+      "psikotes": 50.13,
+      "inggris": 52.73,
+      "wawancara_skt": 44.4444,
+      "total_skt": 49.51288,
+      "total": 55.0549,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410110002137",
+      "nama": "PRASETYA IQBAL MUSTI WICAKSANA",
+      "teknis": 215,
+      "manajerial": 78,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total_cat": 396,
+      "psikotes": 49.72,
+      "inggris": 59.08,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.53688,
+      "total": 54.8207,
+      "status": "TMS"
+    }
+  ]
+}

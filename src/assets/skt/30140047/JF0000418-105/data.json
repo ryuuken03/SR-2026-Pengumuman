@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008873",
+      "nama": "AMRINA ROSYADA",
+      "teknis": 245,
+      "manajerial": 89,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 440,
+      "psikotes": 68.76,
+      "inggris": 78.29,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.24734,
+      "total": 67.9595,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001633",
+      "nama": "PUJI RAHAYU NINGSIH",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total_cat": 420,
+      "psikotes": 47.65,
+      "inggris": 59.53,
+      "wawancara_skt": 55.5556,
+      "total_skt": 51.60712,
+      "total": 57.1468,
+      "status": "TMS"
+    }
+  ]
+}

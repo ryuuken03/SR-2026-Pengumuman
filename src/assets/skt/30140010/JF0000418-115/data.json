@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003110",
+      "nama": "DENI SEPTIAWAN",
+      "teknis": 200,
+      "manajerial": 88,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 400,
+      "psikotes": 81.02,
+      "inggris": 61.6,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.70978,
+      "total": 69.2056,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008476",
+      "nama": "GITHA DWI SUKMAWATI",
+      "teknis": 250,
+      "manajerial": 87,
+      "sosial_kultural": 63,
+      "wawancara": 33,
+      "total_cat": 433,
+      "psikotes": 49.84,
+      "inggris": 56.13,
+      "wawancara_skt": 66.6667,
+      "total_skt": 54.46334,
+      "total": 59.5451,
+      "status": "TMS"
+    }
+  ]
+}

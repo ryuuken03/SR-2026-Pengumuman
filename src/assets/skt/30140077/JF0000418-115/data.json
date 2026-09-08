@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000987",
+      "nama": "ARIA WIRAJA",
+      "teknis": 280,
+      "manajerial": 96,
+      "sosial_kultural": 78,
+      "wawancara": 40,
+      "total_cat": 494,
+      "psikotes": 81.03,
+      "inggris": 73.41,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.63334,
+      "total": 75.1823,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000403",
+      "nama": "TITIN ANGGRAINI",
+      "teknis": 275,
+      "manajerial": 88,
+      "sosial_kultural": 72,
+      "wawancara": 39,
+      "total_cat": 474,
+      "psikotes": 70.27,
+      "inggris": 66.91,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.87734,
+      "total": 69.8118,
+      "status": "P"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000120",
+      "nama": "TAUFIK SAMSUNAHAR YULIANTO",
+      "teknis": 255,
+      "manajerial": 93,
+      "sosial_kultural": 75,
+      "wawancara": 40,
+      "total_cat": 463,
+      "psikotes": 68.74,
+      "inggris": 59.08,
+      "wawancara_skt": 77.7778,
+      "total_skt": 68.61556,
+      "total": 68.86,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001529",
+      "nama": "MUHAMMAD LUTHFI NINDYATAMA",
+      "teknis": 250,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 450,
+      "psikotes": 70.26,
+      "inggris": 70.46,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.35912,
+      "total": 67.2617,
+      "status": "P/L-2"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002962",
+      "nama": "BAGAS INDRA KURNIAWAN",
+      "teknis": 265,
+      "manajerial": 87,
+      "sosial_kultural": 76,
+      "wawancara": 32,
+      "total_cat": 460,
+      "psikotes": 68.18,
+      "inggris": 52.14,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.66934,
+      "total": 66.663,
+      "status": "P/L-2"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120006785",
+      "nama": "MONITA MAWAR SAPUTRI",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 68,
+      "wawancara": 37,
+      "total_cat": 409,
+      "psikotes": 44.13,
+      "inggris": 67.95,
+      "wawancara_skt": 66.6667,
+      "total_skt": 53.40134,
+      "total": 57.2231,
+      "status": "TMS"
+    }
+  ]
+}

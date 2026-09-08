@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003095",
+      "nama": "ADHARIYANTI",
+      "teknis": 315,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 516,
+      "psikotes": 81.02,
+      "inggris": 70.46,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.03734,
+      "total": 76.5261,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004925",
+      "nama": "WIDIA DAMAYANTI",
+      "teknis": 270,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 469,
+      "psikotes": 81.79,
+      "inggris": 72.82,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.97134,
+      "total": 73.4857,
+      "status": "P/L"
+    }
+  ]
+}

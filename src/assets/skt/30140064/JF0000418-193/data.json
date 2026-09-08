@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000251",
+      "nama": "NONA FARAHDIBA",
+      "teknis": 210,
+      "manajerial": 95,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 409,
+      "psikotes": 82.12,
+      "inggris": 59.08,
+      "wawancara_skt": 66.6667,
+      "total_skt": 74.42134,
+      "total": 67.7331,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002861",
+      "nama": "SUBHAN MAULANA AMRI",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 68,
+      "wawancara": 40,
+      "total_cat": 412,
+      "psikotes": 70.26,
+      "inggris": 59.53,
+      "wawancara_skt": 77.7778,
+      "total_skt": 69.61756,
+      "total": 65.555,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001368",
+      "nama": "ASYARATIL ZAURA",
+      "teknis": 240,
+      "manajerial": 79,
+      "sosial_kultural": 72,
+      "wawancara": 34,
+      "total_cat": 425,
+      "psikotes": 65.77,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.29134,
+      "total": 64.3621,
+      "status": "P/L-2"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120003235",
+      "nama": "NANDA NOVERA",
+      "teknis": 170,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total_cat": 372,
+      "psikotes": 68.03,
+      "inggris": 53.18,
+      "wawancara_skt": 77.7778,
+      "total_skt": 67.00956,
+      "total": 61.266,
+      "status": "P/L"
+    }
+  ]
+}

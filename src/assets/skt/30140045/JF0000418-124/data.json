@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001791",
+      "nama": "NOFA NUR AZIZAH",
+      "teknis": 275,
+      "manajerial": 96,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 483,
+      "psikotes": 81.79,
+      "inggris": 59.08,
+      "wawancara_skt": 77.7778,
+      "total_skt": 76.44556,
+      "total": 74.2676,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002651",
+      "nama": "SRI WULANDARI",
+      "teknis": 330,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 33,
+      "total_cat": 529,
+      "psikotes": 0,
+      "inggris": 0,
+      "wawancara_skt": 0,
+      "total_skt": 0,
+      "total": 39.4776,
+      "status": "TH"
+    }
+  ]
+}

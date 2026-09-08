@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004008",
+      "nama": "NANDA TRIANA",
+      "teknis": 190,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total_cat": 390,
+      "psikotes": 81.02,
+      "inggris": 67.95,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.53534,
+      "total": 66.8721,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008852",
+      "nama": "NURWAHYUNI T",
+      "teknis": 220,
+      "manajerial": 92,
+      "sosial_kultural": 68,
+      "wawancara": 36,
+      "total_cat": 416,
+      "psikotes": 67.46,
+      "inggris": 76.81,
+      "wawancara_skt": 77.7778,
+      "total_skt": 71.39356,
+      "total": 66.7416,
+      "status": "P/L-2"
+    }
+  ]
+}

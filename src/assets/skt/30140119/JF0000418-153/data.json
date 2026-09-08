@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004194",
+      "nama": "FITRIANI",
+      "teknis": 300,
+      "manajerial": 92,
+      "sosial_kultural": 67,
+      "wawancara": 36,
+      "total_cat": 495,
+      "psikotes": 68.77,
+      "inggris": 42.39,
+      "wawancara_skt": 33.3333,
+      "total_skt": 56.40666,
+      "total": 65.1436,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000134",
+      "nama": "AHMAD UMARDANI",
+      "teknis": 260,
+      "manajerial": 82,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 446,
+      "psikotes": 47.67,
+      "inggris": 46.23,
+      "wawancara_skt": 66.6667,
+      "total_skt": 51.18134,
+      "total": 58.8743,
+      "status": "TMS"
+    }
+  ]
+}

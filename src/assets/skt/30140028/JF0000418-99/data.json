@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120000281",
+      "nama": "SELIN LESIANA",
+      "teknis": 230,
+      "manajerial": 93,
+      "sosial_kultural": 69,
+      "wawancara": 36,
+      "total_cat": 428,
+      "psikotes": 75.34,
+      "inggris": 82.72,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.08134,
+      "total": 69.481,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120006931",
+      "nama": "LAILIA DWI KHASANATIN",
+      "teknis": 210,
+      "manajerial": 99,
+      "sosial_kultural": 73,
+      "wawancara": 38,
+      "total_cat": 420,
+      "psikotes": 81.03,
+      "inggris": 70.9,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.13134,
+      "total": 69.409,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000342",
+      "nama": "MIKA ANISATUN KARIMAH",
+      "teknis": 180,
+      "manajerial": 83,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 367,
+      "psikotes": 81.02,
+      "inggris": 69.87,
+      "wawancara_skt": 77.7778,
+      "total_skt": 78.14156,
+      "total": 66.4588,
+      "status": "P/L"
+    }
+  ]
+}

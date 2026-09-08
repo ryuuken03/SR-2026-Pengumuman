@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120003354",
+      "nama": "ROSNAWATI",
+      "teknis": 200,
+      "manajerial": 89,
+      "sosial_kultural": 75,
+      "wawancara": 34,
+      "total_cat": 398,
+      "psikotes": 70.26,
+      "inggris": 69.87,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.24112,
+      "total": 63.3221,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002308",
+      "nama": "SUSANTI SESILIA SAALINO",
+      "teknis": 225,
+      "manajerial": 95,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total_cat": 428,
+      "psikotes": 50.59,
+      "inggris": 55.69,
+      "wawancara_skt": 55.5556,
+      "total_skt": 52.60312,
+      "total": 58.2419,
+      "status": "TMS"
+    }
+  ]
+}

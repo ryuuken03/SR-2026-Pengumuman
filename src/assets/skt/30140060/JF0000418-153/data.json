@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001392",
+      "nama": "ACHMAD HERIYANTO",
+      "teknis": 320,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 32,
+      "total_cat": 513,
+      "psikotes": 82.99,
+      "inggris": 52.73,
+      "wawancara_skt": 88.8889,
+      "total_skt": 78.11778,
+      "total": 77.3425,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120001372",
+      "nama": "SIWI PUTRI ANDINI",
+      "teknis": 240,
+      "manajerial": 82,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total_cat": 426,
+      "psikotes": 65.76,
+      "inggris": 49.78,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.74534,
+      "total": 63.1637,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120008625",
+      "nama": "NABILA SYAHIRA",
+      "teknis": 215,
+      "manajerial": 94,
+      "sosial_kultural": 75,
+      "wawancara": 38,
+      "total_cat": 422,
+      "psikotes": 49.04,
+      "inggris": 56.57,
+      "wawancara_skt": 44.4444,
+      "total_skt": 49.62688,
+      "total": 56.306,
+      "status": "TMS"
+    }
+  ]
+}

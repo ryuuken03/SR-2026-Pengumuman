@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006501",
+      "nama": "FITRI ROSYIDAH NUR PAKPAHAN",
+      "teknis": 145,
+      "manajerial": 87,
+      "sosial_kultural": 73,
+      "wawancara": 30,
+      "total_cat": 335,
+      "psikotes": 70.46,
+      "inggris": 55.69,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.52512,
+      "total": 57.2626,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002522",
+      "nama": "FAJRINNIDA DESFITRI",
+      "teknis": 210,
+      "manajerial": 93,
+      "sosial_kultural": 72,
+      "wawancara": 37,
+      "total_cat": 412,
+      "psikotes": 59.66,
+      "inggris": 66.47,
+      "wawancara_skt": 66.6667,
+      "total_skt": 62.42334,
+      "total": 61.9579,
+      "status": "TMS"
+    }
+  ]
+}

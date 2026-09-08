@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import './styles/index.css'
 import { useSelkomSearch } from './hooks/useSelkomSearch'
-import { APP, META, NAV } from './constants/strings'
+import { APP, META, NAV, FORMASI } from './constants/strings'
 import ThemeToggle from './components/layout/ThemeToggle'
 import AppFooter from './components/layout/AppFooter'
 import AboutPage from './components/about/AboutPage'
@@ -11,6 +11,7 @@ import SearchControls from './components/search/SearchControls'
 import ResultsTable from './components/results/ResultsTable'
 import SummaryCard from './components/results/SummaryCard'
 import GlobalSummary from './components/results/GlobalSummary'
+import DataSourceSelector from './components/search/DataSourceSelector'
 
 
 /* ── useTheme ─────────────────────────────────────────────── */
@@ -39,6 +40,9 @@ export default function App() {
   const [isChangelogOpen, setIsChangelogOpen] = useState(false)
 
   const {
+    // Data Source
+    dataSource,
+    setDataSource,
     // Formasi
     formasiTab,
     setFormasiTab,
@@ -49,11 +53,11 @@ export default function App() {
     setSelectedJabatan,
     selectedLokasi,
     setSelectedLokasi,
+    jabatanLabel,
+    lokasiLabel,
     // Scope
     searchScope,
-    setSearchScope,
-    requireSelectedFormasi,
-    setRequireSelectedFormasi,
+    globalTotalMatches,
     // Data
     summary,
     loading,
@@ -65,6 +69,7 @@ export default function App() {
     hasSearched,
     handleSearch,
     handleClear,
+    handleResetAll,
     // Pagination
     currentPage,
     setCurrentPage,
@@ -79,7 +84,21 @@ export default function App() {
     requestSort,
   } = useSelkomSearch()
 
+  const [isFilterModalOpen, setIsFilterModalOpen] = useState(false)
+
   const formasiReady = Boolean(selectedJabatan && selectedLokasi)
+  const formasiIncomplete = Boolean((selectedJabatan && !selectedLokasi) || (!selectedJabatan && selectedLokasi))
+  const hasActiveFormasi = Boolean(selectedJabatan || selectedLokasi)
+
+  const activeFormasiLabel = (formasiReady && jabatanLabel && lokasiLabel)
+    ? FORMASI.activeFilterLabel(jabatanLabel, lokasiLabel)
+    : undefined
+
+  const handleResetFormasi = () => {
+    setSelectedJabatan('')
+    setSelectedLokasi('')
+    setIsFilterModalOpen(false)
+  }
 
   return (
     <div className="app">
@@ -177,6 +196,12 @@ export default function App() {
         </div>
       </header>
 
+      {/* ── Dropdown Pilihan Sumber Data ───────────────── */}
+      <DataSourceSelector
+        dataSource={dataSource}
+        onSourceChange={setDataSource}
+      />
+
       {/* ── Main View: Search vs About ──────────────────── */}
       {activeTab === 'about' ? (
         <AboutPage
@@ -186,27 +211,23 @@ export default function App() {
       ) : (
         <>
           {/* ── Rekapitulasi Statistik PPPK Guru & Teknis (Expandable) ─── */}
-          <GlobalSummary />
+          <GlobalSummary dataSource={dataSource} />
 
-          {/* ── Formasi Selector (hanya tampil jika checkbox dicentang) ──── */}
-          {requireSelectedFormasi && (
-            <FormasiSelector
-              requireSelectedFormasi={requireSelectedFormasi}
-              setRequireSelectedFormasi={setRequireSelectedFormasi}
-              setSearchScope={setSearchScope}
-              handleClear={handleClear}
-              formasiTab={formasiTab}
-              setFormasiTab={setFormasiTab}
-              validJabatan={validJabatan}
-              validLokasi={validLokasi}
-              selectedJabatan={selectedJabatan}
-              setSelectedJabatan={setSelectedJabatan}
-              selectedLokasi={selectedLokasi}
-              setSelectedLokasi={setSelectedLokasi}
-              loadingMeta={loadingMeta}
-              searchScope={searchScope}
-            />
-          )}
+          {/* ── Formasi Selector: inline Desktop + modal Mobile ── */}
+          <FormasiSelector
+            isModalOpen={isFilterModalOpen}
+            onModalClose={() => setIsFilterModalOpen(false)}
+            formasiTab={formasiTab}
+            setFormasiTab={setFormasiTab}
+            validJabatan={validJabatan}
+            validLokasi={validLokasi}
+            selectedJabatan={selectedJabatan}
+            setSelectedJabatan={setSelectedJabatan}
+            selectedLokasi={selectedLokasi}
+            setSelectedLokasi={setSelectedLokasi}
+            loadingMeta={loadingMeta}
+            onResetFormasi={handleResetFormasi}
+          />
 
           {/* ── Summary Card (hanya jika formasi aktif terpilih) ──── */}
           {searchScope === 'formasi' && summary && <SummaryCard summary={summary} />}
@@ -218,11 +239,14 @@ export default function App() {
             handleSearch={handleSearch}
             hasSearched={hasSearched}
             handleClear={handleClear}
+            handleResetAll={handleResetAll}
             disabled={loading}
-            setSearchScope={setSearchScope}
-            requireSelectedFormasi={requireSelectedFormasi}
-            setRequireSelectedFormasi={setRequireSelectedFormasi}
+            searchScope={searchScope}
             formasiReady={formasiReady}
+            formasiIncomplete={formasiIncomplete}
+            hasActiveFormasi={hasActiveFormasi}
+            activeFormasiLabel={activeFormasiLabel}
+            onOpenFilterModal={() => setIsFilterModalOpen(true)}
           />
 
           {/* ── Meta Info ──────────────────────────────────── */}
@@ -232,10 +256,12 @@ export default function App() {
                 ? META.loading(progress)
                 : hasSearched
                   ? searchScope === 'global'
-                    ? META.resultGlobal(totalItems, activeQuery)
+                    ? META.resultGlobal(totalItems, activeQuery, globalTotalMatches)
                     : META.resultFormasi(totalItems, activeQuery)
                   : searchScope === 'global'
-                    ? ''
+                    ? query.trim().length === 1 && !/^\d+$/.test(query.trim())
+                      ? META.minQueryNotice
+                      : ''
                     : formasiReady
                       ? totalItems > 0
                         ? META.formasiTotal(totalItems)
@@ -251,6 +277,7 @@ export default function App() {
 
           {/* ── Results Table ──────────────────────────────── */}
           <ResultsTable
+            dataSource={dataSource}
             displayItems={displayItems}
             loading={loading}
             hasSearched={hasSearched}

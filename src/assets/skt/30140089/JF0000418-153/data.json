@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001531",
+      "nama": "SUCI SRI RAHAYU",
+      "teknis": 230,
+      "manajerial": 85,
+      "sosial_kultural": 75,
+      "wawancara": 35,
+      "total_cat": 425,
+      "psikotes": 81.03,
+      "inggris": 59.08,
+      "wawancara_skt": 77.7778,
+      "total_skt": 75.98956,
+      "total": 69.7112,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008656",
+      "nama": "TAZKIYA AINI",
+      "teknis": 195,
+      "manajerial": 76,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total_cat": 372,
+      "psikotes": 42.4,
+      "inggris": 50.66,
+      "wawancara_skt": 55.5556,
+      "total_skt": 46.68312,
+      "total": 51.1028,
+      "status": "TMS"
+    }
+  ]
+}

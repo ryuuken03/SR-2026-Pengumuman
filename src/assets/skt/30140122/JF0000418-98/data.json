@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004448",
+      "nama": "PUTRI AYU",
+      "teknis": 180,
+      "manajerial": 77,
+      "sosial_kultural": 68,
+      "wawancara": 33,
+      "total_cat": 358,
+      "psikotes": 65.95,
+      "inggris": 50.66,
+      "wawancara_skt": 55.5556,
+      "total_skt": 60.81312,
+      "total": 57.123,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002545",
+      "nama": "MARLEN SAHETAPY",
+      "teknis": 170,
+      "manajerial": 85,
+      "sosial_kultural": 68,
+      "wawancara": 35,
+      "total_cat": 358,
+      "psikotes": 38.3,
+      "inggris": 45.79,
+      "wawancara_skt": 33.3333,
+      "total_skt": 38.80466,
+      "total": 46.1187,
+      "status": "TMS"
+    }
+  ]
+}

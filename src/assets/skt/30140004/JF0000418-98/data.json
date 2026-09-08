@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002980",
+      "nama": "ANISA MUNJIYATI",
+      "teknis": 225,
+      "manajerial": 84,
+      "sosial_kultural": 71,
+      "wawancara": 36,
+      "total_cat": 416,
+      "psikotes": 81.03,
+      "inggris": 72.38,
+      "wawancara_skt": 66.6667,
+      "total_skt": 76.42734,
+      "total": 69.2584,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003007",
+      "nama": "DYA NURWAHYUNI. S.PD.",
+      "teknis": 220,
+      "manajerial": 85,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 412,
+      "psikotes": 68.21,
+      "inggris": 65.44,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.34734,
+      "total": 64.4199,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120004439",
+      "nama": "ASRI SUKMAWATI",
+      "teknis": 195,
+      "manajerial": 90,
+      "sosial_kultural": 66,
+      "wawancara": 35,
+      "total_cat": 386,
+      "psikotes": 70.46,
+      "inggris": 53.18,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.24534,
+      "total": 61.9286,
+      "status": "P/L"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005561",
+      "nama": "NANDA FADHILLA",
+      "teknis": 140,
+      "manajerial": 70,
+      "sosial_kultural": 72,
+      "wawancara": 28,
+      "total_cat": 310,
+      "psikotes": 0,
+      "inggris": 0,
+      "wawancara_skt": 0,
+      "total_skt": 0,
+      "total": 23.1343,
+      "status": "TH"
+    }
+  ]
+}

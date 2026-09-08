@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120006565",
+      "nama": "KHUSNUL AINUN NAFIS",
+      "teknis": 235,
+      "manajerial": 91,
+      "sosial_kultural": 77,
+      "wawancara": 39,
+      "total_cat": 442,
+      "psikotes": 81.03,
+      "inggris": 78.29,
+      "wawancara_skt": 66.6667,
+      "total_skt": 77.60934,
+      "total": 71.7897,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002676",
+      "nama": "KHOERUN NIAM",
+      "teknis": 205,
+      "manajerial": 93,
+      "sosial_kultural": 66,
+      "wawancara": 38,
+      "total_cat": 402,
+      "psikotes": 72.69,
+      "inggris": 64.55,
+      "wawancara_skt": 44.4444,
+      "total_skt": 65.41288,
+      "total": 62.7064,
+      "status": "P"
+    }
+  ]
+}

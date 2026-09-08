@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001110",
+      "nama": "WANDA FERI REZKI",
+      "teknis": 270,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 34,
+      "total_cat": 465,
+      "psikotes": 71,
+      "inggris": 67.95,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.30112,
+      "total": 68.3521,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005915",
+      "nama": "FADILLA MONICA",
+      "teknis": 175,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 369,
+      "psikotes": 53.86,
+      "inggris": 63.07,
+      "wawancara_skt": 44.4444,
+      "total_skt": 53.81888,
+      "total": 54.4468,
+      "status": "TMS"
+    }
+  ]
+}

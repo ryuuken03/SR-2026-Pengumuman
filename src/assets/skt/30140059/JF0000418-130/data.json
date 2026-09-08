@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000462",
+      "nama": "MUH. HANIF MUALIFI",
+      "teknis": 290,
+      "manajerial": 88,
+      "sosial_kultural": 68,
+      "wawancara": 28,
+      "total_cat": 474,
+      "psikotes": 83.64,
+      "inggris": 76.37,
+      "wawancara_skt": 88.8889,
+      "total_skt": 83.23578,
+      "total": 76.991,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002643",
+      "nama": "NUR FAUZIAH",
+      "teknis": 295,
+      "manajerial": 89,
+      "sosial_kultural": 74,
+      "wawancara": 39,
+      "total_cat": 497,
+      "psikotes": 83,
+      "inggris": 80.8,
+      "wawancara_skt": 0,
+      "total_skt": 65.96,
+      "total": 70.0695,
+      "status": "TH"
+    }
+  ]
+}

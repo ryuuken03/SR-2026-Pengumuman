@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003073",
+      "nama": "JEFRI NUREFENDI",
+      "teknis": 230,
+      "manajerial": 90,
+      "sosial_kultural": 69,
+      "wawancara": 39,
+      "total_cat": 428,
+      "psikotes": 72.71,
+      "inggris": 61.6,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.05712,
+      "total": 65.4689,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000876",
+      "nama": "SITI WINDAWATI",
+      "teknis": 230,
+      "manajerial": 91,
+      "sosial_kultural": 74,
+      "wawancara": 36,
+      "total_cat": 431,
+      "psikotes": 68.58,
+      "inggris": 60.12,
+      "wawancara_skt": 55.5556,
+      "total_skt": 64.28312,
+      "total": 64.3057,
+      "status": "P"
+    }
+  ]
+}

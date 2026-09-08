@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003000",
+      "nama": "ABDUR RAHMAN RIZQI",
+      "teknis": 295,
+      "manajerial": 97,
+      "sosial_kultural": 74,
+      "wawancara": 33,
+      "total_cat": 499,
+      "psikotes": 82.67,
+      "inggris": 70.9,
+      "wawancara_skt": 77.7778,
+      "total_skt": 79.33756,
+      "total": 76.9076,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110002326",
+      "nama": "YUSUF WAHYU ADI",
+      "teknis": 230,
+      "manajerial": 97,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total_cat": 440,
+      "psikotes": 70.44,
+      "inggris": 72.38,
+      "wawancara_skt": 66.6667,
+      "total_skt": 70.07334,
+      "total": 67.8725,
+      "status": "P"
+    }
+  ]
+}

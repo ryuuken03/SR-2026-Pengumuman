@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120002217",
+      "nama": "AGISTA RESTIANINGSIH",
+      "teknis": 255,
+      "manajerial": 85,
+      "sosial_kultural": 76,
+      "wawancara": 34,
+      "total_cat": 450,
+      "psikotes": 68.2,
+      "inggris": 76.37,
+      "wawancara_skt": 66.6667,
+      "total_skt": 69.52734,
+      "total": 68.3458,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120004559",
+      "nama": "ALIYA AYUNDA SARI",
+      "teknis": 220,
+      "manajerial": 82,
+      "sosial_kultural": 70,
+      "wawancara": 39,
+      "total_cat": 411,
+      "psikotes": 53.97,
+      "inggris": 62.04,
+      "wawancara_skt": 55.5556,
+      "total_skt": 55.90112,
+      "total": 58.6222,
+      "status": "TMS"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110001012",
+      "nama": "FAIZ AMRIANA",
+      "teknis": 190,
+      "manajerial": 85,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total_cat": 379,
+      "psikotes": 52.6,
+      "inggris": 48.74,
+      "wawancara_skt": 44.4444,
+      "total_skt": 50.19688,
+      "total": 53.382,
+      "status": "TMS"
+    }
+  ]
+}

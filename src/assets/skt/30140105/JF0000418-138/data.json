@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120007952",
+      "nama": "MURNI",
+      "teknis": 175,
+      "manajerial": 87,
+      "sosial_kultural": 70,
+      "wawancara": 37,
+      "total_cat": 369,
+      "psikotes": 65.76,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 63.92734,
+      "total": 59.501,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001658",
+      "nama": "HIDAYAH",
+      "teknis": 215,
+      "manajerial": 89,
+      "sosial_kultural": 73,
+      "wawancara": 36,
+      "total_cat": 413,
+      "psikotes": 57.43,
+      "inggris": 68.98,
+      "wawancara_skt": 66.6667,
+      "total_skt": 61.58734,
+      "total": 61.6146,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120004378",
+      "nama": "SUCIANI MAGFIRAH",
+      "teknis": 260,
+      "manajerial": 96,
+      "sosial_kultural": 74,
+      "wawancara": 40,
+      "total_cat": 470,
+      "psikotes": 70.45,
+      "inggris": 71.94,
+      "wawancara_skt": 77.7778,
+      "total_skt": 72.21356,
+      "total": 71.1814,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002211",
+      "nama": "MAGFIRAH",
+      "teknis": 235,
+      "manajerial": 93,
+      "sosial_kultural": 76,
+      "wawancara": 37,
+      "total_cat": 441,
+      "psikotes": 65.96,
+      "inggris": 59.53,
+      "wawancara_skt": 55.5556,
+      "total_skt": 62.59312,
+      "total": 64.207,
+      "status": "P"
+    }
+  ]
+}

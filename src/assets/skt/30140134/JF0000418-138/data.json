@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005897",
+      "nama": "YULIANA PUSPITA SARI",
+      "teknis": 215,
+      "manajerial": 98,
+      "sosial_kultural": 66,
+      "wawancara": 39,
+      "total_cat": 418,
+      "psikotes": 82.66,
+      "inggris": 62.48,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.42534,
+      "total": 68.9067,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120002179",
+      "nama": "YULI ARTIKA",
+      "teknis": 175,
+      "manajerial": 91,
+      "sosial_kultural": 69,
+      "wawancara": 35,
+      "total_cat": 370,
+      "psikotes": 70.26,
+      "inggris": 50.66,
+      "wawancara_skt": 66.6667,
+      "total_skt": 65.62134,
+      "total": 60.4226,
+      "status": "P"
+    }
+  ]
+}

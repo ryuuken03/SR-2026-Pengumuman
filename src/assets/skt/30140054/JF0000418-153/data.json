@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001128",
+      "nama": "ADIB AHMAD RIFA'I",
+      "teknis": 305,
+      "manajerial": 91,
+      "sosial_kultural": 70,
+      "wawancara": 38,
+      "total_cat": 504,
+      "psikotes": 68.76,
+      "inggris": 60.56,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.70134,
+      "total": 70.9626,
+      "status": "P/L-2"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110001458",
+      "nama": "MOH. FIBRIYANTO",
+      "teknis": 270,
+      "manajerial": 82,
+      "sosial_kultural": 68,
+      "wawancara": 29,
+      "total_cat": 449,
+      "psikotes": 70.27,
+      "inggris": 49.78,
+      "wawancara_skt": 44.4444,
+      "total_skt": 61.00688,
+      "total": 64.0109,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120001718",
+      "nama": "KHOTIJAH SUCI NURANI",
+      "teknis": 285,
+      "manajerial": 87,
+      "sosial_kultural": 72,
+      "wawancara": 31,
+      "total_cat": 475,
+      "psikotes": 45.74,
+      "inggris": 61.6,
+      "wawancara_skt": 55.5556,
+      "total_skt": 50.87512,
+      "total": 60.8853,
+      "status": "TMS"
+    }
+  ]
+}

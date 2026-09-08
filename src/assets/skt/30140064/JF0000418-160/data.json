@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000436",
+      "nama": "AHYAR ARRAYYAN",
+      "teknis": 245,
+      "manajerial": 88,
+      "sosial_kultural": 73,
+      "wawancara": 37,
+      "total_cat": 443,
+      "psikotes": 81.03,
+      "inggris": 51.7,
+      "wawancara_skt": 55.5556,
+      "total_skt": 70.06912,
+      "total": 68.0943,
+      "status": "P/L"
+    }
+  ]
+}

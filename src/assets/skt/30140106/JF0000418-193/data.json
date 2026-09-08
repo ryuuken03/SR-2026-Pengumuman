@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000164",
+      "nama": "IKRAM ANAS",
+      "teknis": 240,
+      "manajerial": 87,
+      "sosial_kultural": 71,
+      "wawancara": 33,
+      "total_cat": 431,
+      "psikotes": 56.66,
+      "inggris": 70.46,
+      "wawancara_skt": 77.7778,
+      "total_skt": 63.64356,
+      "total": 63.986,
+      "status": "TMS"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110000335",
+      "nama": "ARIF RAHMAWAN",
+      "teknis": 220,
+      "manajerial": 84,
+      "sosial_kultural": 64,
+      "wawancara": 38,
+      "total_cat": 406,
+      "psikotes": 0,
+      "inggris": 52.14,
+      "wawancara_skt": 0,
+      "total_skt": 10.428,
+      "total": 35.5125,
+      "status": "TH"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120001867",
+      "nama": "ROSITA AYU WULANDARI",
+      "teknis": 275,
+      "manajerial": 95,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total_cat": 487,
+      "psikotes": 70.27,
+      "inggris": 62.04,
+      "wawancara_skt": 66.6667,
+      "total_skt": 67.90334,
+      "total": 70.295,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120005602",
+      "nama": "YENI YUNIARTI",
+      "teknis": 225,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 424,
+      "psikotes": 70.44,
+      "inggris": 69.87,
+      "wawancara_skt": 55.5556,
+      "total_skt": 67.34912,
+      "total": 65.3164,
+      "status": "P"
+    }
+  ]
+}

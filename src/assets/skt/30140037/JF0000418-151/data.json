@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110000713",
+      "nama": "MOHAMMAD SATRIYO BHAKTI",
+      "teknis": 240,
+      "manajerial": 93,
+      "sosial_kultural": 70,
+      "wawancara": 34,
+      "total_cat": 437,
+      "psikotes": 70.26,
+      "inggris": 58.05,
+      "wawancara_skt": 77.7778,
+      "total_skt": 69.32156,
+      "total": 67.2727,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003310",
+      "nama": "MUHAMMAD ZAINUL MUTTAQIN",
+      "teknis": 185,
+      "manajerial": 80,
+      "sosial_kultural": 67,
+      "wawancara": 38,
+      "total_cat": 370,
+      "psikotes": 66.5,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.37134,
+      "total": 59.7976,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410110002094",
+      "nama": "MOHAMAD RIZKI ALI RIDHO",
+      "teknis": 275,
+      "manajerial": 90,
+      "sosial_kultural": 74,
+      "wawancara": 38,
+      "total_cat": 477,
+      "psikotes": 59.66,
+      "inggris": 57.61,
+      "wawancara_skt": 77.7778,
+      "total_skt": 62.87356,
+      "total": 67.0338,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120008120",
+      "nama": "AYUTRI INDAH SETIO RINI",
+      "teknis": 150,
+      "manajerial": 93,
+      "sosial_kultural": 64,
+      "wawancara": 37,
+      "total_cat": 344,
+      "psikotes": 41.05,
+      "inggris": 55.69,
+      "wawancara_skt": 66.6667,
+      "total_skt": 49.10134,
+      "total": 50.2223,
+      "status": "TMS"
+    }
+  ]
+}

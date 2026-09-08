@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001861",
+      "nama": "SHOLEHUDDIN",
+      "teknis": 210,
+      "manajerial": 79,
+      "sosial_kultural": 65,
+      "wawancara": 35,
+      "total_cat": 389,
+      "psikotes": 81.03,
+      "inggris": 60.12,
+      "wawancara_skt": 66.6667,
+      "total_skt": 73.97534,
+      "total": 66.0175,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410110003090",
+      "nama": "ADEB NIZHOMY",
+      "teknis": 255,
+      "manajerial": 79,
+      "sosial_kultural": 67,
+      "wawancara": 26,
+      "total_cat": 427,
+      "psikotes": 70.27,
+      "inggris": 56.57,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.80934,
+      "total": 65.2703,
+      "status": "P"
+    }
+  ]
+}

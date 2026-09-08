@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120005055",
+      "nama": "SOFIAH MAISORI",
+      "teknis": 295,
+      "manajerial": 93,
+      "sosial_kultural": 73,
+      "wawancara": 39,
+      "total_cat": 500,
+      "psikotes": 81.01,
+      "inggris": 53.18,
+      "wawancara_skt": 66.6667,
+      "total_skt": 72.57534,
+      "total": 73.6011,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120003151",
+      "nama": "AJUSTINA",
+      "teknis": 290,
+      "manajerial": 92,
+      "sosial_kultural": 70,
+      "wawancara": 36,
+      "total_cat": 488,
+      "psikotes": 68.02,
+      "inggris": 54.21,
+      "wawancara_skt": 66.6667,
+      "total_skt": 64.98734,
+      "total": 68.9116,
+      "status": "P/L"
+    },
+    {
+      "no": 3,
+      "nomor_peserta": "26301410120000056",
+      "nama": "ANDI NURUL ASMI",
+      "teknis": 280,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 38,
+      "total_cat": 479,
+      "psikotes": 53.84,
+      "inggris": 59.53,
+      "wawancara_skt": 66.6667,
+      "total_skt": 57.54334,
+      "total": 64.5179,
+      "status": "TMS"
+    },
+    {
+      "no": 4,
+      "nomor_peserta": "26301410120005463",
+      "nama": "ASNITA",
+      "teknis": 290,
+      "manajerial": 95,
+      "sosial_kultural": 72,
+      "wawancara": 40,
+      "total_cat": 497,
+      "psikotes": 53.9,
+      "inggris": 56.57,
+      "wawancara_skt": 55.5556,
+      "total_skt": 54.76512,
+      "total": 64.4721,
+      "status": "TMS"
+    }
+  ]
+}

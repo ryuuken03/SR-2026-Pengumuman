@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410120008196",
+      "nama": "ANNISA' NURROHMAH",
+      "teknis": 155,
+      "manajerial": 91,
+      "sosial_kultural": 71,
+      "wawancara": 39,
+      "total_cat": 356,
+      "psikotes": 68.2,
+      "inggris": 72.38,
+      "wawancara_skt": 66.6667,
+      "total_skt": 68.72934,
+      "total": 60.9318,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120000339",
+      "nama": "ANISA AYU WARDANI",
+      "teknis": 155,
+      "manajerial": 90,
+      "sosial_kultural": 71,
+      "wawancara": 37,
+      "total_cat": 353,
+      "psikotes": 54.71,
+      "inggris": 68.39,
+      "wawancara_skt": 66.6667,
+      "total_skt": 59.83734,
+      "total": 56.262,
+      "status": "TMS"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110002244",
+      "nama": "LAFI ZALIL AULIA",
+      "teknis": 175,
+      "manajerial": 83,
+      "sosial_kultural": 68,
+      "wawancara": 31,
+      "total_cat": 357,
+      "psikotes": 72.14,
+      "inggris": 44.31,
+      "wawancara_skt": 55.5556,
+      "total_skt": 63.25712,
+      "total": 58.2704,
+      "status": "P/L"
+    }
+  ]
+}

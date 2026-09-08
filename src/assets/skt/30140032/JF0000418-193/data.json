@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110003100",
+      "nama": "MARKHABAN ALKHASNI",
+      "teknis": 240,
+      "manajerial": 96,
+      "sosial_kultural": 77,
+      "wawancara": 40,
+      "total_cat": 453,
+      "psikotes": 81.03,
+      "inggris": 69.42,
+      "wawancara_skt": 66.6667,
+      "total_skt": 75.83534,
+      "total": 71.7236,
+      "status": "P/L"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "nomor_peserta": "26301410110001568",
+      "nama": "AJAR WAHYU JATI",
+      "teknis": 300,
+      "manajerial": 91,
+      "sosial_kultural": 76,
+      "wawancara": 36,
+      "total_cat": 503,
+      "psikotes": 68.01,
+      "inggris": 63.07,
+      "wawancara_skt": 66.6667,
+      "total_skt": 66.75334,
+      "total": 70.914,
+      "status": "P/L"
+    },
+    {
+      "no": 2,
+      "nomor_peserta": "26301410120008439",
+      "nama": "AZIZAH RODIAH",
+      "teknis": 250,
+      "manajerial": 93,
+      "sosial_kultural": 67,
+      "wawancara": 37,
+      "total_cat": 447,
+      "psikotes": 48.21,
+      "inggris": 64.55,
+      "wawancara_skt": 55.5556,
+      "total_skt": 52.94712,
+      "total": 59.8318,
+      "status": "TMS"
+    }
+  ]
+}
