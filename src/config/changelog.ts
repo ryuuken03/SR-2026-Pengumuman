@@ -28,7 +28,7 @@ export const APP_CHANGELOG: ChangelogRelease[] = [
     date: APP_LAST_UPDATED,
     isLatest: true,
     badge: 'Rilis Fitur',
-    summary: 'Dukungan penuh data Seleksi Kompetensi Tambahan (SKT) sebanyak 13.313 peserta, pemilih tahap seleksi CAT vs SKT, kolom rincian nilai integrasi, jadwal pelaksanaan ujian, dan optimasi tampilan seluler.',
+    summary: 'Dukungan penuh data Seleksi Kompetensi Tambahan (SKT) sebanyak 13.313 peserta, pemilih tahap seleksi CAT vs SKT, kolom rincian nilai integrasi, jadwal pelaksanaan, foto profil pengembang, serta optimasi antarmuka seluler.',
     publicNotes: [
       {
         type: 'feat',
@@ -60,10 +60,20 @@ export const APP_CHANGELOG: ChangelogRelease[] = [
         label: 'Penyempurnaan',
         text: 'Pembaruan tautan referensi resmi pengumuman hasil integrasi seleksi pada header, footer, dan tentang pengembang.',
       },
+      {
+        type: 'improve',
+        label: 'Peningkatan',
+        text: 'Tombol catatan pembaruan responsif menjadi tombol ikon ringkas pada layar perangkat seluler.',
+      },
+      {
+        type: 'improve',
+        label: 'Penyempurnaan',
+        text: 'Integrasi foto profil resmi pengembang dengan tata letak header seluler yang rapi dan proporsional.',
+      },
     ],
   },
   {
-    version: 'v1.0.1',
+    version: 'V1.0.1',
     date: '8 September 2026',
     isLatest: false,
     badge: 'Pembaruan Tampilan',
@@ -112,7 +122,7 @@ export const APP_CHANGELOG: ChangelogRelease[] = [
     ],
   },
   {
-    version: 'v1.0.0',
+    version: 'V1.0.0',
     date: '7 September 2026',
     isLatest: false,
     badge: 'Fondasi Awal',

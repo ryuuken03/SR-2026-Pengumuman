@@ -333,9 +333,40 @@ Aplikasi ini adalah utilitas publik untuk pencarian pengumuman. Antarmuka harus 
 | `src/assets/selkom/select_formasi.json` | Daftar semua opsi jabatan |
 | `scripts/generate_search_index.mjs` | Generator search index global |
 | `src/constants/strings.ts` | **Semua teks UI terpusat** |
+| `src/config/version.ts` | **Pusat versi aplikasi tunggal** (`APP_VERSION`, `APP_LAST_UPDATED`) |
+| `src/config/changelog.ts` | **Konfigurasi riwayat rilis & catatan pembaruan** |
 | `src/components/ui/EmptyState.tsx` | Komponen empty state informatif |
 | `src/styles/` | Folder CSS (dipisah per komponen) |
 | `src/components/ui/` | Komponen UI generik & reusable |
 | `src/components/layout/` | Komponen layout (Header, ThemeToggle) |
 | `src/components/search/` | Komponen fitur pencarian |
 | `src/components/results/` | Komponen tampilan hasil |
+
+---
+
+## 12. Aturan Penambahan Versi & Catatan Pembaruan (Changelog)
+
+Aplikasi memiliki sistem pencatatan versi terpusat yang tampil di header, footer, modal pembaruan, dan halaman tentang pengembang.
+
+### Lokasi File Terkait
+
+- `src/config/version.ts`: Sumber kebenaran tunggal (*single source of truth*) untuk `APP_VERSION` dan `APP_LAST_UPDATED`.
+- `src/config/changelog.ts`: Konfigurasi riwayat rilis dan daftar catatan publik (`publicNotes`) yang tampil di UI modal.
+
+### Aturan Penambahan Versi
+
+1. **Pembaruan di Hari yang Sama**:
+   - Jika perubahan atau penambahan fitur dilakukan pada **tanggal/hari yang sama** dengan tanggal versi aktif saat ini (`APP_LAST_UPDATED`), **jangan** menaikkan nomor versi.
+   - Tambahkan item pembaruan baru langsung ke dalam array `publicNotes` pada rilis versi teratas di `src/config/changelog.ts`.
+   - Perbarui ringkasan `summary` pada rilis aktif tersebut agar mencakup rangkuman pembaruan terkini.
+
+2. **Pembaruan di Hari yang Berbeda**:
+   - Jika perubahan dilakukan pada **hari/tanggal baru**:
+     1. Naikkan nomor versi (misal: `V1.1.0` -> `V1.1.1` untuk perbaikan/penyempurnaan tampilan, atau `V1.2.0` untuk fitur data baru) dan perbarui tanggal di `src/config/version.ts`.
+     2. Buat objek rilis baru di indeks pertama (`[0]`) array `APP_CHANGELOG` di `src/config/changelog.ts`.
+     3. Set `isLatest: true` pada rilis baru, dan ubah rilis sebelumnya menjadi `isLatest: false`.
+
+3. **Gaya Penulisan Catatan Publik (`publicNotes`)**:
+   - Tulis dalam bahasa Indonesia yang **umum, ringkas, padat, dan jelas** bagi masyarakat pengguna (hindari istilah internal/teknis yang berbelit-belit).
+   - Patuhi aturan **Anti "AI Slop"** (Bagian 9): dilarang keras menggunakan emoji dekoratif atau kalimat basa-basi klise.
+   - Gunakan tipe yang sesuai: `'feat'` (Fitur Baru), `'improve'` (Peningkatan/Penyempurnaan), `'fix'` (Perbaikan), atau `'security'` (Keamanan).

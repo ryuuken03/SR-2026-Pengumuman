@@ -13,6 +13,7 @@ interface CategoryStats {
   lokasi: number
   terdaftar: number
   pl: number
+  pl2?: number
   p: number
   th: number
   tms: number
@@ -134,6 +135,20 @@ export default function GlobalSummary({ dataSource = 'selkom' }: GlobalSummaryPr
           total: stats.total.pl,
           variant: 'success',
         },
+        ...((stats.guru.pl2 ?? 0) > 0 || (stats.teknis.pl2 ?? 0) > 0 || (stats.total.pl2 ?? 0) > 0
+          ? [
+            {
+              key: 'pl2',
+              title: REKAP.metricPL2,
+              badge: 'P/L-2',
+              badgeClass: 'status-badge--pl2',
+              guru: stats.guru.pl2 ?? 0,
+              teknis: stats.teknis.pl2 ?? 0,
+              total: stats.total.pl2 ?? 0,
+              variant: 'success' as const,
+            },
+          ]
+          : []),
         {
           key: 'p',
           title: REKAP.metricP,
@@ -216,7 +231,6 @@ export default function GlobalSummary({ dataSource = 'selkom' }: GlobalSummaryPr
           <div className="global-summary__trigger-text">
             <span className="global-summary__title">{REKAP.title}</span>
             <span className="global-summary__subtitle">
-              {/* {REKAP.subtitle} ·  */}
               {dataSource === 'skt' ? DATA_SOURCE.sktOption : DATA_SOURCE.catOption}
             </span>
           </div>

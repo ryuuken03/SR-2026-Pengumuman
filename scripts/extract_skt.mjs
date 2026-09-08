@@ -293,9 +293,9 @@ async function runExtraction() {
 
   // Stats accumulators
   const stats = {
-    guru: { jabatan: new Set(), lokasi: new Set(), terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 },
-    teknis: { jabatan: new Set(), lokasi: new Set(), terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 },
-    total: { jabatan: new Set(), lokasi: new Set(), terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 }
+    guru: { jabatan: new Set(), lokasi: new Set(), terdaftar: 0, pl: 0, pl2: 0, p: 0, th: 0, tms: 0, aps: 0 },
+    teknis: { jabatan: new Set(), lokasi: new Set(), terdaftar: 0, pl: 0, pl2: 0, p: 0, th: 0, tms: 0, aps: 0 },
+    total: { jabatan: new Set(), lokasi: new Set(), terdaftar: 0, pl: 0, pl2: 0, p: 0, th: 0, tms: 0, aps: 0 }
   }
 
   for (const f of formations) {
@@ -346,9 +346,12 @@ async function runExtraction() {
       stats.total.terdaftar++
 
       const st = (p.status || '').toUpperCase().trim()
-      if (st.startsWith('P/L')) {
+      if (st === 'P/L') {
         scope.pl++
         stats.total.pl++
+      } else if (st === 'P/L-2') {
+        scope.pl2++
+        stats.total.pl2++
       } else if (st === 'P') {
         scope.p++
         stats.total.p++
@@ -361,6 +364,9 @@ async function runExtraction() {
       } else if (st === 'APS') {
         scope.aps++
         stats.total.aps++
+      } else if (st.startsWith('P/L')) {
+        scope.pl++
+        stats.total.pl++
       }
     }
   }
@@ -400,6 +406,7 @@ async function runExtraction() {
       lokasi: stats.guru.lokasi.size,
       terdaftar: stats.guru.terdaftar,
       pl: stats.guru.pl,
+      pl2: stats.guru.pl2,
       p: stats.guru.p,
       th: stats.guru.th,
       tms: stats.guru.tms,
@@ -410,6 +417,7 @@ async function runExtraction() {
       lokasi: stats.teknis.lokasi.size,
       terdaftar: stats.teknis.terdaftar,
       pl: stats.teknis.pl,
+      pl2: stats.teknis.pl2,
       p: stats.teknis.p,
       th: stats.teknis.th,
       tms: stats.teknis.tms,
@@ -420,6 +428,7 @@ async function runExtraction() {
       lokasi: stats.total.lokasi.size,
       terdaftar: stats.total.terdaftar,
       pl: stats.total.pl,
+      pl2: stats.total.pl2,
       p: stats.total.p,
       th: stats.total.th,
       tms: stats.total.tms,

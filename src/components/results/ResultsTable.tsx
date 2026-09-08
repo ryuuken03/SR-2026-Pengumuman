@@ -57,7 +57,7 @@ function StatusBadge({ status }: { status?: string }) {
   const isLulus = /^p(\/|$)/i.test(status.trim()) || status === 'P/L' || status === 'P'
   return (
     <span className={`status-badge ${isLulus ? 'status-badge--lulus' : 'status-badge--tl'}`}>
-      {status}
+      {STATUS.formatLabel(status)}
     </span>
   )
 }

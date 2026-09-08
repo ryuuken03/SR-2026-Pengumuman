@@ -53,32 +53,6 @@ export default function AboutPage({ onBackToSearch, onOpenChangelog }: AboutPage
         </button>
       </div>
 
-      {/* ── Hero Section ───────────────────────────────── */}
-      <section className="about-hero">
-        <div className="about-hero__badge-container">
-          <span className="about-hero__exp-badge">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="15"
-              height="15"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              aria-hidden="true"
-            >
-              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
-            </svg>
-            {ABOUT.badgeExperience}
-          </span>
-        </div>
-
-        <h2 className="about-hero__title">{ABOUT.title}</h2>
-        <p className="about-hero__subtitle">{ABOUT.subtitle}</p>
-      </section>
-
       {/* ── Disclaimer Resmi ───────────────────────────── */}
       <section className="about-card about-disclaimer-card">
         <div className="about-disclaimer-content">
@@ -121,15 +95,24 @@ export default function AboutPage({ onBackToSearch, onOpenChangelog }: AboutPage
       <section className="about-card developer-profile-card">
         <div className="developer-card-top">
           <div className="developer-avatar-wrapper">
-            <div className="developer-avatar">{DEVELOPER_INFO.AVATAR_INITIALS}</div>
+            <img
+              src="/profile.png"
+              alt={DEVELOPER_INFO.NAME}
+              className="developer-avatar"
+              width="56"
+              height="56"
+              loading="lazy"
+              decoding="async"
+            />
             <span className="developer-status-dot" title={DEVELOPER_INFO.AVATAR_STATUS_TITLE} />
           </div>
 
           <div className="developer-header-info">
             <h3 className="developer-name">{DEVELOPER_INFO.NAME}</h3>
             <p className="developer-role">{DEVELOPER_INFO.ROLE}</p>
-            <p className="developer-bio">{DEVELOPER_INFO.BIO}</p>
           </div>
+
+          <p className="developer-bio">{DEVELOPER_INFO.BIO}</p>
         </div>
 
         {/* Action Grid Kontak & Sosial Media Pengembang */}
@@ -446,13 +429,13 @@ export default function AboutPage({ onBackToSearch, onOpenChangelog }: AboutPage
       <section className="about-card about-version-card">
         <div className="about-version-card__left">
           <div className="about-version-card__badge-row">
+            <h4 className="about-version-card__title">
+              {ABOUT.versionCardTitle}
+            </h4>
             <span className="about-version-card__badge">
-              {APP_VERSION.fullBadge}
+              {APP_VERSION.badge}
             </span>
           </div>
-          <h3 className="about-version-card__title">
-            {ABOUT.versionCardTitle}
-          </h3>
         </div>
         <div className="about-version-card__right">
           <button
@@ -460,11 +443,12 @@ export default function AboutPage({ onBackToSearch, onOpenChangelog }: AboutPage
             className="about-version-card__btn"
             onClick={onOpenChangelog}
             aria-label={ABOUT.versionBtnAria}
+            title={ABOUT.versionBtnText}
           >
             <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="18"
-              height="18"
+              className="about-version-card__btn-icon"
+              width="20"
+              height="20"
               viewBox="0 0 24 24"
               fill="none"
               stroke="currentColor"
@@ -477,7 +461,7 @@ export default function AboutPage({ onBackToSearch, onOpenChangelog }: AboutPage
               <line x1="12" y1="16" x2="12" y2="12" />
               <line x1="12" y1="8" x2="12.01" y2="8" />
             </svg>
-            <span>{ABOUT.versionBtnText}</span>
+            <span className="about-version-card__btn-text">{ABOUT.versionBtnText}</span>
           </button>
         </div>
       </section>

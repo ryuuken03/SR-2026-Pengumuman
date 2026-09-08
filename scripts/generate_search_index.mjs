@@ -211,9 +211,9 @@ function generateIndexFor(sourceName) {
 
   const rekap = {
     generatedAt: new Date().toISOString().slice(0, 10),
-    guru: { jabatan: guruJabatanCount, lokasi: guruLokasiCount, terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 },
-    teknis: { jabatan: teknisJabatanCount, lokasi: teknisLokasiCount, terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 },
-    total: { jabatan: guruJabatanCount + teknisJabatanCount, lokasi: guruLokasiCount + teknisLokasiCount, terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 }
+    guru: { jabatan: guruJabatanCount, lokasi: guruLokasiCount, terdaftar: 0, pl: 0, pl2: 0, p: 0, th: 0, tms: 0, aps: 0 },
+    teknis: { jabatan: teknisJabatanCount, lokasi: teknisLokasiCount, terdaftar: 0, pl: 0, pl2: 0, p: 0, th: 0, tms: 0, aps: 0 },
+    total: { jabatan: guruJabatanCount + teknisJabatanCount, lokasi: guruLokasiCount + teknisLokasiCount, terdaftar: 0, pl: 0, pl2: 0, p: 0, th: 0, tms: 0, aps: 0 }
   }
 
   for (const item of rawRawParticipants) {
@@ -226,9 +226,12 @@ function generateIndexFor(sourceName) {
     rekap.total.terdaftar++
 
     const st = (item.status || '').toUpperCase().trim()
-    if (st.startsWith('P/L')) {
+    if (st === 'P/L') {
       target.pl++
       rekap.total.pl++
+    } else if (st === 'P/L-2') {
+      target.pl2++
+      rekap.total.pl2++
     } else if (st === 'P') {
       target.p++
       rekap.total.p++
@@ -241,6 +244,9 @@ function generateIndexFor(sourceName) {
     } else if (st === 'APS') {
       target.aps++
       rekap.total.aps++
+    } else if (st.startsWith('P/L')) {
+      target.pl++
+      rekap.total.pl++
     }
   }
 

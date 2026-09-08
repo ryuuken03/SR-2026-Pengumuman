@@ -114,8 +114,8 @@ export default function App() {
           <div className="app-header-text">
             <h1>{APP.title}</h1>
             <div className="app-header-subrow">
-              <span className="app-header-subtitle">{APP.subtitle}</span>
-              <span className="app-header-disclaimer">· {APP.disclaimer}</span>
+              {/* <span className="app-header-subtitle">{APP.subtitle}</span> */}
+              <span className="app-header-disclaimer">{APP.disclaimer}</span>
               <a
                 href={APP.sourceUrl}
                 target="_blank"
@@ -151,22 +151,7 @@ export default function App() {
               onClick={() => setActiveTab('search')}
               aria-label={NAV.searchTabAria}
             >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="14"
-                height="14"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                aria-hidden="true"
-              >
-                <circle cx="11" cy="11" r="8" />
-                <line x1="21" y1="21" x2="16.65" y2="16.65" />
-              </svg>
-              <span>{NAV.searchTab}</span>
+              <span className="app-header-nav__label">{NAV.searchTab}</span>
             </button>
             <button
               type="button"
@@ -174,25 +159,11 @@ export default function App() {
               onClick={() => setActiveTab('about')}
               aria-label={NAV.aboutTabAria}
             >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="14"
-                height="14"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                aria-hidden="true"
-              >
-                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
-                <circle cx="12" cy="7" r="4" />
-              </svg>
-              <span>{NAV.aboutTab}</span>
+              <span className="app-header-nav__label app-header-nav__label--desktop">{NAV.aboutTab}</span>
+              <span className="app-header-nav__label app-header-nav__label--mobile">{NAV.aboutTabShort}</span>
             </button>
+            <ThemeToggle isDark={isDark} onToggle={toggleTheme} />
           </nav>
-          <ThemeToggle isDark={isDark} onToggle={toggleTheme} />
         </div>
       </header>
 

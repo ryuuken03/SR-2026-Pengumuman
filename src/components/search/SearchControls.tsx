@@ -31,9 +31,9 @@ interface SearchControlsProps {
   handleSearch: () => void
   /** Reset pilihan formasi aktif */
   onResetFormasi?: () => void
-  /** Label nama jabatan */
+  /** Label nama jabatan (opsional) */
   jabatanLabel?: string
-  /** Label nama lokasi */
+  /** Label nama lokasi (opsional) */
   lokasiLabel?: string
 }
 
@@ -58,8 +58,6 @@ export default function SearchControls({
   formasiIncomplete,
   hasActiveFormasi,
   activeFormasiLabel,
-  jabatanLabel,
-  lokasiLabel,
   onOpenFilterModal,
   handleSearch,
   onResetFormasi,
@@ -177,7 +175,7 @@ export default function SearchControls({
       </div>
 
       {/* ── Active Filter Chip (Mobile View) ─────────────── */}
-      {hasActiveFormasi && (jabatanLabel || lokasiLabel || activeFormasiLabel) && (
+      {/* {hasActiveFormasi && (jabatanLabel || lokasiLabel || activeFormasiLabel) && (
         <div className="active-filter-chip">
           <button
             type="button"
@@ -221,7 +219,7 @@ export default function SearchControls({
             </button>
           )}
         </div>
-      )}
+      )} */}
 
       {/* ── Tombol Reset Mobile — tampil di bawah filter chip ── */}
       {showAnyReset && (

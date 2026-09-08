@@ -11,7 +11,7 @@
 
 /* ── App / Header ─────────────────────────────────────────── */
 export const APP = {
-  title: 'Pengumuman Seleksi Kompetensi',
+  title: 'Sekolah Rakyat 2026',
   subtitle: 'Sekolah Rakyat 2026',
   disclaimer: 'Bukan website resmi.',
   // sourceUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
@@ -182,14 +182,21 @@ export const EMPTY = {
 
 /* ── Status Badge & Legend ────────────────────────────────── */
 export const STATUS = {
+  formatLabel: (status: string): string => {
+    const s = status.trim()
+    if (s === 'P/L') return 'Lulus (P/L)'
+    if (s === 'P/L-2') return 'Lulus (P/L-2)'
+    return status
+  },
   legend: {
     title: 'Keterangan Status:',
     items: [
-      { code: 'P/L', desc: 'Lulus & berhak ikut SKT', lulus: true },
-      { code: 'P', desc: 'Memenuhi nilai ambang batas', lulus: true },
-      { code: 'TH', desc: 'Tidak hadir', lulus: false },
-      { code: 'TMS', desc: 'Tidak memenuhi syarat', lulus: false },
-      { code: 'APS', desc: 'Mengundurkan diri', lulus: false },
+      { code: 'P/L', desc: 'Lulus', lulus: true },
+      { code: 'P/L-2', desc: 'Lulus Optimalisasi Lokasi', lulus: true },
+      { code: 'P', desc: 'Memenuhi Nilai', lulus: true },
+      { code: 'TH', desc: 'Tidak Hadir', lulus: false },
+      { code: 'TMS', desc: 'Tidak Memenuhi Syarat', lulus: false },
+      { code: 'APS', desc: 'Mengundurkan Diri', lulus: false },
     ],
   },
   scrollTopLabel: 'Ke atas',
@@ -219,6 +226,8 @@ export const SUMMARY = {
   kehadiran: 'Kehadiran',
   nilaiTertinggi: 'Nilai Tertinggi',
   nilaiTerendah: 'Nilai Terendah',
+  collapse: 'Sembunyikan',
+  expand: 'Selengkapnya',
 } as const
 
 /* ── Searchable Select Dropdown ────────────────────────────── */
@@ -239,7 +248,7 @@ export const DATA_PROGRESS = {
 
 /* ── Rekapitulasi Statistik PPPK Guru & Teknis ────────────── */
 export const REKAP = {
-  title: 'PPPK Guru & PPPK Teknis 2026',
+  title: 'Ringkasan',
   // subtitle: 'Buka atau tutup rekapitulasi statistik',
   toggleAria: 'Buka atau tutup rekapitulasi statistik',
   preview: (peserta: number, jabatan: number) =>
@@ -258,11 +267,12 @@ export const REKAP = {
   metricJabatan: 'Jumlah Jabatan',
   metricLokasi: 'Jumlah Lokasi',
   metricTerdaftar: 'Jumlah Peserta Terdaftar',
-  metricPL: 'Jumlah PPPK P/L',
-  metricP: 'Jumlah PPPK P',
-  metricTH: 'Jumlah PPPK TH',
-  metricTMS: 'Jumlah PPPK TMS',
-  metricAPS: 'Jumlah PPPK APS',
+  metricPL: 'Jumlah Lulus',
+  metricPL2: 'Jumlah Lulus Optimalisasi Lokasi',
+  metricP: 'Jumlah Memenuhi Nilai ',
+  metricTH: 'Jumlah Tidak Hadir',
+  metricTMS: 'Jumlah Tidak Memenuhi Syarat',
+  metricAPS: 'Jumlah Mengundurkan Diri',
   footerNote: '* Data bersumber dari seluruh pengumuman resmi Seleksi Kompetensi Sekolah Rakyat 2026.',
 } as const
 
@@ -281,6 +291,7 @@ export const NAV = {
   searchTab: 'Pencarian',
   searchTabAria: 'Buka halaman pencarian pengumuman peserta',
   aboutTab: 'Tentang Pengembang',
+  aboutTabShort: 'Tentang',
   aboutTabAria: 'Buka halaman tentang profil pengembang',
 } as const
 
@@ -346,7 +357,7 @@ export const ABOUT = {
   copySuccess: (label: string) => `${label} berhasil disalin ke clipboard!`,
   copyFailed: (label: string) => `Gagal menyalin ${label}`,
 
-  disclaimerTitle: 'Pernyataan Sumber Data (Disclaimer)',
+  disclaimerTitle: 'Pernyataan Sumber Data',
   disclaimerText: 'Aplikasi ini bukan website resmi pemerintah. Seluruh data pengumuman bersumber dari laman resmi Kementerian Sosial RI.',
   // disclaimerUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
   disclaimerUrl: 'https://bit.ly/hasil-integrasi',
@@ -395,12 +406,12 @@ export const ABOUT = {
 
 /* ── Footer ───────────────────────────────────────────────── */
 export const FOOTER = {
-  disclaimerText: 'Aplikasi ini bukan website resmi.',
+  disclaimerText: 'Bukan website resmi.',
   // sourceUrl: 'https://sekolahrakyat.kemensos.go.id/pengumuman',
   sourceUrl: 'https://bit.ly/hasil-integrasi',
   sourceButtonText: 'Sumber referensi',
-  copyright: '© 2026 Inisiatif Independen Pengumuman Seleksi Kompetensi.',
-  navSearch: 'Pencarian Peserta',
+  copyright: '© 2026 Inisiatif Mohammad Toriq.',
+  navSearch: 'Beranda',
   navAbout: 'Tentang Pengembang',
   versionTooltip: 'Catatan pembaruan versi',
 } as const

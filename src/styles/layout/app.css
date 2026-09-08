@@ -111,7 +111,19 @@
   border: 1px solid hsl(var(--border));
   border-radius: calc(var(--radius) + 2px);
   padding: 3px;
-  gap: 3px;
+  gap: 4px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.app-header-nav__label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.app-header-nav__label--mobile {
+  display: none;
 }
 
 .app-header-nav__btn {
@@ -179,21 +191,81 @@
 
   .app-header-actions {
     align-self: stretch;
-    justify-content: space-between;
     width: 100%;
+    max-width: 100%;
+    display: flex;
     align-items: center;
   }
 
   .app-header-nav {
-    flex: 1;
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 3px 6px;
+    gap: 4px;
   }
 
   .app-header-nav__btn {
     flex: 1;
+    min-width: 0;
     justify-content: center;
-    padding: 0 10px;
+    padding: 0 8px;
     font-size: 13px;
     min-height: 44px;
+    gap: 5px;
+  }
+
+  .app-header-nav__label--desktop {
+    display: none;
+  }
+
+  .app-header-nav__label--mobile {
+    display: inline;
+  }
+
+  .app-header-nav .theme-switch {
+    width: 44px;
+    height: 26px;
+    flex-shrink: 0;
+    margin-left: 2px;
+  }
+
+  .app-header-nav .theme-switch__thumb {
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 3px;
+  }
+
+  .app-header-nav .theme-switch--dark .theme-switch__thumb {
+    transform: translateX(20px);
+  }
+
+  .app-header-nav .theme-switch__icon {
+    width: 11px;
+    height: 11px;
+  }
+}
+
+@media (max-width: 480px) {
+  .app {
+    width: calc(100% - 16px);
+    margin: 8px auto;
+    padding: 12px;
+  }
+
+  .app-header-nav {
+    padding: 2px 4px;
+    gap: 3px;
+  }
+
+  .app-header-nav__btn {
+    padding: 0 6px;
+    font-size: 12px;
+    gap: 4px;
+    min-height: 42px;
   }
 }
 

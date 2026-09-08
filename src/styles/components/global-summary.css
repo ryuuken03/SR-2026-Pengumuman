@@ -320,6 +320,7 @@
 
 /* ── Status Badges in Summary ──────────────────────────────── */
 .status-badge--pl,
+.status-badge--pl2,
 .status-badge--p {
   background: hsl(var(--status-lulus-bg));
   color: hsl(var(--status-lulus));

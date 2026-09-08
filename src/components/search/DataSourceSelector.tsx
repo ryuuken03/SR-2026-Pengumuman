@@ -29,6 +29,10 @@ export default function DataSourceSelector({ dataSource = 'skt', onSourceChange 
           <label htmlFor="data-source-select" className="data-source-bar__label">
             {DATA_SOURCE.label}
           </label>
+          <span className="data-source-bar__badge">
+            {dataSource === 'selkom' ? DATA_SOURCE.catShort : DATA_SOURCE.sktShort} ·{' '}
+            {dataSource === 'selkom' ? DATA_SOURCE.catCount : DATA_SOURCE.sktCount}
+          </span>
         </div>
 
         <div className="data-source-bar__select-wrap">
@@ -39,8 +43,12 @@ export default function DataSourceSelector({ dataSource = 'skt', onSourceChange 
             onChange={(e) => onSourceChange(e.target.value as DataSource)}
             aria-label={DATA_SOURCE.ariaLabel}
           >
-            <option value="selkom">{DATA_SOURCE.catOption}</option>
-            <option value="skt">{DATA_SOURCE.sktOption}</option>
+            <option value="skt" className="data-source-bar__option">
+              {DATA_SOURCE.sktOption}
+            </option>
+            <option value="selkom" className="data-source-bar__option">
+              {DATA_SOURCE.catOption}
+            </option>
           </select>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -56,16 +64,6 @@ export default function DataSourceSelector({ dataSource = 'skt', onSourceChange 
             <polyline points="6 9 12 15 18 9" />
           </svg>
         </div>
-      </div>
-
-      <div className="data-source-bar__right">
-        <span className="data-source-bar__badge">
-          {dataSource === 'selkom' ? DATA_SOURCE.catShort : DATA_SOURCE.sktShort} ·{' '}
-          {dataSource === 'selkom' ? DATA_SOURCE.catCount : DATA_SOURCE.sktCount}
-        </span>
-        {/* <span className="data-source-bar__desc">
-          {dataSource === 'selkom' ? DATA_SOURCE.catDescription : DATA_SOURCE.sktDescription}
-        </span> */}
       </div>
     </section>
   )
