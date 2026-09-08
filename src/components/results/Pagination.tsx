@@ -1,4 +1,8 @@
+/* ── Pagination ──────────────────────────────────────────────
+   Komponen navigasi halaman (prev/next/nomor halaman).
+   ─────────────────────────────────────────────────────────── */
 import React from 'react'
+import { PAGINATION } from '../../constants/strings'
 
 interface PaginationProps {
   currentPage: number
@@ -47,12 +51,12 @@ export default function Pagination({
   const safeLastItem = Math.min(indexOfLastItem, totalItems)
 
   return (
-    <div className="pagination" role="navigation" aria-label="Navigasi halaman">
+    <div className="pagination" role="navigation" aria-label={PAGINATION.navLabel}>
       <div className="pagination__info">
         Menampilkan{' '}
         <strong>{indexOfFirstItem + 1}</strong>–<strong>{safeLastItem}</strong>{' '}
         dari <strong>{totalItems.toLocaleString('id-ID')}</strong>{' '}
-        {hasSearched ? 'hasil' : 'peserta'}
+        {hasSearched ? PAGINATION.itemTypeResult : PAGINATION.itemTypePeserta}
       </div>
 
       <div className="pagination__buttons">
@@ -60,8 +64,8 @@ export default function Pagination({
           className="pagination__btn"
           onClick={() => setCurrentPage(1)}
           disabled={currentPage === 1}
-          aria-label="Halaman pertama"
-          title="Halaman pertama"
+          aria-label={PAGINATION.first}
+          title={PAGINATION.first}
         >
           &laquo;
         </button>
@@ -70,8 +74,8 @@ export default function Pagination({
           className="pagination__btn"
           onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
           disabled={currentPage === 1}
-          aria-label="Halaman sebelumnya"
-          title="Halaman sebelumnya"
+          aria-label={PAGINATION.prev}
+          title={PAGINATION.prev}
         >
           &lsaquo;
         </button>
@@ -90,7 +94,7 @@ export default function Pagination({
               key={`page-${p}`}
               className={`pagination__btn${currentPage === pageNum ? ' active' : ''}`}
               onClick={() => setCurrentPage(pageNum)}
-              aria-label={`Halaman ${p}`}
+              aria-label={PAGINATION.pageLabel(pageNum)}
               aria-current={currentPage === pageNum ? 'page' : undefined}
             >
               {p}
@@ -102,8 +106,8 @@ export default function Pagination({
           className="pagination__btn"
           onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
           disabled={currentPage === totalPages}
-          aria-label="Halaman berikutnya"
-          title="Halaman berikutnya"
+          aria-label={PAGINATION.next}
+          title={PAGINATION.next}
         >
           &rsaquo;
         </button>
@@ -112,8 +116,8 @@ export default function Pagination({
           className="pagination__btn"
           onClick={() => setCurrentPage(totalPages)}
           disabled={currentPage === totalPages}
-          aria-label="Halaman terakhir"
-          title="Halaman terakhir"
+          aria-label={PAGINATION.last}
+          title={PAGINATION.last}
         >
           &raquo;
         </button>

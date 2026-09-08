@@ -1,0 +1,559 @@
+/* ============================================================
+   table.css — ResultsTable Component
+   ============================================================ */
+
+/* ── Desktop Data Table Container ──────────────────────────── */
+.data-table {
+  width: 100%;
+  border-radius: calc(var(--radius) + 2px);
+  border: 1px solid hsl(var(--border));
+  background: hsl(var(--card));
+  box-shadow: var(--table-shadow);
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+/* ── Desktop Table Scroll Wrapper ──────────────────────────── */
+.results-table__desktop {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.results-table__desktop table {
+  width: 100%;
+  min-width: 850px;
+  border-collapse: collapse;
+}
+
+.results-table__desktop thead th {
+  padding: 11px 14px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: hsl(var(--muted-foreground));
+  background: hsl(var(--table-header-bg));
+  text-align: left;
+  border-bottom: 1px solid hsl(var(--border));
+  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.results-table__desktop thead th.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.results-table__desktop thead th.sortable:hover {
+  background: hsl(var(--accent));
+  color: hsl(var(--foreground));
+}
+
+.results-table__desktop thead th .sort-indicator {
+  display: inline-block;
+  margin-left: 4px;
+  opacity: 0.35;
+  font-size: 10px;
+  transition: opacity 0.15s;
+}
+
+.results-table__desktop thead th.sortable:hover .sort-indicator,
+.results-table__desktop thead th.sorted .sort-indicator {
+  opacity: 1;
+}
+
+.results-table__desktop tbody td {
+  padding: 11px 14px;
+  border-top: 1px solid hsl(var(--border));
+  font-size: 13.5px;
+  color: hsl(var(--foreground));
+  vertical-align: middle;
+}
+
+/* ── Cell Types ────────────────────────────────────────────── */
+.cell-formasi-info {
+  font-size: 12.5px !important;
+  min-width: 180px;
+  max-width: 320px;
+  line-height: 1.4;
+}
+
+.cell-formasi-combined {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.cell-formasi-combined .cell-jabatan-text {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: hsl(var(--foreground));
+  line-height: 1.35;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.cell-formasi-combined .formasi-chip--lokasi {
+  margin-top: 8px;
+}
+
+.cell-jabatan-text,
+.cell-lokasi-text {
+  font-size: 12.5px;
+  line-height: 1.4;
+  display: inline-block;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.cell-lokasi-text {
+  color: hsl(var(--foreground));
+}
+
+/* ── Row Styles ────────────────────────────────────────────── */
+.results-table__desktop tbody tr {
+  transition: background 0.1s;
+}
+
+.results-table__desktop tbody tr:hover:not(.empty-row) {
+  background: hsl(var(--muted) / 0.4);
+}
+
+.results-table__desktop tbody tr.empty-row td {
+  text-align: center;
+  color: hsl(var(--muted-foreground));
+  padding: 40px 20px;
+  font-size: 14px;
+}
+
+/* Column-specific styles */
+.results-table__desktop tbody td:nth-child(1) {
+  color: hsl(var(--muted-foreground));
+  font-weight: 500;
+  text-align: center;
+  width: 50px;
+  font-size: 12px;
+}
+
+.results-table__desktop tbody td:nth-child(2) {
+  font-family: ui-monospace, 'Cascadia Code', Consolas, monospace;
+  font-size: 12px;
+  color: hsl(var(--muted-foreground));
+  letter-spacing: 0.02em;
+}
+
+.results-table__desktop tbody td:nth-child(3) {
+  font-weight: 600;
+}
+
+.results-table__desktop tbody td.cell-score {
+  font-variant-numeric: tabular-nums;
+  color: hsl(var(--muted-foreground));
+}
+
+.results-table__desktop tbody td.cell-total {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: hsl(var(--foreground));
+}
+
+/* ── Search Highlight ──────────────────────────────────────── */
+mark.highlight {
+  background: hsl(var(--brand) / 0.2);
+  color: hsl(var(--foreground));
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+/* ── Nama cell ─────────────────────────────────────────────── */
+.cell-nama {
+  white-space: pre-wrap;
+}
+
+/* ── Formasi Chip ──────────────────────────────────────────── */
+.formasi-chip {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: calc(var(--radius) - 2px);
+  background: hsl(var(--brand) / 0.12);
+  border: 1px solid hsl(var(--brand) / 0.25);
+  color: hsl(var(--brand));
+  font-size: 11.5px;
+  font-weight: 600;
+  line-height: 1.35;
+  text-align: left;
+  word-break: normal;
+  overflow-wrap: break-word;
+  max-width: 100%;
+  box-sizing: border-box;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.formasi-chip--lokasi {
+  background: hsl(var(--secondary));
+  border-color: hsl(var(--border));
+  color: hsl(var(--foreground));
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+button.formasi-chip {
+  cursor: pointer;
+}
+
+button.formasi-chip:hover {
+  background: hsl(var(--brand));
+  color: #ffffff !important;
+}
+
+.btn-link-formasi {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  color: hsl(var(--brand)) !important;
+  font-size: 12.5px !important;
+  font-weight: 600 !important;
+  text-align: left;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  height: auto !important;
+  line-height: 1.4 !important;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.btn-link-formasi:hover {
+  color: hsl(var(--brand-foreground)) !important;
+}
+
+/* ── Mobile Cards Layout (Hidden on Desktop) ───────────────── */
+.results-cards__mobile {
+  display: none;
+}
+
+/* ── Responsive View (Mobile Screen <= 768px) ─────────────── */
+@media (max-width: 768px) {
+  .data-table {
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    overflow: visible;
+    border-radius: 0;
+  }
+
+  /* Sembunyikan tabel desktop sama sekali agar tidak memicu scroll horizontal */
+  .results-table__desktop {
+    display: none !important;
+  }
+
+  /* Tampilkan kartu peserta di mobile */
+  .results-cards__mobile {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Bilah Pengurutan Mobile */
+  .results-mobile-sort {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 10px 12px;
+    background: hsl(var(--card));
+    border: 1px solid hsl(var(--border));
+    border-radius: calc(var(--radius) + 2px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .results-mobile-sort__field {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .results-mobile-sort__icon {
+    font-size: 14px;
+    color: hsl(var(--muted-foreground));
+    flex-shrink: 0;
+  }
+
+  .results-mobile-sort__label {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: hsl(var(--muted-foreground));
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .results-mobile-sort__select {
+    flex: 1;
+    min-width: 0;
+    height: 36px;
+    padding: 0 10px;
+    font-size: 13px;
+    font-family: inherit;
+    font-weight: 500;
+    color: hsl(var(--foreground));
+    background: hsl(var(--secondary) / 0.5);
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    outline: none;
+    cursor: pointer;
+    box-sizing: border-box;
+  }
+
+  .results-mobile-sort__select:focus {
+    border-color: hsl(var(--ring));
+  }
+
+  .results-mobile-sort__dir-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    height: 36px;
+    padding: 0 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: hsl(var(--foreground));
+    background: hsl(var(--secondary));
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    cursor: pointer;
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: background 0.12s, border-color 0.12s;
+  }
+
+  .results-mobile-sort__dir-btn:hover {
+    background: hsl(var(--accent));
+  }
+
+  /* List Kartu Peserta */
+  .participant-card-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Kartu Individu Peserta */
+  .participant-card {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    padding: 10px 12px;
+    background: hsl(var(--card));
+    border: 1px solid hsl(var(--border));
+    border-radius: calc(var(--radius) + 2px);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+  }
+
+  .participant-card:active {
+    transform: scale(0.995);
+  }
+
+  /* Header Kartu: Peringkat, Status & Total Skor */
+  .participant-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .participant-card__badges {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-width: 0;
+  }
+
+  .participant-card__rank {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 7px;
+    border-radius: calc(var(--radius) - 2px);
+    background: hsl(var(--secondary));
+    color: hsl(var(--muted-foreground));
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    flex-shrink: 0;
+  }
+
+  .participant-card__total {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 5px;
+    padding: 2px 8px;
+    background: hsl(var(--brand) / 0.08);
+    border: 1px solid hsl(var(--brand) / 0.22);
+    border-radius: calc(var(--radius) - 2px);
+    flex-shrink: 0;
+  }
+
+  .participant-card__total-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: hsl(var(--brand));
+  }
+
+  .participant-card__total-val {
+    font-size: 13.5px;
+    font-weight: 800;
+    color: hsl(var(--brand));
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Identitas: Nama & Nomor Peserta */
+  .participant-card__identity {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    width: 100%;
+  }
+
+  .participant-card__nama {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 700;
+    color: hsl(var(--foreground));
+    line-height: 1.25;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
+
+  .participant-card__nomor {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11.5px;
+    color: hsl(var(--muted-foreground));
+    line-height: 1.2;
+    flex-wrap: wrap;
+  }
+
+  .participant-card__nomor-label {
+    font-size: 11px;
+    color: hsl(var(--muted-foreground));
+  }
+
+  .participant-card__nomor-val {
+    font-family: ui-monospace, 'Cascadia Code', Consolas, monospace;
+    font-size: 11.5px;
+    font-weight: 500;
+    color: hsl(var(--foreground) / 0.85);
+    letter-spacing: 0.02em;
+  }
+
+  /* Formasi & Lokasi */
+  .participant-card__formation {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px 6px;
+    padding: 4px 8px;
+    background: hsl(var(--secondary) / 0.35);
+    border: 1px solid hsl(var(--border) / 0.65);
+    border-radius: calc(var(--radius) - 2px);
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .participant-card__jabatan {
+    font-size: 11.5px;
+    font-weight: 600;
+    color: hsl(var(--foreground));
+    line-height: 1.25;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
+
+  .participant-card__formation .formasi-chip--lokasi {
+    margin-top: 0;
+    padding: 1px 6px;
+    font-size: 10.5px;
+    line-height: 1.25;
+  }
+
+  /* Rincian Skor (4 Kolom Konsisten) */
+  .participant-card__scores {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 4px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Layar ponsel sangat kecil (<= 320px): 2 baris x 2 kolom */
+  @media (max-width: 320px) {
+    .participant-card__scores {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 4px;
+    }
+  }
+
+  .participant-card__score-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 2px;
+    background: hsl(var(--secondary) / 0.4);
+    border: 1px solid hsl(var(--border) / 0.6);
+    border-radius: calc(var(--radius) - 2px);
+    text-align: center;
+    box-sizing: border-box;
+    min-width: 0;
+  }
+
+  .participant-card__score-item .score-label {
+    font-size: 8.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: hsl(var(--muted-foreground));
+    letter-spacing: 0.01em;
+    margin-bottom: 1px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+  }
+
+  .participant-card__score-item .score-value {
+    font-size: 12.5px;
+    font-weight: 700;
+    color: hsl(var(--foreground));
+    font-variant-numeric: tabular-nums;
+    line-height: 1.2;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .results-table__desktop tbody tr,
+  .participant-card,
+  .results-mobile-sort__dir-btn {
+    transition: none;
+  }
+}

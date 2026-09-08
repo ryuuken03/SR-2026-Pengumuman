@@ -1,67 +1,48 @@
 import { useState, useEffect } from 'react'
-import './App.css'
+import './styles/index.css'
 import { useSelkomSearch } from './hooks/useSelkomSearch'
-import FormasiSelector from './components/FormasiSelector'
-import SearchControls from './components/SearchControls'
-import ResultsTable from './components/ResultsTable'
-import SummaryCard from './components/SummaryCard'
+import { APP, META, NAV } from './constants/strings'
+import ThemeToggle from './components/layout/ThemeToggle'
+import AppFooter from './components/layout/AppFooter'
+import AboutPage from './components/about/AboutPage'
+import ChangelogModal from './components/ui/ChangelogModal'
+import FormasiSelector from './components/search/FormasiSelector'
+import SearchControls from './components/search/SearchControls'
+import ResultsTable from './components/results/ResultsTable'
+import SummaryCard from './components/results/SummaryCard'
+import GlobalSummary from './components/results/GlobalSummary'
 
-/* ── Theme Toggle ─────────────────────────────────────── */
-function ThemeToggle({ isDark, onToggle }: { isDark: boolean; onToggle: () => void }) {
-  return (
-    <button
-      type="button"
-      className={`theme-switch${isDark ? ' theme-switch--dark' : ''}`}
-      onClick={onToggle}
-      aria-label={isDark ? 'Aktifkan mode terang' : 'Aktifkan mode gelap'}
-      title={isDark ? 'Mode terang' : 'Mode gelap'}
-    >
-      <span className="theme-switch__thumb">
-        {isDark ? (
-          <svg className="theme-switch__icon" xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24" fill="none" stroke="currentColor"
-            strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
-          </svg>
-        ) : (
-          <svg className="theme-switch__icon" xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24" fill="none" stroke="currentColor"
-            strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-            <circle cx="12" cy="12" r="4" />
-            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
-          </svg>
-        )}
-      </span>
-    </button>
-  )
-}
 
-/* ── useTheme ─────────────────────────────────────────── */
+/* ── useTheme ─────────────────────────────────────────────── */
 function useTheme() {
   const [isDark, setIsDark] = useState(() => {
     try {
       const saved = localStorage.getItem('selkom-theme')
       if (saved) return saved === 'dark'
-    } catch {}
+    } catch { }
     return window.matchMedia?.('(prefers-color-scheme: dark)').matches ?? false
   })
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', isDark)
     document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light')
-    try { localStorage.setItem('selkom-theme', isDark ? 'dark' : 'light') } catch {}
+    try { localStorage.setItem('selkom-theme', isDark ? 'dark' : 'light') } catch { }
   }, [isDark])
 
   return { isDark, toggleTheme: () => setIsDark(v => !v) }
 }
 
-/* ── App ──────────────────────────────────────────────── */
+/* ── App ──────────────────────────────────────────────────── */
 export default function App() {
   const { isDark, toggleTheme } = useTheme()
+  const [activeTab, setActiveTab] = useState<'search' | 'about'>('search')
+  const [isChangelogOpen, setIsChangelogOpen] = useState(false)
 
   const {
     // Formasi
-    formasiOptions,
+    formasiTab,
+    setFormasiTab,
+    validJabatan,
     validLokasi,
     loadingMeta,
     selectedJabatan,
@@ -107,96 +88,202 @@ export default function App() {
         <div className="app-header-brand">
           <img
             src="/assets/images/logo-kemensos.png"
-            alt="Logo Kementerian Sosial"
+            alt={APP.logoAlt}
             className="app-logo"
             onError={e => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
           />
           <div className="app-header-text">
-            <h1>Pengumuman Seleksi Kompetensi</h1>
-            <span className="app-header-subtitle">
-              Sekolah Rakyat 2026 — Kementerian Sosial RI
-            </span>
+            <h1>{APP.title}</h1>
+            <div className="app-header-subrow">
+              <span className="app-header-subtitle">{APP.subtitle}</span>
+              <span className="app-header-disclaimer">· {APP.disclaimer}</span>
+              <a
+                href={APP.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-reference-source btn-reference-source--header"
+              >
+                <span>{APP.sourceButtonText}</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="11"
+                  height="11"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  aria-hidden="true"
+                >
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+                  <polyline points="15 3 21 3 21 9" />
+                  <line x1="10" y1="14" x2="21" y2="3" />
+                </svg>
+              </a>
+            </div>
           </div>
         </div>
         <div className="app-header-actions">
+          <nav className="app-header-nav" aria-label="Navigasi Halaman Utama">
+            <button
+              type="button"
+              className={`app-header-nav__btn ${activeTab === 'search' ? 'app-header-nav__btn--active' : ''}`}
+              onClick={() => setActiveTab('search')}
+              aria-label={NAV.searchTabAria}
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                aria-hidden="true"
+              >
+                <circle cx="11" cy="11" r="8" />
+                <line x1="21" y1="21" x2="16.65" y2="16.65" />
+              </svg>
+              <span>{NAV.searchTab}</span>
+            </button>
+            <button
+              type="button"
+              className={`app-header-nav__btn ${activeTab === 'about' ? 'app-header-nav__btn--active' : ''}`}
+              onClick={() => setActiveTab('about')}
+              aria-label={NAV.aboutTabAria}
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                aria-hidden="true"
+              >
+                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+                <circle cx="12" cy="7" r="4" />
+              </svg>
+              <span>{NAV.aboutTab}</span>
+            </button>
+          </nav>
           <ThemeToggle isDark={isDark} onToggle={toggleTheme} />
         </div>
       </header>
 
-      {/* ── Formasi Selector (hanya tampil jika checkbox dicentang) ──── */}
-      {requireSelectedFormasi && (
-        <FormasiSelector
-          formasiOptions={formasiOptions}
-          validLokasi={validLokasi}
-          selectedJabatan={selectedJabatan}
-          setSelectedJabatan={setSelectedJabatan}
-          selectedLokasi={selectedLokasi}
-          setSelectedLokasi={setSelectedLokasi}
-          loadingMeta={loadingMeta}
-          searchScope={searchScope}
+      {/* ── Main View: Search vs About ──────────────────── */}
+      {activeTab === 'about' ? (
+        <AboutPage
+          onBackToSearch={() => setActiveTab('search')}
+          onOpenChangelog={() => setIsChangelogOpen(true)}
         />
+      ) : (
+        <>
+          {/* ── Rekapitulasi Statistik PPPK Guru & Teknis (Expandable) ─── */}
+          <GlobalSummary />
+
+          {/* ── Formasi Selector (hanya tampil jika checkbox dicentang) ──── */}
+          {requireSelectedFormasi && (
+            <FormasiSelector
+              requireSelectedFormasi={requireSelectedFormasi}
+              setRequireSelectedFormasi={setRequireSelectedFormasi}
+              setSearchScope={setSearchScope}
+              handleClear={handleClear}
+              formasiTab={formasiTab}
+              setFormasiTab={setFormasiTab}
+              validJabatan={validJabatan}
+              validLokasi={validLokasi}
+              selectedJabatan={selectedJabatan}
+              setSelectedJabatan={setSelectedJabatan}
+              selectedLokasi={selectedLokasi}
+              setSelectedLokasi={setSelectedLokasi}
+              loadingMeta={loadingMeta}
+              searchScope={searchScope}
+            />
+          )}
+
+          {/* ── Summary Card (hanya jika formasi aktif terpilih) ──── */}
+          {searchScope === 'formasi' && summary && <SummaryCard summary={summary} />}
+
+          {/* ── Search Controls ────────────────────────────── */}
+          <SearchControls
+            query={query}
+            setQuery={setQuery}
+            handleSearch={handleSearch}
+            hasSearched={hasSearched}
+            handleClear={handleClear}
+            disabled={loading}
+            setSearchScope={setSearchScope}
+            requireSelectedFormasi={requireSelectedFormasi}
+            setRequireSelectedFormasi={setRequireSelectedFormasi}
+            formasiReady={formasiReady}
+          />
+
+          {/* ── Meta Info ──────────────────────────────────── */}
+          <div className="meta">
+            <span>
+              {loading
+                ? META.loading(progress)
+                : hasSearched
+                  ? searchScope === 'global'
+                    ? META.resultGlobal(totalItems, activeQuery)
+                    : META.resultFormasi(totalItems, activeQuery)
+                  : searchScope === 'global'
+                    ? ''
+                    : formasiReady
+                      ? totalItems > 0
+                        ? META.formasiTotal(totalItems)
+                        : progress
+                      : META.formasiIdle}
+            </span>
+            {hasSearched && totalItems > 0 && (
+              <span>
+                {META.pageInfo(currentPage, totalPages)}
+              </span>
+            )}
+          </div>
+
+          {/* ── Results Table ──────────────────────────────── */}
+          <ResultsTable
+            displayItems={displayItems}
+            loading={loading}
+            hasSearched={hasSearched}
+            activeQuery={activeQuery}
+            selectedJabatan={selectedJabatan}
+            selectedLokasi={selectedLokasi}
+            searchScope={searchScope}
+            currentPage={currentPage}
+            setCurrentPage={setCurrentPage}
+            totalItems={totalItems}
+            totalPages={totalPages}
+            indexOfFirstItem={indexOfFirstItem}
+            indexOfLastItem={indexOfLastItem}
+            ITEMS_PER_PAGE={ITEMS_PER_PAGE}
+            sortConfig={sortConfig}
+            requestSort={requestSort}
+          />
+        </>
       )}
 
-      {/* ── Summary Card (hanya jika formasi aktif terpilih) ──── */}
-      {searchScope === 'formasi' && summary && <SummaryCard summary={summary} />}
-
-      {/* ── Search Controls ────────────────────────────── */}
-      <SearchControls
-        query={query}
-        setQuery={setQuery}
-        handleSearch={handleSearch}
-        hasSearched={hasSearched}
-        handleClear={handleClear}
-        disabled={loading}
-        setSearchScope={setSearchScope}
-        requireSelectedFormasi={requireSelectedFormasi}
-        setRequireSelectedFormasi={setRequireSelectedFormasi}
-        formasiReady={formasiReady}
+      {/* ── App Footer ─────────────────────────────────── */}
+      <AppFooter
+        activeTab={activeTab}
+        onNavigate={setActiveTab}
+        onOpenChangelog={() => setIsChangelogOpen(true)}
       />
 
-      {/* ── Meta Info ──────────────────────────────────── */}
-      <div className="meta">
-        <span>
-          {loading
-            ? '⏳ ' + (progress || 'Memproses...')
-            : hasSearched
-              ? searchScope === 'global'
-                ? `Ditemukan ${totalItems.toLocaleString('id-ID')} hasil di seluruh formasi untuk "${activeQuery}"`
-                : `Ditemukan ${totalItems.toLocaleString('id-ID')} hasil untuk "${activeQuery}"`
-              : searchScope === 'global'
-                ? 'Mode Global Search: Ketik kata kunci untuk mencari di seluruh 118.000+ data peserta'
-                : formasiReady
-                  ? totalItems > 0
-                    ? `Total ${totalItems.toLocaleString('id-ID')} peserta`
-                    : progress
-                  : 'Pilih formasi atau gunakan Global Search di atas'}
-        </span>
-        {hasSearched && totalItems > 0 && (
-          <span>
-            Halaman {currentPage} dari {totalPages}
-          </span>
-        )}
-      </div>
-
-      {/* ── Results Table ──────────────────────────────── */}
-      <ResultsTable
-        displayItems={displayItems}
-        loading={loading}
-        hasSearched={hasSearched}
-        activeQuery={activeQuery}
-        selectedJabatan={selectedJabatan}
-        selectedLokasi={selectedLokasi}
-        searchScope={searchScope}
-        currentPage={currentPage}
-        setCurrentPage={setCurrentPage}
-        totalItems={totalItems}
-        totalPages={totalPages}
-        indexOfFirstItem={indexOfFirstItem}
-        indexOfLastItem={indexOfLastItem}
-        ITEMS_PER_PAGE={ITEMS_PER_PAGE}
-        sortConfig={sortConfig}
-        requestSort={requestSort}
+      {/* ── Changelog / Features Modal ──────────────────── */}
+      <ChangelogModal
+        isOpen={isChangelogOpen}
+        onClose={() => setIsChangelogOpen(false)}
       />
     </div>
   )
 }
+

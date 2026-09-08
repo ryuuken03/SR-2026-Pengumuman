@@ -147,3 +147,69 @@ fs.writeFileSync(srcSelectorPath, selectorStr, 'utf8')
 
 const selectorStats = fs.statSync(publicSelectorPath)
 console.log(`Successfully generated selector.json (${(selectorStats.size / 1024).toFixed(2)} KB)`)
+
+// Generate and write rekap_stats.json
+function isGuruJabatan(kode, label = '') {
+  return kode.startsWith('JF') || /guru/i.test(label)
+}
+function isPusdikLokasi(label = '') {
+  return /pusat pendidikan/i.test(label)
+}
+
+let guruJabatanCount = 0
+let teknisJabatanCount = 0
+for (const item of (selectFormasi['Jabatan Formasi'] || [])) {
+  if (isGuruJabatan(item.kode, item.label)) guruJabatanCount++
+  else teknisJabatanCount++
+}
+
+let guruLokasiCount = 0
+let teknisLokasiCount = 0
+for (const item of (selectFormasi['Lokasi Formasi'] || [])) {
+  if (!isPusdikLokasi(item.label)) guruLokasiCount++
+  else teknisLokasiCount++
+}
+
+const rekap = {
+  generatedAt: new Date().toISOString().slice(0, 10),
+  guru: { jabatan: guruJabatanCount, lokasi: guruLokasiCount, terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 },
+  teknis: { jabatan: teknisJabatanCount, lokasi: teknisLokasiCount, terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 },
+  total: { jabatan: guruJabatanCount + teknisJabatanCount, lokasi: guruLokasiCount + teknisLokasiCount, terdaftar: 0, pl: 0, p: 0, th: 0, tms: 0, aps: 0 }
+}
+
+for (const item of rawRawParticipants) {
+  const jKode = jKeys[item.jIdx] || ''
+  const jLabel = jLabels[item.jIdx] || ''
+  const isGuru = isGuruJabatan(jKode, jLabel)
+  const target = isGuru ? rekap.guru : rekap.teknis
+
+  target.terdaftar++
+  rekap.total.terdaftar++
+
+  const st = item.status
+  if (st === 'P/L') {
+    target.pl++
+    rekap.total.pl++
+  } else if (st === 'P') {
+    target.p++
+    rekap.total.p++
+  } else if (st === 'TH') {
+    target.th++
+    rekap.total.th++
+  } else if (st === 'TMS') {
+    target.tms++
+    rekap.total.tms++
+  } else if (st === 'APS') {
+    target.aps++
+    rekap.total.aps++
+  }
+}
+
+const rekapStr = JSON.stringify(rekap, null, 2)
+const publicRekapPath = path.join(publicSelkomDir, 'rekap_stats.json')
+const srcRekapPath = path.join(selkomDir, 'rekap_stats.json')
+
+fs.writeFileSync(publicRekapPath, rekapStr, 'utf8')
+fs.writeFileSync(srcRekapPath, rekapStr, 'utf8')
+console.log('Successfully generated rekap_stats.json')
+

@@ -1,4 +1,8 @@
-import type { SelkomSummary } from '../hooks/useSelkomSearch'
+/* ── SummaryCard ─────────────────────────────────────────────
+   Menampilkan ringkasan statistik formasi yang dipilih.
+   ─────────────────────────────────────────────────────────── */
+import type { SelkomSummary } from '../../hooks/useSelkomSearch'
+import { SUMMARY } from '../../constants/strings'
 
 interface SummaryCardProps {
   summary: SelkomSummary | null
@@ -27,8 +31,8 @@ export default function SummaryCard({ summary }: SummaryCardProps) {
   const jenisLabel = jenisFull.includes(' - ') ? jenisFull.split(' - ').slice(1).join(' - ') : jenisFull
 
   return (
-    <div className="summary-card" role="region" aria-label="Ringkasan formasi">
-      <p className="summary-card__title">📋 Ringkasan Formasi</p>
+    <div className="summary-card" role="region" aria-label={SUMMARY.regionLabel}>
+      <p className="summary-card__title">{SUMMARY.title}</p>
 
       <div className="summary-card__header">
         <p className="summary-card__jabatan">{jabatanLabel || jabatanFull}</p>
@@ -36,43 +40,43 @@ export default function SummaryCard({ summary }: SummaryCardProps) {
           {lokasiLabel} {jenisLabel ? `· ${jenisLabel}` : ''}
         </p>
         {instansi && (
-          <p className="summary-card__lokasi" style={{ marginTop: 2, fontSize: '11px', opacity: 0.7 }}>
+          <p className="summary-card__instansi">
             {instansi}
           </p>
         )}
       </div>
 
       <div className="summary-card__stat">
-        <span className="summary-card__stat-label">Formasi</span>
+        <span className="summary-card__stat-label">{SUMMARY.formasi}</span>
         <span className="summary-card__stat-value summary-card__stat-value--brand">
           {jumlahFormasi?.toLocaleString('id-ID') ?? '-'}
         </span>
       </div>
 
       <div className="summary-card__stat">
-        <span className="summary-card__stat-label">Peserta</span>
+        <span className="summary-card__stat-label">{SUMMARY.peserta}</span>
         <span className="summary-card__stat-value">
           {jumlahPeserta?.toLocaleString('id-ID') ?? '-'}
         </span>
       </div>
 
       <div className="summary-card__stat">
-        <span className="summary-card__stat-label">Lulus / Diangkat</span>
+        <span className="summary-card__stat-label">{SUMMARY.kelulusan}</span>
         <span className="summary-card__stat-value summary-card__stat-value--brand">
           {kelulusan?.toLocaleString('id-ID') ?? '-'}
         </span>
       </div>
 
       <div className="summary-card__stat">
-        <span className="summary-card__stat-label">Kehadiran</span>
-        <span className="summary-card__stat-value" style={{ fontSize: '14px' }}>
+        <span className="summary-card__stat-label">{SUMMARY.kehadiran}</span>
+        <span className="summary-card__stat-value summary-card__stat-value--kehadiran">
           {kehadiran || '-'}
         </span>
       </div>
 
       {nilaiUjian.tertinggi !== undefined && (
         <div className="summary-card__stat">
-          <span className="summary-card__stat-label">Nilai Tertinggi</span>
+          <span className="summary-card__stat-label">{SUMMARY.nilaiTertinggi}</span>
           <span className="summary-card__stat-value">
             {nilaiUjian.tertinggi}
           </span>
@@ -81,7 +85,7 @@ export default function SummaryCard({ summary }: SummaryCardProps) {
 
       {nilaiUjian.terendah !== undefined && (
         <div className="summary-card__stat">
-          <span className="summary-card__stat-label">Nilai Terendah</span>
+          <span className="summary-card__stat-label">{SUMMARY.nilaiTerendah}</span>
           <span className="summary-card__stat-value">
             {nilaiUjian.terendah}
           </span>

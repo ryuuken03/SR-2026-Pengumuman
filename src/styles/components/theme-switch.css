@@ -1,0 +1,60 @@
+/* ============================================================
+   theme-switch.css — Theme Toggle Component
+   ============================================================ */
+
+.theme-switch {
+  position: relative;
+  width: 52px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: hsl(var(--secondary));
+  border: 1px solid hsl(var(--border));
+  cursor: pointer;
+  padding: 0;
+  transition: background-color 0.2s, border-color 0.2s;
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.theme-switch--dark {
+  background-color: hsl(var(--brand));
+  border-color: transparent;
+}
+
+.theme-switch:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px hsl(var(--ring) / 0.35);
+}
+
+.theme-switch__thumb {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background-color: hsl(var(--background));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.theme-switch--dark .theme-switch__thumb {
+  transform: translateX(22px);
+}
+
+.theme-switch__icon {
+  width: 13px;
+  height: 13px;
+  color: hsl(var(--foreground));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-switch,
+  .theme-switch__thumb {
+    transition: none;
+  }
+}

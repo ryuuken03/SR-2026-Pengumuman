@@ -1,0 +1,36 @@
+/* ============================================================
+   styles/index.css — Entry Point CSS
+   Sekolah Rakyat 2026 Pengumuman
+   
+   Urutan import PENTING:
+   1. variables  → semua token warna & ukuran
+   2. reset      → box-model normalisasi
+   3. typography → font & body
+   4. layout     → container & header
+   5. components → komponen individu
+   ============================================================ */
+
+/* ── 1. Base ────────────────────────────────────────────────── */
+@import './base/variables.css';
+@import './base/reset.css';
+@import './base/typography.css';
+
+/* ── 2. Layout ──────────────────────────────────────────────── */
+@import './layout/app.css';
+@import './layout/grid.css';
+@import './layout/footer.css';
+
+/* ── 3. Components ──────────────────────────────────────────── */
+@import './components/theme-switch.css';
+@import './components/button.css';
+@import './components/search.css';
+@import './components/summary-card.css';
+@import './components/table.css';
+@import './components/pagination.css';
+@import './components/badge.css';
+@import './components/empty-state.css';
+@import './components/global-summary.css';
+@import './components/about.css';
+@import './components/modal.css';
+
+

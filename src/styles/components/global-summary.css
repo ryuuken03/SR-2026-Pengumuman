@@ -1,0 +1,567 @@
+/* ============================================================
+   global-summary.css — GlobalSummary (Rekapitulasi Statistik)
+   Sekolah Rakyat 2026 Pengumuman
+   ============================================================ */
+
+.global-summary {
+  position: relative;
+  background: hsl(var(--card));
+  border: 1px solid hsl(var(--border));
+  border-radius: calc(var(--radius) + 2px);
+  margin-bottom: 16px;
+  box-shadow: var(--table-shadow);
+  overflow: hidden;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.global-summary::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(to right, hsl(var(--brand)), hsl(var(--brand-foreground)));
+  z-index: 2;
+}
+
+.global-summary:hover {
+  border-color: hsl(var(--brand) / 0.35);
+}
+
+/* ── Trigger / Header Accordion ────────────────────────────── */
+.global-summary__trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 18px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  min-height: 52px;
+  transition: background-color 0.15s ease;
+  box-sizing: border-box;
+}
+
+.global-summary__trigger:hover {
+  background: hsl(var(--secondary) / 0.45);
+}
+
+.global-summary__trigger:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: -2px;
+}
+
+.global-summary__trigger-main {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.global-summary__icon-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius);
+  background: hsl(var(--brand) / 0.12);
+  color: hsl(var(--brand));
+  flex-shrink: 0;
+}
+
+.global-summary__icon-badge svg {
+  width: 18px;
+  height: 18px;
+}
+
+.global-summary__trigger-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.global-summary__title {
+  font-size: 14px;
+  font-weight: 700;
+  color: hsl(var(--foreground));
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.global-summary__subtitle {
+  font-size: 12px;
+  color: hsl(var(--muted-foreground));
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.global-summary__trigger-side {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.global-summary__preview-pill {
+  font-size: 11.5px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  background: hsl(var(--secondary));
+  color: hsl(var(--secondary-foreground));
+  border: 1px solid hsl(var(--border));
+  white-space: nowrap;
+}
+
+.global-summary__chevron {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  color: hsl(var(--muted-foreground));
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), color 0.15s ease;
+}
+
+.global-summary__chevron svg {
+  width: 16px;
+  height: 16px;
+}
+
+.global-summary__chevron--open {
+  transform: rotate(180deg);
+  color: hsl(var(--brand));
+}
+
+/* ── Expandable Body Content ───────────────────────────────── */
+.global-summary__body {
+  border-top: 1px solid hsl(var(--border));
+  background: hsl(var(--card));
+  animation: summarySlideDown 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-sizing: border-box;
+  width: 100%;
+}
+
+@keyframes summarySlideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ── Desktop Table View (≥ 769px) ─────────────────────────── */
+.global-summary__desktop-table {
+  display: block;
+}
+
+.global-summary__table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.global-summary__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  text-align: left;
+}
+
+/* Table Header */
+.global-summary__table th {
+  padding: 10px 14px;
+  font-size: 11.5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: hsl(var(--muted-foreground));
+  background: hsl(var(--table-header-bg));
+  border-bottom: 1px solid hsl(var(--border));
+  white-space: nowrap;
+}
+
+.global-summary__th-indikator {
+  width: 46%;
+  min-width: 200px;
+}
+
+.global-summary__th-col {
+  text-align: right;
+  min-width: 110px;
+}
+
+.global-summary__th-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.global-summary__th-badge svg {
+  width: 13px;
+  height: 13px;
+}
+
+.global-summary__th-badge--guru {
+  background: hsl(215 90% 50% / 0.12);
+  color: hsl(215 90% 50%);
+}
+
+.global-summary__th-badge--teknis {
+  background: hsl(270 70% 55% / 0.12);
+  color: hsl(270 70% 55%);
+}
+
+.global-summary__th-badge--total {
+  background: hsl(var(--foreground) / 0.08);
+  color: hsl(var(--foreground));
+}
+
+/* Group Sub-header Rows */
+.global-summary__group-row td {
+  padding: 8px 14px;
+  background: hsl(var(--secondary) / 0.6);
+  border-top: 1px solid hsl(var(--border));
+  border-bottom: 1px solid hsl(var(--border));
+}
+
+.global-summary__group-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: hsl(var(--brand));
+}
+
+.global-summary__group-label svg {
+  width: 14px;
+  height: 14px;
+}
+
+/* Table Body Cells */
+.global-summary__table td {
+  padding: 9px 14px;
+  border-bottom: 1px solid hsl(var(--border) / 0.6);
+  color: hsl(var(--foreground));
+}
+
+.global-summary__td-metric {
+  color: hsl(var(--foreground));
+  font-weight: 500;
+}
+
+.global-summary__metric-title {
+  line-height: 1.4;
+}
+
+.global-summary__metric-with-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.global-summary__metric-with-badge .status-badge {
+  min-width: 38px;
+  justify-content: center;
+  padding: 1px 6px;
+  font-size: 10.5px;
+}
+
+.global-summary__td-val {
+  text-align: right;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: hsl(var(--foreground));
+}
+
+.global-summary__td-val--primary {
+  color: hsl(var(--brand));
+  font-weight: 700;
+}
+
+.global-summary__td-val--success {
+  color: hsl(var(--status-lulus));
+  font-weight: 700;
+}
+
+.global-summary__td-val--muted {
+  color: hsl(var(--muted-foreground));
+}
+
+.global-summary__td-val--total {
+  background: hsl(var(--secondary) / 0.25);
+}
+
+.global-summary__row--highlight {
+  background: hsl(var(--brand) / 0.04);
+}
+
+/* ── Status Badges in Summary ──────────────────────────────── */
+.status-badge--pl,
+.status-badge--p {
+  background: hsl(var(--status-lulus-bg));
+  color: hsl(var(--status-lulus));
+}
+
+.status-badge--th,
+.status-badge--tms,
+.status-badge--aps {
+  background: hsl(var(--status-tl-bg));
+  color: hsl(var(--status-tl));
+}
+
+/* ── Mobile Cards View (Hidden on Desktop) ─────────────────── */
+.global-summary__mobile-cards {
+  display: none;
+}
+
+/* ── Responsive View (Mobile Screen ≤ 768px) ──────────────── */
+@media (max-width: 768px) {
+  /* Sembunyikan tabel desktop di mobile agar bebas scroll horizontal */
+  .global-summary__desktop-table {
+    display: none !important;
+  }
+
+  /* Tampilkan kartu perbandingan di mobile */
+  .global-summary__mobile-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 12px 14px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .global-summary__mobile-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .global-summary__mobile-group-header {
+    padding: 4px 2px 2px;
+    display: flex;
+    align-items: center;
+  }
+
+  .global-summary__mobile-items {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Kartu Per Metrik */
+  .global-summary__card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 10px 12px;
+    background: hsl(var(--card));
+    border: 1px solid hsl(var(--border) / 0.85);
+    border-radius: var(--radius);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .global-summary__card--highlight {
+    background: hsl(var(--brand) / 0.04);
+    border-color: hsl(var(--brand) / 0.28);
+  }
+
+  .global-summary__card-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .global-summary__card-header .status-badge {
+    min-width: 36px;
+    justify-content: center;
+    padding: 1px 6px;
+    font-size: 10.5px;
+    flex-shrink: 0;
+  }
+
+  .global-summary__card-title {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: hsl(var(--foreground));
+    line-height: 1.35;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
+
+  /* Grid 3 Kolom Komparasi (Guru, Teknis, Total) */
+  .global-summary__card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .global-summary__card-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 4px;
+    border-radius: calc(var(--radius) - 2px);
+    text-align: center;
+    box-sizing: border-box;
+    min-width: 0;
+  }
+
+  .global-summary__card-col--guru {
+    background: hsl(215 90% 50% / 0.07);
+    border: 1px solid hsl(215 90% 50% / 0.18);
+  }
+
+  .global-summary__card-col--teknis {
+    background: hsl(270 70% 55% / 0.07);
+    border: 1px solid hsl(270 70% 55% / 0.18);
+  }
+
+  .global-summary__card-col--total {
+    background: hsl(var(--secondary) / 0.7);
+    border: 1px solid hsl(var(--border));
+  }
+
+  .global-summary__col-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+  }
+
+  .global-summary__card-col--guru .global-summary__col-label {
+    color: hsl(215 90% 50%);
+  }
+
+  .global-summary__card-col--teknis .global-summary__col-label {
+    color: hsl(270 70% 55%);
+  }
+
+  .global-summary__card-col--total .global-summary__col-label {
+    color: hsl(var(--muted-foreground));
+  }
+
+  .global-summary__col-val {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: hsl(var(--foreground));
+    white-space: nowrap;
+  }
+
+  .global-summary__col-val--primary {
+    color: hsl(var(--brand));
+  }
+
+  .global-summary__col-val--success {
+    color: hsl(var(--status-lulus));
+  }
+
+  .global-summary__col-val--muted {
+    color: hsl(var(--muted-foreground));
+  }
+
+  .global-summary__col-val--total-highlight {
+    font-weight: 800;
+  }
+}
+
+@media (max-width: 480px) {
+  .global-summary__trigger-side .global-summary__preview-pill {
+    display: none; /* Hemat ruang di HP kecil */
+  }
+
+  .global-summary__trigger-main {
+    gap: 10px;
+  }
+
+  .global-summary__icon-badge {
+    width: 32px;
+    height: 32px;
+  }
+
+  .global-summary__icon-badge svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .global-summary__title {
+    font-size: 13px;
+  }
+
+  .global-summary__mobile-cards {
+    padding: 10px 10px;
+    gap: 12px;
+  }
+
+  .global-summary__card {
+    padding: 8px 10px;
+  }
+
+  .global-summary__col-val {
+    font-size: 12.5px;
+  }
+}
+
+/* Footer note */
+.global-summary__footer {
+  padding: 10px 16px;
+  background: hsl(var(--secondary) / 0.35);
+  border-top: 1px dashed hsl(var(--border));
+}
+
+.global-summary__footer p {
+  margin: 0;
+  font-size: 11.5px;
+  color: hsl(var(--muted-foreground));
+  line-height: 1.5;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .global-summary__chevron {
+    transition: none;
+  }
+
+  .global-summary__body {
+    animation: none;
+  }
+}

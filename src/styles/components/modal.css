@@ -1,0 +1,290 @@
+/* ==============================================================================
+   CHANGELOG MODAL STYLES
+   Sekolah Rakyat 2026 - Mirrored from KKMP 2026 Architecture
+   ============================================================================== */
+
+/* ── Backdrop ──────────────────────────────────────────────── */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background-color: rgb(0 0 0 / 0.65);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  box-sizing: border-box;
+  animation: modalFadeIn 0.2s ease-out;
+}
+
+@keyframes modalFadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* ── Modal Content Box ─────────────────────────────────────── */
+.changelog-modal-content {
+  background-color: hsl(var(--card));
+  border: 1px solid hsl(var(--border));
+  border-radius: calc(var(--radius) + 6px);
+  max-width: 620px;
+  width: 100%;
+  max-height: 85vh;
+  overflow: hidden;
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  animation: modalSlideUp 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes modalSlideUp {
+  from { transform: translateY(16px) scale(0.97); opacity: 0; }
+  to   { transform: translateY(0) scale(1); opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .modal-backdrop,
+  .changelog-modal-content {
+    animation: none;
+  }
+}
+
+/* ── Header Modal ──────────────────────────────────────────── */
+.changelog-modal-header {
+  padding: 16px 20px;
+  background-color: hsl(var(--card));
+  border-bottom: 1px solid hsl(var(--border));
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.changelog-modal-title-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.changelog-modal-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: hsl(var(--foreground));
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+.changelog-modal-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  background-color: hsl(var(--brand) / 0.12);
+  color: hsl(var(--brand));
+  border: 1px solid hsl(var(--brand) / 0.25);
+  letter-spacing: 0.02em;
+}
+
+.changelog-modal-close-btn {
+  background: transparent;
+  border: none;
+  color: hsl(var(--muted-foreground));
+  cursor: pointer;
+  padding: 6px;
+  border-radius: var(--radius);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+
+.changelog-modal-close-btn:hover {
+  color: hsl(var(--foreground));
+  background-color: hsl(var(--muted) / 0.5);
+}
+
+/* ── Modal Body ────────────────────────────────────────────── */
+.changelog-modal-body {
+  padding: 16px 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-height: calc(85vh - 120px);
+}
+
+/* ── Timeline Release Block ────────────────────────────────── */
+.changelog-release-block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid hsl(var(--border) / 0.6);
+}
+
+.changelog-release-block:last-child {
+  border-bottom: none;
+  padding-bottom: 4px;
+}
+
+.changelog-release-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.changelog-version-tag-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.changelog-version-tag {
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: hsl(var(--foreground));
+}
+
+.changelog-status-pill {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 1px 7px;
+  border-radius: 6px;
+  background-color: hsl(var(--muted));
+  color: hsl(var(--muted-foreground));
+}
+
+.changelog-status-pill.latest {
+  background-color: rgba(16, 185, 129, 0.14);
+  color: #10b981;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.changelog-release-date {
+  font-size: 0.78rem;
+  color: hsl(var(--muted-foreground));
+  font-weight: 500;
+}
+
+.changelog-release-summary {
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: hsl(var(--muted-foreground));
+  margin: 0;
+}
+
+/* ── Item List ─────────────────────────────────────────────── */
+.changelog-item-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.changelog-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: hsl(var(--foreground));
+}
+
+.changelog-pill-type {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.changelog-pill-type.feat {
+  background-color: rgba(59, 130, 246, 0.12);
+  color: #3b82f6;
+  border: 1px solid rgba(59, 130, 246, 0.25);
+}
+
+.changelog-pill-type.improve {
+  background-color: rgba(16, 185, 129, 0.12);
+  color: #10b981;
+  border: 1px solid rgba(16, 185, 129, 0.25);
+}
+
+.changelog-pill-type.fix {
+  background-color: rgba(245, 158, 11, 0.12);
+  color: #f59e0b;
+  border: 1px solid rgba(245, 158, 11, 0.25);
+}
+
+.changelog-pill-type.security {
+  background-color: rgba(168, 85, 247, 0.12);
+  color: #a855f7;
+  border: 1px solid rgba(168, 85, 247, 0.25);
+}
+
+.changelog-item-text {
+  flex: 1;
+}
+
+/* ── Modal Footer ──────────────────────────────────────────── */
+.changelog-modal-footer {
+  padding: 12px 20px;
+  background-color: hsl(var(--card));
+  border-top: 1px solid hsl(var(--border));
+  display: flex;
+  justify-content: flex-end;
+}
+
+.changelog-btn-close {
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 6px 16px;
+  min-height: 36px;
+  border-radius: var(--radius);
+  background-color: hsl(var(--muted));
+  color: hsl(var(--foreground));
+  border: 1px solid hsl(var(--border));
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.changelog-btn-close:hover {
+  background-color: hsl(var(--accent));
+}
+
+.changelog-btn-close:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px hsl(var(--ring) / 0.35);
+}
+
+/* ── Responsive Adjustments ────────────────────────────────── */
+@media (max-width: 640px) {
+  .changelog-modal-content {
+    max-height: 90vh;
+  }
+  
+  .changelog-modal-header {
+    padding: 14px 16px;
+  }
+  
+  .changelog-modal-body {
+    padding: 14px 16px;
+    gap: 16px;
+  }
+  
+  .changelog-modal-footer {
+    padding: 10px 16px;
+  }
+  
+  .changelog-item {
+    font-size: 0.8rem;
+  }
+}

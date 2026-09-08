@@ -1,5 +1,9 @@
+/* ── SearchControls ──────────────────────────────────────────
+   Kontrol pencarian: input teks, tombol cari/clear, scope toggle.
+   ─────────────────────────────────────────────────────────── */
 import React, { useEffect } from 'react'
-import type { SearchScope } from '../hooks/useSelkomSearch'
+import type { SearchScope } from '../../hooks/useSelkomSearch'
+import { SEARCH } from '../../constants/strings'
 
 const SearchIcon = () => (
   <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15"
@@ -88,29 +92,29 @@ export default function SearchControls({
             onScopeChange?.()
           }}
         />
-        <span>Cari hanya pada formasi yang dipilih</span>
+        <span>{SEARCH.checkboxLabel}</span>
       </label>
 
       <div className="controls__row">
         <div className="controls__fields">
           <div className="search-input-field">
             <label htmlFor="search-query" className="search-input-label">
-              {isGlobalMode ? 'Cari Peserta (Semua Formasi)' : 'Cari Peserta (Formasi Dipilih)'}
+              {isGlobalMode ? SEARCH.inputLabelGlobal : SEARCH.inputLabelFormasi}
             </label>
             <input
               id="search-query"
               type="text"
               placeholder={
                 isGlobalMode
-                  ? 'Cari nama atau nomor peserta di seluruh data Selkom…'
-                  : 'Cari nama, no urut, atau nomor peserta dalam formasi yang dipilih…'
+                  ? SEARCH.placeholderGlobal
+                  : SEARCH.placeholderFormasi
               }
               value={query}
               onChange={e => setQuery(e.target.value)}
               onKeyDown={onKeyDown}
               disabled={disabled}
               autoComplete="off"
-              aria-label="Cari peserta"
+              aria-label={SEARCH.inputAria}
             />
           </div>
         </div>
@@ -120,36 +124,29 @@ export default function SearchControls({
             type="button"
             onClick={handleSearch}
             disabled={disabled || !query.trim() || (requireSelectedFormasi && !formasiReady)}
-            aria-label="Cari"
+            aria-label={SEARCH.btnCari}
             title={
               requireSelectedFormasi && !formasiReady
-                ? 'Pilih Jabatan Formasi dan Lokasi Formasi terlebih dahulu'
-                : 'Cari'
+                ? SEARCH.btnCariDisabledHint
+                : SEARCH.btnCari
             }
           >
             <SearchIcon />
-            Cari
+            {SEARCH.btnCari}
           </button>
           {hasSearched && (
             <button
               type="button"
               className="secondary"
               onClick={handleClear}
-              aria-label="Hapus pencarian"
+              aria-label={SEARCH.btnClearAria}
+              title={SEARCH.btnClear}
             >
               <XIcon />
-              Clear
+              {SEARCH.btnClear}
             </button>
           )}
         </div>
-      </div>
-
-      <div className="search-mode-hint">
-        {requireSelectedFormasi
-          ? formasiReady
-            ? 'Mode aktif: pencarian dibatasi ke Jabatan dan Lokasi yang sudah dipilih.'
-            : 'Mode aktif: pilih Jabatan Formasi dan Lokasi Formasi sebelum mencari.'
-          : 'Mode aktif: pencarian dilakukan ke seluruh data.'}
       </div>
     </div>
   )

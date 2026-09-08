@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo, useCallback, useRef } from 'react'
+import { DATA_PROGRESS } from '../constants/strings'
 
 export interface FormasiOptionItem {
   kode: string
@@ -87,6 +88,16 @@ export interface SortConfig {
   direction: 'asc' | 'desc'
 }
 
+export type FormasiTab = 'guru' | 'teknis'
+
+export function isGuruJabatan(kode: string, label: string = ''): boolean {
+  return kode.startsWith('JF') || /guru/i.test(label)
+}
+
+export function isPusdikLokasi(label: string = ''): boolean {
+  return /pusat pendidikan/i.test(label)
+}
+
 export type SearchScope = 'formasi' | 'global'
 
 const ITEMS_PER_PAGE = 10
@@ -96,6 +107,7 @@ function normalize(str: string | undefined | null): string {
 }
 
 export function useSelkomSearch() {
+  const [formasiTab, setFormasiTab] = useState<FormasiTab>('guru')
   const [formasiOptions, setFormasiOptions] = useState<SelectFormasiData | null>(null)
   const [validCombos, setValidCombos] = useState<SelectorMap | null>(null)
 
@@ -191,14 +203,9 @@ export function useSelkomSearch() {
     }
   }, [])
 
-  const validLokasi = useMemo(() => {
-    if (!selectedJabatan || !formasiOptions || !validCombos) return []
-
-    const allowedLokasiSet = new Set(validCombos[selectedJabatan] || [])
-    return (formasiOptions['Lokasi Formasi'] || []).filter(l => allowedLokasiSet.has(l.kode))
-  }, [selectedJabatan, validCombos, formasiOptions])
-
+  // Reset saat tab formasi berpindah
   useEffect(() => {
+    setSelectedJabatan('')
     setSelectedLokasi('')
     setData([])
     setSummary(null)
@@ -207,7 +214,54 @@ export function useSelkomSearch() {
     setHasSearched(false)
     setCurrentPage(1)
     setSortConfig({ key: null, direction: 'asc' })
-  }, [selectedJabatan])
+  }, [formasiTab])
+
+  // Jabatan Formasi sesuai tab aktif (PPPK Guru vs PPPK Teknis)
+  const tabJabatanOptions = useMemo(() => {
+    if (!formasiOptions) return []
+    const allJabatan = formasiOptions['Jabatan Formasi'] || []
+    return allJabatan.filter(j =>
+      formasiTab === 'guru' ? isGuruJabatan(j.kode, j.label) : !isGuruJabatan(j.kode, j.label)
+    )
+  }, [formasiOptions, formasiTab])
+
+  // Lokasi Formasi sesuai tab aktif (Kota/Kab untuk Guru, Pusat Pendidikan untuk Teknis)
+  const tabLokasiOptions = useMemo(() => {
+    if (!formasiOptions) return []
+    const allLokasi = formasiOptions['Lokasi Formasi'] || []
+    return allLokasi.filter(l =>
+      formasiTab === 'guru' ? !isPusdikLokasi(l.label) : isPusdikLokasi(l.label)
+    )
+  }, [formasiOptions, formasiTab])
+
+  // Daftar Jabatan yang valid (bila lokasi sudah dipilih, batasi hanya yang tersedia di lokasi tsb)
+  const validJabatan = useMemo(() => {
+    if (!selectedLokasi || !validCombos) return tabJabatanOptions
+    return tabJabatanOptions.filter(j => {
+      const allowedLokasi = validCombos[j.kode]
+      return allowedLokasi ? allowedLokasi.includes(selectedLokasi) : false
+    })
+  }, [tabJabatanOptions, selectedLokasi, validCombos])
+
+  // Daftar Lokasi yang valid (bila jabatan sudah dipilih, batasi hanya lokasi jabatan tsb)
+  const validLokasi = useMemo(() => {
+    if (!formasiOptions) return []
+    if (selectedJabatan && validCombos) {
+      const allowedLokasiSet = new Set(validCombos[selectedJabatan] || [])
+      return tabLokasiOptions.filter(l => allowedLokasiSet.has(l.kode))
+    }
+    return tabLokasiOptions
+  }, [selectedJabatan, validCombos, tabLokasiOptions, formasiOptions])
+
+  // Validasi kecocokan jika salah satu dropdown berubah
+  useEffect(() => {
+    if (selectedJabatan && selectedLokasi && validCombos) {
+      const allowedLokasi = validCombos[selectedJabatan] || []
+      if (!allowedLokasi.includes(selectedLokasi)) {
+        setSelectedLokasi('')
+      }
+    }
+  }, [selectedJabatan, selectedLokasi, validCombos])
 
   useEffect(() => {
     setData([])
@@ -228,7 +282,7 @@ export function useSelkomSearch() {
 
     let mounted = true
     setLoading(true)
-    setProgress('Memuat data...')
+    setProgress(DATA_PROGRESS.loading)
 
     const basePath = `/assets/selkom/${selectedLokasi}/${selectedJabatan}`
 
@@ -243,17 +297,17 @@ export function useSelkomSearch() {
 
         if (dataJson) {
           setData(dataJson.data || [])
-          setProgress(`${(dataJson.data || []).length} peserta dimuat`)
+          setProgress(DATA_PROGRESS.loaded((dataJson.data || []).length))
         } else {
           setData([])
-          setProgress('Data tidak tersedia')
+          setProgress(DATA_PROGRESS.noData)
         }
 
         setSummary(summaryJson)
       } catch (e) {
         if (mounted) {
           console.error('Gagal memuat data:', e)
-          setProgress('Gagal memuat data')
+          setProgress(DATA_PROGRESS.error)
           setData([])
           setSummary(null)
         }
@@ -395,6 +449,11 @@ export function useSelkomSearch() {
 
   const selectFormasiEntry = useCallback(
     (jabatanKode: string, lokasiKode: string) => {
+      if (isGuruJabatan(jabatanKode)) {
+        setFormasiTab('guru')
+      } else {
+        setFormasiTab('teknis')
+      }
       setSelectedJabatan(jabatanKode)
       setSelectedLokasi(lokasiKode)
       setSearchScope('formasi')
@@ -403,7 +462,10 @@ export function useSelkomSearch() {
   )
 
   return {
+    formasiTab,
+    setFormasiTab,
     formasiOptions,
+    validJabatan,
     validLokasi,
     loadingMeta,
     selectedJabatan,
