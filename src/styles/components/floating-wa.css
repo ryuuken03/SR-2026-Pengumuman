@@ -1,0 +1,133 @@
+/* ============================================================
+   floating-wa.css — Floating Action Button WhatsApp Admin
+   ============================================================ */
+
+.floating-wa-container {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 90;
+  display: flex;
+  align-items: center;
+  pointer-events: none;
+}
+
+.floating-wa-btn {
+  pointer-events: auto;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 54px;
+  height: 54px;
+  min-width: 54px;
+  min-height: 54px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #25D366 0%, #1da851 100%);
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 6px 20px rgb(37 211 102 / 0.42), 0 2px 6px rgb(0 0 0 / 0.16);
+  border: 2px solid rgb(255 255 255 / 0.25);
+  cursor: pointer;
+  outline: none;
+  transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1),
+              box-shadow 0.22s ease,
+              background 0.2s ease;
+  animation: floatingWaEntrance 0.35s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+}
+
+@keyframes floatingWaEntrance {
+  from {
+    opacity: 0;
+    transform: scale(0.6) translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.floating-wa-btn:hover {
+  transform: scale(1.08) translateY(-2px);
+  box-shadow: 0 10px 26px rgb(37 211 102 / 0.52), 0 4px 10px rgb(0 0 0 / 0.2);
+  color: #ffffff;
+}
+
+.floating-wa-btn:active {
+  transform: scale(0.96) translateY(0);
+  box-shadow: 0 3px 12px rgb(37 211 102 / 0.35), 0 1px 4px rgb(0 0 0 / 0.12);
+}
+
+.floating-wa-btn:focus-visible {
+  outline: 3px solid hsl(var(--ring));
+  outline-offset: 3px;
+}
+
+.floating-wa-icon {
+  width: 30px;
+  height: 30px;
+  filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.15));
+}
+
+/* Tooltip Pill on Hover (Desktop) */
+.floating-wa-tooltip {
+  position: absolute;
+  right: calc(100% + 12px);
+  top: 50%;
+  transform: translateY(-50%) translateX(6px);
+  background: hsl(var(--card));
+  color: hsl(var(--card-foreground));
+  border: 1px solid hsl(var(--border));
+  box-shadow: 0 6px 18px -2px rgb(0 0 0 / 0.25);
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12.5px;
+  font-weight: 600;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease;
+}
+
+.floating-wa-btn:hover .floating-wa-tooltip,
+.floating-wa-btn:focus-visible .floating-wa-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(-50%) translateX(0);
+}
+
+/* ── Mobile Viewport Adaptations ── */
+@media (max-width: 768px) {
+  .floating-wa-container {
+    bottom: max(20px, calc(14px + env(safe-area-inset-bottom)));
+    right: max(16px, calc(12px + env(safe-area-inset-right)));
+  }
+
+  .floating-wa-btn {
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+    min-height: 50px;
+  }
+
+  .floating-wa-icon {
+    width: 27px;
+    height: 27px;
+  }
+
+  /* Di mobile, sembunyikan text tooltip agar tidak menutupi area konten */
+  .floating-wa-tooltip {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .floating-wa-btn {
+    animation: none;
+    transition: none;
+  }
+  .floating-wa-tooltip {
+    transition: none;
+  }
+}

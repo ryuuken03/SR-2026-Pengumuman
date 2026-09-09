@@ -27,6 +27,35 @@ export const APP_CHANGELOG: ChangelogRelease[] = [
     version: APP_VERSION,
     date: APP_LAST_UPDATED,
     isLatest: true,
+    badge: 'Penyempurnaan',
+    summary: 'Penyempurnaan antarmuka modal filter formasi pada layar ponsel kecil (seperti iPhone SE) melalui mode Mobile Picker Overlay, tombol penutup cepat tanpa scroll ganda, serta tombol mengambang kontak WhatsApp admin.',
+    publicNotes: [
+      {
+        type: 'feat',
+        label: 'Fitur Baru',
+        text: 'Tombol mengambang (Floating Action Button) lingkaran dengan ikon WhatsApp untuk akses cepat menghubungi admin.',
+      },
+      {
+        type: 'improve',
+        label: 'Penyempurnaan',
+        text: 'Mode Mobile Picker Overlay pada pilihan jabatan dan lokasi formasi yang memaksimalkan area tampilan di layar ponsel tanpa scroll bertingkat.',
+      },
+      {
+        type: 'improve',
+        label: 'Penyempurnaan',
+        text: 'Penyesuaian tinggi adaptif modal filter formasi (88dvh) agar proporsional dan tidak terpotong pada perangkat berlayar pendek.',
+      },
+      {
+        type: 'feat',
+        label: 'Fitur Baru',
+        text: 'Tombol penutup cepat di dalam kolom pencarian opsi formasi untuk kembali ke pratinjau form secara instan.',
+      },
+    ],
+  },
+  {
+    version: 'V1.1.0',
+    date: '8 September 2026',
+    isLatest: false,
     badge: 'Rilis Fitur',
     summary: 'Dukungan penuh data Seleksi Kompetensi Tambahan (SKT) sebanyak 13.313 peserta, pemilih tahap seleksi CAT vs SKT, kolom rincian nilai integrasi, jadwal pelaksanaan, foto profil pengembang, serta optimasi antarmuka seluler.',
     publicNotes: [

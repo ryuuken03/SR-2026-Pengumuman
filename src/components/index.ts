@@ -14,6 +14,7 @@ export { default as ChangelogModal } from './ui/ChangelogModal'
 // Layout
 export { default as ThemeToggle } from './layout/ThemeToggle'
 export { default as AppFooter } from './layout/AppFooter'
+export { default as FloatingWhatsApp } from './layout/FloatingWhatsApp'
 
 // About
 export { default as AboutPage } from './about/AboutPage'

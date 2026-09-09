@@ -12,6 +12,7 @@ import ResultsTable from './components/results/ResultsTable'
 import SummaryCard from './components/results/SummaryCard'
 import GlobalSummary from './components/results/GlobalSummary'
 import DataSourceSelector from './components/search/DataSourceSelector'
+import FloatingWhatsApp from './components/layout/FloatingWhatsApp'
 
 
 /* ── useTheme ─────────────────────────────────────────────── */
@@ -284,6 +285,9 @@ export default function App() {
         isOpen={isChangelogOpen}
         onClose={() => setIsChangelogOpen(false)}
       />
+
+      {/* ── Floating WhatsApp Button ────────────────────── */}
+      <FloatingWhatsApp />
     </div>
   )
 }

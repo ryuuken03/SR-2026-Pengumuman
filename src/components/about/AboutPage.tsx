@@ -467,11 +467,21 @@ export default function AboutPage({ onBackToSearch, onOpenChangelog }: AboutPage
       </section>
 
       {/* ── Footer Button Kembali ──────────────────────── */}
-      <div className="about-bottom-cta">
+      {/* <div className="about-bottom-cta">
         <button
           type="button"
           className="about-back-btn about-back-btn--primary"
           onClick={onBackToSearch}
+        >
+          {ABOUT.backToSearch}
+        </button>
+      </div> */}
+      <div className="about-nav-top">
+        <button
+          type="button"
+          className="about-back-btn"
+          onClick={onBackToSearch}
+          aria-label={ABOUT.backToSearchAria}
         >
           {ABOUT.backToSearch}
         </button>

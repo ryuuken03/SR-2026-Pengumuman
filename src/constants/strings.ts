@@ -236,6 +236,7 @@ export const SELECT = {
   emptyMessage: 'Tidak ada data',
   clearLabel: 'Hapus pilihan',
   searchClearLabel: 'Hapus pencarian',
+  closeDropdown: 'Tutup pilihan',
 } as const
 
 /* ── Data Fetch / Progress Status ─────────────────────────── */
@@ -320,6 +321,13 @@ export const DEVELOPER_INFO = {
   WA_PHONE: '6285168626313',
   WA_DISPLAY: '+62 851-6862-6313',
   WA_CHAT_URL: 'https://wa.me/6285168626313?text=Halo%20Mas%20Mohammad%20Toriq%2C%20saya%20ingin%20berdiskusi%20mengenai%20portal%20Sekolah%20Rakyat%202026',
+} as const
+
+/* ── Floating WhatsApp Button ──────────────────────────────── */
+export const FLOATING_WA = {
+  tooltip: 'Chat WhatsApp Admin',
+  ariaLabel: 'Hubungi Admin via WhatsApp',
+  chatUrl: 'https://wa.me/6285168626313?text=Halo%20Admin%20Sekolah%20Rakyat%202026%2C%20saya%20ingin%20bertanya%20mengenai%20portal%20pengumuman',
 } as const
 
 /* ── About Page ───────────────────────────────────────────── */
